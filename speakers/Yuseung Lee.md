@@ -1,0 +1,6 @@
+---
+name: Yuseung Lee
+description: Yuseung Lee, a Business analytics program student in Seneca college.
+tags:
+  - type/speaker
+---

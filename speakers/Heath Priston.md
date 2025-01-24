@@ -1,0 +1,9 @@
+---
+name: Heath Priston
+description: Heath Priston is manager of a dedicated data team at Toronto Shelter & Support Services. He has worked in data & policy for community and social services teams at the City of Toronto for 15 years.
+tags:
+  - type/speaker
+organization:
+  - "[[City of Toronto]]"
+title: Toronto Shelter & Support Services
+---

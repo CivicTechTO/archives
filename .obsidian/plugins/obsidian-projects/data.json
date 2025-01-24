@@ -1,0 +1,751 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "hacknight": {
+          "richText": true
+        },
+        "slackChannel": {
+          "richText": true
+        },
+        "archive_status": {
+          "options": [
+            "backlog",
+            "discovering",
+            "reviewing",
+            "published",
+            "archived"
+          ]
+        },
+        "community_status": {
+          "options": [
+            "unknown",
+            "open/new",
+            "open/dormant",
+            "open/active",
+            "closed/graduated",
+            "closed/completed",
+            "closed/abandoned"
+          ]
+        },
+        "feature": {},
+        "website": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "launched",
+              "online",
+              "feature",
+              "archive_status",
+              "slackChannel",
+              "website",
+              "community_status",
+              "dateActiveFirst",
+              "dateActiveLast",
+              "description",
+              "fromBreakout",
+              "gitrepo",
+              "hacknight",
+              "notes",
+              "social",
+              "source",
+              "tags",
+              "url"
+            ],
+            "fieldConfig": {
+              "description": {
+                "width": 446,
+                "hide": false
+              },
+              "path": {
+                "hide": true
+              },
+              "dateActiveFirst": {
+                "hide": false
+              },
+              "dateActiveLast": {
+                "hide": false
+              },
+              "fromBreakout": {
+                "hide": false
+              },
+              "github": {
+                "hide": true
+              },
+              "hacknight": {
+                "hide": false
+              },
+              "notes": {
+                "hide": false
+              },
+              "tags": {
+                "hide": false
+              },
+              "source": {
+                "hide": false
+              },
+              "social_twitter": {
+                "hide": true
+              },
+              "social_instagram": {
+                "hide": true
+              },
+              "gitrepo": {
+                "hide": false
+              },
+              "name": {
+                "width": 452
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "fromBreakout",
+                "operator": "is-checked",
+                "enabled": false
+              },
+              {
+                "field": "launched",
+                "operator": "is-checked",
+                "enabled": false
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#80ff88",
+                "condition": {
+                  "field": "fromBreakout",
+                  "operator": "is-checked",
+                  "enabled": true,
+                  "value": "true"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "online",
+                "order": "desc",
+                "enabled": true
+              },
+              {
+                "field": "path",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "online",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "9d08d378-8d9a-4768-b164-75903f872294",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "archive_status",
+            "columns": {
+              "discovering": {
+                "records": [
+                  "projects/The Carded.md",
+                  "projects/TPL Digital Innovation Hub booking app.md",
+                  "projects/Chalmers Cards.md",
+                  "projects/Toronto Meshnet.md",
+                  "projects/Chalmers Signal (OpenShelter.space).md",
+                  "projects/Democracy Kit.md",
+                  "projects/Women and Color.md",
+                  "projects/Tabs Toronto.md",
+                  "projects/Budgetpedia.md",
+                  "projects/Civic Tech Toolkit.md",
+                  "projects/Ample Labs.md",
+                  "projects/itsneerby.md",
+                  "projects/Toronto Tech Mentoring.md",
+                  "projects/The Toronto Bids Archive.md"
+                ]
+              },
+              "reviewing": {
+                "records": [
+                  "projects/Pol.is Toronto.md",
+                  "projects/Bikespace.md",
+                  "projects/Citizen Dashboard.md",
+                  "projects/tRacket - Noise Meter Project.md",
+                  "projects/Tech Audit Project.md",
+                  "projects/Police Tech Audit.md"
+                ]
+              },
+              "backlog": {
+                "records": [
+                  "projects/Transit Clock.md",
+                  "projects/Techfugees Toronto.md",
+                  "projects/Section 37 funding.md",
+                  "projects/Planning Applications.md",
+                  "projects/Plain Language Project.md",
+                  "projects/Our Data Futures.md",
+                  "projects/Orders in Council.md",
+                  "projects/Law & Design CoLab.md",
+                  "projects/Guerilla Archiving - Environmental Data Gathering Initiative (EDGI).md",
+                  "projects/EI eligibility tool.md",
+                  "projects/COVID Graphic Model.md",
+                  "projects/Councilmatic Toronto.md",
+                  "projects/#refugeeswelcome.md",
+                  "projects/#proj-speed-camera.md",
+                  "projects/#proj-library-passport.md",
+                  "projects/#greathumanexperiences.md",
+                  "projects/Open Data Profiler.md",
+                  "projects/Basecount.md",
+                  "projects/COVID Connect.md",
+                  "projects/Health Atlas: Mapping project for Mississauga Halton Health Integration Network.md",
+                  "projects/TTC Subway times.md",
+                  "projects/Adroit - Toronto City Hall app.md",
+                  "projects/Open Cabinet.md",
+                  "projects/Missing Persons Project.md",
+                  "projects/Free the Electorate.md"
+                ]
+              },
+              "No status": {
+                "records": []
+              }
+            },
+            "includeFields": [
+              "slackChannel",
+              "hacknight"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "fromBreakout",
+                "operator": "is-checked",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#fff480",
+                "condition": {
+                  "field": "showCase",
+                  "operator": "is-checked",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "showCase",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "12d3918f-3770-406d-b5e4-efa54ae2d409",
+          "name": "archive_status",
+          "type": "board"
+        },
+        {
+          "config": {
+            "groupByField": "community_status",
+            "columns": {
+              "unknown": {
+                "records": [
+                  "projects/Basecount.md",
+                  "projects/Can I Take my Bike on the TTC.md",
+                  "projects/Citizen Dashboard.md",
+                  "projects/Danforth Dad.md",
+                  "projects/HousingNowTO.md",
+                  "projects/Know Your Vote T.O..md",
+                  "projects/Missing Persons Project.md",
+                  "projects/Open Water Data.md",
+                  "projects/Parking Tickets Toronto.md",
+                  "projects/Parks and Rec Bot.md",
+                  "projects/Place and Politics in Toronto.md",
+                  "projects/Pol.is Toronto.md",
+                  "projects/Potential locations for public wi-fi.md",
+                  "projects/Rate the Landlord.md",
+                  "projects/Respitely.md",
+                  "projects/Section 37 funding.md",
+                  "projects/TaxGPT.md",
+                  "projects/The Grocery Tracker.md",
+                  "projects/time2reach Transit Map.md",
+                  "projects/tobus.ca.md",
+                  "projects/Toronto Lobbying Report.md",
+                  "projects/Toronto Meshnet.md",
+                  "projects/Toronto Tree Inequities.md",
+                  "projects/TorontoBot.md",
+                  "projects/Torontoverse.md",
+                  "projects/TPL Digital Innovation Hub booking app.md",
+                  "projects/tRacket - Noise Meter Project.md",
+                  "projects/Tracking Gentle Density in Toronto.md",
+                  "projects/TTC Subway Rider Efficiency Guide.md",
+                  "projects/Weather Report Card.md",
+                  "projects/Women and Color.md",
+                  "projects/Open Data Profiler.md",
+                  "projects/proj-library-passport.md",
+                  "projects/The Toronto Bids Archive.md"
+                ],
+                "weight": 0,
+                "collapse": false
+              },
+              "open/new": {
+                "weight": 1,
+                "collapse": true
+              },
+              "open/dormant": {
+                "weight": 2,
+                "records": [
+                  "projects/Civic Tech Toolkit.md",
+                  "projects/Police Tech Audit.md"
+                ],
+                "collapse": true
+              },
+              "open/active": {
+                "records": [
+                  "projects/Bikespace.md",
+                  "projects/Citizen Dashboard.md",
+                  "projects/Pol.is Toronto.md",
+                  "projects/tRacket - Noise Meter Project.md"
+                ],
+                "weight": 3,
+                "collapse": true
+              },
+              "closed/graduated": {
+                "records": [
+                  "projects/Tabs Toronto.md",
+                  "projects/Ample Labs.md",
+                  "projects/Budgetpedia.md",
+                  "projects/The Carded.md",
+                  "projects/Chalmers Cards.md",
+                  "projects/Chalmers Signal (OpenShelter.space).md",
+                  "projects/Democracy Kit.md",
+                  "projects/Women and Color.md",
+                  "projects/Toronto Meshnet.md",
+                  "projects/itsneerby.md",
+                  "projects/Toronto Tech Mentoring.md",
+                  "projects/Law & Design CoLab.md",
+                  "projects/WelcomeHomeTO.md"
+                ],
+                "weight": 4
+              },
+              "closed/completed": {
+                "weight": 5,
+                "records": [
+                  "projects/TPL Digital Innovation Hub booking app.md",
+                  "projects/Missing Persons Project.md",
+                  "projects/Basecount.md",
+                  "projects/Councilmatic Toronto.md",
+                  "projects/COVID Connect.md",
+                  "projects/COVID Graphic Model.md",
+                  "projects/Guerilla Archiving - Environmental Data Gathering Initiative (EDGI).md",
+                  "projects/Health Atlas: Mapping project for Mississauga Halton Health Integration Network.md",
+                  "projects/Open Cabinet.md",
+                  "projects/Our Data Futures.md",
+                  "projects/Techfugees Toronto.md",
+                  "projects/TTC Subway times.md"
+                ]
+              },
+              "closed/abandoned": {
+                "weight": 6,
+                "records": [
+                  "projects/EI eligibility tool.md",
+                  "projects/Adroit - Toronto City Hall app.md",
+                  "projects/Free the Electorate.md",
+                  "projects/greathumanexperiences.md",
+                  "projects/Plain Language Project.md",
+                  "projects/Planning Applications.md",
+                  "projects/proj-speed-camera.md"
+                ]
+              },
+              "closed/unknown": {
+                "weight": 7,
+                "records": [
+                  "projects/EI eligibility tool.md"
+                ]
+              },
+              "No status": {
+                "records": []
+              }
+            },
+            "includeFields": [
+              "slackChannel",
+              "website"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "fromBreakout",
+                "operator": "is-checked",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "7a30f33e-441c-44b7-be50-84828839941f",
+          "name": "breakout_status",
+          "type": "board"
+        }
+      ],
+      "id": "7accd639-5298-44f6-8ab2-c91ee772e78f",
+      "name": "projects"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "hacknights",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": false
+              },
+              "booker": {
+                "hide": false
+              },
+              "topic": {
+                "width": 394,
+                "hide": false
+              },
+              "description": {
+                "width": 209,
+                "hide": false
+              },
+              "name": {
+                "width": 206
+              },
+              "eventUrl": {
+                "hide": false
+              },
+              "date": {
+                "hide": false
+              },
+              "number": {
+                "hide": false
+              },
+              "tags": {
+                "hide": false
+              },
+              "videoUrl": {
+                "hide": false
+              },
+              "via": {
+                "hide": true
+              },
+              "venue": {
+                "hide": false
+              },
+              "speakers": {
+                "width": 525
+              }
+            },
+            "orderFields": [
+              "name",
+              "topic",
+              "description",
+              "speakers",
+              "videoUrl"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "4293c1f7-9331-473f-8d17-be23760fcf31",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "3f23e2d7-248f-4474-986f-83809f6d12cc",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "e1583211-52e5-4b94-8711-5245de8e6c26",
+      "name": "hacknights"
+    },
+    {
+      "fieldConfig": {
+        "organization": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "speakers",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "description",
+              "title",
+              "organization",
+              "tags",
+              "social",
+              "project"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "social": {
+                "hide": false
+              },
+              "tags": {
+                "hide": false
+              },
+              "organization": {
+                "hide": false,
+                "width": 222
+              },
+              "title": {
+                "hide": false,
+                "width": 490
+              },
+              "url": {
+                "hide": false
+              },
+              "description": {
+                "hide": false,
+                "width": 1305
+              },
+              "project": {
+                "hide": false,
+                "width": 232
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "description",
+                "operator": "is-empty",
+                "enabled": false
+              },
+              {
+                "field": "title",
+                "operator": "is-empty",
+                "enabled": false
+              },
+              {
+                "field": "organization",
+                "operator": "is-empty",
+                "enabled": false
+              },
+              {
+                "field": "organization",
+                "operator": "has-any-of",
+                "enabled": true,
+                "value": "[\"[[City of Toronto]]\"]"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6d021da1-75af-4070-815d-394f9793e71d",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "b6fbcab0-c3ed-46f1-b3fa-41b6060b7170",
+      "name": "speakers"
+    },
+    {
+      "fieldConfig": {
+        "parent_organization": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "organizations",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "tags": {
+                "width": 586
+              },
+              "name": {
+                "width": 367
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d46af66a-9df6-4653-9f07-00b039213c19",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "e4b12e2a-41a2-41db-88fa-94a9c682a285",
+      "name": "organizations"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "venues",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "path",
+              "name",
+              "address",
+              "organization",
+              "status",
+              "tags",
+              "type"
+            ],
+            "fieldConfig": {}
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f3aeecb2-5304-47fc-887a-222a78258a61",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "5050ab6a-67cd-47b5-8a07-02f3ecc31506",
+      "name": "venues"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

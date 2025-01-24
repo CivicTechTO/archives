@@ -1,0 +1,21 @@
+---
+name: Adroit - Toronto City Hall app
+description: A mobile app for providing input on upcoming votes in city hall. An interface to the Toronto City Hall API.
+tags:
+  - type/project
+  - government/openness-and-modernization
+website:
+slackChannel: "[proj-adroit](https://civictechto.slack.com/archives/C0JC4A5RS)"
+gitrepo: https://github.com/dougestey/adroit
+fromBreakout: true
+launched: false
+online: false
+dateActiveFirst: 2015-01-01
+dateActiveLast: 2015-01-01
+notes: https://github.com/CivicTechTO/tocityhall-app
+source: airtable original
+hacknight:
+archive_status: backlog
+community_status: closed/abandoned
+feature: false
+---

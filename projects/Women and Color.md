@@ -1,0 +1,28 @@
+---
+name: Women and Color
+description: An online community of talented women and people of color available for speaking opportunities at tech-related events.
+tags:
+  - type/project
+  - public/employment-and-social-development
+website: http://womenandcolor.com
+social:
+  twitter: https://x.com/womenandcolor
+  linkedin: https://www.linkedin.com/school/womenandcolor/
+slackChannel: "[womenandcolor](https://civictechto.slack.com/archives/C66N513RN)"
+gitrepo: https://github.com/womenandcolor
+fromBreakout: true
+launched: true
+online: false
+dateActiveFirst: 2017-01-01
+dateActiveLast: 2018-01-01
+notes: 
+source: airtable original
+hacknight:
+  - "[[226]]"
+  - "[[122]]"
+  - "[[138]]"
+  - "[[171]]"
+archive_status: discovering
+community_status: closed/graduated
+feature: false
+---
