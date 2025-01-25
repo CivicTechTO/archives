@@ -4,7 +4,7 @@ type: university
 organization:
   - "[[Toronto Metropolitan University]]"
 status:
-address:
+address: "10 Dundas St E, 6th floor, Toronto, ON "
 tags:
   - type/venue
 ---

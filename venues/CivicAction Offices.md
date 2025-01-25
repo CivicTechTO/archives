@@ -4,7 +4,7 @@ type: non profit
 organization:
   - "[[Civic Action]]"
 status:
-address:
+address: "110 Yonge St, Suite 1800, Toronto, ON "
 tags:
   - type/venue
 ---

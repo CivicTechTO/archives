@@ -4,7 +4,7 @@ type: government
 organization:
   - "[[Government of Ontario]]"
 status:
-address:
+address: "900 Bay St., Toronto, ON "
 tags:
   - type/venue
 ---

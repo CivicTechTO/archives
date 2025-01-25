@@ -4,45 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "14f0bb1032ddc6b7",
+        "id": "7bae36f0229469fd",
         "type": "tabs",
         "children": [
           {
-            "id": "cc50a2d4b68eb23a",
+            "id": "afed9c8b66684ad9",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
+              "type": "empty",
               "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
-            }
-          },
-          {
-            "id": "d3b88d4b57d9d9a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hacknights/378.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "378"
-            }
-          },
-          {
-            "id": "8ce6038bd91f2eff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hacknights/388.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "388"
+              "title": "New tab"
             }
           }
         ]
@@ -200,10 +172,29 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "cc50a2d4b68eb23a",
+  "active": "afed9c8b66684ad9",
   "lastOpenFiles": [
     "hacknights/388.md",
     "hacknights/378.md",
+    "venues/Claude T. Bissell Building - Faculty of Information.md",
+    "hacknights/223.md",
+    "venues/Sandbox @ Ryerson.md",
+    "venues/Metro Hall 310.md",
+    "hacknights/365.md",
+    "hacknights/364.md",
+    "venues/McKinsey Offices.md",
+    "venues/Ryerson Launch Zone.md",
+    "venues/Sidewalk Labs.md",
+    "venues/Information School, University of Toronto.md",
+    "hacknights/230.md",
+    "hacknights/229.md",
+    "hacknights/228.md",
+    "hacknights/227.md",
+    "hacknights/226.md",
+    "hacknights/225.md",
+    "hacknights/224.md",
+    "venues/CSI Annex Garage.md",
+    "hacknights/172.md",
     "images/hacknight_000.jpeg",
     "images/hacknight_378.jpeg",
     "images/hacknight_388.jpeg",
@@ -216,27 +207,9 @@
     "hacknights/449.md",
     "images/hacknight_400.jpeg",
     "hacknights/448.md",
-    "hacknights/307.md",
-    "hacknights/306.md",
-    "hacknights/305.md",
-    "hacknights/304.md",
-    "hacknights/303.md",
-    "hacknights/294.md",
-    "hacknights/286.md",
-    "hacknights/285.md",
-    "hacknights/278.md",
-    "hacknights/276.md",
-    "hacknights/268.md",
-    "hacknights/264.md",
-    "hacknights/206.md",
     "images/hacknight_0.jpeg",
     "images/hacknight_00000.jpeg",
     "images/hacknight_0000.jpeg",
-    "hacknights/463.md",
-    "hacknights/460.md",
-    "hacknights/459.md",
-    "hacknights/458.md",
-    "hacknights/462.md",
     "_utilities/reference",
     "_utilities/automations",
     "_utilities/tools",

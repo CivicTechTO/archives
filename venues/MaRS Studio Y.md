@@ -4,7 +4,7 @@ type: non profit
 organization:
   - "[[MaRS]]"
 status:
-address:
+address: "101 College Toronto, Toronto, ON "
 tags:
   - type/venue
 ---

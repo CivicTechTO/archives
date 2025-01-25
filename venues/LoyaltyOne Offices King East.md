@@ -4,7 +4,7 @@ type: business
 organization:
   - "[[LoyaltyOne]]"
 status:
-address: 351 King Street East
+address: "351 King Street East, Toronto, ON "
 tags:
   - type/venue
 ---

@@ -4,7 +4,7 @@ type: non profit
 organization:
   - "[[Mozilla]]"
 status:
-address: 366 Adelaide St. W, Suite 500
+address: "366 Adelaide St. W, Suite 500, Toronto, ON "
 tags:
   - type/venue
 ---

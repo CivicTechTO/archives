@@ -750,7 +750,29 @@
               "tags",
               "type"
             ],
-            "fieldConfig": {}
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "organization": {
+                "hide": true
+              },
+              "status": {
+                "hide": true
+              },
+              "type": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              },
+              "address": {
+                "width": 378
+              },
+              "name": {
+                "width": 320
+              }
+            }
           },
           "filter": {
             "conjunction": "and",

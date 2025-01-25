@@ -4,7 +4,7 @@ type: business
 organization:
   - "[[HackerYou]]"
 status: permanently closed
-address: 485 Queen St. W., 2nd floor
+address: "485 Queen St West, Toronto, ON "
 tags:
   - type/venue
 ---
