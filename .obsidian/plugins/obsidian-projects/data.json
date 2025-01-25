@@ -719,6 +719,30 @@
           "id": "d46af66a-9df6-4653-9f07-00b039213c19",
           "name": "Table",
           "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "image"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "image",
+                "operator": "is-not-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e1bbfaa0-f061-4c96-b59f-2ac5f7e24ed4",
+          "name": "Gallery",
+          "type": "gallery"
         }
       ],
       "id": "e4b12e2a-41a2-41db-88fa-94a9c682a285",
