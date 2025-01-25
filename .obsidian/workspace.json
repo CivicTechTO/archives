@@ -4,17 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "e12e16575abeb6a4",
+        "id": "14f0bb1032ddc6b7",
         "type": "tabs",
         "children": [
           {
-            "id": "90c22d4f592f9437",
+            "id": "cc50a2d4b68eb23a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "obsidian-projects",
               "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "d3b88d4b57d9d9a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hacknights/378.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "378"
+            }
+          },
+          {
+            "id": "8ce6038bd91f2eff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hacknights/388.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "388"
             }
           }
         ]
@@ -172,35 +200,43 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "90c22d4f592f9437",
+  "active": "cc50a2d4b68eb23a",
   "lastOpenFiles": [
+    "hacknights/388.md",
+    "hacknights/378.md",
+    "images/hacknight_000.jpeg",
+    "images/hacknight_378.jpeg",
+    "images/hacknight_388.jpeg",
+    "hacknights/205.md",
+    "images/hacknight_205.jpeg",
+    "hacknights/280.md",
+    "images/hacknight_00.jpeg",
+    "images/hacknight_280.jpeg",
+    "hacknights/441.md",
+    "hacknights/449.md",
+    "images/hacknight_400.jpeg",
+    "hacknights/448.md",
+    "hacknights/307.md",
+    "hacknights/306.md",
+    "hacknights/305.md",
+    "hacknights/304.md",
+    "hacknights/303.md",
+    "hacknights/294.md",
+    "hacknights/286.md",
+    "hacknights/285.md",
+    "hacknights/278.md",
+    "hacknights/276.md",
+    "hacknights/268.md",
+    "hacknights/264.md",
+    "hacknights/206.md",
+    "images/hacknight_0.jpeg",
+    "images/hacknight_00000.jpeg",
+    "images/hacknight_0000.jpeg",
     "hacknights/463.md",
     "hacknights/460.md",
     "hacknights/459.md",
     "hacknights/458.md",
     "hacknights/462.md",
-    "hacknights/461.md",
-    "hacknights/466.md",
-    "hacknights/465.md",
-    "hacknights/464.md",
-    "hacknights/469.md",
-    "hacknights/468.md",
-    "hacknights/467.md",
-    "hacknights/470.md",
-    "hacknights/436.md",
-    "hacknights/390.md",
-    "hacknights/360.md",
-    "hacknights/359.md",
-    "hacknights/352.md",
-    "hacknights/350.md",
-    "hacknights/349.md",
-    "hacknights/348.md",
-    "hacknights/346.md",
-    "hacknights/344.md",
-    "hacknights/340.md",
-    "hacknights/339.md",
-    "hacknights/331.md",
-    "images/hacknight_194.jpeg",
     "_utilities/reference",
     "_utilities/automations",
     "_utilities/tools",

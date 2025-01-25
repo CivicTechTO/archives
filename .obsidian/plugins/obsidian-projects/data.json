@@ -456,7 +456,7 @@
               },
               "topic": {
                 "width": 394,
-                "hide": true
+                "hide": false
               },
               "description": {
                 "width": 209,
@@ -501,7 +501,14 @@
           },
           "filter": {
             "conjunction": "and",
-            "conditions": []
+            "conditions": [
+              {
+                "field": "topic",
+                "operator": "contains",
+                "enabled": false,
+                "value": "%"
+              }
+            ]
           },
           "colors": {
             "conditions": []
