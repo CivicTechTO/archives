@@ -62,7 +62,7 @@ Using git for version management ensures that the maintenance of this repository
 
 ### Tools for Editing
 
-[Tools Reference](_utilities/tools_reference.md)
+[Tools Reference](_utilities/reference/tools_reference.md)
 
 ## 05. 📜 License
 
