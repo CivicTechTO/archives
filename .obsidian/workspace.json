@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a1e9d86269d92f1c",
+        "id": "e12e16575abeb6a4",
         "type": "tabs",
         "children": [
           {
-            "id": "7ba262a56135737a",
+            "id": "90c22d4f592f9437",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 383.5
   },
   "right": {
     "id": "49cc9fcc2d154603",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -163,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,39 +172,40 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7ba262a56135737a",
+  "active": "90c22d4f592f9437",
   "lastOpenFiles": [
-    "README.md",
-    "_utilities/reference/tools_reference.md",
+    "hacknights/463.md",
+    "hacknights/460.md",
+    "hacknights/459.md",
+    "hacknights/458.md",
+    "hacknights/462.md",
+    "hacknights/461.md",
+    "hacknights/466.md",
+    "hacknights/465.md",
+    "hacknights/464.md",
+    "hacknights/469.md",
+    "hacknights/468.md",
+    "hacknights/467.md",
+    "hacknights/470.md",
+    "hacknights/436.md",
+    "hacknights/390.md",
+    "hacknights/360.md",
+    "hacknights/359.md",
+    "hacknights/352.md",
+    "hacknights/350.md",
+    "hacknights/349.md",
+    "hacknights/348.md",
+    "hacknights/346.md",
+    "hacknights/344.md",
+    "hacknights/340.md",
+    "hacknights/339.md",
+    "hacknights/331.md",
+    "images/hacknight_194.jpeg",
     "_utilities/reference",
-    "_utilities/automations/obsidian constructor - youtube description.md",
     "_utilities/automations",
-    "_utilities/tools/obsidian constructor - youtube description.md",
     "_utilities/tools",
-    "_utilities/sources/about us.md",
     "_utilities/sources",
-    "_utilies/tools_reference.md",
     "_utilies",
-    "_utilities/tools_reference.md",
-    "_utilities/tools reference.md",
-    "CONTRIBUTING.md",
-    "_docs/Tools.md",
-    "_utilities/obsidian constructor - youtube description.md",
-    "_utilities/templates/template-hacknight.md",
-    "_utilities/source_reference/about us.md",
-    "_utilities/templates/template-organization.md",
-    "_utilities/templates/template-speaker.md",
-    "_docs/doc-index.md",
-    "_docs/design-docs/architecture explorations.md",
-    "_docs/design-docs/ERD.md",
-    "_docs/design-docs/class sponsor.md",
-    "_docs/design-docs/class speaker.md",
-    "_docs/design-docs/class project.md",
-    "_docs/design-docs/class hacknight.md",
-    "organizations/No More Noise Toronto.md",
-    "organizations/Shopify.md",
-    "speakers/Mark De Pape.md",
-    "organizations/PwC.md",
     "_utilities",
     "_utilities/templates",
     "initiative",

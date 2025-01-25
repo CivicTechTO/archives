@@ -449,45 +449,46 @@
           "config": {
             "fieldConfig": {
               "path": {
-                "hide": false
+                "hide": true
               },
               "booker": {
-                "hide": false
+                "hide": true
               },
               "topic": {
                 "width": 394,
-                "hide": false
+                "hide": true
               },
               "description": {
                 "width": 209,
-                "hide": false
+                "hide": true
               },
               "name": {
                 "width": 206
               },
               "eventUrl": {
-                "hide": false
+                "hide": true
               },
               "date": {
-                "hide": false
+                "hide": true
               },
               "number": {
-                "hide": false
+                "hide": true
               },
               "tags": {
-                "hide": false
+                "hide": true
               },
               "videoUrl": {
-                "hide": false
+                "hide": true
               },
               "via": {
                 "hide": true
               },
               "venue": {
-                "hide": false
+                "hide": true
               },
               "speakers": {
-                "width": 525
+                "width": 525,
+                "hide": true
               }
             },
             "orderFields": [
@@ -535,6 +536,33 @@
           "id": "3f23e2d7-248f-4474-986f-83809f6d12cc",
           "name": "Calendar",
           "type": "calendar"
+        },
+        {
+          "config": {
+            "coverField": "image",
+            "includeFields": [
+              "tags"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "image",
+                "operator": "is-not-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "3fd886cb-47b0-411c-89d0-23d3e7aa58eb",
+          "name": "Gallery",
+          "type": "gallery"
         }
       ],
       "id": "e1583211-52e5-4b94-8711-5245de8e6c26",
