@@ -1,7 +1,6 @@
 ---
-name: Meghan Hellstern
+name: Cybèle Sack
 tags:
-  - type/speaker
   - type/organizer
 organization:
   - "[[CivicTechTO]]"

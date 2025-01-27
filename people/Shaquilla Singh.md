@@ -1,7 +1,6 @@
 ---
-name: Meghan Hellstern
+name: Shaquilla Singh
 tags:
-  - type/speaker
   - type/organizer
 organization:
   - "[[CivicTechTO]]"

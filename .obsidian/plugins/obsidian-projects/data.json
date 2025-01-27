@@ -318,7 +318,7 @@
               },
               "open/new": {
                 "weight": 1,
-                "collapse": true
+                "collapse": false
               },
               "open/dormant": {
                 "weight": 2,
@@ -326,7 +326,7 @@
                   "projects/Civic Tech Toolkit.md",
                   "projects/Police Tech Audit.md"
                 ],
-                "collapse": true
+                "collapse": false
               },
               "open/active": {
                 "records": [
@@ -336,7 +336,7 @@
                   "projects/tRacket - Noise Meter Project.md"
                 ],
                 "weight": 3,
-                "collapse": true
+                "collapse": false
               },
               "closed/graduated": {
                 "records": [

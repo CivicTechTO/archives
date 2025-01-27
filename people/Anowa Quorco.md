@@ -6,5 +6,5 @@ tags:
   - type/organizer
 organization:
   - "[[CivicTechTO]]"
-name: Anowa Quorco
+name: Anowa (Irene) Quorco
 ---

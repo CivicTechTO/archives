@@ -1,7 +1,6 @@
 ---
-name: Meghan Hellstern
+name: John Spragge
 tags:
-  - type/speaker
   - type/organizer
 organization:
   - "[[CivicTechTO]]"

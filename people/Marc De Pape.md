@@ -1,5 +1,5 @@
 ---
-name: Mark De Pape
+name: Marc De Pape
 social:
   medium: https://medium.com/@marcdepape
   linkedin: https://www.linkedin.com/in/marc-de-pape-8162028/
@@ -8,4 +8,7 @@ project:
   - "[[Wild Combination]]"
 tags:
   - type/speaker
+  - type/organizer
+organization:
+  - "[[CivicTechTO]]"
 ---

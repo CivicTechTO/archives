@@ -1,7 +1,6 @@
 ---
-name: Meghan Hellstern
+name: Chris Graham
 tags:
-  - type/speaker
   - type/organizer
 organization:
   - "[[CivicTechTO]]"
