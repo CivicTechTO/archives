@@ -40,7 +40,7 @@ archive/
 ├── images/          # Image assets.
 ├── organizations/   # Documentation of instances of organizations (& supporters).
 ├── projects/        # Documentation of instances of projects.
-├── people/        # Documentation of instances of speakers & organizers.
+├── people/          # Documentation of instances of speakers & organizers.
 ├── venues/          # Documentation of instances of venues.
 ├── _utilities/
 │   ├── automations/ # Automation based tooling for archiving convenience.
