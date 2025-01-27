@@ -6,6 +6,7 @@ organization:
   - "[[CivicTechTO]]"
 tags:
   - type/speaker
+  - type/organizer
 project:
   - "[[Open Cabinet]]"
 ---

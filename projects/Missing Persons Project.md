@@ -3,7 +3,7 @@ name: Missing Persons Project
 description: This application facilitates the identification of missing persons by comparing physical characteristics and personal information with unidentified remains. This application streamlines the identification process, reducing manual cross-referencing and time-consuming searches.
 tags:
   - type/project
-  - public/safety
+  - topic/public-safety
 website: https://civictechto.github.io/missing-persons/
 slackChannel: "[proj-missing-persons](https://civictechto.slack.com/archives/C03DJRS2ZRV)"
 gitrepo: https://github.com/CivicTechTO/missing-persons

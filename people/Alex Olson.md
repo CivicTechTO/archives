@@ -5,10 +5,11 @@ description: |-
 
   He considers himself an AI-skeptic AI researcher.
 organization:
-  - '[[CivicTechTO]]'
-  - '[[University of Toronto]]'
+  - "[[CivicTechTO]]"
+  - "[[University of Toronto]]"
 tags:
   - type/speaker
+  - type/organizer
 project:
   - "[[The Toronto Bids Archive]]"
 ---

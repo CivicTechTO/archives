@@ -1,7 +1,7 @@
 ---
 name: Respitely
 description: 
-tags: type/project public/housing, topic/shelters
+tags: type/project topic/housing, topic/shelters
 website: https://respitely.org
 slackChannel: 
 gitrepo: 

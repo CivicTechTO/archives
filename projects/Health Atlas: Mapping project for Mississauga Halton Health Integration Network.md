@@ -3,7 +3,7 @@ name: "Health Atlas: Mapping project for Mississauga Halton Health Integration N
 description: In partnership with Civic Tech Toronto and the Mississauga Halton Health Integration Network (LHIN), we have produced a map to investigate supply and demand of health care resources.
 tags:
   - type/project
-  - public/health
+  - topic/public-health
 website: https://misshaltlhin.github.io/MissHaltLHIN/
 slackChannel: "[mapmhlin](https://civictechto.slack.com/archives/C1VE3RQF4)"
 gitrepo: https://github.com/MissHaltLHIN/MissHaltLHIN

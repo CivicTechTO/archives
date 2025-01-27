@@ -3,7 +3,7 @@ name: Basecount
 description: Mapping the capacity and current occupancy of City of Toronto emergency shelters
 tags:
   - type/project
-  - public/housing
+  - topic/housing
   - topic/homelessness
 website: 
 slackChannel: "[proj-basecount](https://civictechto.slack.com/archives/C8VT5L32Q)"

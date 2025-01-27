@@ -3,7 +3,7 @@ name: Bikespace
 description: A tool that enables cyclists to identify places where there is not enough bicycle parking.
 tags:
   - type/project
-  - public/transport
+  - topic/transport
   - topic/cycling
 website: https://bikespace.ca/
 slackChannel: "[proj-bikeparking](https://civictechto.slack.com/archives/C61CZLA5V)"

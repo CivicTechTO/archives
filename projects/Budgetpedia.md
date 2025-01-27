@@ -3,7 +3,7 @@ name: Budgetpedia
 description: Making the City of Toronto budget more accessible to promote informed debate; advocate for better budgeting
 tags:
   - type/project
-  - government/openness-and-modernization
+  - topic/open-government
 website: http://budgetpedia.ca/
 slackChannel: "[budgetpedia-general](https://civictechto.slack.com/archives/C0958HY7J)"
 gitrepo: https://github.com/CivicTechTO/budgetpedia-frontend

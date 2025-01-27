@@ -1,7 +1,7 @@
 ---
 name: HousingNowTO
 description: 
-tags: type/project public/housing
+tags: type/project topic/housing
 website: http://housingnowto.com
 slackChannel: 
 gitrepo: 

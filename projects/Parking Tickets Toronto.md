@@ -1,7 +1,7 @@
 ---
 name: Parking Tickets Toronto
 description: 
-tags: type/project public/transport
+tags: type/project topic/transport
 website: https://schoolofcities.github.io/parking-tickets-toronto/
 slackChannel: 
 gitrepo: 

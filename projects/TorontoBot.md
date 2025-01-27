@@ -3,7 +3,7 @@ name: TorontoBot
 description: TorontoBot is a tool for querying Toronto Open Data. It answers questions either on the command line or as a Discord bot.
 tags:
   - type/project
-  - government/openness-and-modernization
+  - topic/open-government
 website: https://torontoverse.com/articles/a6_rscnPTmG_8auFQPvg7w/meet-torontobot-torontoverses-ai-powered-municipal
 slackChannel: 
 gitrepo: https://github.com/geomodulus/torontobot

@@ -3,8 +3,8 @@ name: tRacket - Noise Meter Project
 description: We’re making it easy and affordable to collect data about noise
 tags:
   - type/project
-  - public/infrastructure
-  - public/transport
+  - topic/infrastructure
+  - topic/transport
   - topic/noise
 website: https://tracket.info
 slackChannel: "[proj-noisemeter](https://civictechto.slack.com/archives/C05LHL4L8MD)"

@@ -3,7 +3,7 @@ name: Civic Tech Toolkit
 description: 
 tags:
   - type/project
-  - collective/enablement
+  - topic/collective-enablement
 website: 
 slackChannel: "[civic-tech-toolkit](https://civictechto.slack.com/archives/C0739GZADL6)"
 gitrepo: 

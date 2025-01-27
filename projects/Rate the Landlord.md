@@ -1,7 +1,7 @@
 ---
 name: Rate the Landlord
 description: We are a community platform that elevates tenant voices to promote landlord accountability.
-tags: type/project public/housing
+tags: type/project topic/housing
 website: https://ratethelandlord.org
 slackChannel: 
 gitrepo: 

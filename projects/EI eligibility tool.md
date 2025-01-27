@@ -3,7 +3,7 @@ name: EI eligibility tool
 description: 
 tags:
   - type/project
-  - public/employment-and-social-development
+  - topic/employment-and-social-development
 website: 
 slackChannel: "[cdn-financial-literacy](https://civictechto.slack.com/archives/C065SA0R5GT)"
 gitrepo: 

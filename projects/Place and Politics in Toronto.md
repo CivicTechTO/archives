@@ -1,7 +1,7 @@
 ---
 name: Place and Politics in Toronto
 description: Mapping the 2022 Toronto Election
-tags: type/project public/elections
+tags: type/project topic/elections
 website: https://schoolofcities.github.io/place-and-politics-toronto/
 slackChannel: 
 gitrepo: 

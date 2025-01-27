@@ -3,7 +3,7 @@ name: TPL Digital Innovation Hub booking app
 description: 
 tags:
   - type/project
-  - public/service-delivery
+  - topic/service-delivery
 website: 
 slackChannel: "[tpl-bookings](https://civictechto.slack.com/archives/C2CS2KKS6)"
 gitrepo: https://gitlab.com/tpl-bookings

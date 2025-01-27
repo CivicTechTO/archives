@@ -3,7 +3,7 @@ name: Techfugees Toronto
 description: Techfugees Toronto related work stream - specific focus on refugee housing challenges in GTA
 tags:
   - type/project
-  - public/immigration-and-citizenship
+  - topic/immigration-and-citizenship
 website: https://techfugees.com/it/techfugees-canada/
 slackChannel: "[techfugeestoronto](https://civictechto.slack.com/archives/C01ELNH8FB3)"
 gitrepo: 

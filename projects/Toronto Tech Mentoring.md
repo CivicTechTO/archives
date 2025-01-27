@@ -3,7 +3,7 @@ name: Toronto Tech Mentoring
 description: Aims to help homeless and at-risk youth escape the cycle of poverty by helping them to use tech skills.
 tags:
   - type/project
-  - public/employment-and-social-development
+  - topic/employment-and-social-development
   - topic/homelessness
 website: https://www.torontotechmentoring.ca
 slackChannel: "[accelerator](https://civictechto.slack.com/archives/CGR02MX9R)"

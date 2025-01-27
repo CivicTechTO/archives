@@ -3,7 +3,7 @@ name: Women and Color
 description: An online community of talented women and people of color available for speaking opportunities at tech-related events.
 tags:
   - type/project
-  - public/employment-and-social-development
+  - topic/employment-and-social-development
 website: http://womenandcolor.com
 social:
   twitter: https://x.com/womenandcolor

@@ -3,8 +3,8 @@ name: BDO Canada LLP - Toronto Offices
 type: business
 organization:
   - "[[BDO]]"
-status:
-address:
+status: 
+address: 222 Bay St. Suite 2200, Toronto, ON M5K 1H6
 tags:
   - type/venue
 ---

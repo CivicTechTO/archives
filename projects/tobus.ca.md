@@ -1,7 +1,7 @@
 ---
 name: tobus.ca
 description: A extremely fast and simple website, parsing TTC's ETA data.
-tags: type/project public/transport
+tags: type/project topic/transport
 website: https://tobus.ca/
 slackChannel: 
 gitrepo: https://github.com/thomassth/ttc-bus-eta

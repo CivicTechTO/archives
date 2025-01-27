@@ -1,7 +1,7 @@
 ---
 name: TTC Subway Rider Efficiency Guide
 description: PDF, iPhone and Android apps, and other stuff
-tags: type/project public/transport
+tags: type/project topic/transport
 website: https://www.ttc-rider.ca/
 slackChannel: 
 gitrepo: 

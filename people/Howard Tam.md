@@ -2,6 +2,7 @@
 name: Howard Tam
 tags:
   - type/speaker
+  - type/organizer
 organization:
   - "[[CivicTechTO]]"
 social:

@@ -548,7 +548,9 @@
           "config": {
             "coverField": "image",
             "includeFields": [
-              "tags"
+              "tags",
+              "speakers",
+              "topic"
             ]
           },
           "filter": {

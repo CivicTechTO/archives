@@ -1,7 +1,7 @@
 ---
 name: Danforth Dad
 description: Toronto playground map and reviews
-tags: type/project public/parks
+tags: type/project topic/public-parks
 website: https://danforthdad.com
 slackChannel: 
 gitrepo: 

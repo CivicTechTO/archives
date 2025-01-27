@@ -3,7 +3,7 @@ name: "#refugeeswelcome"
 description: Collecting all the amazing resources Torontonians have been providing our refugee community. Covering Peel, Toronto and York regions.
 tags:
   - type/project
-  - public/immigration-and-citizenship
+  - topic/immigration-and-citizenship
 website: https://welcomehome.to
 slackChannel: "[refugeeswelcome](https://civictechto.slack.com/archives/C0FM2GJCB)"
 gitrepo:

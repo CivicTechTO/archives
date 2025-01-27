@@ -3,7 +3,7 @@ name: Tabs Toronto
 description: Tabs sends email alerts for new Toronto city council/committee agenda items.
 tags:
   - type/project
-  - government/openness-and-modernization
+  - topic/open-government
 website: http://pwd.ca/tabs
 slackChannel: "[proj-tabs-toronto](https://civictechto.slack.com/archives/C01P1EV5F3J)"
 gitrepo: 

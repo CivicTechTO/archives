@@ -3,7 +3,7 @@ name: TTC Subway times
 description: A scraper to grab and publish TTC subway arrival times.
 tags:
   - type/project
-  - public/transport
+  - topic/transport
 website: 
 slackChannel: "[transportation](https://civictechto.slack.com/archives/C2X7WH32P)"
 gitrepo: https://github.com/CivicTechTO/ttc_subway_times
