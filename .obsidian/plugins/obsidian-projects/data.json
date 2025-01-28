@@ -460,7 +460,7 @@
               },
               "description": {
                 "width": 209,
-                "hide": true
+                "hide": false
               },
               "name": {
                 "width": 206
@@ -487,8 +487,8 @@
                 "hide": false
               },
               "speakers": {
-                "width": 525,
-                "hide": true
+                "width": 230,
+                "hide": false
               }
             },
             "orderFields": [
@@ -511,7 +511,7 @@
               {
                 "field": "venue",
                 "operator": "is",
-                "enabled": true,
+                "enabled": false,
                 "value": "[[venues/Lighthouse Labs]]"
               },
               {

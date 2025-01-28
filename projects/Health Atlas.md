@@ -1,5 +1,6 @@
 ---
-name: "Health Atlas: Mapping project for Mississauga Halton Health Integration Network"
+name: Health Atlas
+subtitle: Mapping project for Mississauga Halton Health Integration Network
 description: In partnership with Civic Tech Toronto and the Mississauga Halton Health Integration Network (LHIN), we have produced a map to investigate supply and demand of health care resources.
 tags:
   - type/project
@@ -12,9 +13,9 @@ launched: false
 online: false
 dateActiveFirst: 2016-07-26
 dateActiveLast: 2018-08-16
-notes:
+notes: 
 source: airtable original
-hacknight:
+hacknight: 
 archive_status: backlog
 community_status: closed/completed
 feature: false
