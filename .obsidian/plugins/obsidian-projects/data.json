@@ -469,7 +469,7 @@
                 "hide": true
               },
               "date": {
-                "hide": true
+                "hide": false
               },
               "number": {
                 "hide": true
@@ -478,13 +478,13 @@
                 "hide": true
               },
               "videoUrl": {
-                "hide": true
+                "hide": false
               },
               "via": {
                 "hide": true
               },
               "venue": {
-                "hide": true
+                "hide": false
               },
               "speakers": {
                 "width": 525,
@@ -507,6 +507,17 @@
                 "operator": "contains",
                 "enabled": false,
                 "value": "%"
+              },
+              {
+                "field": "venue",
+                "operator": "is",
+                "enabled": true,
+                "value": "[[venues/Lighthouse Labs]]"
+              },
+              {
+                "field": "image",
+                "operator": "is-empty",
+                "enabled": false
               }
             ]
           },
@@ -548,9 +559,8 @@
           "config": {
             "coverField": "image",
             "includeFields": [
-              "tags",
               "speakers",
-              "topic"
+              "venue"
             ]
           },
           "filter": {
@@ -559,7 +569,13 @@
               {
                 "field": "image",
                 "operator": "is-not-empty",
-                "enabled": true
+                "enabled": false
+              },
+              {
+                "field": "venue",
+                "operator": "is",
+                "enabled": false,
+                "value": "[[venues/Lighthouse Labs]]"
               }
             ]
           },

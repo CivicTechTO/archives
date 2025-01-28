@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c4196c0fff1f89",
+        "id": "ebf0a364a35b309d",
         "type": "tabs",
         "children": [
           {
-            "id": "32b89e994caf586e",
+            "id": "32a42c38a227bc44",
             "type": "leaf",
             "state": {
               "type": "obsidian-projects",
@@ -18,21 +18,50 @@
             }
           },
           {
-            "id": "901ec31b4224f088",
+            "id": "8a59d5450381c93e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/CivicTechTO.md",
-                "mode": "preview",
+                "file": "venues/Rangle.io Office.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CivicTechTO"
+              "title": "Rangle.io Office"
+            }
+          },
+          {
+            "id": "4961d5eddf1e8ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "venues/The Dais (prev. Brookfield Inst).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Dais (prev. Brookfield Inst)"
+            }
+          },
+          {
+            "id": "4367aa24229c9852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hacknights/122.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "122"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +113,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizations/CivicTechTO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CivicTechTO"
+              "title": "Backlinks"
             }
           },
           {
@@ -188,45 +217,46 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "901ec31b4224f088",
+  "active": "32a42c38a227bc44",
   "lastOpenFiles": [
-    "projects/Basecount.md",
-    "projects/Ample Labs.md",
-    "people/Andy Claremont.md",
-    "people/Linda Marleny Dow.md",
-    "people/Jonathan Kates.md",
-    "people/Hyerin Choi.md",
-    "people/Adam Cohoon.md",
-    "organizations/CivicTechTO.md",
-    "people/Jim Rootham.md",
-    "people/Ilya Krenin.md",
-    "hacknights/20.md",
-    "projects/Budgetpedia.md",
-    "people/Saqib Siddiqi.md",
-    "people/Maju Sadagopan.md",
-    "people/Sarah McNeil.md",
-    "people/Morva Rohani.md",
-    "people/Medina Abdelkader.md",
-    "people/Matthew Gray.md",
-    "people/Marc De Pape.md",
-    "people/Kara Melton.md",
-    "people/Jonathan Mikhail.md",
-    "people/James Teow.md",
-    "people/Kejo Buchanan.md",
-    "people/Mahmoud Allouch.md",
-    "people/Anna Fareed.md",
-    "people/Chinmay Patel.md",
+    "images/unaligned_other/orium IMG_3108.jpg",
+    "images/unaligned_other/orium IMG_3105.jpg",
+    "images/unaligned_other/orium IMG_3077.jpg",
+    "images/unaligned_other/orium IMG_3056.jpg",
+    "images/unaligned_other/hacknight_83 - C.png",
+    "images/unaligned_other/hacknight_83 - B.png",
+    "images/unaligned_other/hacknight_74 - B.jpg",
+    "images/unaligned_other/hacknight_71 - B.jpg",
+    "images/unaligned_other/hacknight_68 - B.jpg",
+    "images/unaligned_other/hacknight_66 - B.jpg",
+    "images/unaligned_other/hacknight_65 - C.jpg",
+    "images/unaligned_other",
+    "hacknights/130.md",
+    "hacknights/129.md",
+    "venues/Rangle.io Office.md",
+    "venues/Secret Location.md",
+    "projects/Women and Color.md",
+    "hacknights/138.md",
+    "hacknights/137.md",
+    "hacknights/122.md",
+    "venues/The Dais (prev. Brookfield Inst).md",
+    "hacknights/5.md",
+    "venues/Design Cofounders Offices.md",
+    "hacknights/104.md",
+    "hacknights/87.md",
+    "hacknights/134.md",
+    "hacknights/132.md",
+    "hacknights/124.md",
+    "hacknights/114.md",
+    "hacknights/6.md",
+    "hacknights/8.md",
+    "hacknights/7.md",
+    "organizations/Design Cofounders.md",
+    "hacknights/48.md",
+    "hacknights/90.md",
+    "venues/Twitter Offices.md",
+    "venues/Ryerson Launch Zone.md",
     "committee",
-    "images/supporter_images/supporter_ontario.jpg",
-    "images/supporter_images/supporter_atkinson.jpg",
-    "images/supporter_images/supporter_torontocity.jpg",
-    "images/supporter_images/supporter_uoftsppg.jpg",
-    "images/supporter_images/supporter_sandbox.png",
-    "images/supporter_images/supporter_twitter.png",
-    "images/supporter_images/supporter_twg.png",
-    "images/supporter_images/supporter_toronto.jpg",
-    "images/supporter_images/supporter_tunnelbear.png",
-    "images/supporter_images/supporter_thoughtworks.jpg",
     "images/supporter_images",
     "images/hacknight_images",
     "images/hacknights",
@@ -234,7 +264,6 @@
     "untitled folder",
     "images/supporters",
     "_utilities/reference",
-    "_utilities/automations",
-    "_utilities/tools"
+    "_utilities/automations"
   ]
 }
