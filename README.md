@@ -36,13 +36,13 @@ To explore the archived events, projects and other information you can navigate 
 
 ```
 archive/
-├── hacknights/      # Documentation of instances of hacknights.
+├── _hacknights/      # Documentation of instances of hacknights.
+├── _organizations/   # Documentation of instances of organizations (& supporters).
+├── _people/          # Documentation of instances of speakers & organizers.
+├── _projects/        # Documentation of instances of projects.
+├── _venues/          # Documentation of instances of venues.
 ├── images/          # Image assets.
-├── organizations/   # Documentation of instances of organizations (& supporters).
-├── projects/        # Documentation of instances of projects.
-├── people/          # Documentation of instances of speakers & organizers.
-├── venues/          # Documentation of instances of venues.
-├── _utilities/
+├── utilities/
 │   ├── automations/ # Automation based tooling for archiving convenience.
 │   ├── reference/   # Reference matterials regarding archiving activity.
 │   ├── sources/     # Reuseable text snippets applicable to automations.
