@@ -41,7 +41,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "projects",
+          "path": "_projects",
           "recursive": false
         }
       },
@@ -118,18 +118,7 @@
           },
           "filter": {
             "conjunction": "and",
-            "conditions": [
-              {
-                "field": "fromBreakout",
-                "operator": "is-checked",
-                "enabled": false
-              },
-              {
-                "field": "launched",
-                "operator": "is-checked",
-                "enabled": false
-              }
-            ]
+            "conditions": []
           },
           "colors": {
             "conditions": [
@@ -439,7 +428,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "hacknights",
+          "path": "_hacknights",
           "recursive": false
         }
       },
@@ -455,12 +444,12 @@
                 "hide": true
               },
               "topic": {
-                "width": 394,
+                "width": 549,
                 "hide": false
               },
               "description": {
                 "width": 209,
-                "hide": false
+                "hide": true
               },
               "name": {
                 "width": 206
@@ -469,7 +458,7 @@
                 "hide": true
               },
               "date": {
-                "hide": false
+                "hide": true
               },
               "number": {
                 "hide": true
@@ -478,7 +467,7 @@
                 "hide": true
               },
               "videoUrl": {
-                "hide": false
+                "hide": true
               },
               "via": {
                 "hide": true
@@ -489,6 +478,9 @@
               "speakers": {
                 "width": 230,
                 "hide": false
+              },
+              "image": {
+                "hide": true
               }
             },
             "orderFields": [
@@ -504,20 +496,9 @@
             "conditions": [
               {
                 "field": "topic",
-                "operator": "contains",
-                "enabled": false,
-                "value": "%"
-              },
-              {
-                "field": "venue",
                 "operator": "is",
                 "enabled": false,
-                "value": "[[venues/Lighthouse Labs]]"
-              },
-              {
-                "field": "image",
-                "operator": "is-empty",
-                "enabled": false
+                "value": "Presentation and discussion"
               }
             ]
           },
@@ -606,7 +587,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "speakers",
+          "path": "_people",
           "recursive": false
         }
       },
@@ -656,29 +637,7 @@
           },
           "filter": {
             "conjunction": "and",
-            "conditions": [
-              {
-                "field": "description",
-                "operator": "is-empty",
-                "enabled": false
-              },
-              {
-                "field": "title",
-                "operator": "is-empty",
-                "enabled": false
-              },
-              {
-                "field": "organization",
-                "operator": "is-empty",
-                "enabled": false
-              },
-              {
-                "field": "organization",
-                "operator": "has-any-of",
-                "enabled": true,
-                "value": "[\"[[City of Toronto]]\"]"
-              }
-            ]
+            "conditions": []
           },
           "colors": {
             "conditions": []
@@ -692,7 +651,7 @@
         }
       ],
       "id": "b6fbcab0-c3ed-46f1-b3fa-41b6060b7170",
-      "name": "speakers"
+      "name": "people"
     },
     {
       "fieldConfig": {
@@ -707,7 +666,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "organizations",
+          "path": "_organizations",
           "recursive": false
         }
       },
@@ -775,7 +734,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "venues",
+          "path": "_venues",
           "recursive": false
         }
       },

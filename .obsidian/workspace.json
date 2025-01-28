@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c96d5d69fbf2135",
+        "id": "f97aca8b84969d79",
         "type": "tabs",
         "children": [
           {
-            "id": "3ccd3c9720da7dde",
+            "id": "369d1f9bcb039e4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "obsidian-projects",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
         ]
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"date\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,12 +154,12 @@
               "title": "Outline of 20"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,45 +172,45 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3ccd3c9720da7dde",
+  "active": "369d1f9bcb039e4b",
   "lastOpenFiles": [
-    "projects/Health Atlas.md",
-    "hacknights/453.md",
-    "hacknights/38.md",
-    "people/Jesse Coleman.md",
-    "hacknights/124.md",
+    "_hacknights/132.md",
+    "_people/Alex Jung.md",
+    "_people/Una Lee.md",
+    "_hacknights/326.md",
+    "_hacknights/325.md",
+    "_hacknights/156.md",
+    "_hacknights/252.md",
+    "_people/Bryan Marcial.md",
+    "_hacknights/136.md",
+    "_hacknights/135.md",
+    "_hacknights/137.md",
+    "_hacknights/128.md",
+    "_hacknights/112.md",
+    "images/hacknight_images/hacknight_112.jpg",
+    "_hacknights/109.md",
+    "_hacknights/108.md",
+    "_hacknights/95.md",
+    "_hacknights/106.md",
+    "_hacknights/94.md",
+    "_hacknights/93.md",
+    "_hacknights/68.md",
+    "_hacknights/57.md",
+    "images/hacknight_images/hacknight_57.jpg",
+    "_hacknights/32.md",
+    "_hacknights/65.md",
+    "_hacknights/55.md",
+    "_hacknights/54.md",
+    "_hacknights/41.md",
+    "images/hacknight_images/hacknight_132.jpg",
     "images/hacknight_images/hacknight_38.jpg",
-    "people/Stephen Buckley.md",
-    "hacknight_38.jpg.md",
     "images/unaligned_other/hacknight_29.jpg",
-    "hacknights/458.md",
-    "hacknights/462.md",
-    "hacknights/466.md",
-    "hacknights/464.md",
-    "hacknights/467.md",
-    "hacknights/470.md",
-    "hacknights/474.md",
-    "hacknights/69.md",
-    "Untitled.md",
-    "people/Ryan Androsoff.md",
-    "venues/Rangle.io Office.md",
-    "venues/The Dais (prev. Brookfield Inst).md",
-    "hacknights/122.md",
     "images/unaligned_other/orium IMG_3108.jpg",
     "images/unaligned_other/orium IMG_3105.jpg",
     "images/unaligned_other/orium IMG_3077.jpg",
     "images/unaligned_other/orium IMG_3056.jpg",
     "images/unaligned_other/hacknight_83 - C.png",
-    "images/unaligned_other/hacknight_83 - B.png",
-    "images/unaligned_other/hacknight_74 - B.jpg",
-    "images/unaligned_other/hacknight_71 - B.jpg",
     "images/unaligned_other",
-    "hacknights/130.md",
-    "hacknights/129.md",
-    "venues/Secret Location.md",
-    "projects/Women and Color.md",
-    "hacknights/138.md",
-    "hacknights/137.md",
     "committee",
     "images/supporter_images",
     "images/hacknight_images",
