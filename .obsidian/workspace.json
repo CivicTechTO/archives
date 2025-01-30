@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "be18093885ed8bd2",
+        "id": "0bbd8c8d15eedc30",
         "type": "tabs",
         "children": [
           {
-            "id": "35151bf3dd419000",
+            "id": "6fa340d201257a09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_hacknights/233.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "233"
-            }
-          },
-          {
-            "id": "579258020b914826",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
+              "type": "empty",
               "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jeremy Foran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jeremy Foran"
+              "title": "Outgoing links"
             }
           },
           {
@@ -170,8 +153,7 @@
               "title": "Outline of 20"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,9 +170,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7a27daf9a2a9e958",
+  "active": "6fa340d201257a09",
   "lastOpenFiles": [
     "_hacknights/233.md",
+    "_people/Lindsay Clarke.md",
+    "_hacknights/115.md",
+    "utilities/automations/obsidian constructor - youtube description.md",
+    "_hacknights/418.md",
+    "_hacknights/468.md",
+    "_people/Andrew Hladkyj.md",
     "_venues/NO_VENUE_ONLINE.md",
     "_people/Alexander Chen.md",
     "_people/Natasha Tusikov.md",
@@ -210,12 +198,6 @@
     "_hacknights/249.md",
     "_hacknights/253.md",
     "_hacknights/270.md",
-    "_hacknights/271.md",
-    "_hacknights/324.md",
-    "_hacknights/365.md",
-    "_hacknights/379.md",
-    "_hacknights/372.md",
-    "_hacknights/397.md",
     "images/hacknight_images/generate-csv - 01.csv",
     "utilities/templates",
     "utilities/sources",
