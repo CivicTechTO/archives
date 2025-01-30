@@ -448,11 +448,12 @@
                 "hide": false
               },
               "description": {
-                "width": 209,
-                "hide": true
+                "width": 965,
+                "hide": false
               },
               "name": {
-                "width": 206
+                "width": 206,
+                "hide": false
               },
               "eventUrl": {
                 "hide": true
@@ -473,11 +474,11 @@
                 "hide": true
               },
               "venue": {
-                "hide": false
+                "hide": true
               },
               "speakers": {
                 "width": 230,
-                "hide": false
+                "hide": true
               },
               "image": {
                 "hide": true
@@ -486,19 +487,17 @@
             "orderFields": [
               "name",
               "topic",
-              "description",
-              "speakers",
-              "videoUrl"
+              "description"
             ]
           },
           "filter": {
             "conjunction": "and",
             "conditions": [
               {
-                "field": "topic",
-                "operator": "is",
+                "field": "description",
+                "operator": "contains",
                 "enabled": false,
-                "value": "Presentation and discussion"
+                "value": ""
               }
             ]
           },
@@ -649,8 +648,9 @@
               },
               {
                 "field": "description",
-                "operator": "is-empty",
-                "enabled": true
+                "operator": "contains",
+                "enabled": false,
+                "value": "\""
               }
             ]
           },

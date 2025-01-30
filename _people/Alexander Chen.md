@@ -8,4 +8,3 @@ tags:
   - type/organizer
 description: Data Scientist/CivicTech Enthusiast/Cook
 ---
-

@@ -3,5 +3,6 @@
   "readableLineLength": false,
   "showLineNumber": true,
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": false
 }

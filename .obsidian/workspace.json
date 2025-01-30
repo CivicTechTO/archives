@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c3f6c68431dcae0c",
+        "id": "be18093885ed8bd2",
         "type": "tabs",
         "children": [
           {
-            "id": "462e1a9bd30870fa",
+            "id": "35151bf3dd419000",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_hacknights/233.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "233"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_hacknights/233.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 233"
             }
           },
           {
@@ -154,13 +159,11 @@
               "title": "Outline of 20"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,35 +176,35 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "462e1a9bd30870fa",
+  "active": "35151bf3dd419000",
   "lastOpenFiles": [
-    "utilities/automations/obsidian constructor - youtube description.md",
-    "_hacknights/478.md",
-    "_projects/Bikespace.md",
-    "_people/Avery Au.md",
-    "_hacknights/258.md",
-    "_people/David Cox.md",
-    "_people/Andrés Aquino.md",
-    "_hacknights/61.md",
-    "_people/Alison Uttley.md",
-    "_hacknights/90.md",
-    "_people/Terri Chu.md",
-    "_people/Ali Rodney.md",
-    "_hacknights/82.md",
-    "_people/Tamsyn Riddle.md",
-    "_people/Julia Smeed.md",
-    "_hacknights/158.md",
-    "_people/Alex Jung.md",
-    "_hacknights/182.md",
-    "_people/Sarah Park.md",
-    "_hacknights/122.md",
+    "_venues/NO_VENUE_ONLINE.md",
+    "_people/Alexander Chen.md",
+    "_people/Natasha Tusikov.md",
+    "_people/Joy Kogawa.md",
+    "_people/John Richardson.md",
+    "_people/Jessica Sikora.md",
+    "_people/Dan Vanderkam.md",
+    "_people/Cara Chellew.md",
+    "_people/Ben Walters.md",
+    "_people/Amanda Clarke.md",
+    "_hacknights/171.md",
+    "_hacknights/184.md",
+    "_hacknights/197.md",
+    "_hacknights/225.md",
+    "_hacknights/226.md",
+    "_hacknights/247.md",
+    "_hacknights/249.md",
+    "_hacknights/253.md",
+    "_hacknights/270.md",
+    "_hacknights/271.md",
+    "_hacknights/324.md",
+    "_hacknights/365.md",
+    "_hacknights/379.md",
+    "_hacknights/372.md",
+    "_hacknights/397.md",
+    "_hacknights/409.md",
     "images/hacknight_images/generate-csv - 01.csv",
-    "utilities/templates/template-speaker.md",
-    "utilities/templates/template-organizer.md",
-    "utilities/templates/template-organization.md",
-    "utilities/templates/template-image.md",
-    "utilities/templates/template-hacknight.md",
-    "utilities/sources/get involved.md",
     "utilities/templates",
     "utilities/sources",
     "utilities/reference",
