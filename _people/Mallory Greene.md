@@ -11,5 +11,5 @@ social:
   linkedin: https://www.linkedin.com/in/malloryjgreene/
   website: https://malloryjgreene.com
   twitter: https://x.com/malloryjgreene
-title: Mallory Greene, Head of Corporate Social Responsibility, Wealthsimple
+role_description: Mallory Greene, Head of Corporate Social Responsibility, Wealthsimple
 ---

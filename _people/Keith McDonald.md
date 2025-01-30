@@ -6,5 +6,5 @@ tags:
 social:
   linkedin: https://www.linkedin.com/in/keithmcdonald/
   website: https://literacyai.com
-title: Former Open Data Lead at the City of Toronto
+role_description: Former Open Data Lead at the City of Toronto
 ---

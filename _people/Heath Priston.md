@@ -5,5 +5,5 @@ tags:
   - type/speaker
 organization:
   - "[[City of Toronto]]"
-title: Toronto Shelter & Support Services
+role_description: Toronto Shelter & Support Services
 ---

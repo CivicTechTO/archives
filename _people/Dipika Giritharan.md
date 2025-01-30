@@ -2,7 +2,7 @@
 name: Dipika Giritharan
 tags:
   - type/speaker
-title: Program Coordinator, Evergreen
+role_description: Program Coordinator, Evergreen
 organization: []
 ---
 

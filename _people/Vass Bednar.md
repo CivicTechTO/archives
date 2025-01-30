@@ -2,9 +2,9 @@
 name: Vass (Vasiliki) Bednar
 tags:
   - type/speaker
-title: Associate Director, Cities
+role_description: Associate Director, Cities
 organization:
-  - '[[Martin Prosperity Institute]]'
+  - "[[Martin Prosperity Institute]]"
 social:
   twitter: https://x.com/vassb
   linkedin: https://www.linkedin.com/in/vass

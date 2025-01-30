@@ -1,6 +1,6 @@
 ---
 name: Paula Sanderson
-title: Volunteer Guider
+role_description: Volunteer Guider
 organization:
   - "[[Girl Guides of Canada]]"
 tags:

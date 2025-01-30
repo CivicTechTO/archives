@@ -6,7 +6,7 @@ description: |-
   When she’s not working with her awesome team at the Ontario Digital Service, she loves to explore her garden, add new plants to her collection, hang out with friends and family, and travelling the globe.
 tags:
   - type/speaker
-title: Product Manager at the Ontario Digital Service
+role_description: Product Manager at the Ontario Digital Service
 organization:
   - "[[Ontario Digital Service]]"
 ---

@@ -2,8 +2,8 @@
 name: Paul Vet
 tags:
   - type/speaker
-title: Open Government office
+role_description: Open Government office
 organization:
-  - '[[Government of Ontario]]'
+  - "[[Government of Ontario]]"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Léa Ravensbergen
-title: Assistant Professor, School of Earth, Environment & Society, McMaster University
+role_description: Assistant Professor, School of Earth, Environment & Society, McMaster University
 tags:
   - type/speaker
 ---

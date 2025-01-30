@@ -1,6 +1,6 @@
 ---
 name: Dave Biggs
-title: Chief Engagement Officer at MetroQuest 
+role_description: Chief Engagement Officer at MetroQuest
 tags:
   - type/speaker
 organization: []

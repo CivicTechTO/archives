@@ -4,7 +4,7 @@ tags:
   - type/speaker
 social:
   twitter: https://x.com/louise_kent
-title: Director, Member Experience
+role_description: Director, Member Experience
 organization:
   - "[[Girl Guides of Canada]]"
 ---

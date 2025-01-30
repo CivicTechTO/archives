@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "233"
             }
+          },
+          {
+            "id": "579258020b914826",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"date\"]",
+                "query": "tag:#flag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_hacknights/233.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 233"
+              "title": "Backlinks"
             }
           },
           {
@@ -159,7 +170,8 @@
               "title": "Outline of 20"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -176,8 +188,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "35151bf3dd419000",
+  "active": "7a27daf9a2a9e958",
   "lastOpenFiles": [
+    "_hacknights/233.md",
     "_venues/NO_VENUE_ONLINE.md",
     "_people/Alexander Chen.md",
     "_people/Natasha Tusikov.md",
@@ -203,7 +216,6 @@
     "_hacknights/379.md",
     "_hacknights/372.md",
     "_hacknights/397.md",
-    "_hacknights/409.md",
     "images/hacknight_images/generate-csv - 01.csv",
     "utilities/templates",
     "utilities/sources",

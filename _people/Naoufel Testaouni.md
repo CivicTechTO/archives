@@ -6,7 +6,7 @@ description: |-
   Today, Naoufel is the co-founder and President of QueerTech, an organization that empowers LGBTQ2S+ in the tech industry. He is also Head of Business Development at Local Logic. In his role, he focuses on market expansion and client acquisition in the US and Canada.
 tags:
   - type/speaker
-title: President
+role_description: President
 organization:
   - "[[QueerTech]]"
 ---
