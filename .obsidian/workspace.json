@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f97aca8b84969d79",
+        "id": "c3f6c68431dcae0c",
         "type": "tabs",
         "children": [
           {
-            "id": "369d1f9bcb039e4b",
+            "id": "462e1a9bd30870fa",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
+              "type": "empty",
               "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 200
   },
   "right": {
     "id": "49cc9fcc2d154603",
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,40 +173,41 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "369d1f9bcb039e4b",
+  "active": "462e1a9bd30870fa",
   "lastOpenFiles": [
+    "utilities/automations/obsidian constructor - youtube description.md",
+    "_hacknights/478.md",
+    "_projects/Bikespace.md",
+    "_people/Avery Au.md",
+    "_hacknights/258.md",
+    "_people/David Cox.md",
+    "_people/Andrés Aquino.md",
+    "_hacknights/61.md",
+    "_people/Alison Uttley.md",
+    "_hacknights/90.md",
+    "_people/Terri Chu.md",
+    "_people/Ali Rodney.md",
+    "_hacknights/82.md",
+    "_people/Tamsyn Riddle.md",
+    "_people/Julia Smeed.md",
+    "_hacknights/158.md",
+    "_people/Alex Jung.md",
+    "_hacknights/182.md",
+    "_people/Sarah Park.md",
+    "_hacknights/122.md",
+    "images/hacknight_images/generate-csv - 01.csv",
     "utilities/templates/template-speaker.md",
     "utilities/templates/template-organizer.md",
     "utilities/templates/template-organization.md",
     "utilities/templates/template-image.md",
     "utilities/templates/template-hacknight.md",
     "utilities/sources/get involved.md",
-    "utilities/sources/get in touch.md",
-    "utilities/sources/code of conduct.md",
-    "utilities/sources/about us.md",
-    "utilities/reference/tools_reference.md",
-    "utilities/automations/obsidian constructor - youtube description.md",
     "utilities/templates",
     "utilities/sources",
     "utilities/reference",
     "utilities/automations",
     "utilities",
-    "_hacknights/132.md",
-    "_people/Alex Jung.md",
-    "_people/Una Lee.md",
-    "_hacknights/326.md",
-    "_hacknights/325.md",
-    "_hacknights/156.md",
-    "_hacknights/252.md",
-    "_people/Bryan Marcial.md",
-    "_hacknights/136.md",
-    "_hacknights/135.md",
-    "_hacknights/137.md",
-    "_hacknights/128.md",
-    "_hacknights/112.md",
     "images/hacknight_images/hacknight_112.jpg",
-    "_hacknights/109.md",
-    "_hacknights/108.md",
     "images/hacknight_images/hacknight_57.jpg",
     "images/hacknight_images/hacknight_132.jpg",
     "images/hacknight_images/hacknight_38.jpg",
@@ -218,7 +220,6 @@
     "images/unaligned_other",
     "committee",
     "images/supporter_images",
-    "images/hacknight_images",
-    "images/hacknights"
+    "images/hacknight_images"
   ]
 }

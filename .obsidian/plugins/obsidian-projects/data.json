@@ -609,35 +609,50 @@
                 "hide": true
               },
               "social": {
-                "hide": false
+                "hide": true
               },
               "tags": {
                 "hide": false
               },
               "organization": {
                 "hide": false,
-                "width": 222
+                "width": 215
               },
               "title": {
                 "hide": false,
-                "width": 490
+                "width": 398
               },
               "url": {
                 "hide": false
               },
               "description": {
                 "hide": false,
-                "width": 1305
+                "width": 729
               },
               "project": {
-                "hide": false,
+                "hide": true,
                 "width": 232
+              },
+              "aliases": {
+                "hide": true
               }
             }
           },
           "filter": {
             "conjunction": "and",
-            "conditions": []
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "has-keyword",
+                "enabled": true,
+                "value": "speaker"
+              },
+              {
+                "field": "description",
+                "operator": "is-empty",
+                "enabled": true
+              }
+            ]
           },
           "colors": {
             "conditions": []
