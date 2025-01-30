@@ -5,7 +5,7 @@ organization:
   - "[[Brookfield Institute for Innovation + Entrepreneurship]]"
 tags:
   - type/speaker
-social: 
+social:
   linkedin: https://www.linkedin.com/in/davidrubinger/
 ---
 

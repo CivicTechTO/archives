@@ -1,6 +1,6 @@
 ---
 name: Ken Greenberg
-description:  A veteran urban designer, Ken's expertise spans over four decades. His work, primarily in North American and European urban centers, focuses on downtown rejuvenation, waterfronts, neighborhood revitalization, and community planning.
+description: A veteran urban designer, Ken's expertise spans over four decades. His work, primarily in North American and European urban centers, focuses on downtown rejuvenation, waterfronts, neighborhood revitalization, and community planning.
 tags:
   - type/speaker
 social:

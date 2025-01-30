@@ -5,7 +5,7 @@ tags:
   - type/speaker
 organization:
   - "[[City of Toronto]]"
-social: 
+social:
   linkedin: https://www.linkedin.com/in/shagithya-deivendran-b4376a15b/
 ---
 
