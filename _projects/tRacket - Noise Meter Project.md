@@ -8,13 +8,11 @@ tags:
   - topic/noise
 website: https://tracket.info
 slackChannel: "[proj-noisemeter](https://civictechto.slack.com/archives/C05LHL4L8MD)"
-gitrepo: 
 fromBreakout: true
 launched: true
 online: true
 dateActiveFirst: 2023-08-08
 dateActiveLast: 2024-05-28
-notes: 
 source: airtable original
 hacknight:
   - "[[453]]"

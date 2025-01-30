@@ -12,7 +12,6 @@ launched: true
 online: true
 dateActiveFirst: 2022-01-01
 dateActiveLast: 2023-10-03
-notes: 
 source: airtable original
 hacknight: "[[412]]"
 archive_status: backlog

@@ -7,13 +7,10 @@ tags:
   - topic/shelters
 website: https://openshelter.space/chalmerssignal/
 slackChannel: "[openshelter-space](https://civictechto.slack.com/archives/C8ZRFH7JShttps://civictechto.slack.com/archives/C8ZRFH7JS)"
-gitrepo: 
 fromBreakout: true
 launched: true
 online: true
-dateActiveFirst: 
 dateActiveLast: 2024-02-01
-notes: 
 source: airtable original
 hacknight:
   - "[[274]]"

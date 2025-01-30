@@ -12,9 +12,7 @@ social:
 fromBreakout: true
 launched: true
 online: true
-dateActiveFirst: 
 dateActiveLast: 2023-03-05
-notes: 
 source: airtable original
 hacknight: "[[383]]"
 archive_status: discovering

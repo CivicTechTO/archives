@@ -12,7 +12,6 @@ launched: true
 online: true
 dateActiveFirst: 2015-01-01
 dateActiveLast: 2018-01-01
-notes: 
 source: airtable original
 hacknight:
   - "[[20]]"

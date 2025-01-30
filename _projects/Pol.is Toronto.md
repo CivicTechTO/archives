@@ -11,10 +11,7 @@ fromBreakout: true
 launched: false
 online: false
 dateActiveFirst: 2024-04-24
-dateActiveLast:
-notes:
 source: airtable original
-hacknight:
 archive_status: reviewing
 community_status: open/active
 feature: false

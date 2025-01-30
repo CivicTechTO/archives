@@ -5,13 +5,10 @@ tags:
   - type/project
 website: http://thecarded.ca
 slackChannel: "[thecarded](https://civictechto.slack.com/archives/C1VNQCW13)"
-gitrepo: 
 fromBreakout: true
 launched: true
 online: true
-dateActiveFirst: 
 dateActiveLast: 2018-06-04
-notes: 
 source: airtable original
 hacknight:
   - "[[122]]"

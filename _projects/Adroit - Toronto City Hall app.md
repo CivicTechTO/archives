@@ -4,7 +4,6 @@ description: A mobile app for providing input on upcoming votes in city hall. An
 tags:
   - type/project
   - topic/open-government
-website:
 slackChannel: "[proj-adroit](https://civictechto.slack.com/archives/C0JC4A5RS)"
 gitrepo: https://github.com/dougestey/adroit
 fromBreakout: true
@@ -14,7 +13,6 @@ dateActiveFirst: 2015-01-01
 dateActiveLast: 2015-01-01
 notes: https://github.com/CivicTechTO/tocityhall-app
 source: airtable original
-hacknight:
 archive_status: backlog
 community_status: closed/abandoned
 feature: false

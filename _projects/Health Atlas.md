@@ -13,9 +13,7 @@ launched: false
 online: false
 dateActiveFirst: 2016-07-26
 dateActiveLast: 2018-08-16
-notes: 
 source: airtable original
-hacknight: 
 archive_status: backlog
 community_status: closed/completed
 feature: false

@@ -7,13 +7,11 @@ tags:
   - topic/homelessness
 website: https://www.torontotechmentoring.ca
 slackChannel: "[accelerator](https://civictechto.slack.com/archives/CGR02MX9R)"
-gitrepo: 
 fromBreakout: true
 launched: true
 online: false
 dateActiveFirst: 2018-01-01
 dateActiveLast: 2021-01-01
-notes: 
 source: airtable original
 hacknight:
   - "[[222]]"

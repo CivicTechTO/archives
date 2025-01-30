@@ -10,9 +10,7 @@ gitrepo: https://github.com/democracykit
 fromBreakout: true
 launched: true
 online: false
-dateActiveFirst: 
 dateActiveLast: 2017-12-05
-notes: 
 source: airtable original
 hacknight:
   - "[[67]]"

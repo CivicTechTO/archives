@@ -12,9 +12,7 @@ launched: false
 online: false
 dateActiveFirst: 2016-01-01
 dateActiveLast: 2016-01-01
-notes:
 source: airtable original
-hacknight:
 archive_status: backlog
 community_status: closed/abandoned
 feature: false

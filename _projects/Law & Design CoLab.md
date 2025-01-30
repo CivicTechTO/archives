@@ -9,9 +9,7 @@ gitrepo: https://github.com/law-design-colab-ctto
 fromBreakout: true
 launched: false
 online: false
-dateActiveFirst: 
 dateActiveLast: 2021-11-02
-notes: 
 source: airtable original
 hacknight:
   - "[[258]]"

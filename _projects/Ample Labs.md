@@ -9,9 +9,7 @@ gitrepo: https://github.com/amplelabs
 fromBreakout: true
 launched: false
 online: false
-dateActiveFirst: 
 dateActiveLast: 2019-01-01
-notes: 
 source: airtable original
 hacknight:
   - "[[172]]"

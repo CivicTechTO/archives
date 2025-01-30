@@ -12,9 +12,7 @@ gitrepo: https://github.com/tomeshnet
 fromBreakout: true
 launched: true
 online: true
-dateActiveFirst: 
 dateActiveLast: 2016-11-14
-notes: 
 source: airtable original
 hacknight:
   - "[[50]]"

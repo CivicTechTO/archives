@@ -5,18 +5,13 @@ tags:
   - type/project
   - topic/parks
 website: https://chatgpt.com/g/g-UhmmS6Psr-toronto-parks-and-rec-bot
-slackChannel: 
-gitrepo: 
 fromBreakout: false
 launched: true
 online: true
-dateActiveFirst: 
-dateActiveLast: 
 notes: https://www.linkedin.com/posts/ryanmerkley_chatgpt-toronto-parks-and-rec-bot-activity-7130056310514974720-C9MD/?trk=public_profile_like_view
 source: airtable original
 hacknight:
   - "[[425]]"
-archive_status: ""
 community_status: unknown
 feature: false
 ---

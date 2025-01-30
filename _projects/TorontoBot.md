@@ -5,17 +5,12 @@ tags:
   - type/project
   - topic/open-government
 website: https://torontoverse.com/articles/a6_rscnPTmG_8auFQPvg7w/meet-torontobot-torontoverses-ai-powered-municipal
-slackChannel: 
 gitrepo: https://github.com/geomodulus/torontobot
 fromBreakout: false
 launched: true
 online: true
-dateActiveFirst: 
-dateActiveLast: 
 source: airtable original
 hacknight: "[[404]]"
-notes: 
-archive_status: ""
 community_status: unknown
 feature: false
 ---

@@ -11,8 +11,6 @@ fromBreakout: true
 launched: false
 online: false
 dateActiveFirst: 2024-02-20
-dateActiveLast: 
-notes: 
 source: airtable original
 hacknight: "[[445]]"
 archive_status: reviewing

@@ -5,7 +5,6 @@ tags:
   - type/project
   - topic/housing
   - topic/homelessness
-website: 
 slackChannel: "[proj-basecount](https://civictechto.slack.com/archives/C8VT5L32Q)"
 gitrepo: https://github.com/civictechto/basecount
 fromBreakout: true
@@ -13,7 +12,6 @@ launched: false
 online: false
 dateActiveFirst: 2018-01-01
 dateActiveLast: 2018-01-01
-notes: 
 source: airtable original
 hacknight:
   - "[[251]]"

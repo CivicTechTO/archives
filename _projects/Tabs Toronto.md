@@ -6,13 +6,11 @@ tags:
   - topic/open-government
 website: http://pwd.ca/tabs
 slackChannel: "[proj-tabs-toronto](https://civictechto.slack.com/archives/C01P1EV5F3J)"
-gitrepo: 
 fromBreakout: true
 launched: true
 online: true
 dateActiveFirst: 2021-01-01
 dateActiveLast: 2022-01-01
-notes: 
 source: airtable original
 hacknight:
   - "[[341]]"

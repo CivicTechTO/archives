@@ -8,13 +8,10 @@ tags:
   - topic/homelessness
 website: https://www.chalmerscards.com/
 slackChannel: "[openshelter-space](https://civictechto.slack.com/archives/C8ZRFH7JShttps://civictechto.slack.com/archives/C8ZRFH7JS)"
-gitrepo: 
 fromBreakout: true
 launched: true
 online: true
-dateActiveFirst: 
 dateActiveLast: 2022-01-01
-notes: 
 source: airtable original
 hacknight:
   - "[[220]]"
