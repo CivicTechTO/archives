@@ -18,7 +18,7 @@ hacknight:
   - "[[123]]"
   - "[[152]]"
   - "[[175]]"
-archive_status: reviewing
-community_status: open/active
+status_archive: reviewing
+status_community: open/active
 feature: true
 ---

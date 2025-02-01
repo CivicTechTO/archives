@@ -15,7 +15,7 @@ dateActiveLast:
 notes: 
 source: airtable original
 hacknight: 
-archive_status: backlog
-community_status: closed/abandoned
+status_archive: backlog
+status_community: closed/abandoned
 feature: false
 ---

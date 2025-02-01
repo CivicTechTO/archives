@@ -8,8 +8,8 @@ launched: false
 online: false
 dateActiveFirst: 2024-07-02
 source: airtable original
-archive_status: reviewing
-community_status: open/dormant
+status_archive: reviewing
+status_community: open/dormant
 feature: false
 ---
 

@@ -21,7 +21,7 @@ hacknight:
   - "[[122]]"
   - "[[138]]"
   - "[[171]]"
-archive_status: discovering
-community_status: closed/graduated
+status_archive: discovering
+status_community: closed/graduated
 feature: false
 ---

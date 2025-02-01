@@ -13,7 +13,7 @@ online: false
 dateActiveFirst: 2016-01-01
 dateActiveLast: 2016-01-01
 source: airtable original
-archive_status: backlog
-community_status: closed/abandoned
+status_archive: backlog
+status_community: closed/abandoned
 feature: false
 ---

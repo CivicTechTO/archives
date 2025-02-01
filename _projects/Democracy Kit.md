@@ -1,6 +1,6 @@
 ---
 name: Democracy Kit
-description: A not-for-profit startup working to open the democratic process by publishing a shared campaign resource package for councillor and trustee races
+description: A not-for-profit startup working to open the democratic process by publishing a shared campaign resource package for councillor and trustee races.
 tags:
   - type/project
   - topic/elections
@@ -17,7 +17,7 @@ hacknight:
   - "[[81]]"
   - "[[98]]"
   - "[[122]]"
-archive_status: discovering
-community_status: closed/graduated
+status_archive: discovering
+status_community: closed/graduated
 feature: false
 ---

@@ -7,9 +7,9 @@
     "speakers": "multitext",
     "online": "checkbox",
     "fromBreakout": "checkbox",
-    "showCase": "checkbox",
     "hacknight": "multitext",
     "project": "multitext",
-    "organization": "multitext"
+    "organization": "multitext",
+    "link_mentions": "multitext"
   }
 }

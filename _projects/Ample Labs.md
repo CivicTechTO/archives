@@ -13,8 +13,8 @@ dateActiveLast: 2019-01-01
 source: airtable original
 hacknight:
   - "[[172]]"
-archive_status: discovering
-community_status: closed/graduated
+status_archive: discovering
+status_community: closed/graduated
 feature: false
 social:
   instagram: https://www.instagram.com/amplelabs_co/

@@ -4,20 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "0bbd8c8d15eedc30",
+        "id": "4065d4f009c8fcbd",
         "type": "tabs",
         "children": [
           {
-            "id": "6fa340d201257a09",
+            "id": "cb4f2fa45571c642",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "utilities/automations/obsidian constructor - youtube description.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "obsidian constructor - youtube description"
+            }
+          },
+          {
+            "id": "63317f54b93ced5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_people/Chris Cowperthwaite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chris Cowperthwaite"
+            }
+          },
+          {
+            "id": "8a64ef546680e74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/Democracy Kit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Democracy Kit"
+            }
+          },
+          {
+            "id": "57583cf4cd373d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/Guerilla Archiving - Environmental Data Gathering Initiative (EDGI).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guerilla Archiving - Environmental Data Gathering Initiative (EDGI)"
+            }
+          },
+          {
+            "id": "98416f46dd2bb1c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "utilities/automations/obsidian constructor - youtube description.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "obsidian constructor - youtube description"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flag",
+                "query": "[\"via\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "utilities/automations/obsidian constructor - youtube description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for obsidian constructor - youtube description"
             }
           },
           {
@@ -133,7 +195,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -153,7 +215,8 @@
               "title": "Outline of 20"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,12 +233,28 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6fa340d201257a09",
+  "active": "98416f46dd2bb1c6",
   "lastOpenFiles": [
+    "utilities/automations/obsidian constructor - youtube description.md",
+    "_hacknights/81.md",
+    "_projects/Wild Combination.md",
+    "_data/hacknight-statistics.csv.md",
+    "_data/hacknight-statistics.csv",
+    "_data",
+    "_projects/Guerilla Archiving - Environmental Data Gathering Initiative (EDGI).md",
+    "_hacknights/454.md",
+    "_people/Mark Fox.md",
+    "_projects/Democracy Kit.md",
+    "_people/Katie Gilfillan.md",
+    "_people/Chris Cowperthwaite.md",
+    "utilities/reference/tools_reference.md",
+    "_people/Matt Price.md",
+    "_people/Dawn Walker.md",
+    "_hacknights/477.md",
+    "_people/Yumi Numata.md",
     "_hacknights/233.md",
     "_people/Lindsay Clarke.md",
     "_hacknights/115.md",
-    "utilities/automations/obsidian constructor - youtube description.md",
     "_hacknights/418.md",
     "_hacknights/468.md",
     "_people/Andrew Hladkyj.md",
@@ -184,20 +263,6 @@
     "_people/Natasha Tusikov.md",
     "_people/Joy Kogawa.md",
     "_people/John Richardson.md",
-    "_people/Jessica Sikora.md",
-    "_people/Dan Vanderkam.md",
-    "_people/Cara Chellew.md",
-    "_people/Ben Walters.md",
-    "_people/Amanda Clarke.md",
-    "_hacknights/171.md",
-    "_hacknights/184.md",
-    "_hacknights/197.md",
-    "_hacknights/225.md",
-    "_hacknights/226.md",
-    "_hacknights/247.md",
-    "_hacknights/249.md",
-    "_hacknights/253.md",
-    "_hacknights/270.md",
     "images/hacknight_images/generate-csv - 01.csv",
     "utilities/templates",
     "utilities/sources",
@@ -215,8 +280,6 @@
     "images/unaligned_other/orium IMG_3056.jpg",
     "images/unaligned_other/hacknight_83 - C.png",
     "images/unaligned_other",
-    "committee",
-    "images/supporter_images",
-    "images/hacknight_images"
+    "committee"
   ]
 }

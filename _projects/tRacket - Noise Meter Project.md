@@ -16,7 +16,7 @@ dateActiveLast: 2024-05-28
 source: airtable original
 hacknight:
   - "[[453]]"
-archive_status: reviewing
-community_status: open/active
+status_archive: reviewing
+status_community: open/active
 feature: false
 ---

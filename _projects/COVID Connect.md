@@ -11,7 +11,7 @@ online: false
 dateActiveFirst: 2020-01-01
 dateActiveLast: 2020-01-01
 source: airtable original
-archive_status: backlog
-community_status: closed/completed
+status_archive: backlog
+status_community: closed/completed
 feature: false
 ---

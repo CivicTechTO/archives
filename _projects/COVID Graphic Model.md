@@ -1,9 +1,9 @@
 ---
 name: COVID Graphic Model
-description:
+description: 
 tags:
   - type/project
-website:
+website: 
 slackChannel: "[covid-model](https://civictechto.slack.com/archives/C01CMV30M1P)"
 gitrepo: https://github.com/CivicTechTO/covid-model-code/
 fromBreakout: true
@@ -11,10 +11,10 @@ launched: false
 online: false
 dateActiveFirst: 2020-01-01
 dateActiveLast: 2022-05-19
-notes:
+notes: 
 source: airtable original
-hacknight:
-archive_status: backlog
-community_status: closed/completed
+hacknight: 
+status_archive: backlog
+status_community: closed/completed
 feature: false
 ---

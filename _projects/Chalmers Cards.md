@@ -16,7 +16,7 @@ source: airtable original
 hacknight:
   - "[[220]]"
   - "[[274]]"
-archive_status: discovering
-community_status: closed/graduated
+status_archive: discovering
+status_community: closed/graduated
 feature: false
 ---

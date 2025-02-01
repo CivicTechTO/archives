@@ -13,7 +13,7 @@ dateActiveLast:
 notes: 
 source: 
 hacknight: 
-archive_status: ""
-community_status: unknown
+status_archive: ""
+status_community: unknown
 feature: false
 ---

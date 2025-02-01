@@ -11,6 +11,6 @@ launched: true
 online: true
 source: airtable original
 hacknight: "[[404]]"
-community_status: unknown
+status_community: unknown
 feature: false
 ---

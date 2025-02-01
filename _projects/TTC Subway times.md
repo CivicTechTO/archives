@@ -15,7 +15,7 @@ source: airtable original
 hacknight:
   - "[[122]]"
   - "[[175]]"
-archive_status: backlog
-community_status: closed/completed
+status_archive: backlog
+status_community: closed/completed
 feature: false
 ---

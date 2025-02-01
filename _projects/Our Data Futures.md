@@ -12,7 +12,7 @@ dateActiveLast: 2020-07-19
 source: airtable original
 hacknight:
   - "[[258]]"
-archive_status: backlog
-community_status: closed/completed
+status_archive: backlog
+status_community: closed/completed
 feature: false
 ---

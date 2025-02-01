@@ -13,7 +13,7 @@ dateActiveLast: 2021-01-19
 notes: associated hacknight to be determined
 source: airtable original
 hacknight: "[[266]]"
-archive_status: backlog
-community_status: closed/completed
+status_archive: backlog
+status_community: closed/completed
 feature: false
 ---

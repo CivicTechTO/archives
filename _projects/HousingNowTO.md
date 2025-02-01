@@ -13,7 +13,7 @@ dateActiveLast:
 notes: https://twitter.com/HousingNowTO
 source: airtable original
 hacknight: "[[414]]"
-archive_status: ""
-community_status: unknown
+status_archive: ""
+status_community: unknown
 feature: false
 ---

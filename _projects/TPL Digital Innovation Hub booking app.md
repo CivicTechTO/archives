@@ -15,7 +15,7 @@ dateActiveLast: 2017-01-01
 notes: 
 source: airtable original
 hacknight: 
-archive_status: discovering
-community_status: closed/completed
+status_archive: discovering
+status_community: closed/completed
 feature: false
 ---

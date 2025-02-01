@@ -13,7 +13,7 @@ online: false
 dateActiveFirst: 2024-02-20
 source: airtable original
 hacknight: "[[445]]"
-archive_status: reviewing
-community_status: open/active
+status_archive: reviewing
+status_community: open/active
 feature: true
 ---

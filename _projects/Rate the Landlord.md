@@ -8,6 +8,6 @@ launched: true
 online: true
 source: airtable original
 hacknight: "[[402]]"
-community_status: unknown
+status_community: unknown
 feature: false
 ---

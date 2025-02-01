@@ -9,7 +9,7 @@ launched: false
 online: false
 dateActiveLast: 2023-11-21
 source: airtable original
-archive_status: backlog
-community_status: unknown
+status_archive: backlog
+status_community: unknown
 feature: false
 ---

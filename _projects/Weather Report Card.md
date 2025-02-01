@@ -7,6 +7,6 @@ fromBreakout: false
 launched: true
 online: false
 notes: https://twitter.com/weathrreportcrd
-community_status: unknown
+status_community: unknown
 feature: false
 ---

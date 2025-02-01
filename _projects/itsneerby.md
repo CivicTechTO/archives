@@ -15,7 +15,7 @@ online: true
 dateActiveLast: 2023-03-05
 source: airtable original
 hacknight: "[[383]]"
-archive_status: discovering
-community_status: closed/graduated
+status_archive: discovering
+status_community: closed/graduated
 feature: false
 ---

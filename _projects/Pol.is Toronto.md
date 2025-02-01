@@ -12,7 +12,7 @@ launched: false
 online: false
 dateActiveFirst: 2024-04-24
 source: airtable original
-archive_status: reviewing
-community_status: open/active
+status_archive: reviewing
+status_community: open/active
 feature: false
 ---

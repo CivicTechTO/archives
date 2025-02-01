@@ -14,7 +14,7 @@ dateActiveLast: 2022-01-01
 source: airtable original
 hacknight:
   - "[[341]]"
-archive_status: discovering
-community_status: closed/graduated
+status_archive: discovering
+status_community: closed/graduated
 feature: false
 ---

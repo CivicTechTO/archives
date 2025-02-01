@@ -13,7 +13,7 @@ dateActiveFirst: 2015-01-01
 dateActiveLast: 2015-01-01
 notes: https://github.com/CivicTechTO/tocityhall-app
 source: airtable original
-archive_status: backlog
-community_status: closed/abandoned
+status_archive: backlog
+status_community: closed/abandoned
 feature: false
 ---

@@ -10,8 +10,8 @@ online: false
 dateActiveFirst: 2016-01-01
 dateActiveLast: 2016-01-01
 source: airtable original
-archive_status: backlog
-community_status: unknown
+status_archive: backlog
+status_community: unknown
 feature: false
 ---
 https://www.toronto.ca/legdocs/mmis/2016/mm/bgrd/backgroundfile-96904.pdf

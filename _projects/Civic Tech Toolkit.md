@@ -15,7 +15,7 @@ dateActiveLast:
 notes: 
 source: airtable original
 hacknight: 
-archive_status: discovering
-community_status: open/dormant
+status_archive: discovering
+status_community: open/dormant
 feature: false
 ---

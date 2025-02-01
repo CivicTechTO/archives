@@ -7,6 +7,6 @@ fromBreakout: false
 launched: true
 online: true
 source: airtable original
-community_status: unknown
+status_community: unknown
 feature: false
 ---

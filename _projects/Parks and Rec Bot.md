@@ -12,7 +12,7 @@ notes: https://www.linkedin.com/posts/ryanmerkley_chatgpt-toronto-parks-and-rec-
 source: airtable original
 hacknight:
   - "[[425]]"
-community_status: unknown
+status_community: unknown
 feature: false
 ---
 |

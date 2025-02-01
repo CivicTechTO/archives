@@ -14,8 +14,8 @@ source: airtable original
 hacknight:
   - "[[258]]"
   - "[[151]]"
-archive_status: backlog
-community_status: closed/graduated
+status_archive: backlog
+status_community: closed/graduated
 feature: false
 social:
   twitter: https://x.com/lawdesigncolab
