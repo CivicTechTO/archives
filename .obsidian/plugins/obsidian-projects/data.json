@@ -260,7 +260,9 @@
     {
       "fieldConfig": {},
       "defaultName": "",
-      "templates": [],
+      "templates": [
+        "utilities/templates/template-hacknight.md"
+      ],
       "excludedNotes": [],
       "isDefault": true,
       "dataSource": {
@@ -334,19 +336,19 @@
               {
                 "field": "date",
                 "operator": "is-after",
-                "enabled": true,
+                "enabled": false,
                 "value": "2019-12-31"
               },
               {
                 "field": "date",
                 "operator": "is-before",
-                "enabled": true,
+                "enabled": false,
                 "value": "2021-01-01"
               },
               {
                 "field": "videoUrl",
                 "operator": "is-not-empty",
-                "enabled": true
+                "enabled": false
               }
             ]
           },
@@ -524,7 +526,9 @@
         }
       },
       "defaultName": "",
-      "templates": [],
+      "templates": [
+        "utilities/templates/template-organization.md"
+      ],
       "excludedNotes": [],
       "isDefault": false,
       "dataSource": {
@@ -656,6 +660,41 @@
       ],
       "id": "5050ab6a-67cd-47b5-8a07-02f3ecc31506",
       "name": "venues"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "_venues",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6a6f8863-6df0-4209-a3c5-23c41e5edca1",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "0f182b17-a6c3-4be1-8d7e-4cb378e5cc8a",
+      "name": "venue"
     }
   ],
   "archives": [],

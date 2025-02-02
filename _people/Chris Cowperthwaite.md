@@ -8,4 +8,3 @@ organization:
 project:
   - "[[Democracy Kit]]"
 ---
-
