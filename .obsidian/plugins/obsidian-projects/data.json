@@ -162,7 +162,27 @@
               "slackChannel",
               "hacknight"
             ],
-            "groupByField": "status_archive"
+            "groupByField": "status_archive",
+            "columns": {
+              "discovering": {
+                "records": [
+                  "_projects/itsneerby.md",
+                  "_projects/Women and Color.md",
+                  "_projects/Toronto Tech Mentoring.md",
+                  "_projects/Toronto Meshnet.md",
+                  "_projects/The Toronto Bids Archive.md",
+                  "_projects/The Carded.md",
+                  "_projects/Tabs Toronto.md",
+                  "_projects/TPL Digital Innovation Hub booking app.md",
+                  "_projects/Democracy Kit.md",
+                  "_projects/Civic Tech Toolkit.md",
+                  "_projects/Chalmers Signal (OpenShelter.space).md",
+                  "_projects/Chalmers Cards.md",
+                  "_projects/Budgetpedia.md",
+                  "_projects/Ample Labs.md"
+                ]
+              }
+            }
           },
           "filter": {
             "conjunction": "and",
