@@ -6,7 +6,8 @@ This repository contains historical data and resources related to past CivicTech
 
 ## 01. About
 
-Initializing a git archive – @jordyarms
+2025-02-11: Preparation for release – @jordyarms
+2025-01-24: Initializing a git archive – @jordyarms
 
 ## 02. Format
 
@@ -41,13 +42,11 @@ archive/
 ├── _people/          # Documentation of instances of speakers & organizers.
 ├── _projects/        # Documentation of instances of projects.
 ├── _venues/          # Documentation of instances of venues.
-├── images/           # Image assets.
 ├── utilities/
 │   ├── automations/ # Automation based tooling for archiving convenience.
 │   ├── reference/   # Reference matterials regarding archiving activity.
 │   ├── sources/     # Reuseable text snippets applicable to automations.
 │   └── templates/   # Markdown templates applicable to authoring efforts.
-├── .obsidian/       # An obsidian vault configuration files for convenience.
 └── README.md        # This file  -(·.·-)
 ```
 
