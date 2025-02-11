@@ -41,7 +41,7 @@ archive/
 ├── _people/          # Documentation of instances of speakers & organizers.
 ├── _projects/        # Documentation of instances of projects.
 ├── _venues/          # Documentation of instances of venues.
-├── images/          # Image assets.
+├── images/           # Image assets.
 ├── utilities/
 │   ├── automations/ # Automation based tooling for archiving convenience.
 │   ├── reference/   # Reference matterials regarding archiving activity.
@@ -67,7 +67,7 @@ Using git for version management ensures that the maintenance of this repository
 
 ## 05. 📜 License
 
-License is TBD. 👀
+The content is licensed with a CREATIVE COMMONS ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 License [CC BY-NC-SA 4.0 License](LICENSE), you can read more at [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## 06. 💬 Community & Support
 
