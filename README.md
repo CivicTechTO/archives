@@ -50,11 +50,11 @@ archive/
 └── README.md        # This file  -(·.·-)
 ```
 
-## 04. 🤝 Contributing
+## 04. Contributing
 
 Further interaction is possible through cloning the archive locally or making use of integrated edited tools.
 
-We welcome contributions to improve this archive. If you have materials not yet included, please submit a pull request.
+We welcome contributions to improve this archive. If you have materials not yet included, please submit a pull request or reach out via [\#org-archives](https://civictechto.slack.com/archives/C08A7SC2TC2).
 
 ### Git-based Version Management
 
@@ -64,14 +64,14 @@ Using git for version management ensures that the maintenance of this repository
 
 [Tools Reference](_utilities/reference/tools_reference.md)
 
-## 05. 📜 License
+## 05. License
 
 The content is licensed with a CREATIVE COMMONS ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 License [CC BY-NC-SA 4.0 License](LICENSE), you can read more at [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## 06. 💬 Community & Support
+## 06. Community & Support
 
 For questions, concerns or comments reach out to [\#org-archives](https://civictechto.slack.com/archives/C08A7SC2TC2) slack channel via the Civic Tech Toronto slack.
 
-## 07. 🏛️ Acknowledgments
+## 07. Acknowledgments
 
 Special thanks to all contributors, community members, speakers, and organizations supporting our CivicTech Toronto community.
