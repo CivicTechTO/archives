@@ -2,6 +2,6 @@
 tags:
   - type/data/opendata
 title: City of Brampton - Open Data
-description: 
-url: https://geohub.brampton.ca/pages/data
+description:
+website: https://geohub.brampton.ca/pages/data
 ---

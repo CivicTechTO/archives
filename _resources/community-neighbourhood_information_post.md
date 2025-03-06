@@ -3,6 +3,6 @@ tags:
   - type/community
 title: Neighbourhood Information Post
 description: Provides resources and support for various Toronto neighborhoods.
-url: https://www.nipost.org/
+website: https://www.nipost.org/
 ---
 

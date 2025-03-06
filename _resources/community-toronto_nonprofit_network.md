@@ -4,5 +4,5 @@ tags:
   - topic/nonprofit
 title: Toronto Nonprofit Network
 description:
-url: https://www.torontononprofits.org
+website: https://www.torontononprofits.org
 ---

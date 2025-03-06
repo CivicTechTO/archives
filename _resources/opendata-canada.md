@@ -2,6 +2,6 @@
 tags:
   - type/data/opendata
 title: Government of Canada - Open Government
-description: 
-url: https://open.canada.ca
+description:
+website: https://open.canada.ca
 ---
