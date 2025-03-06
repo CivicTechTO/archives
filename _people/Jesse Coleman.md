@@ -5,5 +5,5 @@ organization:
   - "[[City of Toronto]]"
 tags:
   - type/speaker
+  - is/featured
 ---
-

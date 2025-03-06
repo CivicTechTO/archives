@@ -2,7 +2,8 @@
 name: Judy Duncan
 tags:
   - type/speaker
-organization: 
+  - is/featured
+organization:
   - "[[ACORN]]"
 social:
   website: https://acorncanada.org

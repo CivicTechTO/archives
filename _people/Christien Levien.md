@@ -2,7 +2,8 @@
 name: Christien Levien
 tags:
   - type/speaker
-organization: 
+  - is/featured
+organization:
   - "[[LegalSwipe]]"
 social:
   website: http://www.legalswipe.com/

@@ -2,6 +2,7 @@
 name: Jolene Cushman
 tags:
   - type/speaker
+  - is/featured
 organization:
   - "[[Toronto Environmental Alliance]]"
 social:

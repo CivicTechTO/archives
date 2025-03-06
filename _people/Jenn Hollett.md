@@ -5,8 +5,8 @@ organization:
   - The Walrus
 tags:
   - type/speaker
+  - is/featured
 social:
   twitter: http://twitter.com/jenniferhollett
   website: http://jenniferhollett.com
 ---
-

@@ -4,6 +4,7 @@ description: Andy Best is the Open Government Manager for the City of Guelph. Hi
 role_description: Open Government Program Manager at the City of Guelph
 tags:
   - type/speaker
+  - is/featured
 organization:
   - "[[City of Guelph]]"
 social:
