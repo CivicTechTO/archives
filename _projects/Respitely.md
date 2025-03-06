@@ -1,16 +1,19 @@
 ---
 name: Respitely
-description: 
-tags: type/project topic/housing, topic/shelters
+description:
+tags:
+  - type/project
+  - topic/housing
+  - topic/shelters
 website: https://respitely.org
-slackChannel: 
-gitrepo: 
+slackChannel:
+gitrepo:
 fromBreakout: false
 launched: true
 online: true
-dateActiveFirst: 
-dateActiveLast: 
-notes: 
+dateActiveFirst:
+dateActiveLast:
+notes:
 source: airtable original
 hacknight: "[[450]]"
 status_archive: ""
