@@ -1,6 +1,6 @@
 ---
-name: Bryan Marcial
 tags:
   - type/speaker
+title: Bryan Marcial
 ---
 

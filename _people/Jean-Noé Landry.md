@@ -1,5 +1,4 @@
 ---
-name: Jean-Noé Landry
 tags:
   - type/speaker
   - is/featured
@@ -9,4 +8,5 @@ description: Jean-Noé is Executive Director of [Open North](http://opennorth.ca
 social:
   linkedin: https://www.linkedin.com/in/jeannoelandry/
   twitter: https://x.com/JeanNoeLandry1
+title: Jean-Noé Landry
 ---

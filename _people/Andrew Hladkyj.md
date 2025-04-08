@@ -1,6 +1,6 @@
 ---
-name: Andrew Hladkyj
 tags:
   - type/speaker
+title: Andrew Hladkyj
 ---
 

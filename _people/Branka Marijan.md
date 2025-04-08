@@ -1,5 +1,4 @@
 ---
-name: Branka Marijan
 role_description: Senior Researcher, Project Ploughshares
 organization:
   - "[[Project Ploughshares]]"
@@ -9,4 +8,5 @@ tags:
 social:
   linkedin: https://www.linkedin.com/in/brankamarijan/
   twitter: https://x.com/brankamarijan
+title: Branka Marijan
 ---

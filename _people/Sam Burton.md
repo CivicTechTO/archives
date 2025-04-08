@@ -1,5 +1,4 @@
 ---
-name: Sam Burton
 tags:
   - type/speaker
 role_description: Senior Policy Advisor at the Canadian Digital Service
@@ -10,5 +9,6 @@ organization:
   - "[[Canadian Digital Service]]"
 social:
   linkedin: https://www.linkedin.com/in/samanthaburton
+title: Sam Burton
 ---
 

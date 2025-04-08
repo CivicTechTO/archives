@@ -1,5 +1,4 @@
 ---
-name: Tris Lumley
 tags:
   - type/speaker
   - is/featured
@@ -9,4 +8,5 @@ organization:
 social:
   website: https://www.thinknpc.org
   twitter: https://twitter.com/trisml
+title: Tris Lumley
 ---

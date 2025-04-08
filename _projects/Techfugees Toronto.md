@@ -1,5 +1,4 @@
 ---
-name: Techfugees Toronto
 description: Techfugees Toronto related work stream - specific focus on refugee housing challenges in GTA
 tags:
   - type/project
@@ -16,4 +15,5 @@ hacknight: "[[266]]"
 status_archive: backlog
 status_community: closed/completed
 feature: false
+title: Techfugees Toronto
 ---

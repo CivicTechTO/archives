@@ -1,21 +1,21 @@
 ---
-name: Plain Language Project
-description: 
+description:
 tags:
   - type/project
-website: 
+website:
 slackChannel: "[proj-plainlanguage](https://civictechto.slack.com/archives/C0DRB24P9)"
-gitrepo: 
+gitrepo:
 fromBreakout: true
 launched: false
 online: false
 dateActiveFirst: 2015-01-01
 dateActiveLast: 2016-01-01
-notes: 
+notes:
 source: airtable original
 hacknight:
   - "[[20]]"
 status_archive: backlog
 status_community: closed/abandoned
 feature: false
+title: Plain Language Project
 ---

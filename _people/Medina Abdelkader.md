@@ -1,7 +1,7 @@
 ---
-name: Medina Abdelkader
 organization:
   - "[[CivicTechTO]]"
 tags:
   - type/organizer
+title: Medina Abdelkader
 ---

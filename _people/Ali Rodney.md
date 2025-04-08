@@ -1,6 +1,6 @@
 ---
-name: Ali Rodney
 tags:
   - type/speaker
+title: Ali Rodney
 ---
 

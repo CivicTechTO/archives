@@ -1,5 +1,4 @@
 ---
-name: Planning Applications
 description: Project to collect City of Toronto planning development applications
 tags:
   - type/project
@@ -16,4 +15,5 @@ hacknight:
 status_archive: backlog
 status_community: closed/abandoned
 feature: false
+title: Planning Applications
 ---

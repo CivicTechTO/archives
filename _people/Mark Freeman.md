@@ -1,6 +1,6 @@
 ---
-name: Mark Freeman
 tags:
   - type/speaker
+title: Mark Freeman
 ---
 

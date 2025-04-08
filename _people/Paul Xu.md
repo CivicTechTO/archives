@@ -1,5 +1,5 @@
 ---
-name: Paul Xu
 tags:
   - type/speaker
+title: Paul Xu
 ---

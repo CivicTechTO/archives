@@ -1,5 +1,4 @@
 ---
-name: Mallory Greene
 tags:
   - type/speaker
 description: |-
@@ -12,4 +11,5 @@ social:
   website: https://malloryjgreene.com
   twitter: https://x.com/malloryjgreene
 role_description: Mallory Greene, Head of Corporate Social Responsibility, Wealthsimple
+title: Mallory Greene
 ---

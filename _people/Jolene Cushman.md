@@ -1,5 +1,4 @@
 ---
-name: Jolene Cushman
 tags:
   - type/speaker
   - is/featured
@@ -8,4 +7,5 @@ organization:
 social:
   twitter: https://twitter.com/jocushman
   website: http://www.torontoenvironment.org
+title: Jolene Cushman
 ---

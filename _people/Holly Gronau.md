@@ -1,6 +1,6 @@
 ---
-name: Holly Gronau
 tags:
   - type/speaker
+title: Holly Gronau
 ---
 

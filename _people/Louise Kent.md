@@ -1,5 +1,4 @@
 ---
-name: Louise Kent
 tags:
   - type/speaker
 social:
@@ -7,5 +6,6 @@ social:
 role_description: Director, Member Experience
 organization:
   - "[[Girl Guides of Canada]]"
+title: Louise Kent
 ---
 

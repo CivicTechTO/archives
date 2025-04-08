@@ -1,5 +1,4 @@
 ---
-name: Mtr. Maggie Helwig
 tags:
   - type/speaker
 organization:
@@ -7,4 +6,5 @@ organization:
 social:
   website: https://maggiehelwig.com
   wikipedia: https://en.wikipedia.org/wiki/Maggie_Helwig
+title: Mtr. Maggie Helwig
 ---

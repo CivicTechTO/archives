@@ -1,6 +1,6 @@
 ---
-name: Marc Francoeur
 tags:
   - type/speaker
+title: Marc Francoeur
 ---
 

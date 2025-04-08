@@ -1,5 +1,4 @@
 ---
-name: Gabriella Teixeira
 tags:
   - type/speaker
   - type/organizer
@@ -8,4 +7,5 @@ social:
   twitter: https://x.com/gteix
 organization:
   - "[[CivicTechTO]]"
+title: Gabriella Teixeira
 ---

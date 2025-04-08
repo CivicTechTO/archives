@@ -1,5 +1,4 @@
 ---
-name: TTC Subway times
 description: A scraper to grab and publish TTC subway arrival times.
 tags:
   - type/project
@@ -18,4 +17,5 @@ hacknight:
 status_archive: backlog
 status_community: closed/completed
 feature: false
+title: TTC Subway times
 ---

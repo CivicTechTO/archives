@@ -1,7 +1,7 @@
 ---
-name: Marica Finchelstein
 organization:
   - "[[CivicTechTO]]"
 tags:
   - type/organizer
+title: Marica Finchelstein
 ---

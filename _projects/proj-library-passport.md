@@ -1,5 +1,4 @@
 ---
-name: "#proj-library-passport"
 description: "Library Passport: Explore libraries, check in, and track your journey with your kids.The interactive app for parents, children, and beyond, connecting book lovers to a world of knowledge—one library at a time."
 tags:
   - type/project
@@ -12,4 +11,5 @@ source: airtable original
 status_archive: backlog
 status_community: unknown
 feature: false
+title: "#proj-library-passport"
 ---

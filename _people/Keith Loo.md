@@ -1,5 +1,4 @@
 ---
-name: Keith Loo
 description: |-
   Keith is the Co-Founder and CEO of Skinopathy Inc, a Toronto-based medical technology startup using Artificial Intelligence, automation, and standardized health data to revolutionize how we practice medicine in Canada and abroad.
   As a scale-up adviser and venture builder, Keith has advised high-potential, high-scale businesses on their technology, revenue, and go-to-market strategies. He is heavily involved in the Canadian tech start-up community, and mentors, consults, and advises out of several incubators and accelerators in the GTA.
@@ -9,4 +8,5 @@ tags:
 social:
   twitter: https://twitter.com/thekeithloo
   linkedin: https://www.linkedin.com/in/visualpoet/
+title: Keith Loo
 ---

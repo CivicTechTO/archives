@@ -1,6 +1,6 @@
 ---
-name: Kate Zen
 tags:
   - type/speaker
+title: Kate Zen
 ---
 

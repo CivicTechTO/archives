@@ -1,5 +1,4 @@
 ---
-name: Joyce Murray
 description: |-
   Following a highly successful 25-year career building an international reforestation company and four years in the provincial cabinet of the B.C. Liberal government, the Honourable Joyce Murray was appointed the Minister of Digital Government on November 20, 2019.
   The Member of Parliament for Vancouver Quadra since 2008, Joyce served as the Parliamentary Secretary to the President of the Treasury Board following the 2015 general election, where she championed and helped lead the development of the Centre for Greening Government. Making federal government operations more environmentally friendly and efficient was a natural project for Joyce, whose entrepreneurial spirit was reinforced by building a company that has planted almost 1.5 billion trees – more than 500,000 of which she planted herself.
@@ -11,5 +10,6 @@ tags:
 social:
   wikipedia: https://en.wikipedia.org/wiki/Joyce_Murray
   twitter: https://x.com/joycemurray
+title: Joyce Murray
 ---
 

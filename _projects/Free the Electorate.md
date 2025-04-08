@@ -1,5 +1,4 @@
 ---
-name: Free the Electorate
 description: Make elections results more accessible outside of media cycles.
 tags:
   - type/project
@@ -16,4 +15,5 @@ source: airtable original
 status_archive: backlog
 status_community: closed/abandoned
 feature: false
+title: Free the Electorate
 ---

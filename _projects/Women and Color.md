@@ -1,5 +1,4 @@
 ---
-name: Women and Color
 description: An online community of talented women and people of color available for speaking opportunities at tech-related events.
 tags:
   - type/project
@@ -24,4 +23,5 @@ hacknight:
 status_archive: discovering
 status_community: closed/graduated
 feature: false
+title: Women and Color
 ---

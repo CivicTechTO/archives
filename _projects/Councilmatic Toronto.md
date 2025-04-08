@@ -1,20 +1,20 @@
 ---
-name: Councilmatic Toronto
-description: 
+description:
 tags:
   - type/project
-website: 
+website:
 slackChannel: "[proj-councilmatic-dev](https://civictechto.slack.com/archives/C0QTT4T2B)"
 gitrepo: https://github.com/tor-councilmatic
 fromBreakout: true
 launched: false
 online: false
-dateActiveFirst: 
+dateActiveFirst:
 dateActiveLast: 2018-07-17
-notes: 
+notes:
 source: airtable original
-hacknight: 
+hacknight:
 status_archive: backlog
 status_community: closed/completed
 feature: false
+title: Councilmatic Toronto
 ---

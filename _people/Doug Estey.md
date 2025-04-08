@@ -1,6 +1,6 @@
 ---
-name: Doug Estey
 tags:
   - type/speaker
+title: Doug Estey
 ---
 

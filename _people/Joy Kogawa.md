@@ -1,5 +1,4 @@
 ---
-name: Joy Kogawa
 tags:
   - type/speaker
 description: |-
@@ -7,5 +6,6 @@ description: |-
   In 1986, Kogawa was made a Member of the Order of Canada; in 2006, she was made a Member of the Order of British Columbia. In 2010, the Japanese government honored Kogawa with the Order of the Rising Sun ‘for her contribution to the understanding and preservation of Japanese Canadian history’.
 social:
   wikipedia: https://en.wikipedia.org/wiki/Joy_Kogawa
+title: Joy Kogawa
 ---
 

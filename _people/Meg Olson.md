@@ -1,6 +1,6 @@
 ---
-name: Meg Olson
 tags:
   - type/speaker
+title: Meg Olson
 ---
 

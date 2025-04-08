@@ -1,5 +1,4 @@
 ---
-name: Sacha Noukhovitch
 description: President and Editor-in-Chief at STEM Fellowship
 organization:
   - "[[STEM Fellowship]]"
@@ -8,5 +7,6 @@ tags:
 social:
   linkedin: https://www.linkedin.com/in/noukhovitch/
   website: https://live.stemfellowship.org
+title: Sacha Noukhovitch
 ---
 

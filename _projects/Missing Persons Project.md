@@ -1,5 +1,4 @@
 ---
-name: Missing Persons Project
 description: This application facilitates the identification of missing persons by comparing physical characteristics and personal information with unidentified remains. This application streamlines the identification process, reducing manual cross-referencing and time-consuming searches.
 tags:
   - type/project
@@ -17,4 +16,5 @@ hacknight: "[[412]]"
 status_archive: backlog
 status_community: closed/completed
 feature: false
+title: Missing Persons Project
 ---

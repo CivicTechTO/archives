@@ -1,5 +1,4 @@
 ---
-name: Bianca Wylie
 tags:
   - type/speaker
   - type/organizer
@@ -8,4 +7,5 @@ social:
 organization:
   - "[[City of Toronto]]"
   - "[[CivicTechTO]]"
+title: Bianca Wylie
 ---

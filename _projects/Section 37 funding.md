@@ -1,5 +1,4 @@
 ---
-name: Section 37 funding
 description: For discussion of a potential project related to Section 37 funding.
 tags:
   - type/project
@@ -13,6 +12,7 @@ source: airtable original
 status_archive: backlog
 status_community: unknown
 feature: false
+title: Section 37 funding
 ---
 https://www.toronto.ca/legdocs/mmis/2016/mm/bgrd/backgroundfile-96904.pdf
 https://www.toronto.ca/city-government/planning-development/official-plan-guidelines/section-37-benefits/

@@ -1,5 +1,4 @@
 ---
-name: Alex Jung
 tags:
   - type/speaker
   - type/organizer
@@ -9,4 +8,5 @@ project:
   - "[[CodeAcross]]"
 organization:
   - "[[CivicTechTO]]"
+title: Alex Jung
 ---

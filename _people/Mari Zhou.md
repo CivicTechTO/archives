@@ -1,5 +1,4 @@
 ---
-name: Mari Zhou
 tags:
   - type/speaker
   - type/organizer
@@ -10,5 +9,6 @@ organization:
   - "[[CivicTechTO]]"
 social:
   linkedin: https://www.linkedin.com/in/marizhou/
+title: Mari Zhou
 ---
 

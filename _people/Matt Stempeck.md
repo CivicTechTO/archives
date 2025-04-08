@@ -1,5 +1,4 @@
 ---
-name: Matt Stempeck
 tags:
   - type/speaker
 role_description: Senior Researcher, Civic Hall NYC
@@ -7,4 +6,5 @@ description: Matt Stempeck has been researching and building civic technology si
 social:
   linkedin: https://www.linkedin.com/in/mattstempeck/
   website: https://civictech.guide
+title: Matt Stempeck
 ---

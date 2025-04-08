@@ -1,5 +1,4 @@
 ---
-name: Anna Fareed
 organization:
   - "[[CivicTechTO]]"
 tags:
@@ -7,4 +6,5 @@ tags:
 aliases:
   - Anna Skrypnychenko
   - Anuta Skrypnychenko
+title: Anna Fareed
 ---

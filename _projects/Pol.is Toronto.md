@@ -1,5 +1,4 @@
 ---
-name: Pol.is Toronto
 description: Polis is a good engagement tool for large-scale, open-ended feedback gathering.
 tags:
   - type/project
@@ -15,4 +14,5 @@ source: airtable original
 status_archive: reviewing
 status_community: open/active
 feature: false
+title: Pol.is Toronto
 ---

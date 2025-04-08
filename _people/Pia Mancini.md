@@ -1,5 +1,4 @@
 ---
-name: Pia Mancini
 tags:
   - type/speaker
 description: |-
@@ -11,4 +10,5 @@ social:
   wikipedia: https://en.wikipedia.org/wiki/Pia_Mancini
 organization:
   - '[[Open Collective]]'
+title: Pia Mancini
 ---

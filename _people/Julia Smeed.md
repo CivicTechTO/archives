@@ -1,6 +1,6 @@
 ---
-name: Julia Smeed
 tags:
   - type/speaker
+title: Julia Smeed
 ---
 

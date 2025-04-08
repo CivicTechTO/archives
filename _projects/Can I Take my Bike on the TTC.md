@@ -1,5 +1,4 @@
 ---
-name: Can I Take my Bike on the TTC
 description:
 tags:
   - type/project
@@ -19,4 +18,5 @@ hacknight:
 status_archive: ""
 status_community: unknown
 feature: false
+title: Can I Take my Bike on the TTC
 ---

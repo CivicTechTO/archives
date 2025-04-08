@@ -1,6 +1,6 @@
 ---
-name: Teresa Liu
 tags:
   - type/speaker
+title: Teresa Liu
 ---
 

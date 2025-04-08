@@ -1,5 +1,4 @@
 ---
-name: Afraj Gill
 tags:
   - type/speaker
 description: |-
@@ -8,4 +7,5 @@ description: |-
 social:
   linkedin: https://www.linkedin.com/in/afraj/
   twitter: https://x.com/afrajgill
+title: Afraj Gill
 ---

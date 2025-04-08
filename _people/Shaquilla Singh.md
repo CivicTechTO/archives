@@ -1,7 +1,7 @@
 ---
-name: Shaquilla Singh
 tags:
   - type/organizer
 organization:
   - "[[CivicTechTO]]"
+title: Shaquilla Singh
 ---

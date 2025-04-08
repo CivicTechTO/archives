@@ -1,5 +1,4 @@
 ---
-name: Chalmers Cards
 description: Chalmers Cards are wooden information booklets that are designed to be given out at Toronto's emergency shelters and to folks sleeping on the streets of Toronto. They explain how to access social services!
 tags:
   - type/project
@@ -19,4 +18,5 @@ hacknight:
 status_archive: discovering
 status_community: closed/graduated
 feature: false
+title: Chalmers Cards
 ---

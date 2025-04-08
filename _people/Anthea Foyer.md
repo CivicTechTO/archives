@@ -1,5 +1,4 @@
 ---
-name: Anthea Foyer
 tags:
   - type/speaker
 social:
@@ -8,4 +7,5 @@ social:
 organization:
   - "[[City of Mississauga]]"
 role_description: Digital Strategy & Engagement
+title: Anthea Foyer
 ---

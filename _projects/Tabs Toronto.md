@@ -1,5 +1,4 @@
 ---
-name: Tabs Toronto
 description: Tabs sends email alerts for new Toronto city council/committee agenda items.
 tags:
   - type/project
@@ -17,4 +16,5 @@ hacknight:
 status_archive: discovering
 status_community: closed/graduated
 feature: false
+title: Tabs Toronto
 ---

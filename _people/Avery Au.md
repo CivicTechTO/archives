@@ -1,5 +1,4 @@
 ---
-name: Avery Au
 tags:
   - type/speaker
   - type/organizer
@@ -10,4 +9,5 @@ social:
   twitter: https://x.com/lawdesigncolab
 organization:
   - "[[CivicTechTO]]"
+title: Avery Au
 ---

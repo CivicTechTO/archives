@@ -1,6 +1,6 @@
 ---
-name: Lee-Michael Pronko
 tags:
   - type/speaker
+title: Lee-Michael Pronko
 ---
 

@@ -1,6 +1,6 @@
 ---
-name: Sabreena Delhon
 tags:
   - type/speaker
+title: Sabreena Delhon
 ---
 

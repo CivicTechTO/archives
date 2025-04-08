@@ -1,6 +1,6 @@
 ---
-name: Kevin Branigan
 tags:
   - type/speaker
+title: Kevin Branigan
 ---
 

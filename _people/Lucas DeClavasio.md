@@ -1,6 +1,6 @@
 ---
-name: Lucas DeClavasio
 tags:
   - type/speaker
+title: Lucas DeClavasio
 ---
 

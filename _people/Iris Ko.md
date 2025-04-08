@@ -1,6 +1,6 @@
 ---
-name: Iris Ko
 tags:
   - type/speaker
+title: Iris Ko
 ---
 

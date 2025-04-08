@@ -1,5 +1,4 @@
 ---
-name: Law & Design CoLab
 description: The Law & Design CoLab is a volunteer-led nonprofit based in Toronto. It conceived, scoped, and built digital products by engaging with legal experts and community stakeholders.
 tags:
   - type/project
@@ -19,4 +18,5 @@ status_community: closed/graduated
 feature: false
 social:
   twitter: https://x.com/lawdesigncolab
+title: Law & Design CoLab
 ---

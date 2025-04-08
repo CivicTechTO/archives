@@ -1,5 +1,4 @@
 ---
-name: Andrew Do
 tags:
   - type/speaker
   - type/organizer
@@ -9,5 +8,6 @@ organization:
   - "[[CivicTechTO]]"
 social:
   twitter: https://x.com/adoaboutthings
+title: Andrew Do
 ---
 

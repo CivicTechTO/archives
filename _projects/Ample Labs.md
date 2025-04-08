@@ -1,5 +1,5 @@
 ---
-name: Ample Labs
+title: Ample Labs
 description: Ample Labs is a social start-up using AI & data to help cities prevent homelessness.
 tags:
   - type/project

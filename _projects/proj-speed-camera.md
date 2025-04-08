@@ -1,20 +1,20 @@
 ---
-name: "#proj-speed-camera"
-description: 
+description:
 tags:
   - type/project
-website: 
+website:
 slackChannel: "[proj-speed-camera](https://civictechto.slack.com/archives/C03TR7QTR2A)"
-gitrepo: 
+gitrepo:
 fromBreakout: true
 launched: false
 online: false
 dateActiveFirst: 2022-06-16
 dateActiveLast: 2022-09-11
-notes: 
+notes:
 source: airtable original
-hacknight: 
+hacknight:
 status_archive: backlog
 status_community: closed/abandoned
 feature: false
+title: "#proj-speed-camera"
 ---

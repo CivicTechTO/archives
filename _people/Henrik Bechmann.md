@@ -1,5 +1,4 @@
 ---
-name: Henrik Bechmann
 description: Project lead of Budgetpedia
 tags:
   - type/speaker
@@ -13,4 +12,5 @@ social:
   medium: https://medium.com/@henrikbechmann
 organization:
   - "[[CivicTechTO]]"
+title: Henrik Bechmann
 ---

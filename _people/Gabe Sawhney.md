@@ -1,5 +1,4 @@
 ---
-name: Gabe Sawhney
 description: Gabe Sawhney is one of the co-founders of Civic Tech Toronto.
 tags:
   - type/speaker
@@ -10,4 +9,5 @@ project:
   - "[[The Toronto Bids Archive]]"
   - "[[tRacket - Noise Meter Project]]"
   - "[[Tabs Toronto]]"
+title: Gabe Sawhney
 ---

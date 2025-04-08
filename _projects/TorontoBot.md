@@ -1,5 +1,4 @@
 ---
-name: TorontoBot
 description: TorontoBot is a tool for querying Toronto Open Data. It answers questions either on the command line or as a Discord bot.
 tags:
   - type/project
@@ -13,4 +12,5 @@ source: airtable original
 hacknight: "[[404]]"
 status_community: unknown
 feature: false
+title: TorontoBot
 ---

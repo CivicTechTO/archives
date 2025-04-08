@@ -1,6 +1,6 @@
 ---
-name: Corinna Prior
 tags:
   - type/speaker
+title: Corinna Prior
 ---
 

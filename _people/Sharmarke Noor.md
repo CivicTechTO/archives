@@ -1,5 +1,4 @@
 ---
-name: Sharmarke Noor
 tags:
   - type/speaker
 social:
@@ -7,4 +6,5 @@ social:
   website: https://sharmarkedesign.co
 project:
   - "[[The Carded]]"
+title: Sharmarke Noor
 ---

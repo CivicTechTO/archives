@@ -1,5 +1,4 @@
 ---
-name: Michelle Senayah
 tags:
   - type/speaker
 role_description: Founder and Executive Director
@@ -8,4 +7,5 @@ organization:
   - "[[The Laneway Project]]"
 social:
   website: https://www.thelanewayproject.ca/blog/on-the-passing-of-michelle-senayah-founder-amp-executive-director-of-the-laneway-project
+title: Michelle Senayah
 ---

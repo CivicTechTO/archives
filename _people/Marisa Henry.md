@@ -1,6 +1,6 @@
 ---
-name: Marisa Henry
 tags:
   - type/speaker
+title: Marisa Henry
 ---
 

@@ -1,5 +1,4 @@
 ---
-name: Respitely
 description:
 tags:
   - type/project
@@ -19,4 +18,5 @@ hacknight: "[[450]]"
 status_archive: ""
 status_community: unknown
 feature: false
+title: Respitely
 ---

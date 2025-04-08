@@ -1,7 +1,7 @@
 ---
-name: Mahmoud Allouch
 organization:
   - "[[CivicTechTO]]"
 tags:
   - type/organizer
+title: Mahmoud Allouch
 ---

@@ -1,5 +1,4 @@
 ---
-name: Budgetpedia
 description: Making the City of Toronto budget more accessible to promote informed debate; advocate for better budgeting
 tags:
   - type/project
@@ -20,4 +19,5 @@ hacknight:
 status_archive: discovering
 status_community: closed/graduated
 feature: true
+title: Budgetpedia
 ---

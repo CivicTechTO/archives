@@ -1,6 +1,6 @@
 ---
-name: Jerry Wilson
 tags:
   - type/speaker
+title: Jerry Wilson
 ---
 

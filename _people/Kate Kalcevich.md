@@ -1,5 +1,4 @@
 ---
-name: Kate Kalcevich
 tags:
   - type/speaker
 role_description: Digital Accessibility Manager at Canada Post, Certified Web Accessibility Specialist
@@ -10,4 +9,5 @@ social:
 organization:
   - "[[Canada Post]]"
   - "[[Government of Ontario]]"
+title: Kate Kalcevich
 ---

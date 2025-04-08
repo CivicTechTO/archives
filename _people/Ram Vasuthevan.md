@@ -1,5 +1,4 @@
 ---
-name: Ram Vasuthevan
 description: Software engineer working on applying technology to the world.
 tags:
   - type/speaker
@@ -8,4 +7,5 @@ social:
   linkedin: https://www.linkedin.com/in/RamVasuthevan
   github: https://github.com/RamVasuthevan
   website: https://ramvasuthevan.ca
+title: Ram Vasuthevan
 ---

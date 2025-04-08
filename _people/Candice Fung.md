@@ -1,6 +1,6 @@
 ---
-name: Candice Fung
 tags:
   - type/speaker
+title: Candice Fung
 ---
 

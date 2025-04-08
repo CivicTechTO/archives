@@ -1,6 +1,6 @@
 ---
-name: Derek Alton
 tags:
   - type/speaker
+title: Derek Alton
 ---
 

@@ -17,7 +17,7 @@ Topic: `=this.reference.topic`
 
 
 Speakers:
-`= choice(length(this.reference.speakers) > 1, join(map(this.reference.speakers, (x) => x.name + " – " + x.description), "<br/><br/><br/>"), map(this.reference.speakers, (x) => x.name + " – " + x.description))`
+`= choice(length(this.reference.speakers) > 1, join(map(this.reference.speakers, (x) => x.title + " – " + x.description), "<br/><br/><br/>"), map(this.reference.speakers, (x) => x.title + " – " + x.description))`
 
 
 `= [[about us]].contents`

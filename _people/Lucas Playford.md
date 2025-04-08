@@ -1,5 +1,4 @@
 ---
-name: Lucas Playford
 tags:
   - type/speaker
 description: |-
@@ -8,4 +7,5 @@ description: |-
   He received his Masters of Science in Environmental Management and Policy from the International Institute for Industrial Environmental Economics (IIIEE) at Lund University, Sweden
 social:
   linkedin: https://www.linkedin.com/in/lucasplayford/
+title: Lucas Playford
 ---

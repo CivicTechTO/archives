@@ -1,5 +1,4 @@
 ---
-name: tobus.ca
 description: A extremely fast and simple website, parsing TTC's ETA data.
 tags: type/project topic/transport
 website: https://tobus.ca/
@@ -11,4 +10,5 @@ source: airtable original
 hacknight: "[[409]]"
 status_community: unknown
 feature: false
+title: tobus.ca
 ---

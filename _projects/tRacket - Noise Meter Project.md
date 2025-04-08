@@ -1,5 +1,4 @@
 ---
-name: tRacket - Noise Meter Project
 description: We’re making it easy and affordable to collect data about noise
 tags:
   - type/project
@@ -19,4 +18,5 @@ hacknight:
 status_archive: reviewing
 status_community: open/active
 feature: false
+title: tRacket - Noise Meter Project
 ---

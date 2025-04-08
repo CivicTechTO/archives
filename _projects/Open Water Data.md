@@ -1,5 +1,4 @@
 ---
-name: Open Water Data
 description: "For open water swimmers, paddleboarders, surfers and other beach-goers to check beach conditions. "
 tags:
   - type/project
@@ -14,4 +13,5 @@ source: airtable original
 hacknight: "[[406]]"
 status_community: unknown
 feature: false
+title: Open Water Data
 ---

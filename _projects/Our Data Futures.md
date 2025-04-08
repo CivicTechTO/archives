@@ -1,5 +1,4 @@
 ---
-name: Our Data Futures
 description: Collaboration to develop a community perspective on "data trusts" and create education materials around the topic of "data trusts".
 tags:
   - type/project
@@ -15,4 +14,5 @@ hacknight:
 status_archive: backlog
 status_community: closed/completed
 feature: false
+title: Our Data Futures
 ---

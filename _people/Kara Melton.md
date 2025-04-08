@@ -1,7 +1,7 @@
 ---
-name: Kara Melton
 organization:
   - "[[CivicTechTO]]"
 tags:
   - type/organizer
+title: Kara Melton
 ---

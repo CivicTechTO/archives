@@ -1,5 +1,4 @@
 ---
-name: Basecount
 description: Mapping the capacity and current occupancy of City of Toronto emergency shelters
 tags:
   - type/project
@@ -18,4 +17,5 @@ hacknight:
 status_archive: backlog
 status_community: closed/completed
 feature: false
+title: Basecount
 ---

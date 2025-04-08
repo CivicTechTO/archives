@@ -1,6 +1,6 @@
 ---
-name: Robinder Uppal
 tags:
   - type/speaker
+title: Robinder Uppal
 ---
 

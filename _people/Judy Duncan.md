@@ -1,5 +1,4 @@
 ---
-name: Judy Duncan
 tags:
   - type/speaker
   - is/featured
@@ -8,4 +7,5 @@ organization:
 social:
   website: https://acorncanada.org
   twitter: https://twitter.com/acornjude
+title: Judy Duncan
 ---

@@ -1,5 +1,4 @@
 ---
-name: Danforth Dad
 description: Toronto playground map and reviews
 tags: type/project topic/public-parks
 website: https://danforthdad.com
@@ -10,4 +9,5 @@ source: airtable original
 hacknight: "[[436]]"
 status_community: unknown
 feature: false
+title: Danforth Dad
 ---

@@ -1,5 +1,4 @@
 ---
-name: Toronto Tree Inequities
 description: An analysis of the relationship between Toronto neighbourhoods' street tree density, income, and visible minority population, utilizing spatial autoregression methods.
 tags:
   - type/project
@@ -13,4 +12,5 @@ source: airtable original
 hacknight: "[[375]]"
 status_community: unknown
 feature: false
+title: Toronto Tree Inequities
 ---

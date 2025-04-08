@@ -1,5 +1,4 @@
 ---
-name: Open Cabinet
 description: Info on what cabinet is doing in Ottawa can be hard to find and use. We’re trying to make it easy.
 tags:
   - type/project
@@ -18,4 +17,5 @@ hacknight:
 status_archive: backlog
 status_community: closed/completed
 feature: false
+title: Open Cabinet
 ---

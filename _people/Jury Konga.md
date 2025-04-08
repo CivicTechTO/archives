@@ -1,5 +1,4 @@
 ---
-name: Jury Konga
 tags:
   - type/speaker
 description: |-
@@ -10,4 +9,5 @@ social:
   twitter: https://twitter.com/jkonga
 organization:
   - "[[Government of Ontario]]"
+title: Jury Konga
 ---

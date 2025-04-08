@@ -1,5 +1,4 @@
 ---
-name: "#refugeeswelcome"
 description: Collecting all the amazing resources Torontonians have been providing our refugee community. Covering Peel, Toronto and York regions.
 tags:
   - type/project
@@ -18,4 +17,5 @@ feature: false
 social:
   twitter: https://x.com/welcomehometo
   linkedin: https://www.linkedin.com/company/welcomehometo/about/
+title: "#refugeeswelcome"
 ---

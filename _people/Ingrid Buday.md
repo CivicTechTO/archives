@@ -7,4 +7,5 @@ social:
   twitter: https://twitter.com/sippindata
 organization:
   - "[[No More Noise Toronto]]"
+title: null
 ---

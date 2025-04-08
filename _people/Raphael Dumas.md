@@ -1,5 +1,4 @@
 ---
-name: Raphael Dumas
 tags:
   - type/speaker
   - type/organizer
@@ -12,4 +11,5 @@ organization:
 social:
   twitter: https://x.com/dumasraphael?lang=en
   mastodon: https://mstdn.ca/@rad
+title: Raphael Dumas
 ---

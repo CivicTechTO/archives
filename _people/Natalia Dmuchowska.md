@@ -1,6 +1,6 @@
 ---
-name: Natalia Dmuchowska
 tags:
   - type/speaker
+title: Natalia Dmuchowska
 ---
 

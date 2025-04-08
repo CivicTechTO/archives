@@ -1,7 +1,7 @@
 ---
-name: James Teow
 organization:
   - "[[CivicTechTO]]"
 tags:
   - type/organizer
+title: James Teow
 ---

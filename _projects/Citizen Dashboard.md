@@ -1,5 +1,4 @@
 ---
-name: Citizen Dashboard
 description: Figuring out how to make city council's activity accessible! Currently looking to get city council minutes into Open Data, maybe make a Citizen Dashboard out of it
 tags:
   - type/project
@@ -16,4 +15,5 @@ hacknight: "[[445]]"
 status_archive: reviewing
 status_community: open/active
 feature: true
+title: Citizen Dashboard
 ---

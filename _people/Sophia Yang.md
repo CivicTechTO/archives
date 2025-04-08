@@ -1,5 +1,4 @@
 ---
-name: Sophia Yang
 tags:
   - type/speaker
 description: |-
@@ -9,4 +8,5 @@ description: |-
 social:
   linkedin: https://www.linkedin.com/in/sophiaayangg/
   website: https://www.threadingchange.org
+title: Sophia Yang
 ---

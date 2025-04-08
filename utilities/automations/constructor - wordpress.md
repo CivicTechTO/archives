@@ -20,7 +20,7 @@ Hacknight #`=this.reference.number` with `=this.reference.speakers`: `=this.refe
 
 **Speakers:**
 
-`= choice(length(this.reference.speakers) > 1, join(map(this.reference.speakers, (x) => x.name + " – " + x.description), "<br/><br/><br/>"), map(this.reference.speakers, (x) => x.name + " – " + x.description))`
+`= choice(length(this.reference.speakers) > 1, join(map(this.reference.speakers, (x) => x.title + " – " + x.description), "<br/><br/><br/>"), map(this.reference.speakers, (x) => x.title + " – " + x.description))`
 
 
 **Venue:** `=this.reference.venue`

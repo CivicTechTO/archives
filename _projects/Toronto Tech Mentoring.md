@@ -1,5 +1,4 @@
 ---
-name: Toronto Tech Mentoring
 description: Aims to help homeless and at-risk youth escape the cycle of poverty by helping them to use tech skills.
 tags:
   - type/project
@@ -19,5 +18,6 @@ hacknight:
 status_archive: discovering
 status_community: closed/graduated
 feature: true
+title: Toronto Tech Mentoring
 ---
 Formerly the Accelerator Project

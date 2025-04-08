@@ -1,5 +1,4 @@
 ---
-name: Open Data Profiler
 description: Building a profiler for city of toronto open datasets
 tags:
   - type/project
@@ -15,4 +14,5 @@ source: airtable original
 status_archive: backlog
 status_community: unknown
 feature: false
+title: Open Data Profiler
 ---

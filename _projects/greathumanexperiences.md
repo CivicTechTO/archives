@@ -1,20 +1,20 @@
 ---
-name: "#greathumanexperiences"
-description: 
+description:
 tags:
   - type/project
-website: 
+website:
 slackChannel: "[greathumanexperiences](https://civictechto.slack.com/archives/C0L6HA9RD)"
-gitrepo: 
+gitrepo:
 fromBreakout: true
 launched: false
 online: false
-dateActiveFirst: 
+dateActiveFirst:
 dateActiveLast: 2016-02-10
-notes: 
+notes:
 source: airtable original
-hacknight: 
+hacknight:
 status_archive: backlog
 status_community: closed/abandoned
 feature: false
+title: "#greathumanexperiences"
 ---
