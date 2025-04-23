@@ -1,5 +1,5 @@
 ---
-name: 
+title: 
 organization:
   - "[[CivicTechTO]]"
 tags:

@@ -1,5 +1,5 @@
 ---
-name: 
+title: 
 description: 
 tags:
   - type/speaker
