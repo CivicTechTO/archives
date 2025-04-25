@@ -19,4 +19,7 @@ feature: false
 social:
   twitter: https://x.com/lawdesigncolab
 title: Law & Design CoLab
+team:
+  - "[[Avery Au]]"
+  - "[[Mari Zhou]]"
 ---

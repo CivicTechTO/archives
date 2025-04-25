@@ -20,4 +20,7 @@ status_archive: discovering
 status_community: closed/graduated
 feature: false
 title: Democracy Kit
+team:
+  - "[[Chris Cowperthwaite]]"
+  - "[[Micah Richardson]]"
 ---

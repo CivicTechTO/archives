@@ -2,8 +2,6 @@
 tags:
   - type/speaker
   - type/organizer
-project:
-  - "[[Law & Design CoLab]]"
 organization:
   - "[[Citizen Lab]]"
   - "[[CivicTechTO]]"

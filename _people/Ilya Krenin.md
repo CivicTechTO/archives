@@ -5,7 +5,5 @@ tags:
   - type/organizer
 organization:
   - "[[CivicTechTO]]"
-project:
-  - "[[Civic Dashboard]]"
 title: Ilya Krenin
 ---

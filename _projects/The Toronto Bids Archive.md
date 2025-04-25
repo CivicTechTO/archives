@@ -8,4 +8,7 @@ status_archive: discovering
 title: The Toronto Bids Archive
 team:
   - "[[Gabe Sawhney]]"
+  - "[[Alex Olson]]"
+  - "[[Clyne]]"
+  - "[[Saheel Acharya]]"
 ---

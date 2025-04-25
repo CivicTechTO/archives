@@ -18,4 +18,8 @@ status_community: closed/graduated
 feature: false
 social:
   instagram: https://www.instagram.com/amplelabs_co/
+team:
+  - "[[CG Chen]]"
+  - "[[Matt Wong]]"
+  - "[[Will Meneray]]"
 ---

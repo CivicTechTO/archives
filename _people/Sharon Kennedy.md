@@ -7,8 +7,6 @@ tags:
   - type/organizer
 organization:
   - "[[CivicTechTO]]"
-project:
-  - "[[Women and Color]]"
 social:
   github: https://github.com/s-kennedy
 title: Sharon Kennedy

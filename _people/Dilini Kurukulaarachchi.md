@@ -6,9 +6,6 @@ tags:
 organization:
   - "[[Government of Ontario]]"
   - "[[CivicTechTO]]"
-project:
-  - "[[Toronto Tech Mentoring]]"
-  - "[[Basecount]]"
 social:
   linkedin: https://www.linkedin.com/in/dilinik/
 title: Dilini Kurukulaarachchi

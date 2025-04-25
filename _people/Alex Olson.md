@@ -8,7 +8,5 @@ organization:
 tags:
   - type/speaker
   - type/organizer
-project:
-  - "[[The Toronto Bids Archive]]"
 title: Alex Olson
 ---

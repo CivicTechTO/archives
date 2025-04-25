@@ -16,4 +16,7 @@ status_archive: backlog
 status_community: closed/completed
 feature: false
 title: Guerilla Archiving - Environmental Data Gathering Initiative (EDGI)
+team:
+  - "[[Dawn Walker]]"
+  - "[[Matt Price]]"
 ---

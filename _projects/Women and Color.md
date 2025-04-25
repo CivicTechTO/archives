@@ -24,4 +24,9 @@ status_archive: discovering
 status_community: closed/graduated
 feature: false
 title: Women and Color
+team:
+  - "[[Francesca Oprandi]]"
+  - "[[Mohammed Asaduallah]]"
+  - "[[Sheau Lih Vong]]"
+  - "[[Sharon Kennedy]]"
 ---

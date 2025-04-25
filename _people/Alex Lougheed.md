@@ -6,7 +6,5 @@ organization:
 tags:
   - type/speaker
   - type/organizer
-project:
-  - "[[Open Cabinet]]"
 title: Alex Lougheed
 ---

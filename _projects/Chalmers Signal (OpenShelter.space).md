@@ -18,4 +18,8 @@ status_archive: discovering
 status_community: closed/graduated
 feature: true
 title: Chalmers Signal (OpenShelter.space)
+team:
+  - "[[Saheel Acharya]]"
+  - "[[Steven Xie]]"
+  - "[[Zachary Donsky]]"
 ---

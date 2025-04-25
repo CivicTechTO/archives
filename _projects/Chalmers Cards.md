@@ -19,4 +19,7 @@ status_archive: discovering
 status_community: closed/graduated
 feature: false
 title: Chalmers Cards
+team:
+  - "[[Steven Xie]]"
+  - "[[Zachary Donsky]]"
 ---

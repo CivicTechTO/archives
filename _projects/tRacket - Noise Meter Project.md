@@ -21,4 +21,7 @@ feature: false
 title: tRacket - Noise Meter Project
 team:
   - "[[Gabe Sawhney]]"
+  - "[[Clyne]]"
+  - "[[Daniel S]]"
+  - "[[Mitch Bechtel]]"
 ---

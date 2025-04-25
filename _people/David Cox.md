@@ -3,8 +3,6 @@ description: David Cox is a long-time civic tech enthusiast who’s been fortuna
 tags:
   - type/speaker
   - type/organizer
-project:
-  - "[[Our Data Futures]]"
 organization:
   - "[[CivicTechTO]]"
 social:

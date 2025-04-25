@@ -3,8 +3,6 @@ description: Sonal Ranjit has been a part of various projects at Civic Tech Toro
 tags:
   - type/speaker
   - type/organizer
-project:
-  - "[[Bikespace]]"
 organization:
   - "[[CivicTechTO]]"
 title: Sonal Ranjit

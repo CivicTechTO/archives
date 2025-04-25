@@ -4,7 +4,5 @@ tags:
   - type/speaker
 organization:
   - "[[York University]]"
-project:
-  - "[[Police Tech Audit]]"
 title: Ushnish Sengupta
 ---

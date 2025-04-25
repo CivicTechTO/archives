@@ -4,7 +4,5 @@ tags:
   - type/speaker
 social:
   linkedin: https://www.linkedin.com/in/mitchbechtel/
-project:
-  - "[[tRacket - Noise Meter Project]]"
 title: Mitch Bechtel
 ---

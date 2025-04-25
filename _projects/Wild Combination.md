@@ -6,4 +6,6 @@ website: https://www.connectedlab.com/wildcombination
 hacknight:
   - "[[122]]"
 title: Wild Combination
+team:
+  - "[[Marc De Pape]]"
 ---

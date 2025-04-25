@@ -1,7 +1,5 @@
 ---
-project:
-  - "[[Toronto Meshnet]]"
 tags:
   - type/speaker
-title: null
+title: Ethan Wilding
 ---

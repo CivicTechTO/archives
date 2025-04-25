@@ -31,6 +31,11 @@ fromBreakout: true
 source: airtable original
 status_community: open/active
 status_archive: reviewing
+team:
+  - "[[Jake Miller]]"
+  - "[[Sonal Ranjit]]"
+  - "[[Ollie Sheldrick]]"
+  - "[[Ben Coleman]]"
 ---
 
 ## Summary

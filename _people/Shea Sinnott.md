@@ -6,8 +6,5 @@ social:
   twitter: https://x.com/sheasinnott
   linkedin: https://www.linkedin.com/in/shea-sinnott-92645546/
   medium: https://medium.com/@shea_1081
-project:
-  - "[[Code for Canada]]"
-  - "[[Civic Hall Toronto]]"
 title: Shea Sinnott
 ---

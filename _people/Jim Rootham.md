@@ -3,8 +3,6 @@ description: Jim Rootham has been the finance chair at Alexandra Park Co-op for 
 tags:
   - type/speaker
   - type/organizer
-project:
-  - "[[Budgetpedia]]"
 organization:
   - "[[CivicTechTO]]"
 title: Jim Rootham

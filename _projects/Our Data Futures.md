@@ -15,4 +15,6 @@ status_archive: backlog
 status_community: closed/completed
 feature: false
 title: Our Data Futures
+team:
+  - "[[David Cox]]"
 ---

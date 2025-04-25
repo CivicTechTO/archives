@@ -20,4 +20,7 @@ status_archive: discovering
 status_community: closed/graduated
 feature: true
 title: Budgetpedia
+team:
+  - "[[Henrik Bechmann]]"
+  - "[[Jim Rootham]]"
 ---

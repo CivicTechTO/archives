@@ -20,6 +20,11 @@ status_archive: discovering
 status_community: closed/graduated
 feature: false
 title: Toronto Meshnet
+team:
+  - "[[Cole AC]]"
+  - "[[Dante Sanchez]]"
+  - "[[Ethan Wilding]]"
+  - "[[Henry Wilkinson]]"
 ---
 
 Meshnets are highly distributed, redundant intranet networks. A series of nodes, usually fashioned from cannibalized routers, emit signals that create a free self-contained and self-reliant network that’s accessible to any internet capable devices within range. We are dedicated to the growth of free-to-use wireless Internet access in Toronto’s public and publicly accessible spaces.

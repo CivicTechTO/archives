@@ -1,7 +1,5 @@
 ---
 description: Micah Richardson is a community organizer and consultant in Toronto.
-project:
-  - "[[Democracy Kit]]"
 organization:
   - "[[Open Democracy]]"
 tags:
@@ -11,4 +9,3 @@ social:
   linkedin: https://www.linkedin.com/in/micah-richardson-966261131/
 title: Micah Richardson
 ---
-t
