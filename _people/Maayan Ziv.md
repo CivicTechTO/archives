@@ -4,6 +4,6 @@ tags:
   - is/featured
 organization: [[AccessNow]]
 social:
-  website: http://accessnow.me/
+  website: http://accessnow.com
 title: Maayan Ziv
 ---

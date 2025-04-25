@@ -5,9 +5,5 @@ tags:
   - type/organizer
 organization:
   - "[[CivicTechTO]]"
-project:
-  - "[[The Toronto Bids Archive]]"
-  - "[[tRacket - Noise Meter Project]]"
-  - "[[Tabs Toronto]]"
 title: Gabe Sawhney
 ---

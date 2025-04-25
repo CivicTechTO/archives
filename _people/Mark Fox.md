@@ -2,7 +2,7 @@
 tags:
   - type/speaker
 organization:
-  - - University of Toronto
+  - University of Toronto
 social:
   wikipedia: https://en.wikipedia.org/wiki/Mark_S._Fox
 description: Director, Urban Data Research Centre, School of Cities, University of Toronto; Distinguished Professor of Urban Systems Engineering.

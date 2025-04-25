@@ -6,4 +6,6 @@ fromBreakout: true
 status_community: unknown
 status_archive: discovering
 title: The Toronto Bids Archive
+team:
+  - "[[Gabe Sawhney]]"
 ---

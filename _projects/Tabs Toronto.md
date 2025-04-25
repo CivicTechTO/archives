@@ -17,4 +17,6 @@ status_archive: discovering
 status_community: closed/graduated
 feature: false
 title: Tabs Toronto
+team:
+  - "[[Gabe Sawhney]]"
 ---

@@ -19,4 +19,6 @@ status_archive: reviewing
 status_community: open/active
 feature: false
 title: tRacket - Noise Meter Project
+team:
+  - "[[Gabe Sawhney]]"
 ---
