@@ -13,8 +13,7 @@ online: false
 dateActiveFirst: 2016-07-26
 dateActiveLast: 2018-08-16
 source: airtable original
-status_archive: backlog
-status_community: closed/completed
-feature: false
+status_project: Completed
+status_contributor: Closed
 title: Health Atlas
 ---

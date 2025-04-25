@@ -13,7 +13,8 @@ notes: https://twitter.com/HousingNowTO
 source: airtable original
 hacknight: "[[414]]"
 status_archive: ""
-status_community: unknown
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: HousingNowTO
 ---

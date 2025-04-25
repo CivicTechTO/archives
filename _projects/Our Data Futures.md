@@ -11,8 +11,8 @@ dateActiveLast: 2020-07-19
 source: airtable original
 hacknight:
   - "[[258]]"
-status_archive: backlog
-status_community: closed/completed
+status_project: Completed
+status_contributor: Closed
 feature: false
 title: Our Data Futures
 team:

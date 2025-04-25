@@ -6,8 +6,9 @@ fromBreakout: false
 launched: true
 online: true
 source: airtable original
-hacknight: "[[411]]"
-status_community: unknown
-feature: false
+hacknight:
+  - "[[411]]"
+status_project: Unknown
+status_contributor: Closed
 title: time2reach Transit Map
 ---

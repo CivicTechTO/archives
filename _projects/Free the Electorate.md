@@ -12,8 +12,8 @@ online: false
 dateActiveFirst: 2016-01-01
 dateActiveLast: 2016-01-01
 source: airtable original
-status_archive: backlog
-status_community: closed/abandoned
+status_project: Abandoned
+status_contributor: Closed
 feature: false
 title: Free the Electorate
 ---

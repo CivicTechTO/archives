@@ -10,8 +10,8 @@ online: false
 dateActiveFirst: 2020-01-01
 dateActiveLast: 2020-01-01
 source: airtable original
-status_archive: backlog
-status_community: closed/completed
+status_project: Completed
+status_contributor: Closed
 feature: false
 title: COVID Connect
 ---

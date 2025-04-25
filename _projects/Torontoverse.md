@@ -6,8 +6,10 @@ fromBreakout: false
 launched: true
 online: true
 source: airtable original
-hacknight: "[[365]]"
-status_community: unknown
+hacknight:
+  - "[[365]]"
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: Torontoverse
 ---

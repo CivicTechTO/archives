@@ -7,8 +7,10 @@ fromBreakout: false
 launched: true
 online: true
 source: airtable original
-hacknight: "[[409]]"
-status_community: unknown
+hacknight: 
+  - "[[409]]"
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: tobus.ca
 ---

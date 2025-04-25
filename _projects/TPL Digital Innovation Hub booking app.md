@@ -11,11 +11,9 @@ launched: false
 online: false
 dateActiveFirst: 2016-01-01
 dateActiveLast: 2017-01-01
-notes:
 source: airtable original
-hacknight:
-status_archive: discovering
-status_community: closed/completed
+status_project: Completed
+status_contributor: Closed
 feature: false
 title: TPL Digital Innovation Hub booking app
 ---

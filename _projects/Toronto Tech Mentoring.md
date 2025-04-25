@@ -15,8 +15,8 @@ source: airtable original
 hacknight:
   - "[[222]]"
   - "[[258]]"
-status_archive: discovering
-status_community: closed/graduated
+status_project: Completed
+status_contributor: Closed
 title: Toronto Tech Mentoring
 team:
   - "[[Dilini Kurukulaarachchi]]"

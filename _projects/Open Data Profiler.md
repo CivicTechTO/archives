@@ -11,8 +11,8 @@ online: false
 dateActiveFirst: 2022-01-01
 dateActiveLast: 2022-02-08
 source: airtable original
-status_archive: backlog
-status_community: unknown
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: Open Data Profiler
 ---

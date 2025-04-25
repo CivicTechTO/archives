@@ -14,9 +14,8 @@ dateActiveLast: 2018-01-01
 source: airtable original
 hacknight:
   - "[[251]]"
-status_archive: backlog
-status_community: closed/completed
-feature: false
+status_project: Completed
+status_contributor: Closed
 title: Basecount
 team:
   - "[[Dilini Kurukulaarachchi]]"

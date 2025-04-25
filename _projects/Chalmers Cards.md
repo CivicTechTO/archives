@@ -11,12 +11,11 @@ fromBreakout: true
 launched: true
 online: true
 dateActiveLast: 2022-01-01
-source: airtable original
 hacknight:
   - "[[220]]"
   - "[[274]]"
-status_archive: discovering
-status_community: closed/graduated
+status_project: Completed
+status_contributor: Closed
 title: Chalmers Cards
 team:
   - "[[Steven Xie]]"

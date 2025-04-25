@@ -16,8 +16,8 @@ hacknight:
   - "[[20]]"
   - "[[70]]"
   - "[[122]]"
-status_archive: discovering
-status_community: closed/graduated
+status_project: Completed
+status_contributor: Closed
 title: Budgetpedia
 team:
   - "[[Henrik Bechmann]]"

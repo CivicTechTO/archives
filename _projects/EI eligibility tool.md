@@ -14,8 +14,7 @@ dateActiveLast:
 notes:
 source: airtable original
 hacknight:
-status_archive: backlog
-status_community: closed/abandoned
-feature: false
+status_project: Abandoned
+status_contributor: Closed
 title: EI eligibility tool
 ---

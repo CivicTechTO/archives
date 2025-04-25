@@ -8,8 +8,8 @@ launched: false
 online: false
 dateActiveLast: 2023-11-21
 source: airtable original
-status_archive: backlog
-status_community: unknown
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: "#proj-library-passport"
 ---

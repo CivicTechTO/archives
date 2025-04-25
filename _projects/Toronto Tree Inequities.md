@@ -10,7 +10,8 @@ launched: false
 online: false
 source: airtable original
 hacknight: "[[375]]"
-status_community: unknown
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: Toronto Tree Inequities
 ---

@@ -8,9 +8,8 @@ fromBreakout: true
 launched: false
 online: false
 dateActiveFirst: 2024-07-02
-source: airtable original
-status_archive: reviewing
-status_community: open/dormant
+status_project: Paused
+status_contributor: Open
 feature: false
 title: Police Tech Audit
 team:

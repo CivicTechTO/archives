@@ -9,8 +9,8 @@ online: false
 dateActiveFirst: 2016-01-01
 dateActiveLast: 2016-01-01
 source: airtable original
-status_archive: backlog
-status_community: unknown
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: Section 37 funding
 ---

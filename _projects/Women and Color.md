@@ -20,8 +20,8 @@ hacknight:
   - "[[122]]"
   - "[[138]]"
   - "[[171]]"
-status_archive: discovering
-status_community: closed/graduated
+status_project: Completed
+status_contributor: Closed
 feature: false
 title: Women and Color
 team:

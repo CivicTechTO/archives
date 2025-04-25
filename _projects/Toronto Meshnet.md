@@ -16,8 +16,8 @@ source: airtable original
 hacknight:
   - "[[50]]"
   - "[[261]]"
-status_archive: discovering
-status_community: closed/graduated
+status_project: Completed
+status_contributor: Closed
 feature: false
 title: Toronto Meshnet
 team:

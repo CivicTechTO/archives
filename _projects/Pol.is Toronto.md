@@ -14,7 +14,6 @@ project_website: https://github.com/CivicTechTO/polis/wiki
 project_slack: https://civictechto.slack.com/archives/C07167VPT7S
 project_github: https://github.com/CivicTechTO/polis/
 dateActiveFirst: 2024-04-24
-source: airtable original
-status_archive: reviewing
-status_community: open/active
+status_project: Active
+status_contributor: Open
 ---

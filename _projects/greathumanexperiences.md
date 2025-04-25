@@ -13,8 +13,8 @@ dateActiveLast: 2016-02-10
 notes:
 source: airtable original
 hacknight:
-status_archive: backlog
-status_community: closed/abandoned
+status_project: Abandoned
+status_contributor: Closed
 feature: false
 title: "#greathumanexperiences"
 ---

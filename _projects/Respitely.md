@@ -15,8 +15,8 @@ dateActiveLast:
 notes:
 source: airtable original
 hacknight: "[[450]]"
-status_archive: ""
-status_community: unknown
+status_project: Active
+status_contributor: Closed
 feature: false
 title: Respitely
 ---

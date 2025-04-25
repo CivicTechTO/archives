@@ -12,8 +12,8 @@ dateActiveLast: 2021-01-19
 notes: associated hacknight to be determined
 source: airtable original
 hacknight: "[[266]]"
-status_archive: backlog
-status_community: closed/completed
+status_project: Completed
+status_contributor: Closed
 feature: false
 title: Techfugees Toronto
 ---

@@ -9,9 +9,9 @@ website: https://www.openwaterdata.com/
 fromBreakout: false
 launched: true
 online: true
-source: airtable original
 hacknight: "[[406]]"
-status_community: unknown
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: Open Water Data
 ---

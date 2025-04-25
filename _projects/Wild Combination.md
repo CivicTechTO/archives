@@ -8,4 +8,6 @@ hacknight:
 title: Wild Combination
 team:
   - "[[Marc De Pape]]"
+status_project: Unknown
+status_contributor: Closed
 ---

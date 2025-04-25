@@ -28,9 +28,8 @@ feature: true
 online: true
 launched: true
 fromBreakout: true
-source: airtable original
-status_community: open/active
-status_archive: reviewing
+status_project: Active
+status_contributor: Open
 team:
   - "[[Jake Miller]]"
   - "[[Sonal Ranjit]]"

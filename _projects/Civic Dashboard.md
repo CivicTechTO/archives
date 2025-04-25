@@ -9,14 +9,14 @@ categories:
 tags:
   - type/project
   - topic/open-government
-project_status: active/open
 project_website: https://www.civicdashboard.ca
 project_slack: https://civictechto.slack.com/archives/C06KU3DHEKV
 project_github: https://github.com/IlyaKreynin/citizen-dashboard
 fromBreakout: true
 feature: true
 dateActiveFirst: 2024-02-20
-source: airtable original
+status_project: Active
+status_contributor: Open
 hacknight:
   - "[[445]]"
 status_archive: reviewing

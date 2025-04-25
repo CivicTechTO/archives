@@ -14,8 +14,8 @@ notes:
 source: airtable original
 hacknight:
   - "[[20]]"
-status_archive: backlog
-status_community: closed/abandoned
+status_project: Abandoned
+status_contributor: Closed
 feature: false
 title: Plain Language Project
 ---

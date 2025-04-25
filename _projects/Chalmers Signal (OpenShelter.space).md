@@ -14,8 +14,8 @@ source: airtable original
 hacknight:
   - "[[274]]"
   - "[[416]]"
-status_archive: discovering
-status_community: closed/graduated
+status_project: Completed
+status_contributor: Closed
 title: Chalmers Signal (OpenShelter.space)
 team:
   - "[[Saheel Acharya]]"

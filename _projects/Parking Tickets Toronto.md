@@ -11,9 +11,10 @@ dateActiveFirst:
 dateActiveLast:
 notes:
 source: airtable original
-hacknight: "[[381]]"
-status_archive: ""
-status_community: unknown
+hacknight: 
+  - "[[381]]"
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: Parking Tickets Toronto
 ---

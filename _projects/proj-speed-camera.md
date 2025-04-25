@@ -10,11 +10,8 @@ launched: false
 online: false
 dateActiveFirst: 2022-06-16
 dateActiveLast: 2022-09-11
-notes:
-source: airtable original
-hacknight:
-status_archive: backlog
-status_community: closed/abandoned
+status_project: Abandoned
+status_contributor: Closed
 feature: false
 title: "#proj-speed-camera"
 ---

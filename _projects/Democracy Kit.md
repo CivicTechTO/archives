@@ -16,8 +16,8 @@ hacknight:
   - "[[81]]"
   - "[[98]]"
   - "[[122]]"
-status_archive: discovering
-status_community: closed/graduated
+status_project: Completed
+status_contributor: Closed
 feature: false
 title: Democracy Kit
 team:

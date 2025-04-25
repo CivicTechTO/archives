@@ -6,8 +6,10 @@ fromBreakout: false
 launched: true
 online: true
 source: airtable original
-hacknight: "[[381]]"
-status_community: unknown
+hacknight: 
+  - "[[381]]"
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: Place and Politics in Toronto
 ---

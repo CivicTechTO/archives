@@ -14,8 +14,8 @@ source: airtable original
 hacknight:
   - "[[122]]"
   - "[[175]]"
-status_archive: backlog
-status_community: closed/completed
+status_project: Completed
+status_contributor: Closed
 feature: false
 title: TTC Subway times
 team:

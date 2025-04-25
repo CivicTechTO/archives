@@ -13,8 +13,8 @@ dateActiveLast: 2018-07-17
 notes:
 source: airtable original
 hacknight:
-status_archive: backlog
-status_community: closed/completed
+status_project: Completed
+status_contributor: Closed
 feature: false
 title: Councilmatic Toronto
 ---

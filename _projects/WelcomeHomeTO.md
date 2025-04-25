@@ -11,8 +11,8 @@ online: false
 dateActiveFirst: 2015-01-01
 dateActiveLast: 2016-01-01
 source: airtable original
-status_archive: backlog
-status_community: closed/graduated
+status_project: Completed
+status_contributor: Closed
 feature: false
 social:
   twitter: https://x.com/welcomehometo

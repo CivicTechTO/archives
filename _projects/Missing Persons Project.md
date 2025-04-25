@@ -13,8 +13,8 @@ dateActiveFirst: 2022-01-01
 dateActiveLast: 2023-10-03
 source: airtable original
 hacknight: "[[412]]"
-status_archive: backlog
-status_community: closed/completed
+status_project: Completed
+status_contributor: Closed
 feature: false
 title: Missing Persons Project
 ---

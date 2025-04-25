@@ -12,8 +12,9 @@ gitrepo:
 fromBreakout: true
 launched: false
 online: false
-dateActiveFirst: 2024-01-01
+dateActiveFirst: 2024-04-01
 dateActiveLast: 
 hacknight: 
-status_community: open
+status_project: Active
+status_contributor: Limited
 ---

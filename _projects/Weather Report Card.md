@@ -6,7 +6,8 @@ fromBreakout: false
 launched: true
 online: false
 notes: https://twitter.com/weathrreportcrd
-status_community: unknown
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: Weather Report Card
 ---

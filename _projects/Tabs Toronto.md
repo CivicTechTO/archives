@@ -13,8 +13,8 @@ dateActiveLast: 2022-01-01
 source: airtable original
 hacknight:
   - "[[341]]"
-status_archive: discovering
-status_community: closed/graduated
+status_project: Completed
+status_contributor: Closed
 feature: false
 title: Tabs Toronto
 team:

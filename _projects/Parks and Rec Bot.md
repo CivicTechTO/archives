@@ -11,7 +11,8 @@ notes: https://www.linkedin.com/posts/ryanmerkley_chatgpt-toronto-parks-and-rec-
 source: airtable original
 hacknight:
   - "[[425]]"
-status_community: unknown
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: Parks and Rec Bot
 ---

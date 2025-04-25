@@ -1,6 +1,7 @@
 ---
 feature: true
-status_community: open
+status_project: Active
+status_contributor: Open
 title: tRacket - Noise Meter Project
 excerpt: We’re making it easy and affordable to collect data about noise
 description: We’re making it easy and affordable to collect data about noise

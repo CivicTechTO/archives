@@ -13,8 +13,8 @@ dateActiveLast: 2022-05-19
 notes:
 source: airtable original
 hacknight:
-status_archive: backlog
-status_community: closed/completed
+status_project: Completed
+status_contributor: Closed
 feature: false
 title: COVID Graphic Model
 ---

@@ -7,7 +7,8 @@ launched: true
 online: true
 source: airtable original
 hacknight: "[[376]]"
-status_community: unknown
+status_project: Unknown
+status_contributor: Closed
 feature: false
 title: Know Your Vote T.O.
 ---

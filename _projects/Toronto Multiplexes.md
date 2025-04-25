@@ -1,7 +1,9 @@
 ---
 title: Toronto Multiplexes
+excerpt: TBD
 team:
   - "[[Jim Rootham]]"
-feature: true
+status_project: Unknown
+status_contributor: Open
 ---
 

@@ -11,8 +11,8 @@ dateActiveLast: 2018-06-04
 source: airtable original
 hacknight:
   - "[[122]]"
-status_archive: discovering
-status_community: closed/graduated
+status_project: Completed
+status_contributor: Closed
 title: TheCarded.ca
 team:
   - "[[Sharmarke Noor]]"
