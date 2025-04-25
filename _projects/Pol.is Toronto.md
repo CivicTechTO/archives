@@ -1,6 +1,7 @@
 ---
 title: Pol.is Toronto
 excerpt: Polis is a good engagement tool for large-scale, open-ended feedback gathering.
+feature: true
 project_pitch: tbd
 categories:
   - open

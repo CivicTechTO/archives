@@ -5,7 +5,7 @@ tags:
   - topic/infrastructure
   - topic/transport
   - topic/noise
-website: https://tracket.info
+project_website: https://tracket.info
 slackChannel: "[proj-noisemeter](https://civictechto.slack.com/archives/C05LHL4L8MD)"
 fromBreakout: true
 launched: true
@@ -17,7 +17,7 @@ hacknight:
   - "[[453]]"
 status_archive: reviewing
 status_community: open/active
-feature: false
+feature: true
 title: tRacket - Noise Meter Project
 team:
   - "[[Gabe Sawhney]]"

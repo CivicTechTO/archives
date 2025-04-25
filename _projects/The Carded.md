@@ -13,7 +13,6 @@ hacknight:
   - "[[122]]"
 status_archive: discovering
 status_community: closed/graduated
-feature: true
 title: TheCarded.ca
 team:
   - "[[Sharmarke Noor]]"

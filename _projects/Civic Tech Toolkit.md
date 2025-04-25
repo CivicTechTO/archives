@@ -16,6 +16,6 @@ source: airtable original
 hacknight:
 status_archive: discovering
 status_community: open/dormant
-feature: false
+feature: true
 title: Civic Tech Toolkit
 ---

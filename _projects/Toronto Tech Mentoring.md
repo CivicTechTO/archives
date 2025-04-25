@@ -17,7 +17,6 @@ hacknight:
   - "[[258]]"
 status_archive: discovering
 status_community: closed/graduated
-feature: true
 title: Toronto Tech Mentoring
 team:
   - "[[Dilini Kurukulaarachchi]]"

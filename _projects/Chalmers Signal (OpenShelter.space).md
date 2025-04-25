@@ -16,7 +16,6 @@ hacknight:
   - "[[416]]"
 status_archive: discovering
 status_community: closed/graduated
-feature: true
 title: Chalmers Signal (OpenShelter.space)
 team:
   - "[[Saheel Acharya]]"
