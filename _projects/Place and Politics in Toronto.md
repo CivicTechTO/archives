@@ -3,12 +3,13 @@ description: Mapping the 2022 Toronto Election
 tags:
   - type/project
   - topic/elections
+  - topic/democracy
 website: https://schoolofcities.github.io/place-and-politics-toronto/
 fromBreakout: false
 launched: true
 online: true
 source: airtable original
-hacknight: 
+hacknight:
   - "[[381]]"
 status_project: Unknown
 status_contributor: Closed

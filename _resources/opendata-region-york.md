@@ -1,6 +1,7 @@
 ---
 tags:
-  - type/data/opendata
+  - type/resource
+  - topic/open-data
 title: York Region - Open Data
 description:
 website: https://insights-york.opendata.arcgis.com/search

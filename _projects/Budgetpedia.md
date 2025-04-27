@@ -4,6 +4,7 @@ tags:
   - type/project
   - topic/open-government
   - from/breakout
+  - topic/budgets
 website: http://budgetpedia.ca/
 slackChannel: "[budgetpedia-general](https://civictechto.slack.com/archives/C0958HY7J)"
 gitrepo: https://github.com/CivicTechTO/budgetpedia-frontend

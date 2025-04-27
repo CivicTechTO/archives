@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/community
+  - type/resource
   - topic/nonprofit
 title: Toronto Nonprofit Network
 description:

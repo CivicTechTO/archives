@@ -5,6 +5,7 @@ excerpt: A mobile app for providing input on upcoming votes in city hall. An int
 tags:
   - type/project
   - topic/open-government
+  - topic/democracy
 slackChannel: "[proj-adroit](https://civictechto.slack.com/archives/C0JC4A5RS)"
 gitrepo: https://github.com/dougestey/adroit
 dateActiveFirst: 2015-01-01

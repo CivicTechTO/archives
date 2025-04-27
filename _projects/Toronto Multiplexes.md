@@ -1,10 +1,11 @@
 ---
 title: Toronto Multiplexes
 excerpt: TBD
-tags: 
+tags:
   - from/breakout
   - type/project
   - topic/housing
+  - topic/co-operatives
 team:
   - "[[Jim Rootham]]"
 status_project: Unknown

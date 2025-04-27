@@ -3,6 +3,7 @@ description: "Library Passport: Explore libraries, check in, and track your jour
 tags:
   - type/project
   - from/breakout
+  - topic/library
 slackChannel: "[proj-library-passport](https://civictechto.slack.com/archives/C0668Q425B7)"
 fromBreakout: true
 launched: false

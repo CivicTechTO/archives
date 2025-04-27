@@ -4,6 +4,7 @@ tags:
   - type/project
   - topic/accountability-integrity
   - from/breakout
+  - topic/police
 slackChannel: "[proj-tpsb-tech-audit](https://civictechto.slack.com/archives/C07BG04N796)"
 fromBreakout: true
 launched: false

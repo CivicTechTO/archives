@@ -3,6 +3,7 @@ description: We’re a new kind of news publisher using innovative, cutting-edge
 tags:
   - type/project
   - topic/arts-and-culture
+  - topic/artificial-intelligence
 website: https://torontoverse.com
 fromBreakout: false
 launched: true

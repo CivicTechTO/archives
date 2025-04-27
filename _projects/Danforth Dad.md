@@ -1,6 +1,8 @@
 ---
 description: Toronto playground map and reviews
-tags: type/project topic/public-parks
+tags: 
+  - type/project
+  - topic/public-parks
 website: https://danforthdad.com
 fromBreakout: false
 launched: true

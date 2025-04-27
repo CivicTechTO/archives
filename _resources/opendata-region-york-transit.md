@@ -1,6 +1,7 @@
 ---
 tags:
-  - type/data/opendata
+  - type/resource
+  - topic/open-data
   - topic/transit
 title: York Region Transit - Open Data
 description:

@@ -3,6 +3,7 @@ description: PDF, iPhone and Android apps, and other stuff
 tags:
   - type/project
   - topic/transport
+  - topic/transit
 website: https://www.ttc-rider.ca/
 fromBreakout: false
 launched: true

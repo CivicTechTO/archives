@@ -3,6 +3,7 @@ description: Our vision for The Carded is to provide user-friendly resources for
 tags:
   - type/project
   - from/breakout
+  - topic/police
 website: http://thecarded.ca
 slackChannel: "[thecarded](https://civictechto.slack.com/archives/C1VNQCW13)"
 fromBreakout: true

@@ -1,6 +1,7 @@
 ---
 tags:
-  - type/data/opendata
+  - type/resource
+  - topic/open-data
 title: Architectural Conservancy Ontario - Toronto Building Database
 description:
 website: https://acotoronto.ca/tobuilt.php

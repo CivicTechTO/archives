@@ -3,6 +3,8 @@ description: Coordinating tech talk about the Guerilla Archiving Event to suppor
 tags:
   - type/project
   - from/breakout
+  - topic/climate
+  - topic/open-data
 slackChannel: "[guerilla-archiving](https://civictechto.slack.com/archives/C3BMND03V)"
 gitrepo: https://github.com/edgi-govdata-archiving
 fromBreakout: true

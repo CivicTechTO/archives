@@ -2,6 +2,7 @@
 tags:
   - topic/opendata
   - type/community
+  - type/resource
 title: Canadian Open Data Society
 description: |-
   We are a national collective of open data supporters who strive to promote and support relevant initiatives across the country. This can range from working directly on creating content for digital literacy to driving events like our webinars.
