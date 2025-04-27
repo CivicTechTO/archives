@@ -2,7 +2,7 @@
 description: a lightweight process to match design and technology volunteers to existing COVID-19 initiatives and mutual aid projects that need digital support
 tags:
   - type/project
-  - topic/collective-enablement
+  - topic/mutual-aid
   - from/breakout
 slackChannel: "[covid19-connect](https://civictechto.slack.com/archives/C0122D7G9E0)"
 fromBreakout: true

@@ -2,7 +2,7 @@
 description: I used ChatGPT to train a custom bot using open Parks and Rec data -- facilities, locations, programming, hours of operation -- to train a custom Toronto Parks and Rec Bot. Ask it a question, like "I have two kids, 5 and 12, and I want them to both take swimming on Saturdays" and get help finding the right classes.
 tags:
   - type/project
-  - topic/parks
+  - topic/public-parks
 website: https://chatgpt.com/g/g-UhmmS6Psr-toronto-parks-and-rec-bot
 fromBreakout: false
 launched: true
