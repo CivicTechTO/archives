@@ -2,9 +2,9 @@
 description: Aims to help homeless and at-risk youth escape the cycle of poverty by helping them to use tech skills.
 tags:
   - type/project
-  - topic/employment-and-social-development
   - topic/homelessness
   - from/breakout
+  - topic/employment
 website: https://www.torontotechmentoring.ca
 slackChannel: "[accelerator](https://civictechto.slack.com/archives/CGR02MX9R)"
 fromBreakout: true

@@ -1,19 +1,19 @@
 ---
-description:
-tags: 
+description: 
+tags:
   - type/project
-  - topic/transport
+  - topic/transportation
 website: https://schoolofcities.github.io/parking-tickets-toronto/
-slackChannel:
-gitrepo:
+slackChannel: 
+gitrepo: 
 fromBreakout: false
 launched: true
 online: true
-dateActiveFirst:
-dateActiveLast:
-notes:
+dateActiveFirst: 
+dateActiveLast: 
+notes: 
 source: airtable original
-hacknight: 
+hacknight:
   - "[[381]]"
 status_project: Unknown
 status_contributor: Closed

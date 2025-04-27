@@ -2,7 +2,7 @@
 description: An online community of talented women and people of color available for speaking opportunities at tech-related events.
 tags:
   - type/project
-  - topic/employment-and-social-development
+  - topic/employment
 website: http://womenandcolor.com
 social:
   twitter: https://x.com/womenandcolor

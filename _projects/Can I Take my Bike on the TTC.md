@@ -1,8 +1,8 @@
 ---
 tags:
   - type/project
-  - topic/transport
   - topic/cycling
+  - topic/transportation
 website: https://web.archive.org/web/20160116062925/https://canitakemybikeonthettc.ca/
 fromBreakout: false
 launched: true

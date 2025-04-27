@@ -14,9 +14,9 @@ team:
 tags:
   - type/project
   - topic/infrastructure
-  - topic/transport
   - topic/noise
   - from/breakout
+  - topic/transportation
 slackChannel: "[proj-noisemeter](https://civictechto.slack.com/archives/C05LHL4L8MD)"
 fromBreakout: true
 launched: true
