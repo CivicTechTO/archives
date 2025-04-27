@@ -5,7 +5,7 @@ excerpt:
 description: 
 tags:
   - type/project
-  - topic/collective-enablement
+  - topic/civic-tech-enablement
   - from/breakout
 website: 
 slackChannel: "[civic-tech-toolkit](https://civictechto.slack.com/archives/C0739GZADL6)"
