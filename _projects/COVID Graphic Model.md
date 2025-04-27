@@ -2,6 +2,7 @@
 description:
 tags:
   - type/project
+  - from/breakout
 website:
 slackChannel: "[covid-model](https://civictechto.slack.com/archives/C01CMV30M1P)"
 gitrepo: https://github.com/CivicTechTO/covid-model-code/

@@ -10,6 +10,7 @@ categories:
 tags:
   - type/project
   - topic/public-engagement
+  - from/breakout
 project_website: https://github.com/CivicTechTO/polis/wiki
 project_slack: https://civictechto.slack.com/archives/C07167VPT7S
 project_github: https://github.com/CivicTechTO/polis/

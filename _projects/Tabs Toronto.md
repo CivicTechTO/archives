@@ -3,6 +3,7 @@ description: Tabs sends email alerts for new Toronto city council/committee agen
 tags:
   - type/project
   - topic/open-government
+  - from/breakout
 website: http://pwd.ca/tabs
 slackChannel: "[proj-tabs-toronto](https://civictechto.slack.com/archives/C01P1EV5F3J)"
 fromBreakout: true

@@ -6,6 +6,7 @@ description:
 tags:
   - type/project
   - topic/collective-enablement
+  - from/breakout
 website: 
 slackChannel: "[civic-tech-toolkit](https://civictechto.slack.com/archives/C0739GZADL6)"
 gitrepo: 

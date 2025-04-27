@@ -3,6 +3,7 @@ description: Info on what cabinet is doing in Ottawa can be hard to find and use
 tags:
   - type/project
   - topic/open-government
+  - from/breakout
 website: https://web.archive.org/web/20160411031504/http://opencabinet.ca/
 slackChannel: "[proj-opencabinet](https://civictechto.slack.com/archives/C0C41B8JJ)"
 gitrepo: https://github.com/CivicTechTO/open-cabinet

@@ -3,6 +3,7 @@ description: Discover things you didn’t know about the city’s past with a ph
 tags:
   - type/project
   - topic/arts-and-culture
+  - from/breakout
 website: https://itsneerby.ca/
 slackChannel: "[proj-itsneerby](https://civictechto.slack.com/archives/C0352L19ATE)"
 gitrepo: https://github.com/itsneerby/oldto

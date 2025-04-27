@@ -2,6 +2,7 @@
 description:
 tags:
   - type/project
+  - from/breakout
 website:
 slackChannel: "[proj-plainlanguage](https://civictechto.slack.com/archives/C0DRB24P9)"
 gitrepo:

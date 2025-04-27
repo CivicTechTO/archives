@@ -3,6 +3,7 @@ description: Building a profiler for city of toronto open datasets
 tags:
   - type/project
   - topic/open-government
+  - from/breakout
 slackChannel: "[cot-opendata-profiler](https://civictechto.slack.com/archives/C0309BMKHTN)"
 gitrepo: https://github.com/open-data-toronto/ckanext-datastore-profiler
 fromBreakout: true

@@ -4,6 +4,7 @@ tags:
   - type/project
   - topic/housing
   - topic/shelters
+  - from/breakout
 website: https://openshelter.space/chalmerssignal/
 slackChannel: "[openshelter-space](https://civictechto.slack.com/archives/C8ZRFH7JShttps://civictechto.slack.com/archives/C8ZRFH7JS)"
 fromBreakout: true

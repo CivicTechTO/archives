@@ -3,6 +3,7 @@ description: A not-for-profit startup working to open the democratic process by 
 tags:
   - type/project
   - topic/elections
+  - from/breakout
 website: http://www.opendemocracyproject.ca/
 slackChannel: "[democracykit](https://civictechto.slack.com/archives/C2YCPMTSM)"
 gitrepo: https://github.com/democracykit

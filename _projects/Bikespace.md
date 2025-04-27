@@ -5,7 +5,6 @@ project_pitch: TBD
 categories:
   - active
   - open
-  - from-breakout
 project_website: https://bikespace.ca/
 hacknight:
   - "[[419]]"
@@ -17,6 +16,7 @@ tags:
   - type/project
   - topic/transport
   - topic/cycling
+  - from/breakout
 project_github: https://github.com/bikespace/bikespace
 project_slack: https://civictechto.slack.com/archives/C61CZLA5V
 dateActiveFirst: 2017-06-27

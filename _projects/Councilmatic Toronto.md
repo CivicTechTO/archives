@@ -2,6 +2,7 @@
 description:
 tags:
   - type/project
+  - from/breakout
 website:
 slackChannel: "[proj-councilmatic-dev](https://civictechto.slack.com/archives/C0QTT4T2B)"
 gitrepo: https://github.com/tor-councilmatic

@@ -3,6 +3,7 @@ description: Techfugees Toronto related work stream - specific focus on refugee 
 tags:
   - type/project
   - topic/immigration-and-citizenship
+  - from/breakout
 website: https://techfugees.com/it/techfugees-canada/
 slackChannel: "[techfugeestoronto](https://civictechto.slack.com/archives/C01ELNH8FB3)"
 fromBreakout: true

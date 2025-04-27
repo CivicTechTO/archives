@@ -2,6 +2,7 @@
 description: Project to collect City of Toronto planning development applications
 tags:
   - type/project
+  - from/breakout
 slackChannel: "[planningapplications](https://civictechto.slack.com/archives/C0DAHE05V)"
 gitrepo: https://github.com/spiderbites/to-planning-applications
 fromBreakout: true

@@ -4,6 +4,7 @@ tags:
   - type/project
   - topic/housing
   - topic/homelessness
+  - from/breakout
 slackChannel: "[proj-basecount](https://civictechto.slack.com/archives/C8VT5L32Q)"
 gitrepo: https://github.com/civictechto/basecount
 fromBreakout: true

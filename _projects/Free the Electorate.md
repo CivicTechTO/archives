@@ -3,6 +3,7 @@ description: Make elections results more accessible outside of media cycles.
 tags:
   - type/project
   - topic/open-government
+  - from/breakout
 website: https://civictechto.github.io/freetheelectorate/
 slackChannel: "[freetheelectorate](https://civictechto.slack.com/archives/C0SUP85S7)"
 gitrepo: https://github.com/CivicTechTO/freetheelectorate

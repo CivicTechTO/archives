@@ -14,7 +14,8 @@ dateActiveFirst:
 dateActiveLast:
 notes:
 source: airtable original
-hacknight: "[[450]]"
+hacknight:
+  - "[[450]]"
 status_project: Active
 status_contributor: Closed
 feature: false

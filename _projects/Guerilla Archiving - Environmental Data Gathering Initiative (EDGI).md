@@ -2,6 +2,7 @@
 description: Coordinating tech talk about the Guerilla Archiving Event to support Internet Archive's End of Term harvesting project.
 tags:
   - type/project
+  - from/breakout
 slackChannel: "[guerilla-archiving](https://civictechto.slack.com/archives/C3BMND03V)"
 gitrepo: https://github.com/edgi-govdata-archiving
 fromBreakout: true

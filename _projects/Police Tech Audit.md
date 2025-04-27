@@ -3,6 +3,7 @@ description: Technology Audits of Law Enforcement Agencies such as the Toronto P
 tags:
   - type/project
   - topic/accountability-integrity
+  - from/breakout
 slackChannel: "[proj-tpsb-tech-audit](https://civictechto.slack.com/archives/C07BG04N796)"
 fromBreakout: true
 launched: false

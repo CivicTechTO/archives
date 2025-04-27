@@ -3,6 +3,7 @@ description: a lightweight process to match design and technology volunteers to 
 tags:
   - type/project
   - topic/collective-enablement
+  - from/breakout
 slackChannel: "[covid19-connect](https://civictechto.slack.com/archives/C0122D7G9E0)"
 fromBreakout: true
 launched: false

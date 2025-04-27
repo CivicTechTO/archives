@@ -4,6 +4,7 @@ description: In partnership with Civic Tech Toronto and the Mississauga Halton H
 tags:
   - type/project
   - topic/public-health
+  - from/breakout
 website: https://misshaltlhin.github.io/MissHaltLHIN/
 slackChannel: "[mapmhlin](https://civictechto.slack.com/archives/C1VE3RQF4)"
 gitrepo: https://github.com/MissHaltLHIN/MissHaltLHIN

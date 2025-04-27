@@ -2,6 +2,7 @@
 description:
 tags:
   - type/project
+  - from/breakout
 website:
 slackChannel: "[proj-speed-camera](https://civictechto.slack.com/archives/C03TR7QTR2A)"
 gitrepo:

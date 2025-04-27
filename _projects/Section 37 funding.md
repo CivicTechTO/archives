@@ -2,6 +2,7 @@
 description: For discussion of a potential project related to Section 37 funding.
 tags:
   - type/project
+  - from/breakout
 slackChannel: "[s_37](https://civictechto.slack.com/archives/C1T95QYDA)"
 fromBreakout: true
 launched: false

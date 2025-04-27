@@ -2,6 +2,7 @@
 description: Collaboration to develop a community perspective on "data trusts" and create education materials around the topic of "data trusts".
 tags:
   - type/project
+  - from/breakout
 website: https://docs.google.com/document/d/12pYI_8ndwh5poboIPXkQdtqhtZmSURJZnToeb8iMgm8/edit?tab=t.0#heading=h.jmnh6inxfcex
 slackChannel: "[our-data-futures](https://civictechto.slack.com/archives/CJ9FBREM8)"
 fromBreakout: true

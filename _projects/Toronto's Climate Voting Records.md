@@ -4,6 +4,9 @@ excerpt: To track and show how climate-related items are being voted on within T
 feature: true
 status_project: Unknown
 status_contributor: Open
+tags:
+  - type/project
+  - topic/climate
 team:
   - "[[Mitch Bechtel]]"
 project_website: https://votingrecords.climatefast.ca

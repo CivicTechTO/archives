@@ -4,6 +4,7 @@ tags:
   - type/project
   - topic/employment-and-social-development
   - topic/homelessness
+  - from/breakout
 website: https://www.torontotechmentoring.ca
 slackChannel: "[accelerator](https://civictechto.slack.com/archives/CGR02MX9R)"
 fromBreakout: true

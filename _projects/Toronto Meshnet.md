@@ -3,6 +3,7 @@ description: We help communities create better networks with open source and pee
 tags:
   - type/project
   - topic/internet-access
+  - from/breakout
 website: https://tomesh.net/
 slackChannel: "[tomesh](https://civictechto.slack.com/archives/C0JBXQ7L7)"
 social:

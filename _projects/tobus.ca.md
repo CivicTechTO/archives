@@ -1,6 +1,8 @@
 ---
 description: A extremely fast and simple website, parsing TTC's ETA data.
-tags: type/project topic/transport
+tags:
+  - type/project
+  - topic/transport
 website: https://tobus.ca/
 gitrepo: https://github.com/thomassth/ttc-bus-eta
 fromBreakout: false

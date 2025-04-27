@@ -5,10 +5,10 @@ project_pitch: It shouldn't take 3 hours and a political science degree to under
 categories:
   - active
   - open
-  - from-breakout
 tags:
   - type/project
   - topic/open-government
+  - from/breakout
 project_website: https://www.civicdashboard.ca
 project_slack: https://civictechto.slack.com/archives/C06KU3DHEKV
 project_github: https://github.com/IlyaKreynin/citizen-dashboard

@@ -2,6 +2,7 @@
 description:
 tags:
   - type/project
+  - from/breakout
 website:
 slackChannel: "[greathumanexperiences](https://civictechto.slack.com/archives/C0L6HA9RD)"
 gitrepo:
