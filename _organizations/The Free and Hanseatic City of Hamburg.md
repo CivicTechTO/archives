@@ -1,6 +1,8 @@
 ---
 tags:
   - type/organization
-title: null
+title: The Free and Hanseatic City of Hamburg
+categories:
+  - government
 ---
 

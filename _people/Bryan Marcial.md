@@ -1,6 +1,8 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 title: Bryan Marcial
+categories:
+  - speaker
 ---
 

@@ -3,9 +3,11 @@ description: David is a collaborator with the Brookfield Institute for Innovatio
 organization:
   - "[[Brookfield Institute for Innovation + Entrepreneurship]]"
 tags:
-  - type/speaker
+  - type/person
 social:
   linkedin: https://www.linkedin.com/in/davidrubinger/
 title: David Rubinger
+categories:
+  - speaker
 ---
 

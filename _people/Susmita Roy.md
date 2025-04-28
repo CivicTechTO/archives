@@ -4,10 +4,12 @@ description: |-
   Prior to joining the Ontario Government she worked at TVOntario where her team successfully launched TVOKids.com by revamping a Flash based legacy website to a modern, user centric website.
   When she’s not working with her awesome team at the Ontario Digital Service, she loves to explore her garden, add new plants to her collection, hang out with friends and family, and travelling the globe.
 tags:
-  - type/speaker
+  - type/person
 role_description: Product Manager at the Ontario Digital Service
 organization:
   - "[[Ontario Digital Service]]"
 title: Susmita Roy
+categories:
+  - speaker
 ---
 

@@ -1,7 +1,7 @@
 ---
 description: Tristen is a developer & designer on Mapbox Studio, a suite of cartography tools for creating digital maps. He is also a musician and proud resident of Toronto.
 tags:
-  - type/speaker
+  - type/person
 social:
   twitter: https://x.com/fallsemo
   website: https://tristen.ca
@@ -10,4 +10,6 @@ social:
 organization:
   - "[[Mapbox]]"
 title: Tristen Brown
+categories:
+  - speaker
 ---

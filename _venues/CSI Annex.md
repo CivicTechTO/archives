@@ -1,5 +1,4 @@
 ---
-type: social enterprise
 organization:
   - "[[Centre for Social Innovation]]"
 status:

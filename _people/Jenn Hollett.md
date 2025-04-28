@@ -3,10 +3,12 @@ description: Jennifer Hollett is a smashup of digital, journalism, and politics.
 organization:
   - The Walrus
 tags:
-  - type/speaker
   - is/featured
+  - type/person
 social:
   twitter: http://twitter.com/jenniferhollett
   website: http://jenniferhollett.com
 title: Jenn Hollett
+categories:
+  - speaker
 ---

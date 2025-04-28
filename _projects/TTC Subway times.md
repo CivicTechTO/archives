@@ -1,24 +1,22 @@
 ---
-description: A scraper to grab and publish TTC subway arrival times.
+title: TTC Subway times
+excerpt: A scraper to grab and publish TTC subway arrival times.
 tags:
   - type/project
   - topic/transit
   - topic/transportation
-slackChannel: "[transportation](https://civictechto.slack.com/archives/C2X7WH32P)"
-gitrepo: https://github.com/CivicTechTO/ttc_subway_times
-fromBreakout: true
-launched: true
-online: false
+social:
+  slack: https://civictechto.slack.com/archives/C2X7WH32P
+  github: https://github.com/CivicTechTO/ttc_subway_times
+categories:
+  - breakout project
 dateActiveFirst: 2017-01-01
-dateActiveLast: 2020-01-01
-source: airtable original
+date: 2020-01-01
 hacknight:
   - "[[122]]"
   - "[[175]]"
 status_project: Completed
 status_contributor: Closed
-feature: false
-title: TTC Subway times
 team:
   - "[[Raphael Dumas]]"
 ---

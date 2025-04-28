@@ -6,7 +6,9 @@ organization:
   - "[[CivicTechTO]]"
   - "[[University of Toronto]]"
 tags:
-  - type/speaker
-  - type/organizer
+  - type/person
 title: Alex Olson
+categories:
+  - speaker
+  - organizer
 ---

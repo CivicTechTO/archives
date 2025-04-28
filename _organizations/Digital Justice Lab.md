@@ -1,5 +1,6 @@
 ---
 tags:
   - type/organization
-title: null
+  - topic/justice
+title: Digital Justice Lab
 ---

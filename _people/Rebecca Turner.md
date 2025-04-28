@@ -1,8 +1,10 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 organization:
   - '[[City of Toronto]]'
 title: Rebecca Turner
+categories:
+  - speaker
 ---
 

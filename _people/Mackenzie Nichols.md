@@ -3,8 +3,10 @@ description: Mackenzie is a software developer on the City of Toronto Open Data 
 organization:
   - "[[Open Data Team, City of Toronto]]"
 tags:
-  - type/speaker
+  - type/person
 social:
   linkedin: https://www.linkedin.com/in/mknichols/
 title: Mackenzie Nichols
+categories:
+  - speaker
 ---

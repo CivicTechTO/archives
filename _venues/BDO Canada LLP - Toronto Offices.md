@@ -1,5 +1,4 @@
 ---
-type: business
 organization:
   - "[[BDO]]"
 status:

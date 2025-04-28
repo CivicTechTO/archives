@@ -1,5 +1,5 @@
 ---
 tags:
   - type/organization
-title: null
+title: Council of Canadian Innovators
 ---

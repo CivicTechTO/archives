@@ -1,10 +1,12 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 social:
   twitter: https://twitter.com/TerriChu
 organization:
   - '[[Why Should I Care?]]'
 title: Terri Chu
+categories:
+  - speaker
 ---
 

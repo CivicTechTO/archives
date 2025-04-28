@@ -5,6 +5,8 @@ social:
   linkedin: https://www.linkedin.com/in/sylvie-spraakman/
   twitter: https://x.com/sylvspraak
 tags:
-  - type/speaker
+  - type/person
 title: Sylvie Spraakman
+categories:
+  - speaker
 ---

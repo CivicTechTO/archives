@@ -5,9 +5,11 @@ description: |-
 organization:
   - "[[City of Toronto]]"
 tags:
-  - type/speaker
+  - type/person
 social:
   linkedin: https://www.linkedin.com/in/marisa-bernstein-8137099/
   medium: https://medium.com/@marisa_91694
 title: Marisa Bernstein
+categories:
+  - speaker
 ---

@@ -1,5 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: Empower Health
+categories:
+  - supporter
 ---

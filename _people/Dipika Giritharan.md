@@ -1,8 +1,10 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 role_description: Program Coordinator, Evergreen
-organization: []
+organization:
 title: Dipika Giritharan
+categories:
+  - speaker
 ---
 

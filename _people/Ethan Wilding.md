@@ -1,5 +1,7 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 title: Ethan Wilding
+categories:
+  - speaker
 ---

@@ -1,8 +1,10 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 social:
   twitter: https://twitter.com/alonzobartley
 title: Alonzo Bartley
+categories:
+  - speaker
 ---
 

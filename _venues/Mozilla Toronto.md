@@ -3,5 +3,5 @@ tags:
   - type/venue
 organization:
   - "[[Mozilla]]"
-title: null
+title: Mozilla Toronto
 ---

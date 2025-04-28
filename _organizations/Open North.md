@@ -1,5 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: Open North
+categories:
+  - practitioner
 ---

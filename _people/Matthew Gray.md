@@ -4,9 +4,11 @@ organization:
   - "[[Government of Ontario]]"
   - "[[CivicTechTO]]"
 tags:
-  - type/speaker
-  - type/organizer
+  - type/person
 social:
   linkedin: https://www.linkedin.com/in/matthewdhgray/
 title: Matthew Gray
+categories:
+  - organizer
+  - speaker
 ---

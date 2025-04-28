@@ -2,7 +2,7 @@
 title: Architech Offices
 type: business
 organization:
-  - "[[Architech|Architech]]"
+  - "[[Architech]]"
 status: 
 address: "70 Bond St., Suite 400, Toronto, ON "
 tags:

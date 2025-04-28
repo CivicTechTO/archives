@@ -4,6 +4,8 @@ organization:
   - "[[City of Toronto]]"
 role_description: Management Consultant on the Connected Community team in the Technology Services Division
 tags:
-  - type/speaker
+  - type/person
 title: Nabeel Ahmed
+categories:
+  - speaker
 ---

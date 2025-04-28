@@ -1,5 +1,5 @@
 ---
 tags:
   - type/organization
-title: null
+title: Centre for Social Innovation
 ---

@@ -5,4 +5,6 @@ tags:
 title: Durham Region - Open Data
 description:
 website: https://opendata.durham.ca
+categories:
+  - open-data
 ---

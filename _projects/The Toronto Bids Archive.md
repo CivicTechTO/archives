@@ -1,11 +1,13 @@
 ---
+title: The Toronto Bids Archive
 hacknight:
   - "[[397]]"
-slackChannel: "[proj-torontobids](https://civictechto.slack.com/archives/C04C6FPJDD4)"
+social:
+  slack: https://civictechto.slack.com/archives/C04C6FPJDD4
 fromBreakout: true
-title: The Toronto Bids Archive
+categories:
+  - breakout project
 tags:
-  - from/breakout
   - type/project
 status_project: Unknown
 status_contributor: Closed

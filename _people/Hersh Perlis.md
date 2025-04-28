@@ -2,9 +2,11 @@
 organization:
   - "[[Legal Innovation Zone]]"
 tags:
-  - type/speaker
+  - type/person
 social:
   website: http://www.legalinnovationzone.ca/
 title: Hersh Perlis
+categories:
+  - speaker
 ---
 

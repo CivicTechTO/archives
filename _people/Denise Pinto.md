@@ -1,9 +1,11 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 organization:
   - "[[Jane's Walk]]"
 social:
   twitter: http://twitter.com/denisepinto
 title: Denise Pinto
+categories:
+  - speaker
 ---

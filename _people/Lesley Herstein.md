@@ -1,6 +1,8 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 title: Lesley Herstein
+categories:
+  - speaker
 ---
 

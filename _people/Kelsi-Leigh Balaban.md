@@ -4,6 +4,8 @@ description: |-
   Kelsi is passionate about Indigenous governance revitalization efforts and has been active in youth organizing for issues concerning Indigenous people in cities, particularly in harm reduction and urban Indigenous food sovereignty initiatives.
   Kelsi has a BA in Psychology and Native Studies, a certificate in Indigenous Governance and Partnership from the University of Alberta and a MA in Political Science from the University of Toronto.
 tags:
-  - type/speaker
+  - type/person
 title: Kelsi-Leigh Balaban
+categories:
+  - speaker
 ---

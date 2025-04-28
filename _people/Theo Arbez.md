@@ -4,7 +4,9 @@ description: I enjoy talking directly to users and considering both the nitty gr
 organization:
   - "[[Ontario Digital Service]]"
 tags:
-  - type/speaker
+  - type/person
 title: Theo Arbez
+categories:
+  - speaker
 ---
 

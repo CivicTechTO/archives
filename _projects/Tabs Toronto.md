@@ -1,23 +1,21 @@
 ---
-description: Tabs sends email alerts for new Toronto city council/committee agenda items.
+title: Tabs Toronto
+excerpt: Tabs sends email alerts for new Toronto city council/committee agenda items.
 tags:
   - type/project
   - topic/open-government
-  - from/breakout
-website: http://pwd.ca/tabs
-slackChannel: "[proj-tabs-toronto](https://civictechto.slack.com/archives/C01P1EV5F3J)"
-fromBreakout: true
-launched: true
-online: true
+social:
+  website: http://pwd.ca/tabs
+  slack: https://civictechto.slack.com/archives/C01P1EV5F3J
+categories:
+  - breakout project
+  - live
 dateActiveFirst: 2021-01-01
-dateActiveLast: 2022-01-01
-source: airtable original
+date: 2022-01-01
 hacknight:
   - "[[341]]"
 status_project: Completed
 status_contributor: Closed
-feature: false
-title: Tabs Toronto
 team:
   - "[[Gabe Sawhney]]"
 ---

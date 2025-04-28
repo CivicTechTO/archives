@@ -1,20 +1,19 @@
 ---
-description: An online community of talented women and people of color available for speaking opportunities at tech-related events.
+title: Women and Color
+excerpt: An online community of talented women and people of color available for speaking opportunities at tech-related events.
 tags:
   - type/project
   - topic/employment
-website: http://womenandcolor.com
 social:
+  website: http://womenandcolor.com
   twitter: https://x.com/womenandcolor
   linkedin: https://www.linkedin.com/school/womenandcolor/
-slackChannel: "[womenandcolor](https://civictechto.slack.com/archives/C66N513RN)"
-gitrepo: https://github.com/womenandcolor
-fromBreakout: true
-launched: true
-online: false
+  slack: https://civictechto.slack.com/archives/C66N513RN
+  github: https://github.com/womenandcolor
+categories:
+  - breakout project
 dateActiveFirst: 2017-01-01
-dateActiveLast: 2018-01-01
-source: airtable original
+date: 2018-01-01
 hacknight:
   - "[[226]]"
   - "[[122]]"
@@ -22,8 +21,6 @@ hacknight:
   - "[[171]]"
 status_project: Completed
 status_contributor: Closed
-feature: false
-title: Women and Color
 team:
   - "[[Francesca Oprandi]]"
   - "[[Mohammed Asaduallah]]"

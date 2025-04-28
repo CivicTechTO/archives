@@ -1,5 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: Code for Canada
+categories:
+  - CivicTech
 ---

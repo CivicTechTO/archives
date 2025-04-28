@@ -4,8 +4,10 @@ description: |-
   Thomas received his PhD in sociology from Queen’s University. His doctoral research was on the societal impacts of emerging digital technologies, particularly with regards to digital surveillance and policing. He received a Master’s Degree in philosophy and political science from the University of Zurich with a thesis on the geopolitical dimensions of corporate and national security surveillance.
   He is passionate about rethinking smart city strategies to build alternative political and economic systems that empower communities and embed equity and sustainability from the start.
 tags:
-  - type/speaker
+  - type/person
 organization:
   - "[[Open North]]"
 title: Tom Linder
+categories:
+  - speaker
 ---

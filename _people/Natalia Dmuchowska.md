@@ -1,6 +1,8 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 title: Natalia Dmuchowska
+categories:
+  - speaker
 ---
 

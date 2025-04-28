@@ -1,19 +1,17 @@
 ---
-description: Building a profiler for city of toronto open datasets
+title: Open Data Profiler
+excerpt: Building a profiler for city of toronto open datasets
 tags:
   - type/project
   - topic/open-government
-  - from/breakout
-slackChannel: "[cot-opendata-profiler](https://civictechto.slack.com/archives/C0309BMKHTN)"
-gitrepo: https://github.com/open-data-toronto/ckanext-datastore-profiler
-fromBreakout: true
-launched: false
-online: false
+  - topic/open-date
+social:
+  slack: https://civictechto.slack.com/archives/C0309BMKHTN
+  github: https://github.com/open-data-toronto/ckanext-datastore-profiler
+categories:
+  - breakout project
 dateActiveFirst: 2022-01-01
-dateActiveLast: 2022-02-08
-source: airtable original
+date: 2022-02-08
 status_project: Unknown
 status_contributor: Closed
-feature: false
-title: Open Data Profiler
 ---

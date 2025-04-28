@@ -3,8 +3,10 @@ description: David McElroy joined the Transportation Services Division at the Ci
 organization:
   - "[[City of Toronto]]"
 tags:
-  - type/speaker
+  - type/person
 social:
   linkedin: https://www.linkedin.com/in/david-mcelroy-1b58a748/
 title: David McElroy
+categories:
+  - speaker
 ---

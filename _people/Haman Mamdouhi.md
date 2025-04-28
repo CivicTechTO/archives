@@ -1,9 +1,11 @@
 ---
 description: Founder of Health-Bridge
 tags:
-  - type/speaker
+  - type/person
 social:
   website: https://health-bridge.ca
 title: Haman Mamdouhi
+categories:
+  - speaker
 ---
 

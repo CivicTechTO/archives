@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 organization:
   - '[[Toronto Public Library]]'
   - '[[Librarians Without Borders]]'
@@ -8,4 +8,6 @@ description: Carmen is part of the Policy, Planning and Performance Management t
 social:
   twitter: https://x.com/hocarm
 title: Carmen Ho
+categories:
+  - speaker
 ---

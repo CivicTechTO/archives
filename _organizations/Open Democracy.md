@@ -1,7 +1,8 @@
 ---
 tags:
   - type/organization
+  - topic/democracy
 project:
   - "[[Democracy Kit]]"
-title: null
+title: Open Democracy
 ---

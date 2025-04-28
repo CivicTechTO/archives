@@ -2,6 +2,8 @@
 organization:
   - "[[CivicTechTO]]"
 tags:
-  - type/organizer
+  - type/person
 title: Medina Abdelkader
+categories:
+  - organizer
 ---

@@ -4,9 +4,11 @@ role_description: Director, Product at the Ontario Digital Service
 organization:
   - "[[Ontario Digital Service]]"
 tags:
-  - type/speaker
+  - type/person
 social:
   twitter: https://twitter.com/drenton
   linkedin: https://www.linkedin.com/in/drenton/
 title: Dara Renton
+categories:
+  - speaker
 ---

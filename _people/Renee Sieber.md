@@ -1,8 +1,10 @@
 ---
 description: McGill University & geothink.ca
 tags:
-  - type/speaker
+  - type/person
 social:
   website: https://geothink.ca
 title: Renee Sieber
+categories:
+  - speaker
 ---

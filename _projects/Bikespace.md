@@ -5,7 +5,6 @@ project_pitch: TBD
 categories:
   - active
   - open
-project_website: https://bikespace.ca/
 hacknight:
   - "[[419]]"
   - "[[122]]"
@@ -15,19 +14,17 @@ hacknight:
 tags:
   - type/project
   - topic/cycling
-  - from/breakout
   - topic/transportation
-project_github: https://github.com/bikespace/bikespace
-project_slack: https://civictechto.slack.com/archives/C61CZLA5V
 dateActiveFirst: 2017-06-27
 social:
   website: https://bikespace.ca/
   email: bikespaceto@gmail.com
   github: https://github.com/bikespace
-feature: true
-online: true
-launched: true
-fromBreakout: true
+categories:
+  - breakout project
+  - active
+  - live
+  - feature project
 status_project: Active
 status_contributor: Open
 team:

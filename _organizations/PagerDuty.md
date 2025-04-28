@@ -1,8 +1,9 @@
 ---
 tags:
   - type/organization
-  - type/supporter
 social:
   website: https://www.pagerduty.com
-title: null
+title: Pager Duty
+categories:
+  - supporter
 ---

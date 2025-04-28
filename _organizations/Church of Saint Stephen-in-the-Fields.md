@@ -1,5 +1,5 @@
 ---
 tags:
   - type/organization
-title: null
+title: Church of Saint Stephen-in-the-Fields
 ---

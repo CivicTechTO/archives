@@ -1,8 +1,10 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 description: Open Democracy Project Co-Founder
 organization:
   - "[[Open Democracy]]"
 title: Chris Cowperthwaite
+categories:
+  - speaker
 ---

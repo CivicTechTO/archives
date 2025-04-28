@@ -1,5 +1,4 @@
 ---
-type:
 organization:
   - "[[Design Cofounders]]"
 status:

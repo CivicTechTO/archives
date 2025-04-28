@@ -3,6 +3,8 @@ description: My cup of tea is listening and analyzing, but when I’m not doing 
 organization:
   - "[[Ontario Digital Service]]"
 tags:
-  - type/speaker
+  - type/person
 title: Sharon Lam
+categories:
+  - speaker
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 description: |-
   Lucas is a Senior Customer Success Manager at Myplanet, where he helps global brands leverage the power of analytics to optimize web, mobile, and voice experiences.
   Previously he was the director of product at Recycle Coach, the makers of a suite of intuitive digital tools and print solutions, that help make waste management and recycling education accessible to everyone.
@@ -8,4 +8,6 @@ description: |-
 social:
   linkedin: https://www.linkedin.com/in/lucasplayford/
 title: Lucas Playford
+categories:
+  - speaker
 ---

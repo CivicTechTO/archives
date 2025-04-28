@@ -1,5 +1,4 @@
 ---
-type: non profit
 organization:
   - "[[Civic Action]]"
 status:

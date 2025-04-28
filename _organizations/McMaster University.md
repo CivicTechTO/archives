@@ -1,5 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: McMaster University
+categories:
+  - school
 ---

@@ -1,5 +1,7 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 title: Saheel Acharya
+categories:
+  - speaker
 ---

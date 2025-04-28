@@ -1,7 +1,9 @@
 ---
 tags:
   - type/organization
-  - type/supporter
+  - topic/open-data
 parent_organization: "[[City of Toronto]]"
-title: null
+title: Open Data Team
+categories:
+  - supporter
 ---

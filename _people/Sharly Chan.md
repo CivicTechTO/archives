@@ -2,6 +2,8 @@
 organization:
   - "[[CivicTechTO]]"
 tags:
-  - type/organizer
+  - type/person
 title: Sharly Chan
+categories:
+  - organizer
 ---

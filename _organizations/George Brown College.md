@@ -1,5 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: George Brown College
+categories:
+  - school
 ---

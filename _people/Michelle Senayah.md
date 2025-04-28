@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 role_description: Founder and Executive Director
 organization:
   - "[[Open Streets TO]]"
@@ -8,4 +8,6 @@ organization:
 social:
   website: https://www.thelanewayproject.ca/blog/on-the-passing-of-michelle-senayah-founder-amp-executive-director-of-the-laneway-project
 title: Michelle Senayah
+categories:
+  - speaker
 ---

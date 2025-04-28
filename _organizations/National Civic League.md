@@ -1,5 +1,5 @@
 ---
 tags:
   - type/organization
-title: null
+title: National Civic League
 ---

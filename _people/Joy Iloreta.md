@@ -3,6 +3,8 @@ description: Joy Iloreta has been a valued Civic Tech volunteer since November 2
 organization:
   - '[[Civic Tech Fredericton]]'
 tags:
-  - type/speaker
+  - type/person
 title: Joy Iloreta
+categories:
+  - speaker
 ---

@@ -1,7 +1,9 @@
 ---
 description: Mississauga Halton Local Health Integration Network (LIHN)
 tags:
-  - type/speaker
   - is/featured
+  - type/person
 title: Liane Fernandes
+categories:
+  - speaker
 ---

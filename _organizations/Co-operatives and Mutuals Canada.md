@@ -1,5 +1,6 @@
 ---
 tags:
   - type/organization
-title: null
+  - topic/co-operatives
+title: Co-operatives and Mutuals Canada
 ---

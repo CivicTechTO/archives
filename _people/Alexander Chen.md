@@ -3,8 +3,10 @@ organization:
   - "[[CivicTechTO]]"
   - "[[BDO]]"
 tags:
-  - type/speaker
-  - type/organizer
+  - type/person
 description: Data Scientist/CivicTech Enthusiast/Cook
 title: Alexander Chen
+categories:
+  - speaker
+  - organizer
 ---

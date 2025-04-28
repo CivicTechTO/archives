@@ -4,6 +4,8 @@ social:
   linkedin: https://www.linkedin.com/in/jill-crumb-44066343/
   website: http://www.treefrogenv.ca
 tags:
-  - type/speaker
+  - type/person
 title: Jill Crumb
+categories:
+  - speaker
 ---

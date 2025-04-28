@@ -1,7 +1,6 @@
 ---
 tags:
-  - type/speaker
-  - type/organizer
+  - type/person
 role_description: Service Designer, Office of Design & Delivery
 organization:
   - "[[City of Austin]]"
@@ -9,5 +8,8 @@ organization:
 social:
   twitter: https://x.com/adoaboutthings
 title: Andrew Do
+categories:
+  - speaker
+  - organizer
 ---
 

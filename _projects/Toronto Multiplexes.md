@@ -10,5 +10,8 @@ team:
   - "[[Jim Rootham]]"
 status_project: Unknown
 status_contributor: Open
+categories:
+  - breakout project
+  - active
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 organization:
   - University of Toronto
 social:
@@ -8,4 +8,6 @@ social:
 description: Director, Urban Data Research Centre, School of Cities, University of Toronto; Distinguished Professor of Urban Systems Engineering.
 role_description: Director, Urban Data Research Centre, School of Cities
 title: Mark Fox
+categories:
+  - speaker
 ---

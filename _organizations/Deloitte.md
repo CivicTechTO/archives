@@ -2,5 +2,7 @@
 tags:
   - type/organization
   - type/supporter
-title: null
+title: Deloitte
+categories:
+  - supporter
 ---

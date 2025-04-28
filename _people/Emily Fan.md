@@ -5,6 +5,8 @@ social:
 organization:
   - "[[CivicTechTO]]"
 tags:
-  - type/organizer
+  - type/person
 title: Emily Fan
+categories:
+  - organizer
 ---

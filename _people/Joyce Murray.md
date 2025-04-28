@@ -6,10 +6,12 @@ description: |-
   Joyce Murray has always been a thought-leader, driving progressive new policies in government. Whether advocating for strong, smart environmental measures or being an early advocate of the legalization and regulation of cannabis, Joyce’s ability to envision and deliver on bold new ideas comes from her depth of experience in politics and business.
   She is passionate about investing in a fairer, greener economy that empowers future generations, and confident that digital innovation will offer important opportunities for improving services to Canadians.
 tags:
-  - type/speaker
+  - type/person
 social:
   wikipedia: https://en.wikipedia.org/wiki/Joyce_Murray
   twitter: https://x.com/joycemurray
 title: Joyce Murray
+categories:
+  - speaker
 ---
 

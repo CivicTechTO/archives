@@ -3,7 +3,9 @@ description: Jessica Thompson is an Assistant Professor in Hybrid Practice at th
 organization:
   - "[[University of Waterloo]]"
 tags:
-  - type/speaker
+  - type/person
 title: Jessica Thompson
+categories:
+  - speaker
 ---
 

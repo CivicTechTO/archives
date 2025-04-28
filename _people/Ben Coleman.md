@@ -1,8 +1,10 @@
 ---
-description: 
+description:
 tags:
-  - type/organizer
+  - type/person
 organization:
   - "[[CivicTechTO]]"
 title: Ben Coleman
+categories:
+  - organizer
 ---

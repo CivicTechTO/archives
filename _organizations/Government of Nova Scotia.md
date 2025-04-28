@@ -1,5 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: Government of Nova Scotia
+categories:
+  - government
 ---

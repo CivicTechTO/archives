@@ -2,5 +2,5 @@
 tags:
   - type/organization
 image: "[[supporter_brookfield.jpg]]"
-title: null
+title: Brookfield Institute for Innovation + Entrepreneurship
 ---

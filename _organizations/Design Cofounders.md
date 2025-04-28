@@ -1,6 +1,7 @@
 ---
 tags:
   - type/organization
-  - type/supporter
-title: null
+title: Design Cofounders
+categories:
+  - supporter
 ---

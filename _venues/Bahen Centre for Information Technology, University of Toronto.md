@@ -1,5 +1,4 @@
 ---
-type: university
 organization:
   - "[[University of Toronto]]"
 status:

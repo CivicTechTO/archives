@@ -1,12 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: CivicTech Toronto
+categories:
+  - civictech
 ---
-## Organizers
-```dataview
-LIST
-FROM "people"
-WHERE contains(organization, [[CivicTechTO]]) AND contains(file.tags, "#type/organizer")
-SORT name asc
-```

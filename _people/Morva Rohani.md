@@ -2,6 +2,8 @@
 organization:
   - "[[CivicTechTO]]"
 tags:
-  - type/organizer
+  - type/person
 title: Morva Rohani
+categories:
+  - organizer
 ---

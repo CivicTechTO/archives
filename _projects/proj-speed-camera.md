@@ -1,19 +1,14 @@
 ---
-description: 
+title: Speed Camera
 tags:
   - type/project
-  - from/breakout
   - topic/transportation
-website: 
-slackChannel: "[proj-speed-camera](https://civictechto.slack.com/archives/C03TR7QTR2A)"
-gitrepo: 
-fromBreakout: true
-launched: false
-online: false
+social:
+  slackChannel: https://civictechto.slack.com/archives/C03TR7QTR2A
+categories:
+  - breakout project
 dateActiveFirst: 2022-06-16
-dateActiveLast: 2022-09-11
+date: 2022-09-11
 status_project: Abandoned
 status_contributor: Closed
-feature: false
-title: "#proj-speed-camera"
 ---

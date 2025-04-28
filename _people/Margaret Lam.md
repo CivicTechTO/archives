@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 organization:
   -  BeMused Network
 social:
@@ -8,5 +8,7 @@ social:
   website: https://bemusednetwork.com
   twitter: https://x.com/bemusednetwork
 title: Margaret Lam
+categories:
+  - speaker
 ---
 

@@ -1,5 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: No More Noise Toronto
+categories:
+  - project partner
 ---

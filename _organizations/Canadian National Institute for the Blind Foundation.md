@@ -1,5 +1,5 @@
 ---
 tags:
   - type/organization
-title: null
+title: Canadian National Institute for the Blind Foundation
 ---

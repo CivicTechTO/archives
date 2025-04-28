@@ -2,6 +2,8 @@
 organization:
   - "[[CivicTechTO]]"
 tags:
-  - type/organizer
+  - type/person
 title: Sarah McNeil
+categories:
+  - organizer
 ---

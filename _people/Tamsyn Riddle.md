@@ -1,6 +1,8 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 title: Tamsyn Riddle
+categories:
+  - speaker
 ---
 

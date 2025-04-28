@@ -1,17 +1,16 @@
 ---
+title: Toronto Tree Inequities
+excerpt: relationship between Toronto neighbourhoods' street tree density, income, and visible minority population, utilizing spatial autoregression methods
 description: An analysis of the relationship between Toronto neighbourhoods' street tree density, income, and visible minority population, utilizing spatial autoregression methods.
 tags:
   - type/project
   - topic/environment
   - topic/infrastructure
-gitrepo: https://github.com/EthanSansom/torontotreeinequities
-fromBreakout: false
-launched: false
-online: false
-source: airtable original
-hacknight: "[[375]]"
+  - topic/neighbourhoods
+social:
+  github: https://github.com/EthanSansom/torontotreeinequities
+hacknight:
+  - "[[375]]"
 status_project: Unknown
 status_contributor: Closed
-feature: false
-title: Toronto Tree Inequities
 ---

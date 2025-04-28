@@ -1,17 +1,18 @@
 ---
-description: A not-for-profit startup working to open the democratic process by publishing a shared campaign resource package for councillor and trustee races.
+title: Democracy Kit
+excerpt: A not-for-profit startup working to open the democratic process by publishing a shared campaign resource package for councillor and trustee races.
 tags:
   - type/project
   - topic/elections
   - from/breakout
-website: http://www.opendemocracyproject.ca/
-slackChannel: "[democracykit](https://civictechto.slack.com/archives/C2YCPMTSM)"
-gitrepo: https://github.com/democracykit
-fromBreakout: true
-launched: true
-online: false
-dateActiveLast: 2017-12-05
-source: airtable original
+social:
+  website: http://www.opendemocracyproject.ca/
+  slack: https://civictechto.slack.com/archives/C2YCPMTSM
+  github: https://github.com/democracykit
+categories:
+  - breakout project
+  - live
+date: 2017-12-05
 hacknight:
   - "[[67]]"
   - "[[81]]"
@@ -19,8 +20,6 @@ hacknight:
   - "[[122]]"
 status_project: Completed
 status_contributor: Closed
-feature: false
-title: Democracy Kit
 team:
   - "[[Chris Cowperthwaite]]"
   - "[[Micah Richardson]]"

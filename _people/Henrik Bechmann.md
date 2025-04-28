@@ -1,8 +1,7 @@
 ---
 description: Project lead of Budgetpedia
 tags:
-  - type/speaker
-  - type/organizer
+  - type/person
 social:
   twitter: https://x.com/henrikbechmann
   website: http://bechmann.ca
@@ -11,4 +10,7 @@ social:
 organization:
   - "[[CivicTechTO]]"
 title: Henrik Bechmann
+categories:
+  - organizer
+  - speaker
 ---

@@ -1,5 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: Toronto Metropolitan University
+categories:
+  - school
 ---

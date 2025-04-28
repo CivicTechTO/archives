@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 role_description: Senior Policy Advisor at the Canadian Digital Service
 description: |-
   Sam (she/her) is a Senior Policy Advisor at the Canadian Digital Service (CDS), within of the Government of Canada. Prior to joining CDS, she worked at the Mozilla Foundation and Engineers Without Borders Canada.
@@ -10,5 +10,7 @@ organization:
 social:
   linkedin: https://www.linkedin.com/in/samanthaburton
 title: Sam Burton
+categories:
+  - speaker
 ---
 

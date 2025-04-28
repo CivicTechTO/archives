@@ -4,4 +4,6 @@ tags:
   - type/supporter
   - type/organization
 title: Geothink
+categories:
+  - supporter
 ---

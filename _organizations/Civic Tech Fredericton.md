@@ -1,5 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: Civic Tech Fredericton
+categories:
+  - civictech
 ---

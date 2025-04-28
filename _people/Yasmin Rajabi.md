@@ -3,9 +3,11 @@ description: Yasmin is a Project Officer at the Brookfield Institute for Innovat
 organization:
   - "[[Brookfield Institute for Innovation + Entrepreneurship]]"
 tags:
-  - type/speaker
+  - type/person
 social:
   twitter: https://x.com/yasmin_rajabi
 title: Yasmin Rajabi
+categories:
+  - speaker
 ---
 

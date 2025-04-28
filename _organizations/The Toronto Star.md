@@ -1,5 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: The Toronto Star
+categories:
+  - media
 ---

@@ -1,7 +1,7 @@
 ---
 description: Get Your Bot On
 tags:
-  - type/speaker
+  - type/person
 social:
   twitter: https://x.com/adrianai
 title: Adriana Ieraci

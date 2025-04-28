@@ -1,7 +1,9 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 organization:
   - '[[Toronto Public Library]]'
 title: Lina Kim
+categories:
+  - speaker
 ---

@@ -1,20 +1,18 @@
 ---
-description: Make elections results more accessible outside of media cycles.
+title: Free the Electorate
+excerpt: Make elections results more accessible outside of media cycles.
 tags:
   - type/project
   - topic/open-government
-  - from/breakout
-website: https://civictechto.github.io/freetheelectorate/
-slackChannel: "[freetheelectorate](https://civictechto.slack.com/archives/C0SUP85S7)"
-gitrepo: https://github.com/CivicTechTO/freetheelectorate
-fromBreakout: true
-launched: false
-online: false
+  - topic/elections
+social:
+  website: https://civictechto.github.io/freetheelectorate/
+  slack: https://civictechto.slack.com/archives/C0SUP85S7
+  github: https://github.com/CivicTechTO/freetheelectorate
+categories:
+  - breakout project
 dateActiveFirst: 2016-01-01
-dateActiveLast: 2016-01-01
-source: airtable original
+date: 2016-01-01
 status_project: Abandoned
 status_contributor: Closed
-feature: false
-title: Free the Electorate
 ---

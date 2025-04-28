@@ -4,6 +4,8 @@ role_description: Service Design & Delivery team
 organization:
   - "[[City of Toronto]]"
 tags:
-  - type/speaker
+  - type/person
 title: Anne-Marie Croce
+categories:
+  - speaker
 ---

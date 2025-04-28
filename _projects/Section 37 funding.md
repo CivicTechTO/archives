@@ -1,20 +1,18 @@
 ---
-description: For discussion of a potential project related to Section 37 funding.
+title: Section 37 funding
+excerpt: For discussion of a potential project related to Section 37 funding.
 tags:
   - type/project
   - from/breakout
   - topic/budgets
-slackChannel: "[s_37](https://civictechto.slack.com/archives/C1T95QYDA)"
-fromBreakout: true
-launched: false
-online: false
+social:
+  slack: https://civictechto.slack.com/archives/C1T95QYDA
+categories:
+  - breakout project
 dateActiveFirst: 2016-01-01
-dateActiveLast: 2016-01-01
-source: airtable original
+date: 2016-01-01
 status_project: Unknown
 status_contributor: Closed
-feature: false
-title: Section 37 funding
 ---
 https://www.toronto.ca/legdocs/mmis/2016/mm/bgrd/backgroundfile-96904.pdf
 https://www.toronto.ca/city-government/planning-development/official-plan-guidelines/section-37-benefits/

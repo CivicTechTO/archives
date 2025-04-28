@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/speaker
+  - type/person
 description: |-
   Andy Saldaña is the Executive Director of NY Tech Alliance, a non-profit organization that runs the largest Meetup group in the world, the NY Tech Meetup (NYTM). With over 60,000 members and a mission to build a more sustainable, diverse, and equitable technology industry for all New Yorkers, the organization sits at the center of the NY Tech ecosystem.
   He is also a co-founder of QueerTech, a non-profit based in Montreal focused on empowering, connecting, and increasing the visibility of LGBTQ+ entrepreneurs and technologists.
@@ -9,4 +9,6 @@ description: |-
 organization:
   - "[[QueerTech]]"
 title: Andy Saldaña
+categories:
+  - speaker
 ---

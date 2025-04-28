@@ -1,5 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: The Globe and Mail
+categories:
+  - media
 ---

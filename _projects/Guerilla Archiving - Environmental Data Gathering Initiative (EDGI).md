@@ -1,24 +1,22 @@
 ---
-description: Coordinating tech talk about the Guerilla Archiving Event to support Internet Archive's End of Term harvesting project.
+title: Guerilla Archiving - Environmental Data Gathering Initiative (EDGI)
+excerpt: Coordinating tech talk about the Guerilla Archiving Event to support Internet Archive's End of Term harvesting project.
 tags:
   - type/project
-  - from/breakout
   - topic/climate
   - topic/open-data
-slackChannel: "[guerilla-archiving](https://civictechto.slack.com/archives/C3BMND03V)"
-gitrepo: https://github.com/edgi-govdata-archiving
-fromBreakout: true
-launched: false
-online: false
+social:
+  slack: https://civictechto.slack.com/archives/C3BMND03V
+  github: https://github.com/edgi-govdata-archiving
+categories:
+  - breakout project
 dateActiveFirst: 2016-01-01
-dateActiveLast: 2017-01-01
-source: airtable original
+date: 2017-01-01
 hacknight:
   - "[[81]]"
-status_project: Completed
-status_contributor: Closed
-title: Guerilla Archiving - Environmental Data Gathering Initiative (EDGI)
 team:
   - "[[Dawn Walker]]"
   - "[[Matt Price]]"
+status_project: Completed
+status_contributor: Closed
 ---

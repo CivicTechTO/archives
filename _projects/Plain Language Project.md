@@ -1,22 +1,17 @@
 ---
-description:
+title: Plain Language Project
 tags:
   - type/project
   - from/breakout
-website:
-slackChannel: "[proj-plainlanguage](https://civictechto.slack.com/archives/C0DRB24P9)"
-gitrepo:
-fromBreakout: true
-launched: false
-online: false
+social:
+  slack: https://civictechto.slack.com/archives/C0DRB24P9
+
+categories:
+  - breakout project
 dateActiveFirst: 2015-01-01
-dateActiveLast: 2016-01-01
-notes:
-source: airtable original
+date: 2016-01-01
 hacknight:
   - "[[20]]"
 status_project: Abandoned
 status_contributor: Closed
-feature: false
-title: Plain Language Project
 ---

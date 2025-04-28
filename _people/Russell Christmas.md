@@ -4,7 +4,9 @@ description: I aim to look at product design from a holistic organizational pers
 organization:
   - "[[Government of Ontario]]"
 tags:
-  - type/speaker
+  - type/person
 title: Russell Christmas
+categories:
+  - speaker
 ---
 

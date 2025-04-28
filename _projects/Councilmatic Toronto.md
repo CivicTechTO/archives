@@ -1,22 +1,16 @@
 ---
+title: Councilmatic Toronto
 description: 
 tags:
   - type/project
-  - from/breakout
   - topic/democracy
-website: 
-slackChannel: "[proj-councilmatic-dev](https://civictechto.slack.com/archives/C0QTT4T2B)"
-gitrepo: https://github.com/tor-councilmatic
-fromBreakout: true
-launched: false
-online: false
+social:
+  slack: https://civictechto.slack.com/archives/C0QTT4T2B
+  github: https://github.com/tor-councilmatic
+categories:
+  - breakout project
 dateActiveFirst: 
-dateActiveLast: 2018-07-17
-notes: 
-source: airtable original
-hacknight: 
+date: 2018-07-17
 status_project: Completed
 status_contributor: Closed
-feature: false
-title: Councilmatic Toronto
 ---

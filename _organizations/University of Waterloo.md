@@ -1,5 +1,7 @@
 ---
 tags:
   - type/organization
-title: null
+title: University of Waterloo
+categories:
+  - school
 ---

@@ -1,5 +1,8 @@
 ---
 tags:
   - type/organization
-title: null
+title: University of Toronto
+categories:
+  - supporter
+  - school
 ---

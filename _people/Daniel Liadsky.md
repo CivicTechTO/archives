@@ -3,9 +3,11 @@ description: Daniel Liadsky is the Managing Director for Purpose Analytics, a no
 organization:
   - "[[Purpose Analytics]]"
 tags:
-  - type/speaker
+  - type/person
 social:
   linkedin: https://www.linkedin.com/in/daniel-liadsky/
 title: Daniel Liadsky
+categories:
+  - speaker
 ---
 

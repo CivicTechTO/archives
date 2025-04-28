@@ -1,11 +1,10 @@
 ---
-feature: true
-status_project: Active
-status_contributor: Open
 title: tRacket - Noise Meter Project
 excerpt: We’re making it easy and affordable to collect data about noise
 description: We’re making it easy and affordable to collect data about noise
-project_website: https://tracket.info
+social:
+  website: https://tracket.info
+  slack: https://civictechto.slack.com/archives/C05LHL4L8MD
 team:
   - "[[Gabe Sawhney]]"
   - "[[Clyne]]"
@@ -17,13 +16,15 @@ tags:
   - topic/noise
   - from/breakout
   - topic/transportation
-slackChannel: "[proj-noisemeter](https://civictechto.slack.com/archives/C05LHL4L8MD)"
-fromBreakout: true
-launched: true
-online: true
+categories:
+  - breakout project
+  - feature project
+  - live
+  - active
 dateActiveFirst: 2023-08-08
-dateActiveLast: 2024-05-28
-source: airtable original
+date: 2024-05-28
 hacknight:
   - "[[453]]"
+status_project: Active
+status_contributor: Open
 ---

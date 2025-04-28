@@ -1,5 +1,4 @@
 ---
-type: business
 organization:
   - "[[Ecobee]]"
 status:

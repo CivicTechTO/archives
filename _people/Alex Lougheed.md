@@ -4,7 +4,9 @@ organization:
   - "[[City of Toronto]]"
   - "[[CivicTechTO]]"
 tags:
-  - type/speaker
-  - type/organizer
+  - type/person
 title: Alex Lougheed
+categories:
+  - speaker
+  - organizer
 ---
