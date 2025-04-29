@@ -4,7 +4,7 @@ excerpt: Building a profiler for city of toronto open datasets
 tags:
   - type/project
   - topic/open-government
-  - topic/open-date
+  - topic/open-data
 social:
   slack: https://civictechto.slack.com/archives/C0309BMKHTN
   github: https://github.com/open-data-toronto/ckanext-datastore-profiler
