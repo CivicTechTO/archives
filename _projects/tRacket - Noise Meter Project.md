@@ -14,7 +14,6 @@ tags:
   - type/project
   - topic/infrastructure
   - topic/noise
-  - from/breakout
   - topic/transportation
 categories:
   - breakout project
