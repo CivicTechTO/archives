@@ -4,7 +4,6 @@ excerpt: A not-for-profit startup working to open the democratic process by publ
 tags:
   - type/project
   - topic/elections
-  - from/breakout
 social:
   website: http://www.opendemocracyproject.ca/
   slack: https://civictechto.slack.com/archives/C2YCPMTSM

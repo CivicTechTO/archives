@@ -2,7 +2,6 @@
 title: Toronto Multiplexes
 excerpt: TBD
 tags:
-  - from/breakout
   - type/project
   - topic/housing
   - topic/co-operatives
@@ -13,5 +12,6 @@ status_contributor: Open
 categories:
   - breakout project
   - active
+date: 2025-04-29
 ---
 
