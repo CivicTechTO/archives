@@ -21,5 +21,8 @@ hacknight:
   - "[[445]]"
   - "[[491]]"
 team:
-  - "[[Ilya Krenin]]"
+  - "[[Ilya Kreynin]]"
+  - "[[Jasper Ruban]]"
+  - "[[garo]]"
+  - "[[Sharmeena Lalloo]]"
 ---

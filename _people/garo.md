@@ -1,5 +1,5 @@
 ---
-title: 
+title: garo
 description: 
 tags:
   - type/person

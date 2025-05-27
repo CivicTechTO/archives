@@ -1,7 +1,10 @@
 ---
 title: 
+description: 
 organization:
   - "[[CivicTechTO]]"
 tags:
-  - type/organizer
+  - type/person
+categories:
+  - organizer
 ---
