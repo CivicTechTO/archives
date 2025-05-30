@@ -17,8 +17,6 @@ hacknight:
   - "[[81]]"
   - "[[98]]"
   - "[[122]]"
-status_project: Completed
-status_contributor: Closed
 team:
   - "[[Chris Cowperthwaite]]"
   - "[[Micah Richardson]]"

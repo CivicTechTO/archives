@@ -13,8 +13,6 @@ social:
   instagram: https://www.instagram.com/amplelabs_co/
 categories:
   - breakout project
-launched: false
-online: false
 date: 2019-01-01
 hacknight:
   - "[[172]]"

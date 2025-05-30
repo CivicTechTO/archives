@@ -12,7 +12,6 @@ social:
 categories:
   - breakout project
   - live
-launched: true
 date: 2022-01-01
 hacknight:
   - "[[220]]"

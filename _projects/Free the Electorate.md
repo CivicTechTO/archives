@@ -13,6 +13,4 @@ categories:
   - breakout project
 dateActiveFirst: 2016-01-01
 date: 2016-01-01
-status_project: Abandoned
-status_contributor: Closed
 ---

@@ -7,7 +7,7 @@ categories:
   - active
   - live
   - breakout project
-  - feature
+  - feature project
 tags:
   - type/project
   - topic/public-engagement
@@ -17,6 +17,6 @@ social:
   github: https://github.com/CivicTechTO/polis/
 dateActiveFirst: 2024-04-24
 date: 2025-04-29
-status_project: Active
-status_contributor: Open
+hacknight: 
+team: []
 ---

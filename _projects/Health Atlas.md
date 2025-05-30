@@ -14,6 +14,4 @@ categories:
   - breakout project
 dateActiveFirst: 2016-07-26
 date: 2018-08-16
-status_project: Completed
-status_contributor: Closed
 ---

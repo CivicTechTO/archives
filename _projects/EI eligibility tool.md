@@ -10,6 +10,4 @@ categories:
   - breakout project
 dateActiveFirst: 2023-11-14
 date: 2024-10-29
-status_project: Abandoned
-status_contributor: Closed
 ---

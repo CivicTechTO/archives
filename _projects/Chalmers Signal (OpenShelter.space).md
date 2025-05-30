@@ -11,7 +11,6 @@ social:
 categories:
   - breakout project
   - live
-launched: true
 date: 2024-02-01
 hacknight:
   - "[[274]]"

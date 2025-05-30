@@ -17,6 +17,4 @@ hacknight:
 team:
   - "[[Dawn Walker]]"
   - "[[Matt Price]]"
-status_project: Completed
-status_contributor: Closed
 ---

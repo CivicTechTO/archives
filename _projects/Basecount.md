@@ -10,8 +10,6 @@ social:
   github: https://github.com/civictechto/basecount
 categories:
   - breakout project
-launched: false
-online: false
 dateActiveFirst: 2018-01-01
 date: 2018-01-01
 hacknight:
