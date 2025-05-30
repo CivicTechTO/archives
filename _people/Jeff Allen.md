@@ -7,4 +7,6 @@ social:
 title: Jeff Allen
 categories:
   - speaker
+organization:
+  - "[[School of Cities]]"
 ---

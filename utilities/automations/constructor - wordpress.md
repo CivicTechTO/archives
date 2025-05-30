@@ -1,6 +1,6 @@
 ---
 description: A dataview supported wordpress description constructor. Inserted hacknight reference will populate the necessary structured text for wordpress page.
-reference: "[[491]]"
+reference: "[[495]]"
 ---
 
 Hacknight #`=this.reference.number` with `=this.reference.speakers`: `=this.reference.topic`
