@@ -5,4 +5,3 @@ title: The Free and Hanseatic City of Hamburg
 categories:
   - government
 ---
-

@@ -2,6 +2,7 @@
 image: "[[supporter_torontocity.jpg]]"
 tags:
   - type/organization
+  - type/supporter
 title: City of Toronto
 social:
   website: https://www.toronto.ca

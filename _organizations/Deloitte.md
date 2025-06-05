@@ -5,4 +5,6 @@ tags:
 title: Deloitte
 categories:
   - supporter
+social:
+  website: https://www.deloitte.com
 ---
