@@ -1,5 +1,5 @@
 ---
-image: "[[supporter_uoftsppg.jpg]]"
+image: supporter_uoftsppg.jpg
 tags:
   - type/organization
   - topic/policy

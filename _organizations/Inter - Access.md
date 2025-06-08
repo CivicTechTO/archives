@@ -1,5 +1,5 @@
 ---
-image: "[[supporter_interaccess.jpg]]"
+image: supporter_interaccess.png
 tags:
   - type/organization
   - type/supporter
