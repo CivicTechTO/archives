@@ -3,8 +3,7 @@ tags:
   - type/organization
   - type/supporter
 title: BDO
-categories: 
-  - frontpage
-social: 
+categories: []
+social:
   website: https://www.bdo.ca
 ---

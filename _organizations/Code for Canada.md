@@ -3,7 +3,7 @@ tags:
   - type/organization
 title: Code for Canada
 categories:
-  - CivicTech
+  - civictech
 social:
   website: https://codefor.ca
 ---

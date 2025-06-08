@@ -5,7 +5,7 @@ tags:
 title: The Toronto Star
 categories:
   - media
-  - frontpage
+  - supporter
 social:
   website: https://www.thestar.com
 ---

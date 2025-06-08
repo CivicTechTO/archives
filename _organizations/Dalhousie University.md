@@ -2,8 +2,7 @@
 tags:
   - type/organization
 title: Dalhousie University
-categories:
-  - School
+categories: []
 social:
   website: https://www.dal.ca
 ---
