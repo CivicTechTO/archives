@@ -3,6 +3,10 @@ title: Join our first-ever User Research 101 Workshop!
 author: "[[Helén Marton]]"
 date: 2016-01-29
 redirect_from: /2016/01/29/user-research-101/
+excerpt: >
+  Learn the basics of human-centered design at our first hands-on User Research 101 workshop — no experience needed, just curiosity and a drive to build better civic tech.
+tags:
+  - type/announcement
 ---
 ![User Research 101 Workshop](/assets/images/announcements/first-ever-user-research-101-workshop/event_promouu4.jpg)
 

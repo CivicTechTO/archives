@@ -3,6 +3,10 @@ title: "Announcing: Youth Employment Challenge"
 author: "[[Lia Milito]]"
 date: 2016-10-12
 redirect_from: /2016/10/12/announcing-youth-employment-civic-tech-challenge/
+excerpt: >
+  Launching the Youth Employment Challenge: join us October 18 to explore civic solutions, meet collaborators, and compete for $3,000 in awards.
+tags:
+  - type/announcement
 ---
 ![](/assets/images/announcements/announcing-youth-employment-challenge/IMG_20160308_200128.jpg)
 

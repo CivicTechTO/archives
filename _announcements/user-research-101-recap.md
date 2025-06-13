@@ -3,6 +3,10 @@ title: User Research – towards insight and success
 author: "[[Joy Nelson]]"
 date: 2016-04-08
 redirect_from: /2016/04/08/user-research-way-towards-insight-and-success/
+excerpt: >
+  Our first User Research 101 workshop introduced human-centered design to a packed room — with hands-on activities and strong interest in applying user insights to civic projects.
+tags:
+  - type/announcement
 ---
 ![User Research 101 Recap](/assets/images/announcements/user-research-101-recap/recap.png)
 

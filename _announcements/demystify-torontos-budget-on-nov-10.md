@@ -3,6 +3,10 @@ title: Help Us Demystify Toronto’s Budget on Nov 10
 author: "[[Henrik Bechmann]]"
 date: 2015-10-14
 redirect_from: /2015/10/14/help-us-demystify-torontos-budget-on-nov-10/
+excerpt: >
+  Join us November 10 for a fun, fast-paced workshop to help reimagine how Torontonians understand and engage with the city budget — pizza included!
+tags:
+  - type/announcement
 ---
 ![A photo of Toronto City Hall at night](/assets/images/announcements/demystify-torontos-budget-on-nov-10/2015713-pan-am-toronto-sign.webp)
 

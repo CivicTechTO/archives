@@ -3,6 +3,10 @@ title: Goodbye, Meetup
 author: "[[Gabe Sawhney]]"
 date: 2024-11-11
 redirect_from: /2024/11/11/goodbye-meetup/
+excerpt: >
+  After nearly a decade on Meetup, Civic Tech Toronto has switched to Guild and Publer for events and promotion — here’s how (and why) we made the move.
+tags:
+  - type/announcement
 ---
 **_Summary: Civic Tech Toronto has (at long last) stopped using Meetup, and has moved to Guild for event pages and Publer for social media post scheduling._**
 

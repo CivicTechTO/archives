@@ -3,6 +3,10 @@ title: "User Research 101: A human-centered design workshop is back by popular d
 author: "[[Meghan Hellstern]]"
 date: 2016-05-18
 redirect_from: /2016/05/18/user-research-101-a-human-centered-design-workshop/
+excerpt: >
+  Back by popular demand! Learn the basics of user research and human-centered design at our hands-on workshop, perfect for civic tech beginners and curious community builders.
+tags:
+  - type/announcement
 ---
 ![User Research 101: a human-centred design workshop](/assets/images/announcements/user-research-101-back-by-popular-demand/blog_post-image.jpg)
 

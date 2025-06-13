@@ -3,6 +3,10 @@ title: "Civic Tech Toronto’s First Hack Day: June 6"
 author: "[[Dorothy Eng]]"
 date: 2015-07-17
 redirect_from: /2015/07/17/firstpost/
+excerpt: >
+  Our first-ever hackday brought 30+ Torontonians together to tackle civic issues — and launched the weekly hacknight tradition that still thrives today.
+tags:
+  - type/announcement
 ---
 ![](/assets/images/announcements/civic-tech-torontos-first-hack-day-june-6/2X5A5634-e1437764352471.jpg)
 

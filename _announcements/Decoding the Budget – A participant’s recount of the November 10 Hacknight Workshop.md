@@ -3,6 +3,10 @@ title: "Decoding the Budget: A participant’s recount of the November 10 Hackni
 author: "[[Irene Quarcoo]]"
 date: 2015-12-02
 redirect_from: /2015/12/02/decoding-the-budget-a-participants-recount-of-the-november-10-hacknight-workshop/
+excerpt: >
+  At our November 10 workshop, nearly 30 Torontonians tackled the challenge of making the city budget more accessible, engaging, and easier to influence.
+tags:
+  - type/announcement
 ---
 The Toronto budget is a dense tome. Its development a process that only the brave, the passionate and, for the sake of argument, economists dare to traverse. 
 

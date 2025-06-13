@@ -3,6 +3,10 @@ title: "CodeAcross Toronto: Community collaboration in celebration of Internatio
 date: 2016-04-08
 author: "[[Meghan Hellstern]]"
 redirect_from: /2016/04/08/codeacross-toronto-community-collaboration-in-celebration-of-international-open-data-day/
+excerpt: >
+  CodeAcross 2016 brought 100+ Torontonians together to tackle civic challenges with government and community groups — a milestone event for Toronto’s growing civic tech movement.
+tags:
+  - type/announcement
 ---
 ![](/assets/images/announcements/codeacross-toronto-community-collaboration/25557143981_f319b8f6e8_z.jpg)
 

@@ -3,6 +3,10 @@ title: Civic Tech Toronto 2017 highlights
 author: "[[Gabe Sawhney]]"
 date: 2017-12-31
 redirect_from: /2017/12/31/civic-tech-toronto-2017-highlights/
+excerpt: >
+  From our 100th hacknight to national recognition, 2017 was a landmark year for Civic Tech Toronto — here’s what we achieved together.
+tags:
+  - type/announcement
 ---
 2017 was a big year for civic tech in Toronto — here were some of the highlights for us:
 

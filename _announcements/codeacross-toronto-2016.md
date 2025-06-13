@@ -3,6 +3,10 @@ title: "CodeAcross Toronto 2016: Photos, videos and tweets"
 date: 2016-03-07
 redirect_from: /2016/03/07/codeacross-toronto-2016-photos-videos-and-tweets/
 author: "[[Gabe Sawhney]]"
+excerpt: >
+  112 participants, nine civic challenges, and one unforgettable CodeAcross — relive Toronto’s first Open Data Day with photos, videos, and highlights.
+tags:
+  - type/announcement
 ---
 ![](/assets/images/announcements/codeacross-toronto-2016/CcymBqAXEAAmQSu.jpg)
 

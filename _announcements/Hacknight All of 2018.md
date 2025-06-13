@@ -3,6 +3,10 @@ title: "Hacknight #All of 2018"
 author: "[[Kate Skipton]]"
 date: 2018-12-18
 redirect_from: /2018/12/18/hacknight-all-of-2018/
+excerpt: >
+  A year of weekly hacknights made possible by our speakers, venues, and volunteers — watch livestreams and explore highlights from all of 2018.
+tags:
+  - type/announcement
 ---
 Civic Tech Toronto hacknights took place every Tuesday evening in 2018, except during December holidays. We truly appreciate all our 2018 speakers, venue hosts, guests and amazing volunteers!
 

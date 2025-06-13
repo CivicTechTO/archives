@@ -3,6 +3,10 @@ title: "CodeAcross Toronto 2017: in photos and tweets"
 author: "[[Claire McWatt]]"
 date: 2017-03-06
 redirect_from: /2017/03/06/storify-codeacross-2017/
+excerpt: >
+  CivicTechTO’s second CodeAcross brought together community members and government partners to tackle real-world challenges — see the highlights in photos and tweets.
+tags:
+  - type/announcement
 ---
 ![codeacross toronto 2017](/assets/images/announcements/codeacross-toronto-2017/codeacross.jpg)
 
