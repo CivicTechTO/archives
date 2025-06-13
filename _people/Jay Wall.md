@@ -1,6 +1,5 @@
 ---
 tags:
-  - is/featured
   - type/person
 social:
   website: https://jaywall.com

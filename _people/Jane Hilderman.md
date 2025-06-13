@@ -1,7 +1,6 @@
 ---
 description: Jane Hilderman is an Albertan, a policy wonk and Samara's Executive Director. Her recent accomplishments include testifying before the Parliamentary Electoral Reform Committee and traversing the Rockies by horse.
 tags:
-  - is/featured
   - type/person
 organization:
   - "[[Samara Canada]]"

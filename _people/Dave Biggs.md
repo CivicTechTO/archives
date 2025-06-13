@@ -1,7 +1,6 @@
 ---
 role_description: Chief Engagement Officer at MetroQuest
 tags:
-  - is/featured
   - type/person
 organization: []
 social:

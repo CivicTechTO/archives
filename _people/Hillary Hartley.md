@@ -1,7 +1,6 @@
 ---
 description: Chief Digital Officer for the Government of Ontario
 tags:
-  - is/featured
   - type/person
 organization:
   - "[[Government of Ontario]]"

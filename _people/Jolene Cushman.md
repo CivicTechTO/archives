@@ -1,6 +1,5 @@
 ---
 tags:
-  - is/featured
   - type/person
 organization:
   - "[[Toronto Environmental Alliance]]"
