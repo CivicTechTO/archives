@@ -52,8 +52,8 @@ I’ve been impressed by how quickly people have found us on Guild. Now (early D
 
 (I’ll update the graph below occasionally…)
 
-![](/assets/images/posts/goodbye-meetup/guild-followers-vs-date-graph.png)
-![](/assets/images/posts/goodbye-meetup/meetup-total-and-active-members-graph.png)
+![](/assets/images/announcements/goodbye-meetup/guild-followers-vs-date-graph.png)
+![](/assets/images/announcements/goodbye-meetup/meetup-total-and-active-members-graph.png)
 
 
 And we’re doing ok on Bluesky too: with only 9 posts, [@civictechto.bsky.social](https://bsky.app/profile/civictechto.bsky.social) currently has 174 followers. 

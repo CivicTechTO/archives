@@ -4,7 +4,7 @@ author: "[[Henrik Bechmann]]"
 date: 2015-10-14
 redirect_from: /2015/10/14/help-us-demystify-torontos-budget-on-nov-10/
 ---
-![A photo of Toronto City Hall at night](/assets/images/posts/demystify-torontos-budget-on-nov-10/2015713-pan-am-toronto-sign.webp)
+![A photo of Toronto City Hall at night](/assets/images/announcements/demystify-torontos-budget-on-nov-10/2015713-pan-am-toronto-sign.webp)
 
 The Toronto budget is confusing, but it doesn’t need to be. Civic Tech Toronto’s _Toronto Budget Workgroup_ in collaboration with [BetterBudgetTO](http://www.betterbudget.ca/) is rethinking how citizens debate, research and demystify the annual City of Toronto budget. We’ve got some solid ideas that require your invaluable input, but you have to show up to find out what they are, and add your own! 
 

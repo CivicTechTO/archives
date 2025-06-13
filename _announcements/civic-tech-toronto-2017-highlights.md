@@ -17,6 +17,6 @@ redirect_from: /2017/12/31/civic-tech-toronto-2017-highlights/
 - [CodeAcross Toronto 2017](https://civictech.ca/codeacross-toronto-2017/) in March was much-loved by participants and challenge owners — and we’re gearing up for the next CodeAcross in March 2018
 - Civic Tech Toronto figured prominently in the launch of Code for Canada, and there are now _SEVEN_ active civic tech community groups across Canada!
 
-![](/assets/images/posts/civic-tech-toronto-2017-highlights/CTTO-Happy-New-Years.jpg)
+![](/assets/images/announcements/civic-tech-toronto-2017-highlights/CTTO-Happy-New-Years.jpg)
 
 We’re looking forward to 2018! See you at a hacknight!

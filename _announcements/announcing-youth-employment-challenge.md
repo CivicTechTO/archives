@@ -4,7 +4,7 @@ author: "[[Lia Milito]]"
 date: 2016-10-12
 redirect_from: /2016/10/12/announcing-youth-employment-civic-tech-challenge/
 ---
-![](/assets/images/posts/announcing-youth-employment-challenge/IMG_20160308_200128.jpg)
+![](/assets/images/announcements/announcing-youth-employment-challenge/IMG_20160308_200128.jpg)
 
 Civic Tech Toronto is excited to host the Youth Employment Challenge! 
 

@@ -4,7 +4,7 @@ author: "[[Claire McWatt]]"
 date: 2017-03-06
 redirect_from: /2017/03/06/storify-codeacross-2017/
 ---
-![codeacross toronto 2017](/assets/images/posts/codeacross-toronto-2017/codeacross.jpg)
+![codeacross toronto 2017](/assets/images/announcements/codeacross-toronto-2017/codeacross.jpg)
 
 This year’s [CodeAcross](https://civictech.ca/codeacross-toronto-2017/) was truly something special. The eager crowd worked on eight challenges brought to us by key government departments, including the Ontario Ministry of Health, the Landlord and Tenant Board, and the City of Toronto’s Transportation Big Data Innovation Team. The opportunity to collaborate on these major civic projects allowed for teams to make a meaningful and lasting impact on real policy challenges.
 

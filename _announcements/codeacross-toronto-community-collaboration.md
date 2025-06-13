@@ -4,7 +4,7 @@ date: 2016-04-08
 author: "[[Meghan Hellstern]]"
 redirect_from: /2016/04/08/codeacross-toronto-community-collaboration-in-celebration-of-international-open-data-day/
 ---
-![](/assets/images/posts/codeacross-toronto-community-collaboration/25557143981_f319b8f6e8_z.jpg)
+![](/assets/images/announcements/codeacross-toronto-community-collaboration/25557143981_f319b8f6e8_z.jpg)
 
 What happens when you mix together 100 Torontonians who share an interest in making their city more prosperous, sustainable and equitable, nine challenging civic problems, and a liberal helping each of technology, design and data? You get [CodeAcross Toronto 2016](https://civictech.ca/2016/03/07/codeacross-toronto-2016-photos-videos-and-tweets/), a hackathon hosted by Civic Tech Toronto and [Urban+Digital](http://urbandigital.ca/) joining [other communities across Canada](http://codeacross.ca/) in celebration of [International Open Data Day](http://opendataday.org/).
 
@@ -34,8 +34,6 @@ Some of the highlights for CodeAcross Toronto participants were meeting new peop
 These exciting outcomes would not have been possible without the generous support of the [Government of Ontario](http://ontario.ca/), [Microsoft Canada](https://www.microsoft.com/en-ca/) and [Make Web Not War](http://www.webnotwar.ca/), [Brookfield Institute for Entrepreneurship and Innovation](https://twitter.com/brookfieldiie), [City of Toronto Open Data](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9e56e03bb8d1e310VgnVCM10000071d60f89RCRD), as well as the dedicated crew of volunteers that made CodeAcross Toronto happen: Alex Lougheed, Irene Quarcoo, Meghan Hellstern, Gabe Sawhney, Charles Finley, Mari Zhou, Dorothy Eng, Lia Milito, Henrik Bechmann, Yousaf Shah, Andrea Hamilton, Dawn Walker, Grace Wu and Shabs.
 
 Special thanks to the challenge teams: those mentioned above, as well as the Ontario Ministry of Municipal Affairs and Housing, the City of Toronto’s open data team, Toronto Councilmatic, and the Lobbyist Registry team. Check out photos from the day in the slideshow below.
-
-
 <iframe frameborder="0" allowfullscreen="" class="flickr-embed-frame" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen="" style="overflow: hidden; padding: 0px; margin: 0px; width: 726px; height: 484px; max-width: 100%;" width="726" height="484" data-natural-width="799" data-natural-height="533" data-loaded="true"></iframe>
 
 ## So what’s next?

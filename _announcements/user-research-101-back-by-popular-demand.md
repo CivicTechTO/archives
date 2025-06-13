@@ -4,7 +4,7 @@ author: "[[Meghan Hellstern]]"
 date: 2016-05-18
 redirect_from: /2016/05/18/user-research-101-a-human-centered-design-workshop/
 ---
-![User Research 101: a human-centred design workshop](/assets/images/posts/user-research-101-back-by-popular-demand/blog_post-image.jpg)
+![User Research 101: a human-centred design workshop](/assets/images/announcements/user-research-101-back-by-popular-demand/blog_post-image.jpg)
 
 **Sunday, June 5, 2016 from 12:00 PM to 3:30 PM | Mozilla (366 Adelaide St. West, Suite 500, Toronto, ON)**
 

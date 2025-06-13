@@ -4,7 +4,7 @@ author: "[[Dorothy Eng]]"
 date: 2015-07-17
 redirect_from: /2015/07/17/firstpost/
 ---
-![](/assets/images/posts/civic-tech-torontos-first-hack-day-june-6/2X5A5634-e1437764352471.jpg)
+![](/assets/images/announcements/civic-tech-torontos-first-hack-day-june-6/2X5A5634-e1437764352471.jpg)
 
 On June 6, 2015, a group of engaged citizens came together to participate in Civic Tech Toronto’s first hackday. Over 30 people from a wide variety of backgrounds, came together to hack on civic/social problems affecting our neighbourhoods and communities. The event was a great success! Some of the outcomes included:
 

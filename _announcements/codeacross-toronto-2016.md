@@ -4,7 +4,7 @@ date: 2016-03-07
 redirect_from: /2016/03/07/codeacross-toronto-2016-photos-videos-and-tweets/
 author: "[[Gabe Sawhney]]"
 ---
-![](/assets/images/posts/codeacross-toronto-2016/CcymBqAXEAAmQSu.jpg)
+![](/assets/images/announcements/codeacross-toronto-2016/CcymBqAXEAAmQSu.jpg)
 
 Toronto’s first CodeAcross — and fourth Open Data Day — was great success! 112 attendees participated in nine challenges, and made amazing progress in just a few hours. We’ll post a full summary of the event in a few weeks, but in the meantime here are some photos and videos from Saturday…
 

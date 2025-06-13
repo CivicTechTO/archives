@@ -4,7 +4,7 @@ author: "[[Helén Marton]]"
 date: 2016-01-29
 redirect_from: /2016/01/29/user-research-101/
 ---
-![User Research 101 Workshop](/assets/images/posts/first-ever-user-research-101-workshop/event_promouu4.jpg)
+![User Research 101 Workshop](/assets/images/announcements/first-ever-user-research-101-workshop/event_promouu4.jpg)
 
 
 **Tuesday, February 16th | 6.30 PM – 9.30 PM | Mozilla (366 Adelaide St West, Suite 500)**
