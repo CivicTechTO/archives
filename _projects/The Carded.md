@@ -10,7 +10,7 @@ social:
   website: http://thecarded.ca
   slack: https://civictechto.slack.com/archives/C1VNQCW13
 categories:
-  - unknown
+  - status/unknown
 date: 2018-06-04
 hacknight:
   - "[[122]]"

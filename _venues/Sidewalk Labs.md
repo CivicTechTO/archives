@@ -5,5 +5,5 @@ tags:
   - type/venue
 title: Sidewalk Labs
 categories:
-  - closed
+  - status/closed
 ---

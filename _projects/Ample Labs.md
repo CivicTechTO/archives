@@ -13,7 +13,7 @@ social:
   github: https://github.com/amplelabs
   instagram: https://www.instagram.com/amplelabs_co/
 categories:
-  - inactive
+  - status/inactive
 date: 2019-01-01
 hacknight:
   - "[[172]]"

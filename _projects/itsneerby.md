@@ -13,7 +13,7 @@ social:
   github: https://github.com/itsneerby/oldto
   slack: https://civictechto.slack.com/archives/C0352L19ATE
 categories:
-  - inactive
+  - status/inactive
 date: 2023-03-05
 hacknight:
   - "[[383]]"

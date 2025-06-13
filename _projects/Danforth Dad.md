@@ -8,7 +8,7 @@ tags:
 social:
   website: https://danforthdad.com
 categories:
-  - active
+  - status/active
 hacknight:
   - "[[436]]"
 ---

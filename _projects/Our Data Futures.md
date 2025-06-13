@@ -9,8 +9,7 @@ social:
   website: https://docs.google.com/document/d/12pYI_8ndwh5poboIPXkQdtqhtZmSURJZnToeb8iMgm8/edit?tab=t.0#heading=h.jmnh6inxfcex
   slack: https://civictechto.slack.com/archives/CJ9FBREM8
 categories:
-  - inactive
-  - unknown
+  - status/inactive
 date: 2020-07-19
 hacknight:
   - "[[258]]"

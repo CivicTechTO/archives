@@ -8,5 +8,5 @@ description: |-
   We are also the organization that works with partners to hold our Canadian Open Data Summits, where hundreds of open data and open government stakeholders meet to learn and collaborate on various initiatives.
 website: https://www.opendatasociety.ca
 categories:
-  - community
+  - format/community
 ---

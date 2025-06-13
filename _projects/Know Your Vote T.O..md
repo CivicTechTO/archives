@@ -11,5 +11,5 @@ hacknight:
 organization:
   - "[[Toronto Public Library]]"
 categories:
-  - unknown
+  - status/unknown
 ---

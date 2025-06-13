@@ -10,8 +10,7 @@ social:
   github: https://github.com/law-design-colab-ctto
   twitter: https://x.com/lawdesigncolab
 categories:
-  - unknown
-  - inactive
+  - status/unknown
 date: 2021-11-02
 hacknight:
   - "[[258]]"

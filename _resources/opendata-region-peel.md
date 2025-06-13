@@ -6,5 +6,5 @@ title: Peel Region - Open Data
 description: 
 website: https://data.peelregion.ca
 categories:
-  - opendata
+  - format/opendata
 ---

@@ -11,5 +11,5 @@ team:
   - "[[Alex Jung]]"
   - "[[Laura Chang]]"
 categories:
-  - inactive
+  - status/inactive
 ---

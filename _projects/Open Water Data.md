@@ -9,7 +9,8 @@ tags:
 social:
   website: https://www.openwaterdata.com/
 categories:
-  - unknown
+  - status/unknown
+  - contributors/unknown
 hacknight:
   - "[[406]]"
 team:

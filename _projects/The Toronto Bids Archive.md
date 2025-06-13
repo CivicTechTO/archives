@@ -5,7 +5,7 @@ hacknight:
 social:
   slack: https://civictechto.slack.com/archives/C04C6FPJDD4
 categories:
-  - unknown
+  - status/unknown
 tags:
   - type/project
   - type/breakout-project

@@ -8,7 +8,8 @@ social:
   website: https://tobus.ca/
   gitrepo: https://github.com/thomassth/ttc-bus-eta
 categories:
-  - active
+  - status/active
+  - contributors/unknown
 hacknight:
   - "[[409]]"
 ---

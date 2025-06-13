@@ -9,7 +9,7 @@ social:
   website: https://emily-sakaguchi.github.io/Connect_TO/
   github: https://github.com/emily-sakaguchi/Connect_TO
 categories:
-  - unknown
+  - status/unknown
 hacknight:
   - "[[447]]"
 ---

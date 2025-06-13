@@ -6,5 +6,5 @@ title: Toronto and Region Conservation Authority (TRCA) - Open Data
 description: 
 website: https://data.trca.ca
 categories:
-  - opendata
+  - format/opendata
 ---

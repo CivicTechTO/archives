@@ -8,7 +8,7 @@ tags:
 social:
   website: https://schoolofcities.github.io/gentle-density/toronto-building-permits
 categories:
-  - unknown
+  - status/unknown
 hacknight:
   - "[[381]]"
 ---

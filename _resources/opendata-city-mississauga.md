@@ -6,5 +6,5 @@ title: City of Mississauga - Open Data
 description: 
 website: https://data.mississauga.ca
 categories:
-  - opendata
+  - format/opendata
 ---

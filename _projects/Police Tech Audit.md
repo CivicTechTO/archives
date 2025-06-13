@@ -11,7 +11,8 @@ tags:
 social:
   slack: https://civictechto.slack.com/archives/C07BG04N796
 categories:
-  - unknown
+  - status/unknown
+  - contributors/unknown
 dateActiveFirst: 2024-07-02
 team:
   - "[[Ushnish Sengupta]]"

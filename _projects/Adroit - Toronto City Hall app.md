@@ -13,5 +13,5 @@ dateActiveFirst: 2015-01-01
 date: 2015-01-01
 notes: https://github.com/CivicTechTO/tocityhall-app
 categories:
-  - inactive
+  - status/inactive
 ---

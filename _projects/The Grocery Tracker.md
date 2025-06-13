@@ -6,7 +6,7 @@ tags:
   - topic/mutual-aid
   - topic/food-security
 categories:
-  - unknown
+  - status/unknown
 hacknight:
   - "[[452]]"
 social:

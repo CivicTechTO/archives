@@ -6,5 +6,5 @@ tags:
   - type/venue
 title: HackerYou Alumni Lounge
 categories:
-  - closed
+  - status/closed
 ---

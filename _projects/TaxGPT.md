@@ -9,7 +9,7 @@ tags:
 social:
   website: https://taxgpt.ca
 categories:
-  - unknown
+  - status/unknown
 hacknight:
   - "[[386]]"
 ---

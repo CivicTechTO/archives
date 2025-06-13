@@ -10,5 +10,5 @@ hacknight:
 team:
   - "[[Marc De Pape]]"
 categories:
-  - unknown
+  - status/unknown
 ---

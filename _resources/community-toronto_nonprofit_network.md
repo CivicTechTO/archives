@@ -6,5 +6,5 @@ title: Toronto Nonprofit Network
 description:
 website: https://www.torontononprofits.org
 categories:
-  - community
+  - format/community
 ---

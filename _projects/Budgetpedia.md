@@ -11,7 +11,7 @@ social:
   slack: https://civictechto.slack.com/archives/C0958HY7J
   github: https://github.com/CivicTechTO/budgetpedia-frontend
 categories:
-  - inactive
+  - status/inactive
 dateActiveFirst: 2015-01-01
 date: 2018-01-01
 hacknight:

@@ -21,7 +21,7 @@ tags:
   - topic/open-government
   - type/breakout-project
 categories:
-  - OpenToContributors
-  - active
-  - feature
+  - contributors/open
+  - status/active
+  - meta/feature
 ---

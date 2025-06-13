@@ -6,8 +6,8 @@ tags:
   - topic/civic-tech-enablement
   - type/breakout-project
 categories:
-  - active
-  - OpenToContributors
+  - status/active
+  - contributors/paused
 dateActiveFirst: 2024-04-01
 date: 2025-04-29
 social:

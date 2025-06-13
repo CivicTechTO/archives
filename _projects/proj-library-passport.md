@@ -9,7 +9,6 @@ tags:
 social:
   slack: https://civictechto.slack.com/archives/C0668Q425B7
 categories:
-  - inactive
-  - abandoned
+  - status/abandoned
 date: 2023-11-21
 ---

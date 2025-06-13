@@ -9,10 +9,8 @@ social:
 dateActiveFirst: 
 date: 
 categories:
-  - active
-  - open
-  - breakout project
-  - feature project
+  - status/active
+  - contributors/open
 hacknight: 
 team:
 ---

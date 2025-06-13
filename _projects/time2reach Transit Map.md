@@ -9,7 +9,7 @@ tags:
 social:
   website: https://map.henryn.ca/
 categories:
-  - unknown
+  - status/unknown
 hacknight:
   - "[[411]]"
 ---

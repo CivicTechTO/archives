@@ -7,5 +7,5 @@ tags:
 social:
   website: https://web.archive.org/web/20160116062925/https://canitakemybikeonthettc.ca/
 categories:
-  - inactive
+  - status/inactive
 ---

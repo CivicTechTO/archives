@@ -7,7 +7,8 @@ tags:
 social:
   website: https://respitely.org
 categories:
-  - active
+  - status/active
+  - contributors/unknown
 hacknight:
   - "[[450]]"
 team:

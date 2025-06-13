@@ -5,5 +5,5 @@ tags:
   - type/venue
 title: Toronto Media Arts Centre
 categories:
-  - closed
+  - status/closed
 ---

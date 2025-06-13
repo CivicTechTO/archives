@@ -6,5 +6,5 @@ title: City of Brampton - Open Data
 description: 
 website: https://geohub.brampton.ca/pages/data
 categories:
-  - opendata
+  - format/opendata
 ---

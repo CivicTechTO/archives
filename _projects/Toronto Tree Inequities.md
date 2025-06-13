@@ -12,5 +12,5 @@ social:
 hacknight:
   - "[[375]]"
 categories:
-  - unknown
+  - status/unknown
 ---

@@ -6,5 +6,5 @@ title: Government of Canada - Open Government
 description: 
 website: https://open.canada.ca
 categories:
-  - opendata
+  - format/opendata
 ---

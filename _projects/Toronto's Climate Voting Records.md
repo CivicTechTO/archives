@@ -9,8 +9,8 @@ tags:
   - topic/democracy
 categories:
   - feature
-  - active
-  - OpenToContributors
+  - status/active
+  - contributors/open
 team:
   - "[[Mitch Bechtel]]"
 social:

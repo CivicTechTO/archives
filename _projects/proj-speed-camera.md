@@ -7,8 +7,7 @@ tags:
 social:
   slackChannel: https://civictechto.slack.com/archives/C03TR7QTR2A
 categories:
-  - inactive
-  - abandoned
+  - status/abandoned
 dateActiveFirst: 2022-06-16
 date: 2022-09-11
 ---

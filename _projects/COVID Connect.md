@@ -8,7 +8,7 @@ tags:
 social:
   slack: https://civictechto.slack.com/archives/C0122D7G9E0
 categories:
-  - inactive
+  - status/inactive
 dateActiveFirst: 2020-01-01
 date: 2020-01-01
 ---

@@ -19,7 +19,7 @@ date: 2021-10-09
 team:
   - "[[Shea Sinnott]]"
 categories:
-  - unknown
+  - status/unknown
 ---
 
 Our programming and events **foster a culture of collaboration** across sectors and fields,  provide a supportive and collaborative space for **learning, creating, and testing new ideas**, and **encourage greater resident involvement** in the design of public services and policy.

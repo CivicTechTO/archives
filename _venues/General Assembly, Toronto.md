@@ -5,5 +5,5 @@ tags:
   - type/venue
 title: General Assembly, Toronto
 categories:
-  - closed
+  - status/closed
 ---

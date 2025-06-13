@@ -11,7 +11,7 @@ social:
   website: https://www.torontotechmentoring.ca
   slack: https://civictechto.slack.com/archives/CGR02MX9R
 categories:
-  - inactive
+  - status/inactive
 dateActiveFirst: 2018-01-01
 date: 2021-01-01
 hacknight:

@@ -9,8 +9,8 @@ tags:
 team:
   - "[[Jim Rootham]]"
 categories:
-  - active
-  - OpenToContributors
+  - status/active
+  - contributors/open
 date: 2025-04-29
 ---
 

@@ -5,5 +5,5 @@ tags:
   - type/venue
 title: NO_VENUE_ONLINE
 categories:
-  - closed
+  - status/closed
 ---

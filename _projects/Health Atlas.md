@@ -12,7 +12,7 @@ social:
   slackChannel: https://civictechto.slack.com/archives/C1VE3RQF4
   github: https://github.com/MissHaltLHIN/MissHaltLHIN
 categories:
-  - unknown
+  - status/unknown
 dateActiveFirst: 2016-07-26
 date: 2018-08-16
 ---

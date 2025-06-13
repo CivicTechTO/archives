@@ -9,7 +9,7 @@ social:
   website: https://torontoverse.com/articles/a6_rscnPTmG_8auFQPvg7w/meet-torontobot-torontoverses-ai-powered-municipal
   github: https://github.com/geomodulus/torontobot
 categories:
-  - unknown
+  - status/unknown
 hacknight:
   - "[[404]]"
 ---

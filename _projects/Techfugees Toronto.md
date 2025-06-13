@@ -9,7 +9,7 @@ social:
   website: https://techfugees.com/it/techfugees-canada/
   slack: https://civictechto.slack.com/archives/C01ELNH8FB3
 categories:
-  - unknown
+  - status/unknown
 date: 2021-01-19
 hacknight:
   - "[[266]]"

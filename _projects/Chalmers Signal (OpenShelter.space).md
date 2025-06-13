@@ -10,7 +10,7 @@ social:
   website: https://openshelter.space/chalmerssignal/
   slack: https://civictechto.slack.com/archives/C8ZRFH7JShttps://civictechto.slack.com/archives/C8ZRFH7JS
 categories:
-  - inactive
+  - status/inactive
 date: 2024-02-01
 hacknight:
   - "[[274]]"

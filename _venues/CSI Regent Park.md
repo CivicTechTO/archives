@@ -6,5 +6,5 @@ tags:
   - type/venue
 title: CSI Regent Park
 categories:
-  - closed
+  - status/closed
 ---

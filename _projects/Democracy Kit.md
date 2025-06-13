@@ -10,7 +10,7 @@ social:
   slack: https://civictechto.slack.com/archives/C2YCPMTSM
   github: https://github.com/democracykit
 categories:
-  - active
+  - status/active
 date: 2017-12-05
 hacknight:
   - "[[67]]"
