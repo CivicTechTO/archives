@@ -5,21 +5,20 @@ description: Meshnets are highly distributed, redundant intranet networks. A ser
 tags:
   - type/project
   - topic/internet-access
+  - type/breakout-project
 social:
   website: https://tomesh.net/
   slack: https://civictechto.slack.com/archives/C0JBXQ7L7
   twitter: https://x.com/tomeshnet
   github: https://github.com/tomeshnet
 categories:
-  - breakout project
-  - live
+  - ProjectLive
+  - Unknown
 date: 2016-11-14
 hacknight:
   - "[[50]]"
   - "[[187]]"
   - "[[261]]"
-status_project: Completed
-status_contributor: Closed
 team:
   - "[[Cole AC]]"
   - "[[Dante Sanchez]]"

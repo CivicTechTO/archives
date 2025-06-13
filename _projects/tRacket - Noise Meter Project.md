@@ -19,15 +19,13 @@ tags:
   - topic/infrastructure
   - topic/noise
   - topic/transportation
+  - type/breakout-project
 categories:
-  - breakout project
-  - feature project
-  - live
-  - active
+  - ProjectActive
+  - ProjectLive
+  - Unknown
 dateActiveFirst: 2023-08-08
 date: 2025-05-31
 hacknight:
   - "[[453]]"
-status_project: Active
-status_contributor: Open
 ---

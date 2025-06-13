@@ -3,8 +3,8 @@ tags:
   - type/resource
   - topic/volunteerism
 title: Volunteer Canada
-description:
+description: 
 website: https://volunteer.ca/volunteer-centre-directory/
 categories:
-  - volunteer opportunities
+  - volunteerOpportunities
 ---

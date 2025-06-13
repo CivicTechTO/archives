@@ -3,8 +3,8 @@ tags:
   - type/resource
   - topic/open-data
 title: Toronto District School Board - Open Data
-description:
+description: 
 website: https://www.tdsb.on.ca/Open-Data
 categories:
-  - open-data
+  - opendata
 ---

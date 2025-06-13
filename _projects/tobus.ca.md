@@ -8,9 +8,8 @@ social:
   website: https://tobus.ca/
   gitrepo: https://github.com/thomassth/ttc-bus-eta
 categories:
-  - live
+  - ProjectLive
+  - ProjectActive
 hacknight:
   - "[[409]]"
-status_project: Unknown
-status_contributor: Closed
 ---

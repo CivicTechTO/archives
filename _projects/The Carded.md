@@ -5,17 +5,16 @@ description: Our vision for The Carded is to provide user-friendly resources for
 tags:
   - type/project
   - topic/police
+  - type/breakout-project
 social:
   website: http://thecarded.ca
   slack: https://civictechto.slack.com/archives/C1VNQCW13
 categories:
-  - breakout project
-  - live
+  - ProjectLive
+  - Unknown
 date: 2018-06-04
 hacknight:
   - "[[122]]"
-status_project: Completed
-status_contributor: Closed
 team:
   - "[[Sharmarke Noor]]"
 ---

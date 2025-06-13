@@ -9,6 +9,7 @@ hacknight:
   - "[[122]]"
 team:
   - "[[Marc De Pape]]"
-status_project: Unknown
-status_contributor: Closed
+categories:
+  - Unknown
+  - ProjectInactive
 ---

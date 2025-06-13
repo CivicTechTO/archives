@@ -5,12 +5,13 @@ tags:
   - type/project
   - topic/housing
   - topic/shelters
+  - type/breakout-project
 social:
   website: https://openshelter.space/chalmerssignal/
   slack: https://civictechto.slack.com/archives/C8ZRFH7JShttps://civictechto.slack.com/archives/C8ZRFH7JS
 categories:
-  - breakout project
-  - live
+  - ProjectLive
+  - ProjectInactive
 date: 2024-02-01
 hacknight:
   - "[[274]]"
@@ -19,6 +20,4 @@ team:
   - "[[Saheel Acharya]]"
   - "[[Steven Xie]]"
   - "[[Zachary Donsky]]"
-status_contributor: Closed
-status_project: Completed
 ---

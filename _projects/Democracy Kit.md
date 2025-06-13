@@ -4,13 +4,14 @@ excerpt: A not-for-profit startup working to open the democratic process by publ
 tags:
   - type/project
   - topic/elections
+  - type/breakout-project
 social:
   website: http://www.opendemocracyproject.ca/
   slack: https://civictechto.slack.com/archives/C2YCPMTSM
   github: https://github.com/democracykit
 categories:
-  - breakout project
-  - live
+  - ProjectLive
+  - ProjectActive
 date: 2017-12-05
 hacknight:
   - "[[67]]"

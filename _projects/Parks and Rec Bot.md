@@ -10,9 +10,8 @@ social:
   website: https://chatgpt.com/g/g-UhmmS6Psr-toronto-parks-and-rec-bot
   linkedin: https://www.linkedin.com/posts/ryanmerkley_chatgpt-toronto-parks-and-rec-bot-activity-7130056310514974720-C9MD
 categories:
-  - live
+  - ProjectLive
+  - Unknown
 hacknight:
   - "[[425]]"
-status_project: Unknown
-status_contributor: Closed
 ---

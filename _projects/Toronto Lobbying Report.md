@@ -9,9 +9,8 @@ social:
   website: https://lobbyingintoronto.ca/
   github: https://github.com/RamVasuthevan/TorontoLobbyistRegistry
 categories:
-  - live
+  - ProjectLive
+  - Unknown
 hacknight:
   - "[[457]]"
-status_project: Unknown
-status_contributor: Closed
 ---

@@ -4,6 +4,7 @@ excerpt: An online community of talented women and people of color available for
 tags:
   - type/project
   - topic/employment
+  - type/breakout-project
 social:
   website: http://womenandcolor.com
   twitter: https://x.com/womenandcolor
@@ -11,7 +12,8 @@ social:
   slack: https://civictechto.slack.com/archives/C66N513RN
   github: https://github.com/womenandcolor
 categories:
-  - breakout project
+  - ProjectInactive
+  - Unknown
 dateActiveFirst: 2017-01-01
 date: 2018-01-01
 hacknight:
@@ -19,8 +21,6 @@ hacknight:
   - "[[122]]"
   - "[[138]]"
   - "[[171]]"
-status_project: Completed
-status_contributor: Closed
 team:
   - "[[Francesca Oprandi]]"
   - "[[Mohammed Asaduallah]]"

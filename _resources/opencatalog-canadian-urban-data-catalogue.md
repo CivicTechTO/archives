@@ -3,8 +3,8 @@ tags:
   - type/resource
   - topic/open-data
 title: Canadian Urban Data Catalogue (CUDC)
-description:
+description: 
 website: https://data.urbandatacentre.ca
 categories:
-  - data catalog
+  - datacatalog
 ---

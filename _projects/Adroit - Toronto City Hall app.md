@@ -5,6 +5,7 @@ tags:
   - type/project
   - topic/open-government
   - topic/democracy
+  - type/breakout-project
 social:
   slack: https://civictechto.slack.com/archives/C0JC4A5RS
   github: https://github.com/dougestey/adroit
@@ -12,7 +13,6 @@ dateActiveFirst: 2015-01-01
 date: 2015-01-01
 notes: https://github.com/CivicTechTO/tocityhall-app
 categories:
-  - breakout project
-status_project: Abandoned
-status_contributor: Closed
+  - ProjectAbandoned
+  - ProjectInactive
 ---

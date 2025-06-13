@@ -1,13 +1,15 @@
 ---
 title: Danforth Dad
 description: Toronto playground map and reviews
-tags: 
+tags:
   - type/project
   - topic/public-parks
+  - topic/play
 social:
   website: https://danforthdad.com
 categories:
-  - live
+  - ProjectActive
+  - ProjectLive
 hacknight:
   - "[[436]]"
 ---

@@ -3,8 +3,8 @@ tags:
   - type/resource
   - topic/open-data
 title: City of Oakville - Open Data
-description:
+description: 
 website: https://portal-exploreoakville.opendata.arcgis.com
 categories:
-  - open-data
+  - opendata
 ---

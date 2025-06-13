@@ -3,8 +3,8 @@ tags:
   - type/resource
   - topic/open-data
 title: Government of Ontario - Ontario Data
-description:
+description: 
 website: https://data.ontario.ca
 categories:
-  - open-data
+  - opendata
 ---

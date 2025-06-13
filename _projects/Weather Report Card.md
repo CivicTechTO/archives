@@ -9,6 +9,7 @@ social:
   website: https://web.archive.org/web/20170604011605/http://weatherreportcard.ca/
   twitter: https://twitter.com/weathrreportcrd
 date: 2027-02-29
-status_project: Unknown
-status_contributor: Closed
+categories:
+  - Unknown
+  - ProjectInactive
 ---

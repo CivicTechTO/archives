@@ -5,17 +5,16 @@ description: This application facilitates the identification of missing persons 
 tags:
   - type/project
   - topic/public-safety
+  - type/breakout-project
 social:
   website: https://civictechto.github.io/missing-persons/
   slack: https://civictechto.slack.com/archives/C03DJRS2ZRV
   github: https://github.com/CivicTechTO/missing-persons
 categories:
-  - breakout project
-  - live
+  - ProjectLive
+  - ProjectInactive
 dateActiveFirst: 2022-01-01
 date: 2023-10-03
-hacknight: 
+hacknight:
   - "[[412]]"
-status_project: Completed
-status_contributor: Closed
 ---

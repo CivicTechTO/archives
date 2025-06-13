@@ -7,13 +7,12 @@ tags:
   - topic/public-transparency
   - topic/police
   - topic/budgets
+  - type/breakout-project
 social:
   slack: https://civictechto.slack.com/archives/C07BG04N796
 categories:
-  - breakout project
+  - Unknown
 dateActiveFirst: 2024-07-02
-status_project: Paused
-status_contributor: Open
 team:
   - "[[Ushnish Sengupta]]"
 ---

@@ -4,12 +4,10 @@ excerpt:
 tags:
   - type/project
   - topic/civic-tech-enablement
-website: 
+  - type/breakout-project
 slackChannel: "[civic-tech-toolkit](https://civictechto.slack.com/archives/C0739GZADL6)"
 categories:
-  - breakout project
-  - active
-  - open
+  - ProjectActive
 dateActiveFirst: 2024-04-01
 date: 2025-04-29
 ---

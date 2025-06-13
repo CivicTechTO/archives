@@ -6,5 +6,5 @@ title: City of Hamilton - Open Data
 description: 
 website: https://open.hamilton.ca
 categories:
-  - open-data
+  - opendata
 ---

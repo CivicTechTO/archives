@@ -11,6 +11,7 @@ social:
   github: https://github.com/EthanSansom/torontotreeinequities
 hacknight:
   - "[[375]]"
-status_project: Unknown
-status_contributor: Closed
+categories:
+  - Unknown
+  - ProjectInactive
 ---

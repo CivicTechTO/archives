@@ -4,8 +4,8 @@ tags:
   - topic/open-data
   - topic/transit
 title: York Region Transit - Open Data
-description:
+description: 
 website: https://www.yrt.ca/en/about-us/open-data.aspx
 categories:
-  - open-data
+  - opendata
 ---

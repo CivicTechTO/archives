@@ -6,11 +6,12 @@ social:
   slack: https://civictechto.slack.com/archives/C04C6FPJDD4
 fromBreakout: true
 categories:
-  - breakout project
+  - Unknown
 tags:
   - type/project
-status_project: Unknown
-status_contributor: Closed
+  - type/breakout-project
+  - topic/public-transparency
+  - topic/archives
 team:
   - "[[Gabe Sawhney]]"
   - "[[Alex Olson]]"

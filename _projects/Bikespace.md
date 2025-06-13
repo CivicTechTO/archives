@@ -3,8 +3,10 @@ title: Bikespace
 excerpt: BikeSpace is a free web app run by volunteers from Civic Tech Toronto that allows users to report issues with bicycle parking in Toronto.
 project_pitch: TBD
 categories:
-  - active
-  - open
+  - ProjectActive
+  - ProjectOpenToContributors
+  - ProjectLive
+  - Feature
 hacknight:
   - "[[419]]"
   - "[[122]]"
@@ -15,25 +17,18 @@ tags:
   - type/project
   - topic/cycling
   - topic/transportation
+  - type/breakout-project
 dateActiveFirst: 2017-06-27
 social:
   website: https://bikespace.ca/
   email: bikespaceto@gmail.com
   github: https://github.com/bikespace
-categories:
-  - breakout project
-  - active
-  - live
-  - feature project
-status_project: Active
-status_contributor: Open
 team:
   - "[[Jake Miller]]"
   - "[[Sonal Ranjit]]"
   - "[[Ollie Sheldrick]]"
   - "[[Ben Coleman]]"
 ---
-
 ## Summary
 
 BikeSpace is a free web app run by volunteers from Civic Tech Toronto that allows users to report issues with bicycle parking in Toronto (e.g. broken post and rings, locked abandoned bikes, and areas where bicycle parking is not provided). Since it was originally launched in partnership with the City of Toronto in 2018, it has collected over 1,000 user reports of bicycle parking issues. The goal of the web app is to support data-driven solutions to bicycle parking needs by crowd-sourcing reports from people in Toronto.

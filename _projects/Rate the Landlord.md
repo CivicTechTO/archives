@@ -8,9 +8,8 @@ tags:
 social:
   website: https://ratethelandlord.org
 categories:
-  - live
+  - ProjectLive
+  - Unknown
 hacknight:
   - "[[402]]"
-status_project: Unknown
-status_contributor: Closed
 ---

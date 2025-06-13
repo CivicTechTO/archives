@@ -8,7 +8,6 @@ tags:
 social:
   website: https://www.ttc-rider.ca/
 categories:
-  - live
-status_project: Unknown
-status_contributor: Closed
+  - ProjectLive
+  - Unknown
 ---

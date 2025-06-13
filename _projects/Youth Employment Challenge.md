@@ -6,7 +6,7 @@ tags:
 hacknight:
   - "[[64]]"
   - "[[72]]"
-status_project: Completed
-status_contributor: Closed
+categories:
+  - ProjectInactive
 ---
  

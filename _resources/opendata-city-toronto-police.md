@@ -3,8 +3,8 @@ tags:
   - type/resource
   - topic/open-data
 title: Toronto Police Service - Public Safety Data Portal
-description:
+description: 
 website: https://data.torontopolice.on.ca/pages/open-data
 categories:
-  - open-data
+  - opendata
 ---

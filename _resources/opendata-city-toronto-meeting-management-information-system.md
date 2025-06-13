@@ -3,8 +3,8 @@ tags:
   - type/resource
   - topic/open-data
 title: City of Toronto - Toronto Meeting Management Information System (TMMIS)
-description:
+description: 
 website: https://secure.toronto.ca/council/#/highlights
 categories:
-  - open-data
+  - opendata
 ---

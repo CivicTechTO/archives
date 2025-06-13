@@ -9,9 +9,10 @@ tags:
 social:
   website: https://www.openwaterdata.com/
 categories:
-  - live
+  - ProjectLive
+  - Unknown
 hacknight:
   - "[[406]]"
-status_project: Unknown
-status_contributor: Closed
+team:
+  - "[[Mitch Bechtel]]"
 ---

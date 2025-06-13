@@ -7,9 +7,10 @@ tags:
 social:
   website: https://respitely.org
 categories:
-  - live
+  - ProjectLive
+  - ProjectActive
 hacknight:
   - "[[450]]"
-status_project: Active
-status_contributor: Closed
+team:
+  - "[[Arjun Sahjpaul]]"
 ---

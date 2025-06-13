@@ -10,7 +10,10 @@ tags:
   - topic/open-government
   - topic/democracy
 categories:
-  - feature project
+  - Feature
+  - ProjectActive
+  - ProjectOpenToContributors
+  - ProjectLive
 team:
   - "[[Mitch Bechtel]]"
 social:

@@ -3,14 +3,13 @@ title: Pol.is Toronto
 excerpt: Polis is a good engagement tool for large-scale, open-ended feedback gathering.
 project_pitch: tbd
 categories:
-  - open
-  - active
-  - live
-  - breakout project
-  - feature project
+  - ProjectOpenToContributors
+  - ProjectActive
+  - ProjectLive
 tags:
   - type/project
   - topic/public-engagement
+  - type/breakout-project
 social:
   website: https://github.com/CivicTechTO/polis/wiki
   slack: https://civictechto.slack.com/archives/C07167VPT7S
@@ -18,5 +17,5 @@ social:
 dateActiveFirst: 2024-04-24
 date: 2025-04-29
 hacknight: 
-team: []
+team:
 ---

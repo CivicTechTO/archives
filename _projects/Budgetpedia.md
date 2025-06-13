@@ -5,24 +5,21 @@ tags:
   - type/project
   - topic/open-government
   - topic/budgets
+  - type/breakout-project
 social:
   website: http://budgetpedia.ca/
   slack: https://civictechto.slack.com/archives/C0958HY7J
   github: https://github.com/CivicTechTO/budgetpedia-frontend
 categories:
-  - breakout project
-  - live
+  - ProjectInactive
+  - ProjectLive
 launched: true
-
 dateActiveFirst: 2015-01-01
 date: 2018-01-01
-source: airtable original
 hacknight:
   - "[[20]]"
   - "[[70]]"
   - "[[122]]"
-status_project: Completed
-status_contributor: Closed
 team:
   - "[[Henrik Bechmann]]"
   - "[[Jim Rootham]]"

@@ -3,8 +3,8 @@ tags:
   - type/resource
   - topic/open-data
 title: Durham Region - Open Data
-description:
+description: 
 website: https://opendata.durham.ca
 categories:
-  - open-data
+  - opendata
 ---

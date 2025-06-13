@@ -6,17 +6,16 @@ tags:
   - type/project
   - topic/arts-and-culture
   - topic/maps
+  - type/breakout-project
 social:
   website: https://itsneerby.ca/
   twitter: https://x.com/itsneerby
   github: https://github.com/itsneerby/oldto
   slack: https://civictechto.slack.com/archives/C0352L19ATE
 categories:
-  - breakout project
-  - live
+  - ProjectLive
+  - ProjectInactive
 date: 2023-03-05
 hacknight:
   - "[[383]]"
-status_project: Completed
-status_contributor: Closed
 ---

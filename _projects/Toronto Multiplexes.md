@@ -5,13 +5,12 @@ tags:
   - type/project
   - topic/housing
   - topic/co-operatives
+  - type/breakout-project
 team:
   - "[[Jim Rootham]]"
-status_project: Unknown
-status_contributor: Open
 categories:
-  - breakout project
-  - active
+  - ProjectActive
+  - ProjectOpenToContributors
 date: 2025-04-29
 ---
 

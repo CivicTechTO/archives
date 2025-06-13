@@ -6,12 +6,13 @@ tags:
   - type/project
   - topic/public-health
   - topic/maps
+  - type/breakout-project
 social:
   website: https://misshaltlhin.github.io/MissHaltLHIN/
   slackChannel: https://civictechto.slack.com/archives/C1VE3RQF4
   github: https://github.com/MissHaltLHIN/MissHaltLHIN
 categories:
-  - breakout project
+  - Unknown
 dateActiveFirst: 2016-07-26
 date: 2018-08-16
 ---

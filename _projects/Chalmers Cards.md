@@ -6,12 +6,13 @@ tags:
   - topic/housing
   - topic/service-delivery
   - topic/homelessness
+  - type/breakout-project
 social:
   website: https://www.chalmerscards.com/
   slack: https://civictechto.slack.com/archives/C8ZRFH7JShttps://civictechto.slack.com/archives/C8ZRFH7JS
 categories:
-  - breakout project
-  - live
+  - ProjectLive
+  - ProjectInactive
 date: 2022-01-01
 hacknight:
   - "[[220]]"
@@ -19,6 +20,4 @@ hacknight:
 team:
   - "[[Steven Xie]]"
   - "[[Zachary Donsky]]"
-status_project: Completed
-status_contributor: Closed
 ---

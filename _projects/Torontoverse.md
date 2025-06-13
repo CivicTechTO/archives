@@ -8,9 +8,8 @@ tags:
 social:
   website: https://torontoverse.com
 categories:
-  - live
+  - ProjectLive
+  - Unknown
 hacknight:
   - "[[365]]"
-status_project: Unknown
-status_contributor: Closed
 ---

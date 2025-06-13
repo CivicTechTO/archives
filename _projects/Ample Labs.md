@@ -6,18 +6,18 @@ tags:
   - topic/homelessness
   - topic/artificial-intelligence
   - topic/data
+  - type/breakout-project
 social:
   website: https://amplelabs.notion.site/Team-Ample-Goodbyes-661ebe2eb4994dfebcd542408601a96c
   slack: https://civictechto.slack.com/archives/C9RT8GHQC
   github: https://github.com/amplelabs
   instagram: https://www.instagram.com/amplelabs_co/
 categories:
-  - breakout project
+  - ProjectInactive
+  - ProjectCompleted
 date: 2019-01-01
 hacknight:
   - "[[172]]"
-status_project: Completed
-status_contributor: Closed
 team:
   - "[[CG Chen]]"
   - "[[Matt Wong]]"

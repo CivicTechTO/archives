@@ -5,11 +5,12 @@ tags:
   - type/project
   - topic/climate
   - topic/open-data
+  - type/breakout-project
 social:
   slack: https://civictechto.slack.com/archives/C3BMND03V
   github: https://github.com/edgi-govdata-archiving
 categories:
-  - breakout project
+  - ProjectActive
 dateActiveFirst: 2016-01-01
 date: 2017-01-01
 hacknight:
