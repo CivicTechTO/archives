@@ -6,8 +6,8 @@ tags:
 social:
   slack: https://civictechto.slack.com/archives/C0DRB24P9
 categories:
-  - ProjectAbandoned
-  - ProjectInactive
+  - inactive
+  - abandoned
 dateActiveFirst: 2015-01-01
 date: 2016-01-01
 hacknight:

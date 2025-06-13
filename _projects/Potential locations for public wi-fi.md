@@ -5,12 +5,11 @@ description: The City of Toronto has been expanding its public Wi-Fi program in 
 tags:
   - type/project
   - topic/internet-access
-slack:
+social:
   website: https://emily-sakaguchi.github.io/Connect_TO/
   github: https://github.com/emily-sakaguchi/Connect_TO
 categories:
-  - ProjectLive
-  - Unknown
+  - unknown
 hacknight:
   - "[[447]]"
 ---

@@ -6,5 +6,4 @@ tags:
 title: Mozilla
 categories:
   - supporter
-  - frontpage
 ---

@@ -9,8 +9,7 @@ tags:
 social:
   website: https://schoolofcities.github.io/place-and-politics-toronto/
 categories:
-  - ProjectLive
-  - Unknown
+  - unknown
 hacknight:
   - "[[381]]"
 ---

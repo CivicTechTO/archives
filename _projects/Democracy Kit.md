@@ -10,8 +10,7 @@ social:
   slack: https://civictechto.slack.com/archives/C2YCPMTSM
   github: https://github.com/democracykit
 categories:
-  - ProjectLive
-  - ProjectActive
+  - active
 date: 2017-12-05
 hacknight:
   - "[[67]]"
@@ -21,4 +20,6 @@ hacknight:
 team:
   - "[[Chris Cowperthwaite]]"
   - "[[Micah Richardson]]"
+organization:
+  - "[[Open Democracy]]"
 ---

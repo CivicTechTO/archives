@@ -9,8 +9,7 @@ tags:
 social:
   website: https://map.henryn.ca/
 categories:
-  - ProjectLive
-  - Unknown
+  - unknown
 hacknight:
   - "[[411]]"
 ---

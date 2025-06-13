@@ -6,8 +6,7 @@ tags:
 social:
   website: https://schoolofcities.github.io/parking-tickets-toronto/
 categories:
-  - ProjectLive
-  - Unknown
+  - unknown
 hacknight:
   - "[[381]]"
 ---

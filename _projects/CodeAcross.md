@@ -10,4 +10,6 @@ hacknight:
 team:
   - "[[Alex Jung]]"
   - "[[Laura Chang]]"
+categories:
+  - inactive
 ---

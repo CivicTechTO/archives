@@ -7,5 +7,5 @@ parent_organization: "[[City of Toronto]]"
 title: Open Data Team
 categories:
   - supporter
-  - frontpage
+  - feature
 ---

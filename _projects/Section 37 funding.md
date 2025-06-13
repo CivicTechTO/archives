@@ -8,8 +8,7 @@ tags:
 social:
   slack: https://civictechto.slack.com/archives/C1T95QYDA
 categories:
-  - Unknown
-  - ProjectInactive
+  - inactive
 dateActiveFirst: 2016-01-01
 date: 2016-01-01
 ---

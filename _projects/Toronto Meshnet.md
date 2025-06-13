@@ -12,8 +12,7 @@ social:
   twitter: https://x.com/tomeshnet
   github: https://github.com/tomeshnet
 categories:
-  - ProjectLive
-  - Unknown
+  - unknown
 date: 2016-11-14
 hacknight:
   - "[[50]]"

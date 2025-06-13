@@ -5,6 +5,5 @@ tags:
   - type/supporter
 title: Government of Ontario
 categories:
-  - government
   - supporter
 ---

@@ -11,8 +11,7 @@ social:
   slack: https://civictechto.slack.com/archives/C03DJRS2ZRV
   github: https://github.com/CivicTechTO/missing-persons
 categories:
-  - ProjectLive
-  - ProjectInactive
+  - inactive
 dateActiveFirst: 2022-01-01
 date: 2023-10-03
 hacknight:

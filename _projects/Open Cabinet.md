@@ -10,9 +10,7 @@ social:
   slack: https://civictechto.slack.com/archives/C0C41B8JJ
   github: https://github.com/CivicTechTO/open-cabinet
 categories:
-  - ProjectInactive
-launched: true
-online: false
+  - inactive
 dateActiveFirst: 2015-01-01
 date: 2016-01-01
 hacknight:

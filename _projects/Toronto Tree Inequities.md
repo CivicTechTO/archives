@@ -12,6 +12,5 @@ social:
 hacknight:
   - "[[375]]"
 categories:
-  - Unknown
-  - ProjectInactive
+  - unknown
 ---

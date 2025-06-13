@@ -11,8 +11,8 @@ social:
   slack: https://civictechto.slack.com/archives/C0SUP85S7
   github: https://github.com/CivicTechTO/freetheelectorate
 categories:
-  - Unknown
-  - ProjectInactive
+  - unknown
+  - inactive
 dateActiveFirst: 2016-01-01
 date: 2016-01-01
 ---

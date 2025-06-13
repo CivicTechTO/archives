@@ -21,9 +21,8 @@ tags:
   - topic/transportation
   - type/breakout-project
 categories:
-  - ProjectActive
-  - ProjectLive
-  - Unknown
+  - active
+  - unknown
 dateActiveFirst: 2023-08-08
 date: 2025-05-31
 hacknight:

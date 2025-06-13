@@ -21,8 +21,7 @@ tags:
   - topic/open-government
   - type/breakout-project
 categories:
-  - ProjectOpenToContributors
-  - ProjectLive
-  - ProjectActive
-  - Feature
+  - OpenToContributors
+  - active
+  - feature
 ---

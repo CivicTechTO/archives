@@ -14,5 +14,5 @@ hacknight:
 team:
   - "[[Mark Richardson]]"
 categories:
-  - Unknown
+  - unknown
 ---

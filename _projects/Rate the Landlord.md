@@ -8,8 +8,7 @@ tags:
 social:
   website: https://ratethelandlord.org
 categories:
-  - ProjectLive
-  - Unknown
+  - unknown
 hacknight:
   - "[[402]]"
 ---

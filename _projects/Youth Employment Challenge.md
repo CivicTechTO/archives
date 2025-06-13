@@ -7,6 +7,6 @@ hacknight:
   - "[[64]]"
   - "[[72]]"
 categories:
-  - ProjectInactive
+  - inactive
 ---
  

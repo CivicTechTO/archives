@@ -8,8 +8,7 @@ tags:
 social:
   website: https://danforthdad.com
 categories:
-  - ProjectActive
-  - ProjectLive
+  - active
 hacknight:
   - "[[436]]"
 ---

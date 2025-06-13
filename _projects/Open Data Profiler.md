@@ -10,8 +10,8 @@ social:
   slack: https://civictechto.slack.com/archives/C0309BMKHTN
   github: https://github.com/open-data-toronto/ckanext-datastore-profiler
 categories:
-  - Unknown
-  - ProjectInactive
+  - unknown
+  - inactive
 dateActiveFirst: 2022-01-01
 date: 2022-02-08
 ---

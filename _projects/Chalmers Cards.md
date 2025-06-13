@@ -11,8 +11,7 @@ social:
   website: https://www.chalmerscards.com/
   slack: https://civictechto.slack.com/archives/C8ZRFH7JShttps://civictechto.slack.com/archives/C8ZRFH7JS
 categories:
-  - ProjectLive
-  - ProjectInactive
+  - inactive
 date: 2022-01-01
 hacknight:
   - "[[220]]"

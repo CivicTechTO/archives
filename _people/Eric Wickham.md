@@ -5,4 +5,6 @@ tags:
 title: Eric Wickham
 categories:
   - speaker
+organization:
+  - "[[The Hoser]]"
 ---

@@ -10,8 +10,7 @@ social:
   slack: https://civictechto.slack.com/archives/C8VT5L32Q
   github: https://github.com/civictechto/basecount
 categories:
-  - ProjectInactive
-  - ProjectCompleted
+  - inactive
 dateActiveFirst: 2018-01-01
 date: 2018-01-01
 hacknight:

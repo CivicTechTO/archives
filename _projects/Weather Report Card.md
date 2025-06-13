@@ -10,6 +10,5 @@ social:
   twitter: https://twitter.com/weathrreportcrd
 date: 2027-02-29
 categories:
-  - Unknown
-  - ProjectInactive
+  - inactive
 ---

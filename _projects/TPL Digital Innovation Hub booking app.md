@@ -9,8 +9,10 @@ social:
   slack: "[tpl-bookings](https://civictechto.slack.com/archives/C2CS2KKS6)"
   github: https://gitlab.com/tpl-bookings
 categories:
-  - ProjectInactive
-  - Unknown
+  - inactive
+  - unknown
 dateActiveFirst: 2016-01-01
 date: 2017-01-01
+organization:
+  - "[[Toronto Public Library]]"
 ---

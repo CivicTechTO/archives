@@ -9,8 +9,7 @@ social:
   website: http://pwd.ca/tabs
   slack: https://civictechto.slack.com/archives/C01P1EV5F3J
 categories:
-  - ProjectLive
-  - ProjectActive
+  - active
 dateActiveFirst: 2021-01-01
 date: 2022-01-01
 hacknight:

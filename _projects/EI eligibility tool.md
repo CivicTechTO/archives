@@ -8,8 +8,8 @@ tags:
 social:
   slack: https://civictechto.slack.com/archives/C065SA0R5GT
 categories:
-  - ProjectInactive
-  - ProjectAbandoned
+  - inactive
+  - abandoned
 dateActiveFirst: 2023-11-14
 date: 2024-10-29
 ---

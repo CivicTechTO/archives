@@ -1,6 +1,5 @@
 ---
 tags:
   - type/organization
-title: Open North
-categories: []
+title: The Hoser
 ---

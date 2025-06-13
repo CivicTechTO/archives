@@ -9,10 +9,9 @@ social:
   slack: https://civictechto.slack.com/archives/C8CDR49QT
   github: https://github.com/law-design-colab-ctto
   twitter: https://x.com/lawdesigncolab
-fromBreakout: true
 categories:
-  - Unknown
-  - ProjectInactive
+  - unknown
+  - inactive
 date: 2021-11-02
 hacknight:
   - "[[258]]"

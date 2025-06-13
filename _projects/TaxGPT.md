@@ -6,10 +6,10 @@ tags:
   - type/project
   - topic/tax
   - topic/artificial-intelligence
-website: https://taxgpt.ca/
+social:
+  website: https://taxgpt.ca
 categories:
-  - ProjectLive
-  - Unknown
+  - unknown
 hacknight:
   - "[[386]]"
 ---

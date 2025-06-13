@@ -2,6 +2,5 @@
 tags:
   - type/organization
 title: City of Mississauga
-categories:
-  - government
+categories: []
 ---

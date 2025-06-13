@@ -5,10 +5,12 @@ tags:
   - type/project
   - topic/mutual-aid
   - topic/food-security
-website: https://hosergrocerytracker.ca/
 categories:
-  - ProjectLive
-  - Unknown
+  - unknown
 hacknight:
   - "[[452]]"
+social:
+  website: https://hosergrocerytracker.ca/
+organization:
+  - "[[The Hoser]]"
 ---

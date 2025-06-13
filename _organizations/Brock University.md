@@ -4,6 +4,5 @@ tags:
 title: Brock University
 social:
   website: https://brocku.ca
-categories:
-  - school
+categories: []
 ---

@@ -9,8 +9,7 @@ tags:
 social:
   website: https://www.openwaterdata.com/
 categories:
-  - ProjectLive
-  - Unknown
+  - unknown
 hacknight:
   - "[[406]]"
 team:

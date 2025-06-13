@@ -5,5 +5,4 @@ tags:
 title: University of Toronto
 categories:
   - supporter
-  - school
 ---

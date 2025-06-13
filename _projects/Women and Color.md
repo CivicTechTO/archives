@@ -12,8 +12,7 @@ social:
   slack: https://civictechto.slack.com/archives/C66N513RN
   github: https://github.com/womenandcolor
 categories:
-  - ProjectInactive
-  - Unknown
+  - inactive
 dateActiveFirst: 2017-01-01
 date: 2018-01-01
 hacknight:

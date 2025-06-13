@@ -4,9 +4,8 @@ hacknight:
   - "[[397]]"
 social:
   slack: https://civictechto.slack.com/archives/C04C6FPJDD4
-fromBreakout: true
 categories:
-  - Unknown
+  - unknown
 tags:
   - type/project
   - type/breakout-project

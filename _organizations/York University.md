@@ -2,8 +2,7 @@
 tags:
   - type/organization
 title: York University
-categories:
-  - school
+categories: []
 social:
   website: https://www.yorku.ca
   linkedin: https://www.linkedin.com/school/167012/

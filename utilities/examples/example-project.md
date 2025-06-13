@@ -14,9 +14,9 @@ social:
 dateActiveFirst: 2016-07-21
 date: 2025-07-21
 categories:
-  - ProjectActive
-  - ProjectOpenToContributors
-  - Feature
+  - active
+  - OpenToContributors
+  - feature
 hacknight:
   - "[[Hacknight_390]]"
 team:

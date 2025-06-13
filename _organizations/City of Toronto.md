@@ -8,5 +8,4 @@ social:
   website: https://www.toronto.ca
 categories:
   - supporter
-  - government
 ---

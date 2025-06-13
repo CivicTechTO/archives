@@ -8,6 +8,5 @@ tags:
 social:
   website: https://www.ttc-rider.ca/
 categories:
-  - ProjectLive
-  - Unknown
+  - unknown
 ---
