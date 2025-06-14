@@ -1,6 +1,11 @@
 ---
+title: School of Cities
 tags:
   - type/organization
 parent_organization: "[[University of Toronto]]"
-title: School of Cities
+social:
+  website: https://schoolofcities.utoronto.ca
+  youtube: https://www.youtube.com/@UofTCities
+  linkedin: https://www.linkedin.com/company/uoftcities/
+  bluesky: https://bsky.app/profile/uoftcities.bsky.social
 ---
