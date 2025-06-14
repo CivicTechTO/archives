@@ -5,4 +5,5 @@ tags:
 title: University of Toronto
 categories:
   - supporter
+  - meta/feature
 ---

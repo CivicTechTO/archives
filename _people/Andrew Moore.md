@@ -5,4 +5,5 @@ tags:
 title: Andrew Moore
 categories:
   - speaker
+  - meta/feature
 ---

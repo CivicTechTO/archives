@@ -8,5 +8,6 @@ social:
 title: Cyd Harrell
 categories:
   - speaker
+  - meta/feature
 ---
 

@@ -10,4 +10,5 @@ organization:
 title: Paris Marx
 categories:
   - speaker
+  - meta/feature
 ---
