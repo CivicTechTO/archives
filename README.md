@@ -8,6 +8,7 @@ This repository contains historical data and resources related to past CivicTech
 
 ### Initiative Updates
 
+- 2025-06-15: Considerable milestone rework to support launch of updated CivicTech Toronto website.
 - 2025-02-12: Release (Happy Valentines Day Toronto `(⸝⸝♥‿♥⸝⸝)`) – @jordyarms
 - 2025-02-11: Preparation for release – @jordyarms
 - 2025-01-24: Initializing a git archive – @jordyarms
@@ -46,12 +47,13 @@ To explore the archived events, projects and other information you can navigate 
 
 ```
 archive/
-├── hacknights/      # Documentation of instances of hacknights.
-├── organizations/   # Documentation of instances of organizations (& supporters).
-├── people/          # Documentation of instances of speakers & organizers.
-├── projects/        # Documentation of instances of projects.
-├── venues/          # Documentation of instances of venues.
-├── _utilities/
+├── _announcements/   # Documentation of instances of announcements (predominantly historical content).
+├── _hacknights/      # Documentation of instances of hacknights.
+├── _organizations/   # Documentation of instances of organizations (& supporters).
+├── _people/          # Documentation of instances of speakers & organizers.
+├── _projects/        # Documentation of instances of projects.
+├── _venues/          # Documentation of instances of venues.
+├── utilities/
 │   ├── automations/ # Automation based tooling for archiving convenience.
 │   ├── reference/   # Reference matterials regarding archiving activity.
 │   ├── sources/     # Reuseable text snippets applicable to automations.
