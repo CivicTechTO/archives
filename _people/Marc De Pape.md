@@ -11,4 +11,5 @@ title: Marc De Pape
 categories:
   - organizer
   - speaker
+  - cofounder
 ---

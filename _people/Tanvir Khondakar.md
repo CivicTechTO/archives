@@ -1,11 +1,11 @@
 ---
+title: Tanvir Khondakar
 organization:
   - "[[CivicTechTO]]"
 tags:
   - type/person
-title: Mahmoud Allouch
 categories:
   - organizer
 social:
-  linkedin: https://www.linkedin.com/in/mahmoudallouch
+  linkedin: https://www.linkedin.com/in/tanvirkhondakar/
 ---

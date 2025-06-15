@@ -8,4 +8,8 @@ organization:
 categories:
   - organizer
   - speaker
+  - cofounder
+social:
+  twitter: https://twitter.com/gggg
+  linkedin: https://www.linkedin.com/in/gabesawhney
 ---

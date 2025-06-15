@@ -9,5 +9,9 @@ title: Dorothy Eng
 categories:
   - organizer
   - speaker
+  - cofounder
+social:
+  twitter: https://twitter.com/dorothy_eng
+  linkedin: https://www.linkedin.com/in/dorothyeng
 ---
 

@@ -6,6 +6,7 @@ organization:
   - "[[Government of Ontario]]"
   - "[[CivicTechTO]]"
 social:
+  twitter: https://twitter.com/dkurukula
   linkedin: https://www.linkedin.com/in/dilinik/
 title: Dilini Kurukulaarachchi
 categories:

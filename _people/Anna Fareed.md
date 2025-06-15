@@ -9,4 +9,6 @@ aliases:
 title: Anna Fareed
 categories:
   - organizer
+social:
+  linkedin: https://www.linkedin.com/in/anuta-skrypnychenko
 ---

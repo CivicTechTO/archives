@@ -2,7 +2,8 @@
 tags:
   - type/person
 social:
-  linkedin: https://www.linkedin.com/in/liamilito/
+  twitter: https://twitter.com/liabadia
+  linkedin: https://www.linkedin.com/in/liamilito
 organization:
   - "[[CivicTechTO]]"
 title: Lia Milito

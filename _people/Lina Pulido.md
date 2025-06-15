@@ -1,11 +1,11 @@
 ---
+title: Lina Pulido
 organization:
   - "[[CivicTechTO]]"
 tags:
   - type/person
-title: Mahmoud Allouch
 categories:
   - organizer
 social:
-  linkedin: https://www.linkedin.com/in/mahmoudallouch
+  linkedin: https://www.linkedin.com/in/lina-pulido-b525b3b5/
 ---

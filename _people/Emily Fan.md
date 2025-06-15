@@ -9,4 +9,5 @@ tags:
 title: Emily Fan
 categories:
   - organizer
+  - cofounder
 ---

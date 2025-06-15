@@ -8,4 +8,6 @@ title: Sonal Ranjit
 categories:
   - organizer
   - speaker
+social:
+  linkedin: https://www.linkedin.com/in/sonalranjit
 ---

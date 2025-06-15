@@ -1,9 +1,9 @@
 ---
 title: "Decoding the Budget: A participant’s recount of the November 10 Hacknight Workshop"
-author: "[[Irene Quarcoo]]"
+author: "[[Anowa Quorcoo]]"
 date: 2015-12-02
 redirect_from: /2015/12/02/decoding-the-budget-a-participants-recount-of-the-november-10-hacknight-workshop/
-excerpt: >
+excerpt: |
   At our November 10 workshop, nearly 30 Torontonians tackled the challenge of making the city budget more accessible, engaging, and easier to influence.
 tags:
   - type/announcement

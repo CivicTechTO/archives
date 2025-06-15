@@ -8,5 +8,9 @@ title: Patrick Connolly
 categories:
   - organizer
   - speaker
+  - cofounder
+social:
+  twitter: https://twitter.com/patconnolly
+  linkedin: https://www.linkedin.com/in/patrick-connolly-80071b25
 ---
 

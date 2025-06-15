@@ -6,4 +6,6 @@ organization:
 title: Shaquilla Singh
 categories:
   - organizer
+social:
+  linkedin: https://www.linkedin.com/in/shaquillasingh
 ---

@@ -8,6 +8,8 @@ organization:
   - "[[CivicTechTO]]"
 social:
   github: https://github.com/s-kennedy
+  twitter: https://twitter.com/codeandcanoes
+  linkedin: https://www.linkedin.com/in/kennedysharon
 title: Sharon Kennedy
 categories:
   - organizer

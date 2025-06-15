@@ -6,7 +6,8 @@ organization:
 tags:
   - type/person
 social:
-  linkedin: https://www.linkedin.com/in/matthewdhgray/
+  twitter: https://twitter.com/mdhgray
+  linkedin: https://www.linkedin.com/in/matthewdhgray
 title: Matthew Gray
 categories:
   - organizer

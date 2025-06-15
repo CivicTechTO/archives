@@ -6,7 +6,8 @@ organization:
   - "[[City of Toronto]]"
   - "[[CivicTechTO]]"
 social:
-  twitter: https://x.com/dumasraphael?lang=en
+  twitter: https://twitter.com/DumasRaphael
+  linkedin: https://www.linkedin.com/in/dumasraphael
   mastodon: https://mstdn.ca/@rad
 title: Raphael Dumas
 categories:

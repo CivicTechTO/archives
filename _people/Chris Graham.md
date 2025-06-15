@@ -6,4 +6,6 @@ organization:
 title: Chris Graham
 categories:
   - organizer
+social:
+  twitter: https://twitter.com/chgraham
 ---

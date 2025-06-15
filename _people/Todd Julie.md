@@ -1,11 +1,11 @@
 ---
+title: Todd Julie
 organization:
   - "[[CivicTechTO]]"
 tags:
   - type/person
-title: Mahmoud Allouch
 categories:
   - organizer
 social:
-  linkedin: https://www.linkedin.com/in/mahmoudallouch
+  twitter: https://twitter.com/toddjulieprime
 ---
