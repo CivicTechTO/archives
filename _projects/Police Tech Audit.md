@@ -17,5 +17,6 @@ dateActiveFirst: 2024-07-02
 team:
   - "[[Ushnish Sengupta]]"
 ---
-
 formerly: Tech Audit Project  slack: proj-tech-audit
+
+Awaiting further content from the community's oral historians.

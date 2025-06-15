@@ -20,3 +20,6 @@ team:
   - "[[Steven Xie]]"
   - "[[Zachary Donsky]]"
 ---
+The Chalmers Signal hopes to make shelter occupancy data more accessible and faster to communicate among shelters in Toronto. It is an internet connected device that publishes real-time occupancy data amongst shelters around Toronto!
+
+Awaiting further content from the community's oral historians.

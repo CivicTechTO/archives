@@ -16,3 +16,6 @@ team:
 categories:
   - status/unknown
 ---
+Toronto is moving toward the creation of more affordable housing through the identification of 21 city-owned surplus property sites that could be used to build a range of lower-cost homes.
+
+Awaiting further content from the community's archivist.

@@ -15,3 +15,4 @@ social:
 organization:
   - "[[CivicTechTO]]"
 ---
+Awaiting further content from the project team.

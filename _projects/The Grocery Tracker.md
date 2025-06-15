@@ -14,3 +14,4 @@ social:
 organization:
   - "[[The Hoser]]"
 ---
+Awaiting further content from the community's archivist.

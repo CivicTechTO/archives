@@ -18,3 +18,6 @@ date: 2023-03-05
 hacknight:
   - "[[383]]"
 ---
+Discover things you didn’t know about the city’s past with a photo web map. Using over 33,000 photos sourced* from the City of Toronto Archives, Toronto Public Library, and community members will be displayed on a web map, free for anyone to view and interact with. Any users can navigate to any park or neighbourhood using an open-source map tool, offering block-by-block browsing of historic Toronto photographs and community submissions.
+
+Awaiting further content from the community's oral historians.

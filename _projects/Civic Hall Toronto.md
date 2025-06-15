@@ -21,5 +21,6 @@ team:
 categories:
   - status/unknown
 ---
-
 Our programming and events **foster a culture of collaboration** across sectors and fields,  provide a supportive and collaborative space for **learning, creating, and testing new ideas**, and **encourage greater resident involvement** in the design of public services and policy.
+
+Awaiting further content from the community's oral historians.
