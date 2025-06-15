@@ -4,6 +4,8 @@ author: "[[Yefan Chen]]"
 date: 2018-02-08
 excerpt: Civic Tech Toronto is hosting our third annual hackathon in partnership with the Toronto Public Library on Open Data Day (March 3rd, 2018). This year our theme is The Future of Work.
 redirect_from: /codeacross-2018/
+tags:
+  - type/announcement
 ---
 > Wondering what happened at CodeAcross Toronto 2017? Check out [photos and tweets from the event here](/2017/03/06/storify-codeacross-2017/)!
 

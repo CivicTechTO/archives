@@ -4,6 +4,8 @@ author: "[[Gabe Sawhney]]"
 date: 2016-02-05
 redirect_from: /codeacross-toronto-2016/
 excerpt: Civic Tech Toronto and Urban+Digital present a hackathon for Open Data Day 2016.
+tags:
+  - type/announcement
 ---
 > Wondering what happened at CodeAcross Toronto 2016? [Read our post about it here!](https://civictech.ca/2016/04/08/codeacross-toronto-community-collaboration-in-celebration-of-international-open-data-day/).
 

@@ -2,8 +2,10 @@
 title: CodeAcross Toronto 2019
 author: "[[David Cox]]"
 date: 2019-02-23
-excerpt: 
+excerpt: Take on public challenges using data, design and development.
 redirect_from: /codeacross-toronto-2019/
+tags:
+  - type/announcement
 ---
 **Toronto's take on sustainable development.**
 

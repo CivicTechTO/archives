@@ -4,6 +4,8 @@ author: "[[Lia Milito]]"
 date: 2017-02-07
 excerpt: Meet designers, coders, urban planners, government staff, mappers, policymakers, students, communications strategists, and others who share an interest in making Toronto more responsive, prosperous, sustainable and equitable, through tech and design.
 redirect_from: /codeacross-toronto-2017/
+tags:
+  - type/announcement
 ---
 Wondering what happened at CodeAcross Toronto 2017? Check out [photos and tweets from the event here](/2017/03/06/storify-codeacross-2017/)!
 

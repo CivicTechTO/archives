@@ -4,6 +4,8 @@ author: "[[Yan Matagne]]"
 date: 2019-04-02
 excerpt: Go Open Data is an annual conference that is attended by all sectors interested in learning about and promoting the creation and use of open data.
 redirect_from: /go-open-data-hackaton-2019/
+tags:
+  - type/announcement
 ---
 **Go Open Data is an annual conference that is attended by all sectors interested in learning about and promoting the creation and use of open data.**
 

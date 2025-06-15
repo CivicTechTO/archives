@@ -4,6 +4,8 @@ author: "[[Gabe Sawhney]]"
 date: 2016-10-18
 excerpt: The Youth Employment Challenge is our first time collaborating directly with a government agency, and the first time we’re able to offer financial incentives (totaling $3,000!) for members of the community to work on civic tech projects.
 redirect_from: /youth-employment-challenge/
+tags:
+  - type/announcement
 ---
 > Wondering what happened at the Youth Employment Challenge? [Read a blog post about it here!](https://medium.com/@liamilito/civic-tech-torontos-youth-employment-challenge-4eb3519e0638#.xj5jpaiai)
 

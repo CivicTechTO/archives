@@ -4,6 +4,8 @@ excerpt: CodeAcross is an annual event about using open data and civic tech for 
 date: 2020-11-25
 author: Sam
 redirect_from: /codeacross-2021/
+tags:
+  - type/announcement
 ---
 ![Code Across logo](/assets/images/announcements/codeacross-toronto-2021/EmploymentArtboard-1.png)
 
