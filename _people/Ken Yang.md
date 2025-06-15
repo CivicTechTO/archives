@@ -7,5 +7,5 @@ social:
   instagram: https://www.instagram.com/kenjaminyang/
 title: Ken Yang
 categories:
-  - speaker
+  - role/speaker
 ---

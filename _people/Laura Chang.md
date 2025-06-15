@@ -8,6 +8,6 @@ organization:
   - "[[CivicTechTO]]"
 title: Laura Chang
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

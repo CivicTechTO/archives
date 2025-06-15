@@ -4,6 +4,6 @@ tags:
   - type/person
 title: Emily Gates
 categories:
-  - speaker
+  - role/speaker
 ---
 

@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/hriday-keshav/
 title: Hriday Keshav
 categories:
-  - speaker
+  - role/speaker
 ---

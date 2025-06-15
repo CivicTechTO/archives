@@ -5,5 +5,5 @@ organization:
   - "[[CivicTechTO]]"
 title: Prat Sureka
 categories:
-  - organizer
+  - role/organizer
 ---

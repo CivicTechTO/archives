@@ -7,6 +7,6 @@ organization:
   - "[[Open North]]"
 title: Karen Gomez
 categories:
-  - speaker
+  - role/speaker
 ---
 

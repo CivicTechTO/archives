@@ -6,5 +6,5 @@ organization:
   - '[[The Toronto Star]]'
 title: Alexandra (Lex) Harvey
 categories:
-  - speaker
+  - role/speaker
 ---

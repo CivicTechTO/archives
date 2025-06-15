@@ -5,7 +5,7 @@ tags:
   - type/person
 title: Mahmoud Allouch
 categories:
-  - organizer
+  - role/organizer
 social:
   linkedin: https://www.linkedin.com/in/mahmoudallouch
 ---

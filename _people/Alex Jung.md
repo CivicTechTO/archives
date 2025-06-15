@@ -8,7 +8,7 @@ organization:
   - "[[CivicTechTO]]"
 title: Alex Jung
 categories:
-  - speaker
-  - organizer
-  - cofounder
+  - role/speaker
+  - role/organizer
+  - role/cofounder
 ---

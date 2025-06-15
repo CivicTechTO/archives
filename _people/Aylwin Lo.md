@@ -5,6 +5,6 @@ social:
   website: http://www.aylwinlo.ca
 title: Aylwin Lo
 categories:
-  - speaker
+  - role/speaker
 ---
 

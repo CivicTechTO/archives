@@ -6,5 +6,5 @@ tags:
   - type/person
 title: Sophie Duncan
 categories:
-  - speaker
+  - role/speaker
 ---

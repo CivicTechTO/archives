@@ -7,5 +7,5 @@ social:
   website: https://www.reearthing.ca
 title: Halyna Zalucky
 categories:
-  - speaker
+  - role/speaker
 ---

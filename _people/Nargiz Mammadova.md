@@ -8,6 +8,6 @@ social:
   website: https://www.vestedinyou.ca
 title: Nargiz Mammadova
 categories:
-  - speaker
+  - role/speaker
 ---
 

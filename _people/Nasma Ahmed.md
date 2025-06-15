@@ -9,5 +9,5 @@ social:
   website: https://digitaljusticelab.ca
 title: Nasma Ahmed
 categories:
-  - speaker
+  - role/speaker
 ---

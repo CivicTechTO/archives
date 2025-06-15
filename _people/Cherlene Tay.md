@@ -11,7 +11,7 @@ description: |-
 tags:
   - type/person
 categories:
-  - speaker
+  - role/speaker
 social:
   linkedin: https://www.linkedin.com/in/cherlenetay/
 organization:

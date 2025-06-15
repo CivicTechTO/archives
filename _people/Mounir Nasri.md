@@ -6,5 +6,5 @@ social:
   twitter: https://twitter.com/mounirona
 title: Mounir Nasri
 categories:
-  - speaker
+  - role/speaker
 ---

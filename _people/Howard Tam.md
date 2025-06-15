@@ -8,8 +8,8 @@ social:
   linkedin: https://www.linkedin.com/in/howard-tam-8b0bbb25
 title: Howard Tam
 categories:
-  - organizer
-  - speaker
-  - cofounder
+  - role/organizer
+  - role/speaker
+  - role/cofounder
 ---
 

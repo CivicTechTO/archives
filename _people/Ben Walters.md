@@ -7,5 +7,5 @@ organization:
   - "[[Feedback]]"
 title: Ben Walters
 categories:
-  - speaker
+  - role/speaker
 ---

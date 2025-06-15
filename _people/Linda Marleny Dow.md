@@ -5,7 +5,7 @@ tags:
   - type/person
 title: Linda Marleny Dow
 categories:
-  - organizer
+  - role/organizer
 social:
   twitter: https://twitter.com/lindamarleny
   linkedin: https://www.linkedin.com/in/lindamarlenydow

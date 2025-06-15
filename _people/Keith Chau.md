@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Keith Chau
 categories:
-  - speaker
+  - role/speaker
 ---

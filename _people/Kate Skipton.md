@@ -5,5 +5,5 @@ tags:
   - type/person
 title: Kate Skipton
 categories:
-  - organizer
+  - role/organizer
 ---

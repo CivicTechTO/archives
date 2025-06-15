@@ -8,5 +8,5 @@ social:
   twitter: https://x.com/kgreenbergto
 title: Ken Greenberg
 categories:
-  - speaker
+  - role/speaker
 ---

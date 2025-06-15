@@ -7,5 +7,5 @@ organization:
   - '[[Why Should I Care?]]'
 title: Alison Uttley
 categories:
-  - speaker
+  - role/speaker
 ---

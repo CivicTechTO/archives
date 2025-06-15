@@ -6,6 +6,6 @@ social:
   website: https://health-bridge.ca
 title: Haman Mamdouhi
 categories:
-  - speaker
+  - role/speaker
 ---
 

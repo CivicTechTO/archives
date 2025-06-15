@@ -8,5 +8,5 @@ social:
   twitter: https://twitter.com/felt
 title: Nora Shevick
 categories:
-  - speaker
+  - role/speaker
 ---

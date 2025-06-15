@@ -7,5 +7,5 @@ social:
   website: https://themonstrous.me
 title: Sebastian Pines
 categories:
-  - speaker
+  - role/speaker
 ---

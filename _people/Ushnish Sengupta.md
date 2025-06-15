@@ -6,5 +6,5 @@ organization:
   - "[[York University]]"
 title: Ushnish Sengupta
 categories:
-  - speaker
+  - role/speaker
 ---

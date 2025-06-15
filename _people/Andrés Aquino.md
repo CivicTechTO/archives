@@ -6,6 +6,6 @@ social:
 description: Andrés Aquino is a managing partner at TWG.
 title: Andrés Aquino
 categories:
-  - speaker
+  - role/speaker
 ---
 

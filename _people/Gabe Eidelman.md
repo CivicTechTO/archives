@@ -7,5 +7,5 @@ organization:
   - '[[City of Toronto]]'
 title: Gabe Eidelman
 categories:
-  - speaker
+  - role/speaker
 ---

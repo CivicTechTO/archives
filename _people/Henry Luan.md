@@ -4,5 +4,5 @@ description: Henry is a Data Scientist with the Government of Canada, where he u
 tags:
   - type/person
 categories:
-  - speaker
+  - role/speaker
 ---

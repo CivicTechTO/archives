@@ -6,5 +6,5 @@ social:
   website: https://linktr.ee/hulford
 title: Steve Hulford
 categories:
-  - speaker
+  - role/speaker
 ---

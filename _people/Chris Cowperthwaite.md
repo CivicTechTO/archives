@@ -6,5 +6,5 @@ organization:
   - "[[Open Democracy]]"
 title: Chris Cowperthwaite
 categories:
-  - speaker
+  - role/speaker
 ---

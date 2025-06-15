@@ -9,5 +9,5 @@ social:
   twitter: https://x.com/hillary
 title: Hillary Hartley
 categories:
-  - speaker
+  - role/speaker
 ---

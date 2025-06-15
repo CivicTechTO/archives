@@ -6,5 +6,5 @@ organization:
   - "[[Citizen Lab]]"
 title: Noura Aljizawi
 categories:
-  - speaker
+  - role/speaker
 ---

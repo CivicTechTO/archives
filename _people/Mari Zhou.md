@@ -9,7 +9,7 @@ social:
   linkedin: https://www.linkedin.com/in/marizhou/
 title: Mari Zhou
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---
 

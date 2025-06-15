@@ -4,5 +4,5 @@ description: Canada Research Chair | Royal Society of Canada College Member| Pro
 tags:
   - type/person
 categories:
-  - speaker
+  - role/speaker
 ---

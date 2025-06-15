@@ -6,5 +6,5 @@ social:
   github: https://github.com/thomassth/
 title: Thomas Kam
 categories:
-  - speaker
+  - role/speaker
 ---

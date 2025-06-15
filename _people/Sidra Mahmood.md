@@ -5,5 +5,5 @@ tags:
   - type/person
 organization: []
 categories:
-  - speaker
+  - role/speaker
 ---

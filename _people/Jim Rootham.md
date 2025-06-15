@@ -6,6 +6,6 @@ organization:
   - "[[CivicTechTO]]"
 title: Jim Rootham
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

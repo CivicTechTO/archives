@@ -7,5 +7,5 @@ organization:
   - "[[City of Toronto]]"
 title: Wondu Amenu
 categories:
-  - speaker
+  - role/speaker
 ---

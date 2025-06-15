@@ -6,9 +6,9 @@ tags:
 organization:
   - "[[CivicTechTO]]"
 categories:
-  - organizer
-  - speaker
-  - cofounder
+  - role/organizer
+  - role/speaker
+  - role/cofounder
 social:
   twitter: https://twitter.com/gggg
   linkedin: https://www.linkedin.com/in/gabesawhney

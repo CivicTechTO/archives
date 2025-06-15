@@ -9,5 +9,5 @@ organization:
   - "[[Pathways to Education Canada]]"
 title: Jason Shim
 categories:
-  - speaker
+  - role/speaker
 ---

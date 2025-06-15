@@ -8,6 +8,6 @@ tags:
   - type/person
 title: Emily Fan
 categories:
-  - organizer
-  - cofounder
+  - role/organizer
+  - role/cofounder
 ---

@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Alex MacIsaac
 categories:
-  - speaker
+  - role/speaker
 ---

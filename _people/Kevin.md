@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Kevin
 categories:
-  - speaker
+  - role/speaker
 ---

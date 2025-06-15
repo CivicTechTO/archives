@@ -8,6 +8,6 @@ social:
   linkedin: https://www.linkedin.com/in/shagithya-deivendran-b4376a15b/
 title: Shagithya Deivendran
 categories:
-  - speaker
+  - role/speaker
 ---
 

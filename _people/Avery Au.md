@@ -8,6 +8,6 @@ organization:
   - "[[CivicTechTO]]"
 title: Avery Au
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

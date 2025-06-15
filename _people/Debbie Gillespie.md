@@ -7,5 +7,5 @@ organization:
   - "[[Canadian National Institute for the Blind Foundation]]"
 title: Debbie Gillespie
 categories:
-  - speaker
+  - role/speaker
 ---

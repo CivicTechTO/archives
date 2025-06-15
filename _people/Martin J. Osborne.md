@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Martin J. Osborne
 categories:
-  - speaker
+  - role/speaker
 ---

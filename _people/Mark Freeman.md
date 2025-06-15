@@ -3,6 +3,6 @@ tags:
   - type/person
 title: Mark Freeman
 categories:
-  - speaker
+  - role/speaker
 ---
 

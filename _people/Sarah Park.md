@@ -5,5 +5,5 @@ organization:
   - "[[CivicTechTO]]"
 title: Sarah Park
 categories:
-  - organizer
+  - role/organizer
 ---

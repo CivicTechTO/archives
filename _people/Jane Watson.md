@@ -7,5 +7,5 @@ social:
   website: https://talentvanguard.com
 title: Jane Watson
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -6,5 +6,5 @@ organization:
   - '[[City of Toronto]]'
 title: Sourabh Jain
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -4,5 +4,5 @@ description: Sze-Fung Lee is an independent researcher specializing in Chinese h
 tags:
   - type/person
 categories:
-  - speaker
+  - role/speaker
 ---

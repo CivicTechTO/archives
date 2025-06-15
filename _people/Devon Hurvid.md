@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/devonhurvid/
 title: Devon Hurvid
 categories:
-  - speaker
+  - role/speaker
 ---

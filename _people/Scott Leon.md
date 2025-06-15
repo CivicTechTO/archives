@@ -7,5 +7,5 @@ social:
   linkedin: https://www.linkedin.com/in/scott-leon-8815aa82/
 title: Scott Leon
 categories:
-  - speaker
+  - role/speaker
 ---

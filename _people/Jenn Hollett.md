@@ -9,5 +9,5 @@ social:
   website: http://jenniferhollett.com
 title: Jenn Hollett
 categories:
-  - speaker
+  - role/speaker
 ---

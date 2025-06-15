@@ -9,5 +9,5 @@ social:
   twitter: https://x.com/hocarm
 title: Carmen Ho
 categories:
-  - speaker
+  - role/speaker
 ---

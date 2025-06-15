@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Emily Sakaguchi
 categories:
-  - speaker
+  - role/speaker
 ---

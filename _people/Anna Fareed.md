@@ -8,7 +8,7 @@ aliases:
   - Anuta Skrypnychenko
 title: Anna Fareed
 categories:
-  - organizer
+  - role/organizer
 social:
   linkedin: https://www.linkedin.com/in/anuta-skrypnychenko
 ---

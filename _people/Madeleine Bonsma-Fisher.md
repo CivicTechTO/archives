@@ -11,5 +11,5 @@ description: |-
   She is a co-founder of UofT Coders, a group for graduate students to teach each other programming skills in a supportive peer environment.
 title: Madeleine Bonsma-Fisher
 categories:
-  - speaker
+  - role/speaker
 ---

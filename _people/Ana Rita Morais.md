@@ -8,5 +8,5 @@ social:
   website: https://anaritamorais.com/
 title: Ana Rita Morais
 categories:
-  - speaker
+  - role/speaker
 ---

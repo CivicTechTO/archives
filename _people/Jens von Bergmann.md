@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Jens von Bergmann
 categories:
-  - speaker
+  - role/speaker
 ---

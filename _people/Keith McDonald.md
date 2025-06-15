@@ -8,5 +8,5 @@ social:
 role_description: Former Open Data Lead at the City of Toronto
 title: Keith McDonald
 categories:
-  - speaker
+  - role/speaker
 ---

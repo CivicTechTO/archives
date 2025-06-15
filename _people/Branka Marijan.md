@@ -10,5 +10,5 @@ social:
   twitter: https://x.com/brankamarijan
 title: Branka Marijan
 categories:
-  - speaker
+  - role/speaker
 ---

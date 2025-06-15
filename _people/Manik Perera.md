@@ -6,6 +6,6 @@ organization:
   - "[[the future Lab]]"
 title: Manik Perera
 categories:
-  - speaker
+  - role/speaker
 ---
 

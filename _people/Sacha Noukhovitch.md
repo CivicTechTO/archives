@@ -9,6 +9,6 @@ social:
   website: https://live.stemfellowship.org
 title: Sacha Noukhovitch
 categories:
-  - speaker
+  - role/speaker
 ---
 

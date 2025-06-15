@@ -6,5 +6,5 @@ organization:
   - '[[The Free and Hanseatic City of Hamburg]]'
 title: Hannah Reinicke
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/andrew-hilts/
 title: Andrew Hilts
 categories:
-  - speaker
+  - role/speaker
 ---

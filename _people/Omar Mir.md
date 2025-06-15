@@ -6,5 +6,5 @@ social:
   github: https://github.com/omarmir
 title: Omar Mir
 categories:
-  - speaker
+  - role/speaker
 ---

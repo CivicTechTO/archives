@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Reuben Peckham
 categories:
-  - speaker
+  - role/speaker
 ---

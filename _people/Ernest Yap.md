@@ -8,5 +8,5 @@ social:
   twitter: https://x.com/geoernestyap
 title: Ernest Yap
 categories:
-  - speaker
+  - role/speaker
 ---

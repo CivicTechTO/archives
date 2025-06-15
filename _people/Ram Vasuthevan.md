@@ -9,5 +9,5 @@ social:
   website: https://ramvasuthevan.ca
 title: Ram Vasuthevan
 categories:
-  - speaker
+  - role/speaker
 ---

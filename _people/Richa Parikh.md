@@ -9,5 +9,5 @@ organization:
   - "[[PublicSquare]]"
 title: Richa Parikh
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/leo-mui/
 title: Leo Mui
 categories:
-  - speaker
+  - role/speaker
 ---

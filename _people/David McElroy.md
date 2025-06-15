@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/david-mcelroy-1b58a748/
 title: David McElroy
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -5,6 +5,6 @@ role_description: Program Officer, Evergreen
 organization: []
 title: Joshua Welch
 categories:
-  - speaker
+  - role/speaker
 ---
 

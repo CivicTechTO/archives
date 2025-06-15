@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/benjamin-dachis-a811aa16/
 title: Ben Dachis
 categories:
-  - speaker
+  - role/speaker
 ---

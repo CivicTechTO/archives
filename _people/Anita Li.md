@@ -6,5 +6,5 @@ organization:
   - "[[The Green Line]]"
 title: Anita Li
 categories:
-  - speaker
+  - role/speaker
 ---

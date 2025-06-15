@@ -6,5 +6,5 @@ organization:
   - "[[The Green Line]]"
 title: Sebastian Tansil
 categories:
-  - speaker
+  - role/speaker
 ---

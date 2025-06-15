@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/natalie-pinchin/
 title: Natalie Pinchin
 categories:
-  - speaker
+  - role/speaker
 ---

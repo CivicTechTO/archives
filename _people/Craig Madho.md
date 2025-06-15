@@ -4,6 +4,6 @@ tags:
   - type/person
 title: Craig Madho
 categories:
-  - speaker
+  - role/speaker
 ---
 

@@ -6,5 +6,5 @@ organization:
   - '[[United Way Greater Toronto]]'
 title: Sandi Trillo
 categories:
-  - speaker
+  - role/speaker
 ---

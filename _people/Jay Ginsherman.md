@@ -7,6 +7,6 @@ social:
   website: https://www.jayginsherman.art
 title: Jay Ginsherman
 categories:
-  - speaker
+  - role/speaker
 ---
 

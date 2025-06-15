@@ -8,6 +8,6 @@ social:
   medium: https://medium.com/@kylelubieniecki
 title: Kyle Lubieniecki
 categories:
-  - speaker
+  - role/speaker
 ---
 

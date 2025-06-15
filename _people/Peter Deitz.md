@@ -6,6 +6,6 @@ social:
   linkedin: https://www.linkedin.com/in/peterdeitz/
 title: Peter Deitz
 categories:
-  - speaker
+  - role/speaker
 ---
 

@@ -7,5 +7,5 @@ social:
   website: https://mattelliott.ca
 title: Matt Elliott
 categories:
-  - speaker
+  - role/speaker
 ---

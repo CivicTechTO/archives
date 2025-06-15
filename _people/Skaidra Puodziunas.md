@@ -10,6 +10,6 @@ social:
   medium: https://medium.com/@skaidra.puodziunas
 title: Skaidra Puodziunas
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

@@ -6,6 +6,6 @@ social:
   linkedin: https://www.linkedin.com/in/jocelynjeffrey/
 title: Jocelyn Jeffrey
 categories:
-  - speaker
+  - role/speaker
 ---
 

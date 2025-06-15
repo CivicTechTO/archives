@@ -7,5 +7,5 @@ social:
   website: https://www.cleo.on.ca
 title: Julie Mathews
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -9,5 +9,5 @@ social:
   twitter: https://x.com/whenshal
 title: Wayne Henshall
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -5,6 +5,6 @@ social:
   twitter: https://twitter.com/alonzobartley
 title: Alonzo Bartley
 categories:
-  - speaker
+  - role/speaker
 ---
 

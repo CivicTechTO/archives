@@ -7,5 +7,5 @@ organization:
   - "[[University of Toronto]]"
 title: Zehui Yin
 categories:
-  - speaker
+  - role/speaker
 ---

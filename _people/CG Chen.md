@@ -8,5 +8,5 @@ social:
   medium: https://medium.com/@cgchen
 title: CG Chen
 categories:
-  - speaker
+  - role/speaker
 ---

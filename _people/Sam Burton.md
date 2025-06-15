@@ -11,6 +11,6 @@ social:
   linkedin: https://www.linkedin.com/in/samanthaburton
 title: Sam Burton
 categories:
-  - speaker
+  - role/speaker
 ---
 

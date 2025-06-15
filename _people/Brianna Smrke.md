@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/brianna-smrke-230b5a28/
 title: Brianna Smrke
 categories:
-  - speaker
+  - role/speaker
 ---

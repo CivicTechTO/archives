@@ -8,6 +8,6 @@ social:
   linkedin: https://www.linkedin.com/in/johan-macedo-040546/
 title: Johan Macedo
 categories:
-  - speaker
+  - role/speaker
 ---
 

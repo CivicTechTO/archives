@@ -7,6 +7,6 @@ organization:
   - "[[Jane's Walk]]"
 title: Josh Koudys
 categories:
-  - speaker
+  - role/speaker
 ---
 

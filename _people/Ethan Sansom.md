@@ -6,6 +6,6 @@ social:
   linkedin: https://www.linkedin.com/in/ethansansom/
 title: Ethan Sansom
 categories:
-  - speaker
+  - role/speaker
 ---
 

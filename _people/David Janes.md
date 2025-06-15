@@ -6,6 +6,6 @@ social:
   linkedin: https://www.linkedin.com/in/davidjanes/
 title: David Janes
 categories:
-  - speaker
+  - role/speaker
 ---
 

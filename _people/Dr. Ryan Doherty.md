@@ -10,5 +10,5 @@ organization:
   - "[[Empower Health]]"
 title: Dr. Ryan Doherty
 categories:
-  - speaker
+  - role/speaker
 ---

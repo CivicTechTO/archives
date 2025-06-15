@@ -7,6 +7,6 @@ social:
   linkedin: https://www.linkedin.com/in/jerroldmcgrath/
 title: Jerrold McGrath
 categories:
-  - speaker
+  - role/speaker
 ---
 

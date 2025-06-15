@@ -11,5 +11,5 @@ organization:
   - "[[Government of Ontario]]"
 title: Jury Konga
 categories:
-  - speaker
+  - role/speaker
 ---

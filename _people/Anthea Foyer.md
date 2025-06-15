@@ -9,5 +9,5 @@ organization:
 role_description: Digital Strategy & Engagement
 title: Anthea Foyer
 categories:
-  - speaker
+  - role/speaker
 ---

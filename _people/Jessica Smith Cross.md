@@ -6,5 +6,5 @@ social:
   twitter: https://twitter.com/jessiecatherine
 title: Jessica Smith Cross
 categories:
-  - speaker
+  - role/speaker
 ---

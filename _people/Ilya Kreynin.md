@@ -6,6 +6,6 @@ tags:
 organization:
   - "[[CivicTechTO]]"
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

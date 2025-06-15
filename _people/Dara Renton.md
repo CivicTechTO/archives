@@ -10,5 +10,5 @@ social:
   linkedin: https://www.linkedin.com/in/drenton/
 title: Dara Renton
 categories:
-  - speaker
+  - role/speaker
 ---

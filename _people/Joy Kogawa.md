@@ -8,6 +8,6 @@ social:
   wikipedia: https://en.wikipedia.org/wiki/Joy_Kogawa
 title: Joy Kogawa
 categories:
-  - speaker
+  - role/speaker
 ---
 

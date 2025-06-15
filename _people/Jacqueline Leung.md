@@ -8,6 +8,6 @@ social:
   twitter: https://x.com/jacquelinegyl
 title: Jacqueline Leung
 categories:
-  - speaker
+  - role/speaker
 ---
 

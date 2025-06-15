@@ -9,5 +9,5 @@ social:
   linkedin: https://www.linkedin.com/in/vass
 title: Vass (Vasiliki) Bednar
 categories:
-  - speaker
+  - role/speaker
 ---

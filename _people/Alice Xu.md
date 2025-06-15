@@ -6,6 +6,6 @@ organization:
   - "[[City of Toronto]]"
 title: Alice Xu
 categories:
-  - speaker
+  - role/speaker
 ---
 

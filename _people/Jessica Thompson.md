@@ -6,6 +6,6 @@ tags:
   - type/person
 title: Jessica Thompson
 categories:
-  - speaker
+  - role/speaker
 ---
 

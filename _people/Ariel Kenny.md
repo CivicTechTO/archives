@@ -8,5 +8,5 @@ tags:
   - type/person
 title: Ariel Kenny
 categories:
-  - organizer
+  - role/organizer
 ---

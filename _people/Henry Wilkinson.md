@@ -10,5 +10,5 @@ social:
   mastodon: https://mastodon.design/@hank
 title: Henry Wilkinson
 categories:
-  - speaker
+  - role/speaker
 ---

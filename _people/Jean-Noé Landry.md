@@ -9,5 +9,5 @@ social:
   twitter: https://x.com/JeanNoeLandry1
 title: Jean-Noé Landry
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -5,5 +5,5 @@ social:
   linkedin: https://www.linkedin.com/in/sharonchien/
 title: Sharon Chien
 categories:
-  - speaker
+  - role/speaker
 ---

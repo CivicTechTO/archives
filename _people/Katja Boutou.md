@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Katja Boutou
 categories:
-  - speaker
+  - role/speaker
 ---

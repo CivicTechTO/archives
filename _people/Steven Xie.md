@@ -3,6 +3,6 @@ tags:
   - type/person
 title: Steven Xie
 categories:
-  - speaker
+  - role/speaker
 ---
 

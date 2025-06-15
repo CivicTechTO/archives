@@ -10,5 +10,5 @@ organization:
   - "[[QueerTech]]"
 title: Andy Saldaña
 categories:
-  - speaker
+  - role/speaker
 ---

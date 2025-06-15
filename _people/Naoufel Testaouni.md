@@ -10,5 +10,5 @@ organization:
   - "[[QueerTech]]"
 title: Naoufel Testaouni
 categories:
-  - speaker
+  - role/speaker
 ---

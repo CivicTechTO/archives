@@ -6,5 +6,5 @@ social:
   website: https://nitku.net
 title: Juhanna Leinonen
 categories:
-  - speaker
+  - role/speaker
 ---

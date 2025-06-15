@@ -5,5 +5,5 @@ description: Grahame Rivers is Digital Director to the Honourable Premier Kathle
 organization: []
 title: Grahame Rivers
 categories:
-  - speaker
+  - role/speaker
 ---

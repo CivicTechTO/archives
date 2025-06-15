@@ -4,6 +4,6 @@ tags:
   - type/person
 title: Li Koo
 categories:
-  - speaker
+  - role/speaker
 ---
 

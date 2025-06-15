@@ -7,5 +7,5 @@ social:
   linkedin: https://www.linkedin.com/in/ryanmerkley/
 title: Ryan Merkley
 categories:
-  - speaker
+  - role/speaker
 ---

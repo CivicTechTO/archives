@@ -7,5 +7,5 @@ social:
   linkedin: https://www.linkedin.com/in/gabbie-clarke-774001190/
 title: Gabbie Clarke
 categories:
-  - speaker
+  - role/speaker
 ---

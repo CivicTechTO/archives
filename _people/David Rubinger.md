@@ -8,6 +8,6 @@ social:
   linkedin: https://www.linkedin.com/in/davidrubinger/
 title: David Rubinger
 categories:
-  - speaker
+  - role/speaker
 ---
 

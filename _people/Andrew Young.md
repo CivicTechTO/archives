@@ -4,7 +4,7 @@ description: By day, Andrew works as a web developer at a Canadian university. B
 tags:
   - type/person
 categories:
-  - speaker
+  - role/speaker
 social:
   website: https://young.me/
 ---

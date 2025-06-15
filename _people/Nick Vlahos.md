@@ -9,5 +9,5 @@ social:
   linkedin: https://www.linkedin.com/in/nick-vlahos-57a21076/
 title: Nick Vlahos
 categories:
-  - speaker
+  - role/speaker
 ---

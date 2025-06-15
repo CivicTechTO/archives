@@ -9,6 +9,6 @@ social:
   twitter: https://x.com/rebelry
 title: John Richardson
 categories:
-  - speaker
+  - role/speaker
 ---
 

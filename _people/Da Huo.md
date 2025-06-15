@@ -6,5 +6,5 @@ organization:
   - '[[City of Toronto]]'
 title: Da Huo
 categories:
-  - speaker
+  - role/speaker
 ---

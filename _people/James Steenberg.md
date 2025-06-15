@@ -9,5 +9,5 @@ social:
   linkedin: https://www.linkedin.com/in/james-steenberg-05462a26/
 title: James Steenberg
 categories:
-  - speaker
+  - role/speaker
 ---

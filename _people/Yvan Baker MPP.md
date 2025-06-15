@@ -8,5 +8,5 @@ social:
   wikipedia: https://en.wikipedia.org/wiki/Yvan_Baker
 title: Yvan Baker MPP
 categories:
-  - speaker
+  - role/speaker
 ---

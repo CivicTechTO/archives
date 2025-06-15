@@ -7,5 +7,5 @@ organization:
   - '[[Librarians Without Borders]]'
 title: Jorge Rivera
 categories:
-  - speaker
+  - role/speaker
 ---

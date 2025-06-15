@@ -8,6 +8,6 @@ organization:
   - "[[Girl Guides of Canada]]"
 title: Louise Kent
 categories:
-  - speaker
+  - role/speaker
 ---
 

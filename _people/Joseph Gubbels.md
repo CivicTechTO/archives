@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Joseph Gubbels
 categories:
-  - speaker
+  - role/speaker
 ---

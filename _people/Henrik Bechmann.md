@@ -11,6 +11,6 @@ organization:
   - "[[CivicTechTO]]"
 title: Henrik Bechmann
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

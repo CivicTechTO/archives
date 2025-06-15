@@ -9,5 +9,5 @@ organization:
   - "[[No More Noise Toronto]]"
 title: null
 categories:
-  - speaker
+  - role/speaker
 ---

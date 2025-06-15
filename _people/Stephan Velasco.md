@@ -8,5 +8,5 @@ social:
   website: https://www.stephenvelasco.com
 title: Stephan Velasco
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -8,5 +8,5 @@ social:
   twitter: http://twitter.com/ebonysager
 title: Ebony Sager
 categories:
-  - speaker
+  - role/speaker
 ---

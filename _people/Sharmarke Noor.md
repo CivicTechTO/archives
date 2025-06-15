@@ -6,5 +6,5 @@ social:
   website: https://sharmarkedesign.co
 title: Sharmarke Noor
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -6,5 +6,5 @@ organization:
   - "[[CivicTechTO]]"
 title: Ben Coleman
 categories:
-  - organizer
+  - role/organizer
 ---

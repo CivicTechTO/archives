@@ -9,5 +9,5 @@ social:
   website: https://lilianradovac.ca
 title: Lilian Radovac
 categories:
-  - speaker
+  - role/speaker
 ---

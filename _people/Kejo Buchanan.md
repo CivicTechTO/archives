@@ -9,7 +9,7 @@ organization:
   - "[[CivicTechTO]]"
 title: Kejo Buchanan
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---
 

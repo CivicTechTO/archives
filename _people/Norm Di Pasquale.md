@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/normandp/
 title: Norm Di Pasquale
 categories:
-  - speaker
+  - role/speaker
 ---

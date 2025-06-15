@@ -9,5 +9,5 @@ organization:
   - "[[PublicSquare]]"
 title: Yash Paliwal
 categories:
-  - speaker
+  - role/speaker
 ---

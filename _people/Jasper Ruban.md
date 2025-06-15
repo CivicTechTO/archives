@@ -1,8 +1,8 @@
 ---
 title: Jasper Ruban
-description: 
+description:
 tags:
   - type/person
 categories:
-  - speaker
+  - role/speaker
 ---

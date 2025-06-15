@@ -8,6 +8,6 @@ social:
   linkedin: https://www.linkedin.com/in/madeline-ashby-abb53522/
 title: Madeline Ashby
 categories:
-  - speaker
+  - role/speaker
 ---
 

@@ -10,5 +10,5 @@ social:
   medium: https://medium.com/@WhoTargetsMe
 title: Sam Jeffers
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -6,6 +6,6 @@ organization:
   - '[[Techfugees]]'
 title: Raj Burman
 categories:
-  - speaker
+  - role/speaker
 ---
 

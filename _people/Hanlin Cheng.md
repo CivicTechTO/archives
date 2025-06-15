@@ -4,6 +4,6 @@ tags:
   - type/person
 title: Hanlin Cheng
 categories:
-  - speaker
+  - role/speaker
 ---
 

@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/imcauley/
 title: Isaac McAuley
 categories:
-  - speaker
+  - role/speaker
 ---

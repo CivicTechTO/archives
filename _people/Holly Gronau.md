@@ -3,6 +3,6 @@ tags:
   - type/person
 title: Holly Gronau
 categories:
-  - speaker
+  - role/speaker
 ---
 

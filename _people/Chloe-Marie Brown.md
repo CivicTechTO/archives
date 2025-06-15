@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/chloemariebrown/
 title: Chloe-Marie Brown
 categories:
-  - speaker
+  - role/speaker
 ---

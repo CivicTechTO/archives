@@ -7,5 +7,5 @@ social:
   website: https://grindspark.com
 title: Jordan Sparks
 categories:
-  - speaker
+  - role/speaker
 ---

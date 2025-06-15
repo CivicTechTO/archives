@@ -7,6 +7,6 @@ tags:
   - type/person
 title: Theo Arbez
 categories:
-  - speaker
+  - role/speaker
 ---
 

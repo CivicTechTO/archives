@@ -8,6 +8,6 @@ organization:
   - '[[City of Toronto]]'
 title: Safiah Chowdhury
 categories:
-  - speaker
+  - role/speaker
 ---
 

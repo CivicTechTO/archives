@@ -6,5 +6,5 @@ social:
   website: https://avinashraj.com/
 title: Avinash Raj
 categories:
-  - speaker
+  - role/speaker
 ---

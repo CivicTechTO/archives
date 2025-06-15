@@ -6,5 +6,5 @@ tags:
   - type/person
 title: Sharon Lam
 categories:
-  - speaker
+  - role/speaker
 ---

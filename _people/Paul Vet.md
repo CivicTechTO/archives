@@ -6,6 +6,6 @@ organization:
   - "[[Government of Ontario]]"
 title: Paul Vet
 categories:
-  - speaker
+  - role/speaker
 ---
 

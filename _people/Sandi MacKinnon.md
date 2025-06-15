@@ -6,5 +6,5 @@ organization:
   - '[[Civic Tech Fredericton]]'
 title: Sandi MacKinnon
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -12,5 +12,5 @@ organization:
   - '[[Open Collective]]'
 title: Pia Mancini
 categories:
-  - speaker
+  - role/speaker
 ---

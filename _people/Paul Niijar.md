@@ -6,5 +6,5 @@ organization:
   - '[[CivicTech Waterloo Region]]'
 title: Paul Niijar
 categories:
-  - speaker
+  - role/speaker
 ---

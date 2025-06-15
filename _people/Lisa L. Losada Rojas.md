@@ -7,5 +7,5 @@ social:
   website: https://rutahc.com
 title: Lisa L. Losada Rojas
 categories:
-  - speaker
+  - role/speaker
 ---

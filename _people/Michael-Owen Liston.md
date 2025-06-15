@@ -6,5 +6,5 @@ social:
   website: https://antlersanchors.github.io
 title: Michael-Owen Liston
 categories:
-  - speaker
+  - role/speaker
 ---

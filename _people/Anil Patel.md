@@ -6,6 +6,6 @@ social:
   linkedin: https://www.linkedin.com/in/anilpatrickpatel/
 title: Anil Patel
 categories:
-  - speaker
+  - role/speaker
 ---
 

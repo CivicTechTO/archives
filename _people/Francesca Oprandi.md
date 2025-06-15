@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Francesca Oprandi
 categories:
-  - speaker
+  - role/speaker
 ---

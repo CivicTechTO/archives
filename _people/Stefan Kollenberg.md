@@ -8,5 +8,5 @@ social:
   website: https://www.futureofengagement.ca
 title: Stefan Kollenberg
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -10,5 +10,5 @@ social:
   website: https://www.gceh.ca
 title: Geoff Evamy Hill
 categories:
-  - speaker
+  - role/speaker
 ---

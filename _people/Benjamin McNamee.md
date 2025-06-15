@@ -6,5 +6,5 @@ organization:
   - '[[Ontario Trillium Foundation]]'
 title: Benjamin McNamee
 categories:
-  - speaker
+  - role/speaker
 ---

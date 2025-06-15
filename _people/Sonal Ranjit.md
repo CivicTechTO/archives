@@ -6,8 +6,8 @@ organization:
   - "[[CivicTechTO]]"
 title: Sonal Ranjit
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 social:
   linkedin: https://www.linkedin.com/in/sonalranjit
 ---

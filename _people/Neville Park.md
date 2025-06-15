@@ -7,5 +7,5 @@ social:
   mastodon: https://bananachips.club/@nev
 title: Neville Park
 categories:
-  - speaker
+  - role/speaker
 ---

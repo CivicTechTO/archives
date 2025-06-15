@@ -9,6 +9,6 @@ social:
   twitter: https://x.com/bemusednetwork
 title: Margaret Lam
 categories:
-  - speaker
+  - role/speaker
 ---
 

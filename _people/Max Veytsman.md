@@ -6,5 +6,5 @@ organization:
   - '[[1RG]]'
 title: Max Veytsman
 categories:
-  - speaker
+  - role/speaker
 ---

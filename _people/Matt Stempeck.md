@@ -8,5 +8,5 @@ social:
   website: https://civictech.guide
 title: Matt Stempeck
 categories:
-  - speaker
+  - role/speaker
 ---

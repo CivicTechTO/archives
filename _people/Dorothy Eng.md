@@ -7,9 +7,9 @@ organization:
   - "[[CivicTechTO]]"
 title: Dorothy Eng
 categories:
-  - organizer
-  - speaker
-  - cofounder
+  - role/organizer
+  - role/speaker
+  - role/cofounder
 social:
   twitter: https://twitter.com/dorothy_eng
   linkedin: https://www.linkedin.com/in/dorothyeng

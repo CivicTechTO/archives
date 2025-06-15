@@ -6,6 +6,6 @@ organization:
   - '[[The Human Network]]'
 title: Benjamin Shahin
 categories:
-  - speaker
+  - role/speaker
 ---
 

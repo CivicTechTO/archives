@@ -7,5 +7,5 @@ social:
   twitter: https://x.com/hazeltcorcoran
 title: Hazel Corcoran
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Olivia Ou
 categories:
-  - speaker
+  - role/speaker
 ---

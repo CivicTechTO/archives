@@ -7,5 +7,5 @@ social:
   twitter: https://x.com/zahraeb
 title: Zahra Ebrahim
 categories:
-  - speaker
+  - role/speaker
 ---

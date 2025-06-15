@@ -6,5 +6,5 @@ social:
   twitter: https://x.com/Jay_Wall
 title: Jay Wall
 categories:
-  - speaker
+  - role/speaker
 ---

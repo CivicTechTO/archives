@@ -7,5 +7,5 @@ social:
 organization: []
 title: Riley Peterson
 categories:
-  - speaker
+  - role/speaker
 ---

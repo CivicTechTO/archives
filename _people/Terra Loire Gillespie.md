@@ -7,6 +7,6 @@ social:
   linkedin: https://www.linkedin.com/in/terraloire/
 title: Terra Loire Gillespie
 categories:
-  - speaker
+  - role/speaker
 ---
 

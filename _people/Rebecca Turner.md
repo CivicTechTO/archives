@@ -5,6 +5,6 @@ organization:
   - '[[City of Toronto]]'
 title: Rebecca Turner
 categories:
-  - speaker
+  - role/speaker
 ---
 

@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/gabriella-boulos/
 title: Gabriella Boulos
 categories:
-  - speaker
+  - role/speaker
 ---

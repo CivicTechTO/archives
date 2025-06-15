@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/clarabradley8752/
 title: Clara Bradley
 categories:
-  - speaker
+  - role/speaker
 ---

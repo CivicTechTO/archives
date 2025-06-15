@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Arjun Sahjpaul
 categories:
-  - speaker
+  - role/speaker
 ---

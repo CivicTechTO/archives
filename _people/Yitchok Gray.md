@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Yitchok Gray
 categories:
-  - speaker
+  - role/speaker
 ---

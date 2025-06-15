@@ -1,8 +1,8 @@
 ---
 title: Sharmeena Lalloo
-description: 
+description:
 tags:
   - type/person
 categories:
-  - speaker
+  - role/speaker
 ---

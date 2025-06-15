@@ -10,5 +10,5 @@ social:
   website: https://www.threadingchange.org
 title: Sophia Yang
 categories:
-  - speaker
+  - role/speaker
 ---

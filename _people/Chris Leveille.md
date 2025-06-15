@@ -3,6 +3,6 @@ tags:
   - type/person
 title: Chris Leveille
 categories:
-  - speaker
+  - role/speaker
 ---
 

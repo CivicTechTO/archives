@@ -6,6 +6,6 @@ organization:
   - "[[Ontario Digital Service]]"
 title: Gloria Er-Chua
 categories:
-  - speaker
+  - role/speaker
 ---
 

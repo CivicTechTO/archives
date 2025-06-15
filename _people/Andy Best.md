@@ -9,5 +9,5 @@ social:
   twitter: http://twitter.com/guelph_andy
 title: Andy Best
 categories:
-  - speaker
+  - role/speaker
 ---

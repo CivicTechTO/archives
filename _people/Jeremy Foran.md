@@ -7,5 +7,5 @@ social:
   twitter: https://x.com/jeremyforan
 title: Jeremy Foran
 categories:
-  - speaker
+  - role/speaker
 ---

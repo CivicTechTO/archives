@@ -4,5 +4,5 @@ description: Philip is a Senior Researcher and Co-Director at the Social Media L
 tags:
   - type/person
 categories:
-  - speaker
+  - role/speaker
 ---

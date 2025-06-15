@@ -6,6 +6,6 @@ social:
   website: http://openconcept.ca
 title: Mike Gifford
 categories:
-  - speaker
+  - role/speaker
 ---
 

@@ -6,6 +6,6 @@ social:
 description: Salomeh Ahmadi is the founder of Rexdale Lab.
 title: Salomeh Ahmadi
 categories:
-  - speaker
+  - role/speaker
 ---
 

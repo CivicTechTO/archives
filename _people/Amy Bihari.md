@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/amy-bihari/
 title: Amy Bihari
 categories:
-  - speaker
+  - role/speaker
 ---

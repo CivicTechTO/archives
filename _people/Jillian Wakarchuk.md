@@ -7,5 +7,5 @@ social:
   twitter: https://x.com/orbwitch
 title: Jillian Wakarchuk
 categories:
-  - speaker
+  - role/speaker
 ---

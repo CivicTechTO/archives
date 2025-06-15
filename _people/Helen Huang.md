@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/heyohelen/
 title: Helen Huang
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -9,5 +9,5 @@ organization:
   - "[[Carleton University]]"
 title: Amanda Clarke
 categories:
-  - speaker
+  - role/speaker
 ---

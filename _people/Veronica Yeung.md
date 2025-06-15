@@ -6,5 +6,5 @@ organization:
   - "[[Open Data Team, City of Toronto]]"
 title: Veronica Yeung
 categories:
-  - speaker
+  - role/speaker
 ---

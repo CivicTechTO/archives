@@ -5,7 +5,7 @@ tags:
   - type/person
 title: Jonathan Kates
 categories:
-  - organizer
+  - role/organizer
 social:
   twitter: https://twitter.com/jonathan_kates
   linkedin: https://www.linkedin.com/in/jonathankates

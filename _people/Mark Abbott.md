@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/markwjabbott/
 title: Mark Abbott
 categories:
-  - speaker
+  - role/speaker
 ---

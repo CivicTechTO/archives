@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/tara-khani-297103b/
 title: Tara Khani
 categories:
-  - speaker
+  - role/speaker
 ---

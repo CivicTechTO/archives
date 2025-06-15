@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/fkhan4/
 title: Fahad Khan
 categories:
-  - speaker
+  - role/speaker
 ---

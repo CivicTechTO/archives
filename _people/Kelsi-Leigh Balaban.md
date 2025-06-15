@@ -7,5 +7,5 @@ tags:
   - type/person
 title: Kelsi-Leigh Balaban
 categories:
-  - speaker
+  - role/speaker
 ---

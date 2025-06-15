@@ -5,7 +5,7 @@ organization:
 tags:
   - type/person
 categories:
-  - organizer
+  - role/organizer
 social:
   twitter: https://twitter.com/veronicawojnas
   linkedin: https://www.linkedin.com/in/veronicawojnas/

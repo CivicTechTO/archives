@@ -9,5 +9,5 @@ social:
   linkedin: https://www.linkedin.com/in/marco-palermo-6113802b4/
 title: Marco Palermo
 categories:
-  - speaker
+  - role/speaker
 ---

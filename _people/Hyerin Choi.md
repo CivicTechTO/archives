@@ -5,7 +5,7 @@ tags:
   - type/person
 title: Hyerin Choi
 categories:
-  - organizer
+  - role/organizer
 social:
   linkedin: https://www.linkedin.com/in/hyerin-choi-96a479162/
 ---

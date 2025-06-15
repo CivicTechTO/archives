@@ -8,6 +8,6 @@ social:
   github: https://github.com/f3ndot
 title: Justin Bull
 categories:
-  - speaker
+  - role/speaker
 ---
 

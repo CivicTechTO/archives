@@ -5,5 +5,5 @@ organization:
   - '[[Toronto Public Library]]'
 title: Lina Kim
 categories:
-  - speaker
+  - role/speaker
 ---

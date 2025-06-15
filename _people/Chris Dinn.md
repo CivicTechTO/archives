@@ -8,5 +8,5 @@ social:
   github: https://github.com/chrisdinn
 title: Chris Dinn
 categories:
-  - speaker
+  - role/speaker
 ---

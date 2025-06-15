@@ -9,5 +9,5 @@ social:
   linkedin: https://www.linkedin.com/in/odoggett/
 title: Olivia Doggett
 categories:
-  - speaker
+  - role/speaker
 ---

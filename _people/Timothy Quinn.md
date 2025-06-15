@@ -7,6 +7,6 @@ social:
   website: https://darkdataproject.org
 title: Timothy Quinn
 categories:
-  - speaker
+  - role/speaker
 ---
 

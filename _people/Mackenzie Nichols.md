@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/mknichols/
 title: Mackenzie Nichols
 categories:
-  - speaker
+  - role/speaker
 ---

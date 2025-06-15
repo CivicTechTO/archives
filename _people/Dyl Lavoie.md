@@ -5,5 +5,5 @@ social:
   github: https://github.com/dyyyl
 title: Dyl Lavoie
 categories:
-  - speaker
+  - role/speaker
 ---

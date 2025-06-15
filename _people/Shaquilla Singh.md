@@ -5,7 +5,7 @@ organization:
   - "[[CivicTechTO]]"
 title: Shaquilla Singh
 categories:
-  - organizer
+  - role/organizer
 social:
   linkedin: https://www.linkedin.com/in/shaquillasingh
 ---

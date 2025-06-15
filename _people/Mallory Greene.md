@@ -13,5 +13,5 @@ social:
 role_description: Mallory Greene, Head of Corporate Social Responsibility, Wealthsimple
 title: Mallory Greene
 categories:
-  - speaker
+  - role/speaker
 ---

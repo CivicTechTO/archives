@@ -6,6 +6,6 @@ organization:
   - "[[Government of Ontario]]"
 title: André Côté
 categories:
-  - speaker
+  - role/speaker
 ---
 

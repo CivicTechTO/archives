@@ -9,6 +9,6 @@ organization:
   - "[[Government of Ontario]]"
 title: Joel Schellenberger
 categories:
-  - speaker
+  - role/speaker
 ---
 

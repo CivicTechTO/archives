@@ -4,5 +4,5 @@ tags:
 organization: []
 title: Ryan Androsoff
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/zachary-donsky/
 title: Zachary Donsky
 categories:
-  - speaker
+  - role/speaker
 ---

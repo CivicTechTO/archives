@@ -6,6 +6,6 @@ social:
   twitter: https://x.com/laura_aitech
 title: Laura Yu
 categories:
-  - speaker
+  - role/speaker
 ---
 

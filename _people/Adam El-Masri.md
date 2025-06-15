@@ -6,5 +6,5 @@ organization:
   - '[[University of Toronto]]'
 title: Adam El-Masri
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -9,6 +9,6 @@ social:
   twitter: https://x.com/acecarruthers
 title: Alex Carruthers
 categories:
-  - speaker
+  - role/speaker
 ---
 

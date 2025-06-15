@@ -7,5 +7,5 @@ social:
   twitter: https://x.com/juliemcclement
 title: Julie McClement
 categories:
-  - speaker
+  - role/speaker
 ---

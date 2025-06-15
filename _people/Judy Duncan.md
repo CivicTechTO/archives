@@ -8,5 +8,5 @@ social:
   twitter: https://twitter.com/acornjude
 title: Judy Duncan
 categories:
-  - speaker
+  - role/speaker
 ---

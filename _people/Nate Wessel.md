@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/nate-wessel/
 title: Nate Wessel
 categories:
-  - speaker
+  - role/speaker
 ---

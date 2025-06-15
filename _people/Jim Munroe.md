@@ -8,6 +8,6 @@ social:
   website: https://jimmunroe.net
 title: Jim Munroe
 categories:
-  - speaker
+  - role/speaker
 ---
 

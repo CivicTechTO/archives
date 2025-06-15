@@ -5,7 +5,7 @@ organization:
   - "[[CivicTechTO]]"
 title: Chris Graham
 categories:
-  - organizer
+  - role/organizer
 social:
   twitter: https://twitter.com/chgraham
 ---

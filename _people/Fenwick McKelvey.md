@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/fenwick-mckelvey-343228aa/
 title: Fenwick McKelvey
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -9,5 +9,5 @@ social:
   linkedin: https://www.linkedin.com/in/angelabeechan/
 title: Angela Chan
 categories:
-  - speaker
+  - role/speaker
 ---

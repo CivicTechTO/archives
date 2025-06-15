@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Matt Wong
 categories:
-  - speaker
+  - role/speaker
 ---

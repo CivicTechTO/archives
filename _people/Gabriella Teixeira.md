@@ -8,6 +8,6 @@ organization:
   - "[[CivicTechTO]]"
 title: Gabriella Teixeira
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

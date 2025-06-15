@@ -8,5 +8,5 @@ social:
   twitter: https://x.com/andrea__fer
 title: Andrea Fernandez
 categories:
-  - speaker
+  - role/speaker
 ---

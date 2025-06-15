@@ -8,6 +8,6 @@ social:
   linkedin: https://www.linkedin.com/in/christina-vietinghoff-b9892756/
 title: Christina Vietinghoff
 categories:
-  - speaker
+  - role/speaker
 ---
 

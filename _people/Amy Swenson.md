@@ -8,5 +8,5 @@ social:
   twitter: http://twitter.com/indigir
 title: Amy Swenson
 categories:
-  - speaker
+  - role/speaker
 ---

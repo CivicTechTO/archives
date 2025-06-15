@@ -8,6 +8,6 @@ organization:
   - "[[8 80 Cities]]"
 title: Jiya Benni
 categories:
-  - speaker
+  - role/speaker
 ---
 

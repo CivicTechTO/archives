@@ -4,6 +4,6 @@ tags:
   - type/person
 title: Christina Whitehouse
 categories:
-  - speaker
+  - role/speaker
 ---
 

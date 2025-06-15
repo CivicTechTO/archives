@@ -6,6 +6,6 @@ social:
   linkedin: https://www.linkedin.com/in/coreytrott/
 title: Corey Trott
 categories:
-  - speaker
+  - role/speaker
 ---
 

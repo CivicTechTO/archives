@@ -6,5 +6,5 @@ social:
   website: https://www.callhyper.com
 title: Ben Sanders
 categories:
-  - speaker
+  - role/speaker
 ---

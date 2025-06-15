@@ -10,5 +10,5 @@ social:
   website: https://feedbackframes.com
 title: Jason Diceman
 categories:
-  - speaker
+  - role/speaker
 ---

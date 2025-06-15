@@ -7,6 +7,6 @@ social:
   linkedin: https://www.linkedin.com/in/joanna-lehrer/
 title: Joanna Lehrer
 categories:
-  - speaker
+  - role/speaker
 ---
 

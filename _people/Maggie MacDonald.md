@@ -7,5 +7,5 @@ social:
   website: https://www.internetmaggie.com
 title: Maggie MacDonald
 categories:
-  - speaker
+  - role/speaker
 ---

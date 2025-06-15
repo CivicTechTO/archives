@@ -5,5 +5,5 @@ social:
   linkedin: https://www.linkedin.com/in/katiegilfillan/
 title: Katie Gilfillan
 categories:
-  - speaker
+  - role/speaker
 ---

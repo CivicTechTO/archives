@@ -6,6 +6,6 @@ social:
   linkedin: https://www.linkedin.com/in/kim-allen-primalglow/
 title: Kim Allen
 categories:
-  - speaker
+  - role/speaker
 ---
 

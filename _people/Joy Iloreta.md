@@ -6,5 +6,5 @@ tags:
   - type/person
 title: Joy Iloreta
 categories:
-  - speaker
+  - role/speaker
 ---

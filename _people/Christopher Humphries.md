@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/christopher-humphries-26380123/
 title: Christopher Humphries
 categories:
-  - speaker
+  - role/speaker
 ---

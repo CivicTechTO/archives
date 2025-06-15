@@ -4,7 +4,7 @@ description: Aniket is a Research Assistant (Maps and Data Visualization) at the
 tags:
   - type/person
 categories:
-  - speaker
+  - role/speaker
 organization:
   - "[[School of Cities]]"
 ---

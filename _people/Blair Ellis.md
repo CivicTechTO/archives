@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Blair Ellis
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Yuseung Lee
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/maddyewins/
 title: Maddy Ewins
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -7,6 +7,6 @@ social:
   linkedin: https://www.linkedin.com/in/laetitiaeyssartel/
 title: Laëtitia Eyssartel
 categories:
-  - speaker
+  - role/speaker
 ---
 

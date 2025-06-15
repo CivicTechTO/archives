@@ -7,5 +7,5 @@ social:
   linkedin: https://www.linkedin.com/in/marshadruker/
 title: Marsha Druker
 categories:
-  - speaker
+  - role/speaker
 ---

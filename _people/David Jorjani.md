@@ -8,5 +8,5 @@ organization:
   - '[[University of Toronto]]'
 title: David Jorjani
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -7,5 +7,5 @@ social:
   twitter: https://x.com/willmeneray
 title: Will Meneray
 categories:
-  - speaker
+  - role/speaker
 ---

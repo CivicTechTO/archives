@@ -7,5 +7,5 @@ social:
   instagram: https://www.instagram.com/kara.moonstone
 title: Kara Stone
 categories:
-  - speaker
+  - role/speaker
 ---

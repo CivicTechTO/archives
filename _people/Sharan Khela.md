@@ -8,5 +8,5 @@ organization:
   - '[[Toronto Metropolitan University]]'
 title: Sharan Khela
 categories:
-  - speaker
+  - role/speaker
 ---

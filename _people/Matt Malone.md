@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Matt Malone
 categories:
-  - speaker
+  - role/speaker
 ---

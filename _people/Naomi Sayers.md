@@ -7,5 +7,5 @@ social:
   website: https://www.naomisayers.com
 title: Naomi Sayers
 categories:
-  - speaker
+  - role/speaker
 ---

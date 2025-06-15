@@ -11,5 +11,5 @@ organization:
   - "[[Ontario Digital Service]]"
 title: Cara Scarfone
 categories:
-  - speaker
+  - role/speaker
 ---

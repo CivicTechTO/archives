@@ -9,6 +9,6 @@ description: Director, Urban Data Research Centre, School of Cities, University 
 role_description: Director, Urban Data Research Centre, School of Cities
 title: Mark Fox
 categories:
-  - speaker
+  - role/speaker
   - meta/feature
 ---

@@ -6,6 +6,6 @@ organization:
   - "[[City of Toronto]]"
 title: Lisa Guo
 categories:
-  - speaker
+  - role/speaker
 ---
 

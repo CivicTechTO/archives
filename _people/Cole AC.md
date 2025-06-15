@@ -7,5 +7,5 @@ social:
   website: https://www.makeworld.space
 title: Cole AC
 categories:
-  - speaker
+  - role/speaker
 ---

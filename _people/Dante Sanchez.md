@@ -7,5 +7,5 @@ social:
   linkedin: https://www.linkedin.com/in/dante-sanchez-65465717/
 title: Dante Sanchez
 categories:
-  - speaker
+  - role/speaker
 ---

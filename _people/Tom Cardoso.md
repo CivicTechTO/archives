@@ -8,5 +8,5 @@ social:
   website: https://tomcardoso.com
 title: Tom Cardoso
 categories:
-  - speaker
+  - role/speaker
 ---

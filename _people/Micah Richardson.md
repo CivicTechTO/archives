@@ -9,5 +9,5 @@ social:
   linkedin: https://www.linkedin.com/in/micah-richardson-966261131/
 title: Micah Richardson
 categories:
-  - speaker
+  - role/speaker
 ---

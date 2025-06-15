@@ -7,6 +7,6 @@ social:
   github: https://github.com/econaxis/
 title: Henry Nguyen
 categories:
-  - speaker
+  - role/speaker
 ---
 

@@ -6,5 +6,5 @@ social:
   website: http://accessnow.com
 title: Maayan Ziv
 categories:
-  - speaker
+  - role/speaker
 ---

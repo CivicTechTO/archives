@@ -8,6 +8,6 @@ organization:
   - "[[CivicTechTO]]"
 title: Lia Milito
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

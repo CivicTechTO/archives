@@ -11,5 +11,5 @@ organization:
   - "[[Mapbox]]"
 title: Tristen Brown
 categories:
-  - speaker
+  - role/speaker
 ---

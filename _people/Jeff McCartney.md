@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/jeff-mccartney-8620855/
 title: Jeff McCartney
 categories:
-  - speaker
+  - role/speaker
 ---

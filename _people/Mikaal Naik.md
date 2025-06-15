@@ -7,5 +7,5 @@ social:
   website: https://www.civicsproject.org
 title: Mikaal Naik
 categories:
-  - speaker
+  - role/speaker
 ---

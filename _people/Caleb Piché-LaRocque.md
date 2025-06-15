@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/caleb-piche-larocque/
 title: Caleb Piché-LaRocque
 categories:
-  - speaker
+  - role/speaker
 ---

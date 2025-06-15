@@ -10,6 +10,6 @@ organization:
   - "[[Ontario Digital Service]]"
 title: Susmita Roy
 categories:
-  - speaker
+  - role/speaker
 ---
 

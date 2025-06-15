@@ -6,5 +6,5 @@ tags:
   - type/person
 title: Stephen Buckley
 categories:
-  - speaker
+  - role/speaker
 ---

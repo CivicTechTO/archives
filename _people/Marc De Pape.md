@@ -9,7 +9,7 @@ organization:
   - "[[CivicTechTO]]"
 title: Marc De Pape
 categories:
-  - organizer
-  - speaker
-  - cofounder
+  - role/organizer
+  - role/speaker
+  - role/cofounder
 ---

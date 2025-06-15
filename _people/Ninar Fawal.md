@@ -8,5 +8,5 @@ social:
   twitter: https://x.com/ninarfawal
 title: Ninar Fawal
 categories:
-  - speaker
+  - role/speaker
 ---

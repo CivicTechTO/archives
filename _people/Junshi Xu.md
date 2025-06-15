@@ -7,5 +7,5 @@ social:
   linkedin: https://www.linkedin.com/in/junshi-xu-b798b0169/
 title: Junshi Xu
 categories:
-  - speaker
+  - role/speaker
 ---

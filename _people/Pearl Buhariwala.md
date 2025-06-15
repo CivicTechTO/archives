@@ -8,6 +8,6 @@ social:
   linkedin: https://www.linkedin.com/in/pearl-buhariwala/
 title: Pearl Buhariwala
 categories:
-  - speaker
+  - role/speaker
 ---
 

@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Shaban Mohammed
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -8,6 +8,6 @@ social:
   linkedin: https://www.linkedin.com/in/michellebain/
 title: Michelle Bain
 categories:
-  - speaker
+  - role/speaker
 ---
 

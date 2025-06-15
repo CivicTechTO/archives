@@ -7,7 +7,7 @@ social:
   twitter: https://twitter.com/cydharrell
 title: Cyd Harrell
 categories:
-  - speaker
+  - role/speaker
   - meta/feature
 ---
 

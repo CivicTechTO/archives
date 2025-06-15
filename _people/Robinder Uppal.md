@@ -3,6 +3,6 @@ tags:
   - type/person
 title: Robinder Uppal
 categories:
-  - speaker
+  - role/speaker
 ---
 

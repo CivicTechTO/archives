@@ -6,6 +6,6 @@ social:
   website: https://www.andalsotoo.net
 title: Una Lee
 categories:
-  - speaker
+  - role/speaker
 ---
 

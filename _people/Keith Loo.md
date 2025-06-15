@@ -10,5 +10,5 @@ social:
   linkedin: https://www.linkedin.com/in/visualpoet/
 title: Keith Loo
 categories:
-  - speaker
+  - role/speaker
 ---

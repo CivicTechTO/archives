@@ -7,5 +7,5 @@ social:
   linkedin: https://www.linkedin.com/in/seanboots/
 title: Sean Boots
 categories:
-  - speaker
+  - role/speaker
 ---

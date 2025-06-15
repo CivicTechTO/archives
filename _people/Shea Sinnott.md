@@ -8,5 +8,5 @@ social:
   medium: https://medium.com/@shea_1081
 title: Shea Sinnott
 categories:
-  - speaker
+  - role/speaker
 ---

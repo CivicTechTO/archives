@@ -7,6 +7,6 @@ social:
   twitter: https://x.com/ryanfukunaga
 title: Ryan Fukunaga
 categories:
-  - speaker
+  - role/speaker
 ---
 

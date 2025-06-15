@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Trevor Heywood
 categories:
-  - speaker
+  - role/speaker
 ---

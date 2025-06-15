@@ -7,5 +7,5 @@ social:
   twitter: https://x.com/jackjamieson
 title: Jack Jamieson
 categories:
-  - speaker
+  - role/speaker
 ---

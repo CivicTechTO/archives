@@ -5,8 +5,8 @@ organization:
   - "[[CivicTechTO]]"
 title: Elena Potter
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 social:
   twitter: https://twitter.com/elenacpotter
   linkedin: https://www.linkedin.com/in/elenacpotter

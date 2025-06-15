@@ -6,6 +6,6 @@ social:
   instagram: https://www.instagram.com/drsarahsaska/
 title: Dr. Sarah Saska
 categories:
-  - speaker
+  - role/speaker
 ---
 

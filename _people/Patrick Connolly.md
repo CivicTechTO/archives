@@ -6,9 +6,9 @@ organization:
   - "[[CivicTechTO]]"
 title: Patrick Connolly
 categories:
-  - organizer
-  - speaker
-  - cofounder
+  - role/organizer
+  - role/speaker
+  - role/cofounder
 social:
   twitter: https://twitter.com/patconnolly
   linkedin: https://www.linkedin.com/in/patrick-connolly-80071b25

@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/mitchbechtel/
 title: Mitch Bechtel
 categories:
-  - speaker
+  - role/speaker
 ---

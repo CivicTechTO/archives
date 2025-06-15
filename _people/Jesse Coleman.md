@@ -6,5 +6,5 @@ tags:
   - type/person
 title: Jesse Coleman
 categories:
-  - speaker
+  - role/speaker
 ---

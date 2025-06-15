@@ -7,6 +7,6 @@ organization:
   - '[[Why Should I Care?]]'
 title: Terri Chu
 categories:
-  - speaker
+  - role/speaker
 ---
 

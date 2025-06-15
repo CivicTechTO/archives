@@ -7,8 +7,8 @@ organization:
   - "[[CivicTechTO]]"
 title: Andrew Do
 categories:
-  - speaker
-  - organizer
+  - role/speaker
+  - role/organizer
 social:
   twitter: https://twitter.com/ADoAboutThings
   linkedin: https://www.linkedin.com/in/adoaboutthings

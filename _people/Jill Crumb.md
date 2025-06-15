@@ -7,5 +7,5 @@ tags:
   - type/person
 title: Jill Crumb
 categories:
-  - speaker
+  - role/speaker
 ---

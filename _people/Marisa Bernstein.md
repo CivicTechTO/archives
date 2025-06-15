@@ -11,5 +11,5 @@ social:
   medium: https://medium.com/@marisa_91694
 title: Marisa Bernstein
 categories:
-  - speaker
+  - role/speaker
 ---

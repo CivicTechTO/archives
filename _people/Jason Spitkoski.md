@@ -7,5 +7,5 @@ tags:
   - type/person
 title: Jason Spitkoski
 categories:
-  - speaker
+  - role/speaker
 ---

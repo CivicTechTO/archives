@@ -10,6 +10,6 @@ social:
   website: https://dav-idc.com
 title: David Cox
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

@@ -9,5 +9,5 @@ social:
   linkedin: https://www.linkedin.com/in/jane-hilderman/
 title: Jane Hilderman
 categories:
-  - speaker
+  - role/speaker
 ---

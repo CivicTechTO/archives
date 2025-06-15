@@ -8,5 +8,5 @@ social:
   website: http://metroquest.com/
 title: Dave Biggs
 categories:
-  - speaker
+  - role/speaker
 ---

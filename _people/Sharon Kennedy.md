@@ -12,6 +12,6 @@ social:
   linkedin: https://www.linkedin.com/in/kennedysharon
 title: Sharon Kennedy
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

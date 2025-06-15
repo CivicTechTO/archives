@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Jesse Gazic
 categories:
-  - speaker
+  - role/speaker
 ---

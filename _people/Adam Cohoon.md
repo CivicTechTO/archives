@@ -6,6 +6,6 @@ organization:
   - "[[CivicTechTO]]"
 title: Adam Cohoon
 categories:
-  - speaker
-  - organizer
+  - role/speaker
+  - role/organizer
 ---

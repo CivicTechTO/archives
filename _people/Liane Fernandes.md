@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Liane Fernandes
 categories:
-  - speaker
+  - role/speaker
 ---

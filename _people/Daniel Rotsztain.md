@@ -8,5 +8,5 @@ social:
   instagram: https://www.instagram.com/theurbangeog
 title: Daniel Rotsztain
 categories:
-  - speaker
+  - role/speaker
 ---

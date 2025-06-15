@@ -6,5 +6,5 @@ organization:
   - "[[Open Space Sandbox]]"
 title: Hayley Oleksiak
 categories:
-  - speaker
+  - role/speaker
 ---

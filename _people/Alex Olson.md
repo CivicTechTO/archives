@@ -9,6 +9,6 @@ tags:
   - type/person
 title: Alex Olson
 categories:
-  - speaker
-  - organizer
+  - role/speaker
+  - role/organizer
 ---

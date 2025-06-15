@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/laura-hache-14417336/
 title: Laura Hache
 categories:
-  - speaker
+  - role/speaker
 ---

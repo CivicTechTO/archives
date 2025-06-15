@@ -1,10 +1,10 @@
 ---
 title: Joy Nelson
-description: 
+description:
 organization:
   - "[[CivicTechTO]]"
 tags:
   - type/person
 categories:
-  - organizer
+  - role/organizer
 ---

@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Luca Carnegie
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -6,6 +6,6 @@ organization:
   - "[[City of Toronto]]"
 title: Lin Mu
 categories:
-  - speaker
+  - role/speaker
 ---
 

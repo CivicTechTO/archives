@@ -5,6 +5,6 @@ organization:
   - '[[City of Toronto]]'
 title: Melissa Armstrong
 categories:
-  - speaker
+  - role/speaker
 ---
 

@@ -8,5 +8,5 @@ organization:
   - '[[Toronto Metropolitan University]]'
 title: Stephanie Tran
 categories:
-  - speaker
+  - role/speaker
 ---

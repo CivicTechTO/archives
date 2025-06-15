@@ -7,5 +7,5 @@ social:
   twitter: https://twitter.com/MediaSmarts
 title: Matthew Johnson
 categories:
-  - speaker
+  - role/speaker
 ---

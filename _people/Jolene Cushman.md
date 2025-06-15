@@ -8,5 +8,5 @@ social:
   website: http://www.torontoenvironment.org
 title: Jolene Cushman
 categories:
-  - speaker
+  - role/speaker
 ---

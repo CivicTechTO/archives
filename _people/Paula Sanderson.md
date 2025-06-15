@@ -8,5 +8,5 @@ social:
   twitter: https://x.com/paula_sand
 title: Paula Sanderson
 categories:
-  - speaker
+  - role/speaker
 ---

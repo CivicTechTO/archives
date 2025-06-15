@@ -8,6 +8,6 @@ social:
   website: https://grifp.github.io
 title: Grif Peterson
 categories:
-  - speaker
+  - role/speaker
 ---
 

@@ -6,5 +6,5 @@ organization:
   - "[[MASS LBP]]"
 title: Chris Ellis
 categories:
-  - speaker
+  - role/speaker
 ---

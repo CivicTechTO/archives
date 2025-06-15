@@ -4,6 +4,6 @@ tags:
   - type/person
 title: Léa Ravensbergen
 categories:
-  - speaker
+  - role/speaker
 ---
 

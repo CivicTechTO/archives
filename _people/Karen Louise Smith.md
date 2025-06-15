@@ -8,5 +8,5 @@ social:
   website: http://karenlouisesmith.net
 title: Karen Louise Smith
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -7,6 +7,6 @@ tags:
   - type/person
 title: Russell Christmas
 categories:
-  - speaker
+  - role/speaker
 ---
 

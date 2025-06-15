@@ -6,5 +6,5 @@ social:
   twitter: https://twitter.com/pcraig3
 title: Paul Craig
 categories:
-  - speaker
+  - role/speaker
 ---

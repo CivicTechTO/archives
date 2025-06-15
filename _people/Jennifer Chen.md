@@ -4,6 +4,6 @@ tags:
   - type/person
 title: Jennifer Chen
 categories:
-  - speaker
+  - role/speaker
 ---
 

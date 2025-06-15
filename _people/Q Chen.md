@@ -7,5 +7,5 @@ organization:
   - "[[School of Cities]]"
 title: Q Chen
 categories:
-  - speaker
+  - role/speaker
 ---

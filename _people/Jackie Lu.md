@@ -8,5 +8,5 @@ social:
   website: https://helpfulplaces.com
 title: Jackie Lu
 categories:
-  - speaker
+  - role/speaker
 ---

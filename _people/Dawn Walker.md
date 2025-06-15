@@ -7,5 +7,5 @@ social:
   website: https://dcwalker.ca
 title: Dawn Walker
 categories:
-  - speaker
+  - role/speaker
 ---

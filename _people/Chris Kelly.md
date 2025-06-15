@@ -6,6 +6,6 @@ social:
   linkedin: https://www.linkedin.com/in/chris-kelly-6a487983/
 title: Chris Kelly
 categories:
-  - speaker
+  - role/speaker
 ---
 

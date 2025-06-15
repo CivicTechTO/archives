@@ -5,5 +5,5 @@ tags:
   - type/person
 title: Andy Claremont
 categories:
-  - organizer
+  - role/organizer
 ---

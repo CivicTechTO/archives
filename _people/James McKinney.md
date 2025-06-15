@@ -7,6 +7,6 @@ social:
   twitter: http://twitter.com/mckinneyjames
 title: James McKinney
 categories:
-  - speaker
+  - role/speaker
 ---
 

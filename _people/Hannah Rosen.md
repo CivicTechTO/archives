@@ -8,6 +8,6 @@ organization:
   - "[[CivicTechTO]]"
 title: Hannah Rosen
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

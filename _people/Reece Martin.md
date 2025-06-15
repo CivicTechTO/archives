@@ -4,6 +4,6 @@ tags:
   - type/person
 title: Reece Martin
 categories:
-  - speaker
+  - role/speaker
 ---
 

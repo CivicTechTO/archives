@@ -10,7 +10,7 @@ social:
   linkedin: https://www.linkedin.com/in/dilinik/
 title: Dilini Kurukulaarachchi
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---
 

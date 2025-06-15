@@ -4,5 +4,5 @@ tags:
   - type/person
 title: null
 categories:
-  - speaker
+  - role/speaker
 ---

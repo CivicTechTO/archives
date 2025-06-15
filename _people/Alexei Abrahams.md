@@ -6,5 +6,5 @@ description: |-
 tags:
   - type/person
 categories:
-  - speaker
+  - role/speaker
 ---

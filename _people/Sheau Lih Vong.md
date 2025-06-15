@@ -4,5 +4,5 @@ tags:
   - type/person
 title: Sheau Lih Vong
 categories:
-  - speaker
+  - role/speaker
 ---

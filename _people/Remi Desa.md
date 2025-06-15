@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/remi-desa-438694/
 title: Remi Desa
 categories:
-  - speaker
+  - role/speaker
 ---

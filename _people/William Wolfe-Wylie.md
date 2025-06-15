@@ -8,5 +8,5 @@ organization:
   - '[[CBC News]]'
 title: William Wolfe-Wylie
 categories:
-  - speaker
+  - role/speaker
 ---

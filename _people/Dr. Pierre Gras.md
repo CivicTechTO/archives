@@ -6,5 +6,5 @@ organization:
   - '[[The Free and Hanseatic City of Hamburg]]'
 title: Dr. Pierre Gras
 categories:
-  - speaker
+  - role/speaker
 ---

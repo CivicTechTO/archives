@@ -7,6 +7,6 @@ social:
   twitter: https://x.com/dcolangelo2
 title: Dave Colangelo
 categories:
-  - speaker
+  - role/speaker
 ---
 

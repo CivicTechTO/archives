@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/roberttudesign/
 title: Robert Tu
 categories:
-  - speaker
+  - role/speaker
 ---

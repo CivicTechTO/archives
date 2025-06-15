@@ -12,6 +12,6 @@ social:
   twitter: https://x.com/joycemurray
 title: Joyce Murray
 categories:
-  - speaker
+  - role/speaker
 ---
 

@@ -5,5 +5,5 @@ organization:
   - "[[CivicTechTO]]"
 title: Cybèle Sack
 categories:
-  - organizer
+  - role/organizer
 ---

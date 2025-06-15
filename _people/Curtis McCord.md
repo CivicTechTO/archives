@@ -8,7 +8,7 @@ organization:
   - "[[CivicTechTO]]"
 title: Curtis McCord
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---
 

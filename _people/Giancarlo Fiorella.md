@@ -4,5 +4,5 @@ description: Giancarlo is the Director of Research & Training at Bellingcat, a n
 tags:
   - type/person
 categories:
-  - speaker
+  - role/speaker
 ---

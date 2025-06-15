@@ -9,5 +9,5 @@ social:
   twitter: https://x.com/FeriFilter
 title: Fereidoon Bashar
 categories:
-  - speaker
+  - role/speaker
 ---

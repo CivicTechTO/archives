@@ -7,5 +7,5 @@ social:
   linkedin: https://www.linkedin.com/in/matt-leger-mpa
 title: Matt Leger
 categories:
-  - speaker
+  - role/speaker
 ---

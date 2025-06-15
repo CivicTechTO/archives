@@ -6,5 +6,5 @@ organization:
 tags:
   - type/person
 categories:
-  - organizer
+  - role/organizer
 ---

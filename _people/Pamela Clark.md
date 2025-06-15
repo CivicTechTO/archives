@@ -6,5 +6,5 @@ organization:
   - "[[City of Brampton]]"
 title: Pamela Clark
 categories:
-  - speaker
+  - role/speaker
 ---

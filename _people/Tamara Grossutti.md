@@ -10,5 +10,5 @@ social:
   linkedin: https://www.linkedin.com/in/tamara-grossutti/
 title: Tamara Grossutti
 categories:
-  - speaker
+  - role/speaker
 ---

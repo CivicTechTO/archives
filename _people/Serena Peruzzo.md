@@ -6,5 +6,5 @@ organization:
   - "[[1RG]]"
 title: Serena Peruzzo
 categories:
-  - speaker
+  - role/speaker
 ---

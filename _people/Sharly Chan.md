@@ -5,7 +5,7 @@ tags:
   - type/person
 title: Sharly Chan
 categories:
-  - organizer
+  - role/organizer
 social:
   twitter: https://twitter.com/SharlyChan
   linkedin: https://www.linkedin.com/in/sharlychan

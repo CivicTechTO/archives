@@ -5,5 +5,5 @@ tags:
   - type/person
 title: Chantel Chyb
 categories:
-  - organizer
+  - role/organizer
 ---

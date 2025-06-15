@@ -7,5 +7,5 @@ organization:
   - "[[City of Toronto]]"
 title: Stephanie Malcher
 categories:
-  - speaker
+  - role/speaker
 ---

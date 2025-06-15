@@ -7,9 +7,9 @@ tags:
   - type/person
 title: Alex Lougheed
 categories:
-  - speaker
-  - organizer
-  - cofounder
+  - role/speaker
+  - role/organizer
+  - role/cofounder
 social:
   twitter: https://twitter.com/alox
   linkedin: https://www.linkedin.com/in/alougheed

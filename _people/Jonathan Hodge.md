@@ -6,6 +6,6 @@ organization:
   - "[[Toronto Public Library]]"
 title: Jonathan Hodge
 categories:
-  - speaker
+  - role/speaker
 ---
 

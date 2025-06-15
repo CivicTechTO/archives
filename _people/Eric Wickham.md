@@ -4,7 +4,7 @@ tags:
   - type/person
 title: Eric Wickham
 categories:
-  - speaker
+  - role/speaker
 organization:
   - "[[The Hoser]]"
 ---

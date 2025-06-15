@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/reza-ghasemzadeh-seyedkolaei/
 title: Reza Ghasemzadeh
 categories:
-  - speaker
+  - role/speaker
 ---

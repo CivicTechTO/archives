@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/alexmegelas/
 title: Alex Megelas
 categories:
-  - speaker
+  - role/speaker
 ---

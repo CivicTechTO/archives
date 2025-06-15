@@ -6,5 +6,5 @@ organization:
   - "[[Citizen Lab]]"
 title: Siena Anstis
 categories:
-  - speaker
+  - role/speaker
 ---

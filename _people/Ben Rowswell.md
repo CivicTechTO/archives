@@ -9,5 +9,5 @@ social:
   twitter: https://x.com/benrowswell
 title: Ben Rowswell
 categories:
-  - speaker
+  - role/speaker
 ---

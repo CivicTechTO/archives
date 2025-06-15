@@ -6,5 +6,5 @@ social:
   website: https://geothink.ca
 title: Renee Sieber
 categories:
-  - speaker
+  - role/speaker
 ---

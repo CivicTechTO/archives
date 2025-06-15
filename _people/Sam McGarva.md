@@ -6,6 +6,6 @@ organization:
   - "[[CivicTechTO]]"
 title: Sam McGarva
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

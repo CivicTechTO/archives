@@ -8,6 +8,6 @@ organization:
   - "[[Toronto Youth Cabinet]]"
 title: Lilly Tong
 categories:
-  - speaker
+  - role/speaker
 ---
 

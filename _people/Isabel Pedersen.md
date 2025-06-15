@@ -7,5 +7,5 @@ social:
   linkedin: https://www.linkedin.com/in/isabel-pedersen-a637391b9/
 title: Isabel Pedersen
 categories:
-  - speaker
+  - role/speaker
 ---

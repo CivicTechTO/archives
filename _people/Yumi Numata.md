@@ -9,5 +9,5 @@ social:
   linkedin: https://www.linkedin.com/in/yuminumata/
 title: Yumi Numata
 categories:
-  - speaker
+  - role/speaker
 ---

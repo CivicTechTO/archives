@@ -7,6 +7,6 @@ organization:
   - "[[Government of Ontario]]"
 title: Mandeep Flora
 categories:
-  - speaker
+  - role/speaker
 ---
 

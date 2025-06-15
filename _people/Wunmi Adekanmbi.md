@@ -7,7 +7,7 @@ tags:
   - type/person
 title: Wunmi Adekanmbi
 categories:
-  - speaker
+  - role/speaker
 ---
 Wunmi is an ecosystem builder with a commitment to community prosperity. She founded, organizes and hosts Immigrant Techies Alberta - a meetup group of immigrant tech enthusiasts and career pivoters - helping bridge newcomers into Alberta's innovation ecosystem.
 

@@ -11,5 +11,5 @@ organization:
   - "[[Government of Ontario]]"
 title: Kate Kalcevich
 categories:
-  - speaker
+  - role/speaker
 ---

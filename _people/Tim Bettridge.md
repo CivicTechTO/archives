@@ -8,5 +8,5 @@ social:
 organization: []
 title: Tim Bettridge
 categories:
-  - speaker
+  - role/speaker
 ---

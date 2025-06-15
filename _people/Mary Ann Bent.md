@@ -7,6 +7,6 @@ organization:
   - "[[Canadian National Institute for the Blind Foundation]]"
 title: Mary Ann Bent
 categories:
-  - speaker
+  - role/speaker
 ---
 

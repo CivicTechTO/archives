@@ -9,6 +9,6 @@ organization:
   - "[[CivicTechTO]]"
 title: Anowa (Irene) Quorcoo
 categories:
-  - organizer
-  - cofounder
+  - role/organizer
+  - role/cofounder
 ---

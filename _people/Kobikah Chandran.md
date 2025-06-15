@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/kobikah-chandran/
 title: Kobikah Chandran
 categories:
-  - speaker
+  - role/speaker
 ---

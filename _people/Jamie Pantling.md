@@ -5,5 +5,5 @@ organization:
   - "[[CivicTechTO]]"
 title: Jamie Pantling
 categories:
-  - organizer
+  - role/organizer
 ---

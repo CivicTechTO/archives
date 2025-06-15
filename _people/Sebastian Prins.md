@@ -5,7 +5,7 @@ organization:
 tags:
   - type/person
 categories:
-  - organizer
+  - role/organizer
 social:
   twitter: https://twitter.com/sprins
   linkedin: https://www.linkedin.com/in/sebastianprins

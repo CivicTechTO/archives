@@ -7,5 +7,5 @@ tags:
   - type/person
 title: Nabeel Ahmed
 categories:
-  - speaker
+  - role/speaker
 ---

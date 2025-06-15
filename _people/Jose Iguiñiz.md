@@ -7,6 +7,6 @@ organization:
   - "[[Government of Ontario]]"
 title: Jose Iguiñiz
 categories:
-  - speaker
+  - role/speaker
 ---
 

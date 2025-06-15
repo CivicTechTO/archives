@@ -8,5 +8,5 @@ tags:
   - type/person
 title: Sylvie Spraakman
 categories:
-  - speaker
+  - role/speaker
 ---

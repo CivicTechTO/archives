@@ -8,5 +8,5 @@ social:
   twitter: https://x.com/sophienito
 title: Sophie Nitoslawski
 categories:
-  - speaker
+  - role/speaker
 ---

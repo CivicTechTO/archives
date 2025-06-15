@@ -6,5 +6,5 @@ social:
   twitter: https://x.com/mlenc
 title: Michael Lenczner
 categories:
-  - speaker
+  - role/speaker
 ---

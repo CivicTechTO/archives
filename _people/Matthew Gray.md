@@ -10,6 +10,6 @@ social:
   linkedin: https://www.linkedin.com/in/matthewdhgray
 title: Matthew Gray
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

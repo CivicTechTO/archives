@@ -4,6 +4,6 @@ tags:
   - type/person
 title: Geoff Zakaib
 categories:
-  - speaker
+  - role/speaker
 ---
 

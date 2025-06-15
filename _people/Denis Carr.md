@@ -7,5 +7,5 @@ organization:
   - "[[City of Toronto]]"
 title: Denis Carr
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -11,6 +11,6 @@ social:
   mastodon: https://mstdn.ca/@rad
 title: Raphael Dumas
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

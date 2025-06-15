@@ -7,5 +7,5 @@ social:
   twitter: http://twitter.com/denisepinto
 title: Denise Pinto
 categories:
-  - speaker
+  - role/speaker
 ---

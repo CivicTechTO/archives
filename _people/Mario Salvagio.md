@@ -6,6 +6,6 @@ organization:
   - "[[City of Toronto]]"
 title: Mario Salvagio
 categories:
-  - speaker
+  - role/speaker
 ---
 

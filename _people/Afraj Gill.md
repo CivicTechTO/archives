@@ -9,5 +9,5 @@ social:
   twitter: https://x.com/afrajgill
 title: Afraj Gill
 categories:
-  - speaker
+  - role/speaker
 ---

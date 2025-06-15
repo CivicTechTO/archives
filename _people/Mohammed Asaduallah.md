@@ -6,5 +6,5 @@ social:
   twitter: https://x.com/heymosef
 title: Mohammed Asaduallah
 categories:
-  - speaker
+  - role/speaker
 ---

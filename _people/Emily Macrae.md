@@ -10,6 +10,6 @@ organization:
   - "[[CivicTechTO]]"
 title: Emily Macrae
 categories:
-  - organizer
-  - speaker
+  - role/organizer
+  - role/speaker
 ---

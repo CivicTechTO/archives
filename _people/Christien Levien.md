@@ -7,5 +7,5 @@ social:
   website: http://www.legalswipe.com/
 title: Christien Levien
 categories:
-  - speaker
+  - role/speaker
 ---

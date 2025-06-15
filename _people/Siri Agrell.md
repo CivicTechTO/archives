@@ -6,5 +6,5 @@ social:
   twitter: http://twitter.com/SiriAgrell
 title: Siri Agrell
 categories:
-  - speaker
+  - role/speaker
 ---

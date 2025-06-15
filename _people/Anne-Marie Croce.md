@@ -7,5 +7,5 @@ tags:
   - type/person
 title: Anne-Marie Croce
 categories:
-  - speaker
+  - role/speaker
 ---

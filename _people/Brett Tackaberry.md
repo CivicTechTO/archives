@@ -6,5 +6,5 @@ social:
   twitter: https://x.com/tackaberry
 title: Brett Tackaberry
 categories:
-  - speaker
+  - role/speaker
 ---

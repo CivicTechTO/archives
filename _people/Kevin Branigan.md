@@ -3,6 +3,6 @@ tags:
   - type/person
 title: Kevin Branigan
 categories:
-  - speaker
+  - role/speaker
 ---
 

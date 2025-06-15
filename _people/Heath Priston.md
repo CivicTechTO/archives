@@ -7,5 +7,5 @@ organization:
 role_description: Toronto Shelter & Support Services
 title: Heath Priston
 categories:
-  - speaker
+  - role/speaker
 ---

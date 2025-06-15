@@ -8,6 +8,6 @@ social:
   linkedin: https://www.linkedin.com/in/daniel-liadsky/
 title: Daniel Liadsky
 categories:
-  - speaker
+  - role/speaker
 ---
 

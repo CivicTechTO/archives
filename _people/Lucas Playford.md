@@ -9,5 +9,5 @@ social:
   linkedin: https://www.linkedin.com/in/lucasplayford/
 title: Lucas Playford
 categories:
-  - speaker
+  - role/speaker
 ---

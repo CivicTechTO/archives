@@ -9,5 +9,5 @@ social:
   website: https://housingnowto.com
 title: Mark Richardson
 categories:
-  - speaker
+  - role/speaker
 ---

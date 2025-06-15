@@ -9,5 +9,5 @@ social:
   twitter: https://twitter.com/trisml
 title: Tris Lumley
 categories:
-  - speaker
+  - role/speaker
 ---

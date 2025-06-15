@@ -8,6 +8,6 @@ social:
   linkedin: https://www.linkedin.com/in/ryanpetroff/
 title: Ryan Petroff
 categories:
-  - speaker
+  - role/speaker
 ---
 

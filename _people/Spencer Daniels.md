@@ -9,5 +9,5 @@ social:
   twitter: https://x.com/spncrd
 title: Spencer Daniels
 categories:
-  - speaker
+  - role/speaker
 ---

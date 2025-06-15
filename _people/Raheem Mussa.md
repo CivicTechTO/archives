@@ -6,5 +6,5 @@ social:
   twitter: https://x.com/raheemmussa
 title: Raheem Mussa
 categories:
-  - speaker
+  - role/speaker
 ---

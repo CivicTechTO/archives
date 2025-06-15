@@ -6,6 +6,6 @@ organization:
   - "[[Ontario Digital Service]]"
 title: Bianca Sayan
 categories:
-  - speaker
+  - role/speaker
 ---
 

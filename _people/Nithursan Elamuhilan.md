@@ -7,5 +7,5 @@ social:
   linkedin: https://www.linkedin.com/in/nithursan-elam/
 title: Nithursan Elamuhilan
 categories:
-  - speaker
+  - role/speaker
 ---

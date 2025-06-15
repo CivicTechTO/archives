@@ -4,5 +4,5 @@ tags:
   - type/person
 title: David Shellnutt
 categories:
-  - speaker
+  - role/speaker
 ---

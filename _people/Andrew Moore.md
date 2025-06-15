@@ -4,6 +4,6 @@ tags:
   - type/person
 title: Andrew Moore
 categories:
-  - speaker
+  - role/speaker
   - meta/feature
 ---

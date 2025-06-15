@@ -9,7 +9,7 @@ organization:
   - "[[CivicTechTO]]"
 title: Bianca Wylie
 categories:
-  - organizer
-  - speaker
-  - cofounder
+  - role/organizer
+  - role/speaker
+  - role/cofounder
 ---

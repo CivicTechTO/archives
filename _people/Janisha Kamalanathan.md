@@ -6,5 +6,5 @@ organization:
   - "[[Unity Health Toronto]]"
 title: Janisha Kamalanathan
 categories:
-  - speaker
+  - role/speaker
 ---

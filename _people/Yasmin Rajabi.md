@@ -8,6 +8,6 @@ social:
   twitter: https://x.com/yasmin_rajabi
 title: Yasmin Rajabi
 categories:
-  - speaker
+  - role/speaker
 ---
 

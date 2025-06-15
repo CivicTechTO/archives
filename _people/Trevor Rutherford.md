@@ -6,5 +6,5 @@ organization:
   - "[[Ontario Digital Service]]"
 title: Trevor Rutherford
 categories:
-  - speaker
+  - role/speaker
 ---

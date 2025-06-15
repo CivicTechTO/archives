@@ -6,7 +6,7 @@ social:
   linkedin: https://www.linkedin.com/in/jeffallenmaps/
 title: Jeff Allen
 categories:
-  - speaker
+  - role/speaker
 organization:
   - "[[School of Cities]]"
 ---

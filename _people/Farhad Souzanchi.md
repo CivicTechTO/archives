@@ -9,5 +9,5 @@ social:
   twitter: https://x.com/farhadist
 title: Farhad Souzanchi
 categories:
-  - speaker
+  - role/speaker
 ---

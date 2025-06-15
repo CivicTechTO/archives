@@ -7,5 +7,5 @@ social:
   website: https://www.defensiveto.com
 title: Cara Chellew
 categories:
-  - speaker
+  - role/speaker
 ---

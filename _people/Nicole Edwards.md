@@ -6,5 +6,5 @@ social:
   twitter: https://twitter.com/NIC_416
 title: Nicole Edwards
 categories:
-  - speaker
+  - role/speaker
 ---

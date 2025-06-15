@@ -8,5 +8,5 @@ social:
   linkedin: https://www.linkedin.com/in/sarah-yaffe-sy12/
 title: Sarah Yaffe
 categories:
-  - speaker
+  - role/speaker
 ---

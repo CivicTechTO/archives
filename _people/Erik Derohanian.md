@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/erikjd/
 title: Erik Derohanian
 categories:
-  - speaker
+  - role/speaker
 ---

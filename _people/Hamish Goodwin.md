@@ -6,5 +6,5 @@ organization:
   - "[[City of Toronto]]"
 title: Hamish Goodwin
 categories:
-  - speaker
+  - role/speaker
 ---

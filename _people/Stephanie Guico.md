@@ -11,5 +11,5 @@ organization:
   - '[[Co-operatives and Mutuals Canada]]'
 title: Stephanie Guico
 categories:
-  - speaker
+  - role/speaker
 ---

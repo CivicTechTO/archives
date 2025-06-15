@@ -9,5 +9,5 @@ organization:
   - "[[Open North]]"
 title: Tom Linder
 categories:
-  - speaker
+  - role/speaker
 ---

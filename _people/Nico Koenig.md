@@ -6,6 +6,6 @@ social:
   linkedin: https://www.linkedin.com/in/nicokoenig1/
 title: Nico Koenig
 categories:
-  - speaker
+  - role/speaker
 ---
 

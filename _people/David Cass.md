@@ -6,5 +6,5 @@ social:
   linkedin: https://www.linkedin.com/in/david-cass-06972010/
 title: David Cass
 categories:
-  - speaker
+  - role/speaker
 ---

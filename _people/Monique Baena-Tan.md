@@ -9,5 +9,5 @@ social:
   twitter: https://x.com/moniquebt_
 title: Monique Baena-Tan
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -7,5 +7,5 @@ social:
   twitter: https://x.com/rashikhilnani
 title: Rashi Khilnani
 categories:
-  - speaker
+  - role/speaker
 ---

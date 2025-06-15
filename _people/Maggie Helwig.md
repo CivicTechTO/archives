@@ -8,5 +8,5 @@ social:
   wikipedia: https://en.wikipedia.org/wiki/Maggie_Helwig
 title: Mtr. Maggie Helwig
 categories:
-  - speaker
+  - role/speaker
 ---

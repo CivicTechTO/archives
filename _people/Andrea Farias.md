@@ -4,6 +4,6 @@ tags:
   - type/person
 title: Andrea Farias
 categories:
-  - speaker
+  - role/speaker
 ---
 

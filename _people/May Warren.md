@@ -9,5 +9,5 @@ social:
   linkedin: https://www.linkedin.com/in/may-warren-9a270156/
 title: May Warren
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -6,5 +6,5 @@ organization:
   - "[[City of Toronto]]"
 title: Argerie Tzouras
 categories:
-  - speaker
+  - role/speaker
 ---

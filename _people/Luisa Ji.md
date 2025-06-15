@@ -7,5 +7,5 @@ social:
   website: https://afloating.space
 title: Luisa Ji
 categories:
-  - speaker
+  - role/speaker
 ---

@@ -3,6 +3,6 @@ tags:
   - type/person
 title: Candice Fung
 categories:
-  - speaker
+  - role/speaker
 ---
 

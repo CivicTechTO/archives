@@ -4,6 +4,6 @@ tags:
   - type/person
 title: Jessica Lui
 categories:
-  - speaker
+  - role/speaker
 ---
 

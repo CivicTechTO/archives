@@ -3,5 +3,5 @@ tags:
   - type/person
 title: Clyne
 categories:
-  - speaker
+  - role/speaker
 ---

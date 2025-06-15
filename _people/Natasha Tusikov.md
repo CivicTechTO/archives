@@ -8,5 +8,5 @@ social:
   mastodon: https://sciences.social/@NTusikov
 title: Natasha Tusikov
 categories:
-  - speaker
+  - role/speaker
 ---

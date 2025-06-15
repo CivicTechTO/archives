@@ -9,5 +9,5 @@ social:
   website: https://www.thelanewayproject.ca/blog/on-the-passing-of-michelle-senayah-founder-amp-executive-director-of-the-laneway-project
 title: Michelle Senayah
 categories:
-  - speaker
+  - role/speaker
 ---

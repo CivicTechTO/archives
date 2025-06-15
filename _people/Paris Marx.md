@@ -6,9 +6,9 @@ social:
   twitter: https://twitter.com/parismarx
   website: https://parismarx.com
 organization:
-  - '[[Tech Won''t Save Us]]'
+  - "[[Tech Won't Save Us]]"
 title: Paris Marx
 categories:
-  - speaker
+  - role/speaker
   - meta/feature
 ---
