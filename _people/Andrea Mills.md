@@ -9,16 +9,7 @@ tags:
 categories:
   - role/speaker
 social:
-  bluesky: 
-  facebook: 
-  github: 
-  instagram: 
-  linkedin: 
-  slack: 
-  twitter: 
-  website: 
-  wikipedia: 
-  youtube: 
+  linkedin: https://www.linkedin.com/in/millsandrea/
 organization:
   - "[[Internet Archive Canada]]"
 ---

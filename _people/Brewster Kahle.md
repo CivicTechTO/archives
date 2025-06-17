@@ -9,16 +9,10 @@ tags:
 categories:
   - role/speaker
 social:
-  bluesky: 
-  facebook: 
-  github: 
-  instagram: 
-  linkedin: 
-  slack: 
-  twitter: 
-  website: 
-  wikipedia: 
-  youtube: 
+  bluesky: https://bsky.app/profile/brewster.kahle.org
+  twitter: https://x.com/brewster_kahle
+  website: https://brewster.kahle.org
+  wikipedia: https://en.wikipedia.org/wiki/Brewster_Kahle
 organization:
   - "[[Internet Archive Canada]]"
   - "[[Internet Archive]]"
