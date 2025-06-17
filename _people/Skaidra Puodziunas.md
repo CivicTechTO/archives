@@ -5,9 +5,11 @@ tags:
 organization:
   - "[[CivicTechTO]]"
   - "[[Ontario Digital Service]]"
+  - "[[The Council of Canadian Innovators]]"
 social:
   twitter: https://x.com/skaidrap
   medium: https://medium.com/@skaidra.puodziunas
+  website: https://www.canadianinnovators.org/team/skaidra-puodziunas
 title: Skaidra Puodziunas
 categories:
   - role/organizer
