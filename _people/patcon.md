@@ -4,7 +4,7 @@ tags:
   - type/person
 organization:
   - "[[CivicTechTO]]"
-title: Patrick Connolly
+title: patcon
 categories:
   - role/organizer
   - role/speaker
