@@ -12,6 +12,7 @@ hacknight:
   - "[[123]]"
   - "[[152]]"
   - "[[175]]"
+  - "[[500]]"
 tags:
   - type/project
   - topic/cycling
@@ -27,6 +28,7 @@ team:
   - "[[Sonal Ranjit]]"
   - "[[Ollie Sheldrick]]"
   - "[[Ben Coleman]]"
+  - "[[Alexandra Portolos]]"
 ---
 ## Summary
 
