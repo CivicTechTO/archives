@@ -24,16 +24,17 @@ organization:
   - "[[ClimateFast]]"
 project_pitch: To track and show how climate pol icies are being voted on by the Mayor and Councillors in Toronto City Council.
 ---
-
-To get involved visit https://votingrecords.climatefast.ca/get-involved/
+### Get Involved
+ If you’re interested in learning more about the project or want to get involved, please reach out to us at any time!
+ 
+To get involved visit [https://votingrecords.climatefast.ca/get-involved/](https://votingrecords.climatefast.ca/get-involved/)
 
 If you would like to stay in touch and receive updates about the Voting Records website and other ClimateFast initiatives, you can join our mailing list by emailing [newsletter@climatefast.ca](mailto:newsletter%40climatefast.ca).
-
----
+### About
 
 Climate action is urgent. The city has a target of reducing emissions by 65% below 1990 levels by 2030 - and we are struggling to even meet the 2025 target of 45% below 1990 levels. We need councillors to know that their constituents want to see meaningful climate action and that we want them to vote in favour of bold new measures to achieve net zero by 2050.
 
-Climate Voting Records Toronto is an interactive website that tracks how Toronto’s City councillors are voting on key climate and environmental policies. The goal of the site is to provide more transparency, enabling constituents to better hold members of City Council accountable for their votes within policy areas such as transit, energy, cycling, climate justice, housing and more! This 100% volunteer-run and community-based initiative brings together individuals passionate about climate activism, coding, UX design, art, and public policy from all across the GTHA. Volunteer researchers at ClimateFast update the site monthly with new climate voting records. If you’re interested in learning more about the project or want to get involved, please reach out to us at any time!
+Climate Voting Records Toronto is an interactive website that tracks how Toronto’s City councillors are voting on key climate and environmental policies. The goal of the site is to provide more transparency, enabling constituents to better hold members of City Council accountable for their votes within policy areas such as transit, energy, cycling, climate justice, housing and more! This 100% volunteer-run and community-based initiative brings together individuals passionate about climate activism, coding, UX design, art, and public policy from all across the GTHA. Volunteer researchers at ClimateFast update the site monthly with new climate voting records.
 
 ### Scope
 
