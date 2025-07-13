@@ -1,5 +1,10 @@
 ---
-description: "Think hy-dra, say sky-dra.Work hustle: Engagement Team at the Ontario Digital Service, embedded within the Ontario Government's Cabinet Office. Side hustle: Civic tech, fostering Baltic connections and globetrotting."
+description: |-
+  Skaidra (pronounced "sky-dra") is Director of Ontario Affairs at the Council of Canadian Innovators. In her role, she spearheads CCI’s advocacy and engagement efforts with the Ontario government, with a primary emphasis on enhancing talent, capital, and customer access for Ontario's rapidly scaling companies.
+
+  Previously, Skaidra worked across the Ontario Government serving as a Team Lead in Ontario’s Chief Corporate Information Office and a Senior Advisor at the Ontario Digital Service. She had the unique opportunity to directly support Ontario’s first Chief Digital and Data Officer and Ontario’s first Minister Responsible for Digital Government. 
+
+  Skaidra is an advisory member of FWD50, a global digital government conference, and is currently pursuing a Canada-Nordic-Baltic Innovation Dialogue series with the goal of bringing Canadian innovators and policymakers across these regions closer together.
 tags:
   - type/person
 organization:
