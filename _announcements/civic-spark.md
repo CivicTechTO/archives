@@ -1,16 +1,13 @@
 ---
 title: "Civic Spark: A Volunteer-Led Gathering for Public-Minded Builders"
 author: "[[Jamie Pantling]]"
-date: 2025-07-26
-excerpt: >
- Civic Spark is coming to Toronto this August 16–17 — a two-day gathering for people building the future of public life. What makes it special? It’s entirely volunteer-organized.
-
+date: 2025-07-25
+excerpt: |
+  Civic Spark is coming to Toronto this August 16–17 — a two-day gathering for people building the future of public life. What makes it special? It’s entirely volunteer-organized.
 tags:
-
-- type/announcement
-
+  - type/announcement
 ---
- <!-- ![Civic Spark](/assets/images/announcements/civic-spark/fpo-civic-spark.jpg) -->
+ <!-- ![Civic Spark](/assets/images/announcements/civic-spark/civic-spark.jpg) -->
 
 <br/>
 
