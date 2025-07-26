@@ -7,7 +7,7 @@ excerpt: |
 tags:
   - type/announcement
 ---
- <!-- ![Civic Spark](/assets/images/announcements/civic-spark/civic-spark.jpg) -->
+![Civic Spark](/assets/images/announcements/civic-spark/civicspark.png)
 
 <br/>
 
