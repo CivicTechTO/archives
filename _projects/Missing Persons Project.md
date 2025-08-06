@@ -16,6 +16,10 @@ dateActiveFirst: 2022-01-01
 date: 2023-10-03
 hacknight:
   - "[[412]]"
+team:
+  - "[[Erik Derohanian]]"
+  - "[[Isaac McAuley]]"
+  - "[[Dyl Lavoie]]"
 ---
 This application facilitates the identification of missing persons by comparing physical characteristics and personal information with unidentified remains. This application streamlines the identification process, reducing manual cross-referencing and time-consuming searches.
 
