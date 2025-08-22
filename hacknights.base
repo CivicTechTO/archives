@@ -1,0 +1,26 @@
+formulas:
+  youtubeurl: if(youtubeID,link("https://youtu.be/"+youtubeID))
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "_hacknights"
+    order:
+      - file.name
+      - topic
+      - venue
+      - number
+      - image
+      - date
+      - youtubeID
+      - videoUrl
+      - formula.youtubeurl
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 78
+      note.topic: 293
+      note.image: 116
+      note.videoUrl: 259
