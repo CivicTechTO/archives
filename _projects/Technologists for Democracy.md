@@ -20,6 +20,8 @@ categories:
   - contributors/open
 team:
   - "[[Khasir Hean]]"
+hacknight:
+  - "[[504]]"
 ---
 We want governments and tech companies to care about the people who use their products and the people they affect, beyond maximizing revenue and market share.
 
