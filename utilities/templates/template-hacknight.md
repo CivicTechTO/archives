@@ -1,15 +1,14 @@
 ---
-number: 
+number:
 title: "Hacknight # –"
-date: 
-topic: 
-description: 
-speakers: 
-venue: 
-videoUrl: 
-youtubeID: 
-eventUrl: 
-booker: 
+date:
+topic:
+description:
+speakers:
+venue:
+youtubeID:
+eventUrl:
+booker:
 tags:
   - type/hacknight
 ---
