@@ -22,11 +22,12 @@ tags:
   - type/breakout-project
 categories:
   - status/active
-  - contributors/unknown
+  - contributors/open
 dateActiveFirst: 2023-08-08
 date: 2025-05-31
 hacknight:
   - "[[453]]"
+image: https://tracket.info/wp-content/uploads/2024/05/Frame-2915.png
 ---
 Awaiting further content from the project team.
 

@@ -29,6 +29,7 @@ team:
   - "[[Ollie Sheldrick]]"
   - "[[Ben Coleman]]"
   - "[[Alexandra Portolos]]"
+image: https://bikespace.ca/opengraph-image.jpg
 ---
 ## Summary
 

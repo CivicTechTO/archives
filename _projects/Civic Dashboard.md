@@ -5,7 +5,7 @@ project_pitch: It shouldn't take 3 hours and a political science degree to under
 social:
   website: https://www.civicdashboard.ca
   slack: https://civictechto.slack.com/archives/C06KU3DHEKV
-  github: https://github.com/IlyaKreynin/citizen-dashboard
+  github: https://github.com/civic-dashboard/
 dateActiveFirst: 2024-02-20
 date: 2025-04-29
 hacknight:
@@ -24,5 +24,5 @@ categories:
   - contributors/open
   - status/active
   - meta/feature
+image: https://civicdashboard.ca/toronto.png
 ---
-Awaiting further content from the project team.
