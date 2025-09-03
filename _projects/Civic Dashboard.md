@@ -24,5 +24,5 @@ categories:
   - contributors/open
   - status/active
   - meta/feature
-image: https://civicdashboard.ca/toronto.png
+image: https://civicdashboard.ca/toronto.jpg
 ---
