@@ -6,7 +6,7 @@ excerpt: |
   Civic Spark is coming to Toronto this August 16–17 — a two-day gathering for people building the future of public life. What makes it special? It’s entirely volunteer-organized.
 tags:
   - type/announcement
-feature: true
+feature: false
 ---
 ![Civic Spark](/assets/images/announcements/civic-spark/civicspark.png)
 
