@@ -3,7 +3,7 @@ description: Christina Vietinghoff grew up in the village that hosted New Brunsw
 tags:
   - type/person
 organization:
-  - "[[Samara Canada]]"
+  - "[[Samara Centre for Democracy]]"
 social:
   linkedin: https://www.linkedin.com/in/christina-vietinghoff-b9892756/
 title: Christina Vietinghoff

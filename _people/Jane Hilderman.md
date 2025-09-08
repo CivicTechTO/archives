@@ -3,7 +3,7 @@ description: Jane Hilderman is an Albertan, a policy wonk and Samara's Executive
 tags:
   - type/person
 organization:
-  - "[[Samara Canada]]"
+  - "[[Samara Centre for Democracy]]"
 social:
   twitter: http://twitter.com/jhilderman
   linkedin: https://www.linkedin.com/in/jane-hilderman/
