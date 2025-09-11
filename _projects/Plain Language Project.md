@@ -12,4 +12,3 @@ date: 2016-01-01
 hacknight:
   - "[[20]]"
 ---
-Awaiting further content from the community's oral historians.

@@ -22,7 +22,6 @@ hacknight:
   - "[[480]]"
 organization:
   - "[[ClimateFast]]"
-project_pitch: To track and show how climate policies are being voted on by the Mayor and Councillors in Toronto City Council.
 ---
 ### Get Involved
  If you’re interested in learning more about the project or want to get involved, please reach out to us at any time!

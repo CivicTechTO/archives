@@ -1,7 +1,7 @@
 ---
 title: tRacket - Noise Meter Project
 excerpt: We’re making it easy and affordable to collect data about noise
-description: Urban noise isn’t just annoying - it has well-know negative effects on your physical and mental health. Our mission with tRacket is to put a number to this issue and make it easy and affordable to monitor urban noise, to empower individual, communities, advocates and government agencies to understand harmful noise in our cities and to eventually reduce it within our communities. Our project has been running since Fall 2023, and we have designed and deployed a number of devices across Ontario that are accessible through our online dashboard. If you are interested in urban environmental issues, IOT devices, open data, or annoyed by noise and would like to share your story, join us.
+description: Urban noise isn’t just annoying - it has well-know negative effects on your physical and mental health.
 social:
   website: https://tracket.info
   slack: https://civictechto.slack.com/archives/C05LHL4L8MD
@@ -29,8 +29,8 @@ hacknight:
   - "[[453]]"
 image: https://tracket.info/wp-content/uploads/2024/05/Frame-2915.png
 ---
-Awaiting further content from the project team.
+Our mission with tRacket is to put a number to this issue and make it easy and affordable to monitor urban noise, to empower individual, communities, advocates and government agencies to understand harmful noise in our cities and to eventually reduce it within our communities. 
 
----
+Our project has been running since Fall 2023, and we have designed and deployed a number of devices across Ontario that are accessible through our online dashboard.
 
-Urban noise isn’t just annoying - it has well-know negative effects on your physical and mental health. Our mission with tRacket is to put a number to this issue and make it easy and affordable to monitor urban noise, to empower individual, communities, advocates and government agencies to understand harmful noise in our cities and to eventually reduce it within our communities. Our project has been running since Fall 2023, and we have designed and deployed a number of devices across Ontario that are accessible through our online dashboard. If you are interested in urban environmental issues, IOT devices, open data, or annoyed by noise and would like to share your story, join us.
+If you are interested in urban environmental issues, IOT devices, open data, or annoyed by noise and would like to share your story, join us.

@@ -1,6 +1,5 @@
 ---
 title: HousingNowTO
-project_pitch: analyzing and advocating for affordable housing using civic tech and open data
 excerpt: "Monitoring Progress & Activity on Twenty-One (21) sites proposed under the Mayor's #HousingNow plan for creating new Affordable-Rental units"
 description: Toronto is moving toward the creation of more affordable housing through the identification of 21 city-owned surplus property sites that could be used to build a range of lower-cost homes.
 tags:
@@ -16,6 +15,4 @@ team:
 categories:
   - status/unknown
 ---
-Toronto is moving toward the creation of more affordable housing through the identification of 21 city-owned surplus property sites that could be used to build a range of lower-cost homes.
-
-Awaiting further content from the community's archivist.
+Aanalyzing and advocating for affordable housing using civic tech and open data.

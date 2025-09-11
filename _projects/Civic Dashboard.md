@@ -1,7 +1,7 @@
 ---
 title: Civic Dashboard
 excerpt: Figuring out how to make city council's activity accessible!
-project_pitch: It shouldn't take 3 hours and a political science degree to understand City Council and how to meaningfully engage with it. We make it take a few minutes.
+description: It shouldn't take 3 hours and a political science degree to understand City Council and how to meaningfully engage with it. We make it take a few minutes.
 social:
   website: https://www.civicdashboard.ca
   slack: https://civictechto.slack.com/archives/C06KU3DHEKV

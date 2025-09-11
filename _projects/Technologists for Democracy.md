@@ -9,7 +9,6 @@ tags:
 title: Technologists for Democracy
 excerpt: We are a diverse group of Canadians who aim to make sure that government agencies and tech companies are held accountable to the public.
 description: We are a diverse group of Canadians who aim to make sure that government agencies and tech companies are held accountable to the public.
-project_pitch: We are a diverse group of Canadians who aim to make sure that government agencies and tech companies are held accountable to the public.
 social:
   website: https://techfordemocracy.ca
   slack: https://civictechto.slack.com/archives/C0913G0SHS6

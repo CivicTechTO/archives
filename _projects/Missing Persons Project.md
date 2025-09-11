@@ -21,6 +21,3 @@ team:
   - "[[Isaac McAuley]]"
   - "[[Dyl Lavoie]]"
 ---
-This application facilitates the identification of missing persons by comparing physical characteristics and personal information with unidentified remains. This application streamlines the identification process, reducing manual cross-referencing and time-consuming searches.
-
-Awaiting further content from the community's oral historians.

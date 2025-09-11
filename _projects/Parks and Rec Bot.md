@@ -14,4 +14,3 @@ categories:
 hacknight:
   - "[[425]]"
 ---
-Awaiting further content from the community's archivist.

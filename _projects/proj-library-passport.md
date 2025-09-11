@@ -12,4 +12,3 @@ categories:
   - status/abandoned
 date: 2023-11-21
 ---
-Awaiting further content from the community's archivist.

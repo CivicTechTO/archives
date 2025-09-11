@@ -19,4 +19,3 @@ hacknight:
 team:
   - "[[Raphael Dumas]]"
 ---
-Awaiting further content from the community's oral historians.

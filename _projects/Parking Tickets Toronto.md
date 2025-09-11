@@ -10,4 +10,3 @@ categories:
 hacknight:
   - "[[381]]"
 ---
-Awaiting further content from the community's archivist.

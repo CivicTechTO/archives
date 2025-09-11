@@ -13,4 +13,3 @@ categories:
 hacknight:
   - "[[404]]"
 ---
-Awaiting further content from the community's archivist.

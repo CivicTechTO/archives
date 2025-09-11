@@ -1,7 +1,6 @@
 ---
 title: Bikespace
 excerpt: BikeSpace is a free web app run by volunteers from Civic Tech Toronto that allows users to report issues with bicycle parking in Toronto.
-project_pitch: TBD
 categories:
   - status/active
   - contributors/open

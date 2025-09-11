@@ -16,4 +16,3 @@ hacknight:
 team:
   - "[[David Cox]]"
 ---
-Awaiting further content from the community's oral historians.

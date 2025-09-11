@@ -14,4 +14,3 @@ hacknight:
 team:
   - "[[Arjun Sahjpaul]]"
 ---
-Awaiting further content from the community's archivist.

@@ -1,16 +1,17 @@
 ---
-title: 
-excerpt: 
-description: 
-project_pitch: 
+title:
+excerpt:
+description:
+dateActiveFirst:
 tags:
   - type/project
-social: 
-dateActiveFirst: 
-date: 
 categories:
   - status/active
   - contributors/open
-hacknight: 
+social:
+  website:
+  slack:
+  github:
+hacknight:
 team:
 ---

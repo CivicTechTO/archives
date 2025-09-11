@@ -19,4 +19,4 @@ team:
   - "[[Avery Au]]"
   - "[[Mari Zhou]]"
 ---
-Awaiting further content from the community's oral historians.
+The Law & Design CoLab is a volunteer-led nonprofit based in Toronto. It conceived, scoped, and built digital products by engaging with legal experts and community stakeholders.

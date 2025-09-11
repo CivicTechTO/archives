@@ -14,4 +14,3 @@ hacknight:
 categories:
   - status/unknown
 ---
-Awaiting further content from the community's archivist.

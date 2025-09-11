@@ -14,6 +14,3 @@ date: 2016-01-01
 ---
 https://www.toronto.ca/legdocs/mmis/2016/mm/bgrd/backgroundfile-96904.pdf
 https://www.toronto.ca/city-government/planning-development/official-plan-guidelines/section-37-benefits/
-
-
-Awaiting further content from the community's oral historians.

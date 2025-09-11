@@ -19,4 +19,3 @@ team:
   - "[[Gabe Sawhney]]"
 image: /assets/images/hacknights/hacknight_341.jpg
 ---
-Awaiting further content from the community's oral historians.
