@@ -4,6 +4,7 @@ excerpt: We’re building an open platform where anyone can document and underst
 description: We’re building an open platform where anyone can document and understand how organizations work — from a small community group to a city government.
 tags:
   - type/project
+  - topic/democracy
 social:
   website: https://democracydistributed.com
   slack: https://civictechto.slack.com/archives/C09A5S6B7QE
