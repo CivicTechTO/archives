@@ -1,6 +1,6 @@
 ---
 description: A dataview supported youtube description constructor. Inserted hacknight reference will populate the necessary structured text for youtube video descriptions.
-reference: "[[509]]"
+reference: "[[514]]"
 ---
 
 Hacknight #`=this.reference.number` with `=this.reference.speakers`: `=this.reference.topic`
