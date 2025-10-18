@@ -8,6 +8,7 @@ This repository contains historical data and resources related to past CivicTech
 
 ### Initiative Updates
 
+- 2025-10-18: Completed conservative generative tagging with human oversight on hacknights up to # 514
 - 2025-06-15: Considerable milestone rework to support launch of updated CivicTech Toronto website.
 - 2025-02-12: Release (Happy Valentines Day Toronto `(⸝⸝♥‿♥⸝⸝)`) – @jordyarms
 - 2025-02-11: Preparation for release – @jordyarms
