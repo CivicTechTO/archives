@@ -7,4 +7,5 @@ social:
 title: Siri Agrell
 categories:
   - role/speaker
+description: Director of Strategic Initiatives, Mayor John Tory
 ---

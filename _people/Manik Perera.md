@@ -7,5 +7,7 @@ organization:
 title: Manik Perera
 categories:
   - role/speaker
+social:
+  linkedin: https://www.linkedin.com/in/manik-p-2b907616/
 ---
 
