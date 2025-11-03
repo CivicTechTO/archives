@@ -1,9 +1,14 @@
 ---
 tags:
   - type/person
+  - topic/open-data
 organization:
   - "[[CivicTechTO]]"
 title: Luke Simcoe
+description: |-
+  From the City of Toronto's Open Data Team.
+
+  The Toronto Open Data Team makes City data available to the public to help better understand and address civic challenges.
 categories:
   - role/organizer
 social:
