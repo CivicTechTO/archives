@@ -1,7 +1,9 @@
 ---
 tags:
   - type/organization
-title: Code of America
+title: Code for America
 categories:
   - civictech
+social:
+  website: https://codeforamerica.org/
 ---
