@@ -1,8 +1,9 @@
 ---
+address: '900 Bay St., Toronto, ON '
+category: venue-category/Public
 organization:
-  - "[[Government of Ontario]]"
-address: "900 Bay St., Toronto, ON "
+- '[[Government of Ontario]]'
 tags:
-  - type/venue
+- type/venue
 title: Government of Ontario - MacDonald Block
 ---

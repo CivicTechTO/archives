@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files (generated)
+data/*.json
+
+# OS files
+.DS_Store

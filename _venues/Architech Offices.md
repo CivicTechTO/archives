@@ -1,8 +1,9 @@
 ---
 title: Architech Offices
+address: "70 Bond St., Suite 400, Toronto, ON "
+category: venue-category/Industry
 organization:
   - "[[Architech]]"
-address: "70 Bond St., Suite 400, Toronto, ON "
 tags:
   - type/venue
 ---

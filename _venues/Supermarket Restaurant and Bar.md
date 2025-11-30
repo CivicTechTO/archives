@@ -1,7 +1,8 @@
 ---
-organization:
 address: 268 Augusta Ave, Toronto, ON M5T 2L9
+category: venue-category/Hospitality
+organization: null
 tags:
-  - type/venue
+- type/venue
 title: Supermarket Restaurant and Bar
 ---

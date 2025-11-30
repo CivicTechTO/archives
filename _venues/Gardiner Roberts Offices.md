@@ -1,8 +1,9 @@
 ---
+title: Gardiner Roberts Offices
+address: "22 Adelaide St W #3600, Toronto, ON "
+category: venue-category/Industry
 organization:
   - "[[Gardiner Roberts]]"
-address: "22 Adelaide St W #3600, Toronto, ON "
 tags:
   - type/venue
-title: Gardiner Roberts Offices
 ---

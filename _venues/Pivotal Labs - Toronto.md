@@ -1,10 +1,11 @@
 ---
-organization:
-  - "[[Pivotal Labs]]"
-address: "1 Toronto Street, 11th Floor, Toronto, ON "
-tags:
-  - type/venue
-title: Pivotal Labs
+address: '1 Toronto Street, 11th Floor, Toronto, ON '
 categories:
-  - closed
+- venue-category/Industry
+- closed
+organization:
+- '[[Pivotal Labs]]'
+tags:
+- type/venue
+title: Pivotal Labs
 ---

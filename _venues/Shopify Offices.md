@@ -1,8 +1,9 @@
 ---
+address: '80 Spadina Ave. 4th Floor, Toronto, ON '
+category: venue-category/Industry
 organization:
-  - "[[Shopify]]"
-address: "80 Spadina Ave. 4th Floor, Toronto, ON "
+- '[[Shopify]]'
 tags:
-  - type/venue
+- type/venue
 title: Shopify Offices
 ---

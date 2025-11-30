@@ -1,8 +1,9 @@
 ---
+address: '10 King''s College Rd., Toronto, ON '
+category: venue-category/Academic
 organization:
-  - "[[University of Toronto]]"
-address: "10 King's College Rd., Toronto, ON "
+- '[[University of Toronto]]'
 tags:
-  - type/venue
+- type/venue
 title: Sandford Fleming, University of Toronto
 ---

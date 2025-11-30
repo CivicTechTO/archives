@@ -1,7 +1,8 @@
 ---
-tags:
-  - type/venue
+category: venue-category/Industry
 organization:
-  - "[[Mozilla]]"
+- '[[Mozilla]]'
+tags:
+- type/venue
 title: Mozilla Toronto
 ---

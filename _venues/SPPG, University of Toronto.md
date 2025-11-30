@@ -1,8 +1,9 @@
 ---
+address: null
+category: venue-category/Academic
 organization:
-  - "[[School of Public Policy and Governance at the University of Toronto]]"
-address:
+- '[[School of Public Policy and Governance at the University of Toronto]]'
 tags:
-  - type/venue
+- type/venue
 title: SPPG, University of Toronto
 ---

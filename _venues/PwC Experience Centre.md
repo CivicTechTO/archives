@@ -1,8 +1,9 @@
 ---
+address: '18 York St., 19th Floor, Toronto, ON '
+category: venue-category/Industry
 organization:
-  - "[[PwC]]"
-address: "18 York St., 19th Floor, Toronto, ON "
+- '[[PwC]]'
 tags:
-  - type/venue
+- type/venue
 title: PwC Experience Centre
 ---

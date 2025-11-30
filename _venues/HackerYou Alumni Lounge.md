@@ -1,10 +1,11 @@
 ---
-organization:
-  - "[[HackerYou]]"
-address: "485 Queen St West, Toronto, ON "
-tags:
-  - type/venue
-title: HackerYou Alumni Lounge
+address: '485 Queen St West, Toronto, ON '
 categories:
-  - status/closed
+- venue-category/Industry
+- status/closed
+organization:
+- '[[HackerYou]]'
+tags:
+- type/venue
+title: HackerYou Alumni Lounge
 ---

@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10 Years of Civic Tech Toronto from the Archive</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reset.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/theme/black.css">
+    <style>
+        .reveal h1, .reveal h2, .reveal h3 {
+            text-transform: none;
+        }
+        .reveal section img {
+            border: none;
+            box-shadow: none;
+            background: none;
+        }
+        .reveal .stat-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 40px 0;
+        }
+        .reveal .stat-box {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .reveal .stat-number {
+            font-size: 3em;
+            font-weight: bold;
+            color: #42affa;
+        }
+        .reveal .stat-label {
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+        .reveal iframe {
+            width: 100%;
+            height: 600px;
+            border: none;
+            background: white;
+            border-radius: 5px;
+        }
+        .reveal .small-text {
+            font-size: 0.8em;
+        }
+        .reveal .diagram {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 30px;
+            border-radius: 10px;
+            margin: 30px 0;
+        }
+        .reveal .quote {
+            font-style: italic;
+            border-left: 4px solid #42affa;
+            padding-left: 20px;
+            margin: 30px 0;
+            text-align: left;
+        }
+        .reveal .leaderboard {
+            text-align: left;
+            font-size: 0.9em;
+        }
+        .reveal .leaderboard ol {
+            margin-left: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+
+            <!-- Title Card -->
+            <section>
+                <h1>10 Years of Civic Tech Toronto</h1>
+                <h3>Insights from the Archive</h3>
+                <p style="margin-top: 60px;">
+                    <strong>Jordan Armstrong</strong><br>
+                    2025 Archivist
+                </p>
+                <p class="small-text" style="margin-top: 80px;">
+                    A guided tour through the collection, the tech behind the archive,<br>
+                    insights from the data, and reflections celebrating ten years of community.
+                </p>
+            </section>
+
+            <!-- Section: Overview -->
+            <section>
+                <section>
+                    <h2>Overview</h2>
+                    <div style="margin-top: 60px;">
+                        <h3 class="fragment">📚 How It Works</h3>
+                        <p class="fragment small-text">For other communities who want to do the same</p>
+
+                        <h3 class="fragment" style="margin-top: 40px;">📊 Stats & Data</h3>
+                        <p class="fragment small-text">10 years of community activity</p>
+
+                        <h3 class="fragment" style="margin-top: 40px;">💭 Reflections & Insights</h3>
+                        <p class="fragment small-text">What we've learned and what matters</p>
+                    </div>
+                </section>
+            </section>
+
+            <!-- Section: How It Works -->
+            <section>
+                <section>
+                    <h2>How It Works</h2>
+                    <p>Building a sustainable archive for civic tech communities</p>
+                </section>
+
+                <section>
+                    <h3>Design Requirements</h3>
+                    <div class="stat-grid" style="margin-top: 60px;">
+                        <div class="stat-box fragment">
+                            <div style="font-size: 2em;">👁️</div>
+                            <div class="stat-label">Observable</div>
+                        </div>
+                        <div class="stat-box fragment">
+                            <div style="font-size: 2em;">🤝</div>
+                            <div class="stat-label">Open to<br>Contribution</div>
+                        </div>
+                        <div class="stat-box fragment">
+                            <div style="font-size: 2em;">💰</div>
+                            <div class="stat-label">Zero Operating<br>Costs</div>
+                        </div>
+                        <div class="stat-box fragment">
+                            <div style="font-size: 2em;">🔮</div>
+                            <div class="stat-label">Future Proof</div>
+                        </div>
+                    </div>
+                </section>
+
+                <section>
+                    <h3>System Architecture</h3>
+                    <div class="diagram">
+                        <div style="font-size: 1.2em; margin-bottom: 20px;">
+                            📁 Sync Folder + Version Control<br>
+                            ↓<br>
+                            📝 Structured Text Files<br>
+                            ↓<br>
+                            🏗️ Static Site Build<br>
+                            ↓<br>
+                            🌐 Public Website
+                        </div>
+                        <p class="small-text fragment" style="margin-top: 40px;">
+                            Git • Markdown with YAML frontmatter<br>
+                            GitHub Actions • Jekyll
+                        </p>
+                    </div>
+                </section>
+
+                <section>
+                    <h3>Demo</h3>
+                    <p class="small-text">Switch tabs to explore:</p>
+                    <div style="text-align: left; margin: 40px auto; max-width: 800px;">
+                        <ul>
+                            <li class="fragment">📄 <strong>GitHub:</strong> Markdown files with frontmatter</li>
+                            <li class="fragment">⚙️ <strong>GitHub Actions:</strong> Automated builds</li>
+                            <li class="fragment">🌐 <strong>Static Site:</strong> civictech.ca</li>
+                        </ul>
+                    </div>
+                    <p class="fragment small-text" style="margin-top: 60px;">
+                        <a href="https://github.com/civictechto/archives" target="_blank">github.com/civictechto/archives</a>
+                    </p>
+                </section>
+            </section>
+
+            <!-- Section: Stats & Data -->
+            <section>
+                <section>
+                    <h2>Stats & Data</h2>
+                    <p>What 10 years of documentation reveals</p>
+                </section>
+
+                <section>
+                    <h3>Background</h3>
+                    <div style="text-align: left; margin: 40px auto; max-width: 800px;">
+                        <p class="fragment">We had a bunch of Google Sheets and online entities over the years.</p>
+                        <p class="fragment" style="margin-top: 20px;">The information was compiled and split into <strong>seven entity types</strong>:</p>
+                        <ul class="fragment">
+                            <li>Announcements</li>
+                            <li>Hacknights</li>
+                            <li>Organizations</li>
+                            <li>People</li>
+                            <li>Projects</li>
+                            <li>Resources</li>
+                            <li>Venues</li>
+                        </ul>
+                        <p class="fragment" style="margin-top: 20px;">Further definition was implemented with <strong>categorization via tagging</strong>.</p>
+                    </div>
+                </section>
+
+                <section>
+                    <h3>Total Counts</h3>
+                    <div class="stat-grid">
+                        <div class="stat-box fragment">
+                            <div class="stat-number">521</div>
+                            <div class="stat-label">Hacknights</div>
+                        </div>
+                        <div class="stat-box fragment">
+                            <div class="stat-number">565</div>
+                            <div class="stat-label">People</div>
+                            <div class="small-text">(514 speakers)</div>
+                        </div>
+                        <div class="stat-box fragment">
+                            <div class="stat-number">73</div>
+                            <div class="stat-label">Projects</div>
+                        </div>
+                        <div class="stat-box fragment">
+                            <div class="stat-number">47</div>
+                            <div class="stat-label">Resources</div>
+                        </div>
+                        <div class="stat-box fragment">
+                            <div class="stat-number">69</div>
+                            <div class="stat-label">Venues</div>
+                        </div>
+                        <div class="stat-box fragment">
+                            <div class="stat-number">103</div>
+                            <div class="stat-label">Topics</div>
+                        </div>
+                    </div>
+                </section>
+
+                <section>
+                    <h3>Leaderboard: Top Speakers</h3>
+                    <div class="leaderboard" style="margin: 60px auto; max-width: 700px;">
+                        <ol style="font-size: 1.2em;">
+                            <li class="fragment">Gabe Sawhney (6 presentations)</li>
+                            <li class="fragment">Ingrid Buday (6 presentations)</li>
+                            <li class="fragment">Mohammed Asaduallah (4 presentations)</li>
+                            <li class="fragment">Raphael Dumas (4 presentations)</li>
+                            <li class="fragment">Patrick Connolly (4 presentations)</li>
+                        </ol>
+                    </div>
+                    <p class="small-text fragment">515 total speakers across 521 hacknights</p>
+                </section>
+
+                <section>
+                    <h3>Leaderboard: Top Venues</h3>
+                    <div class="leaderboard" style="margin: 60px auto; max-width: 700px;">
+                        <ol style="font-size: 1.2em;">
+                            <li class="fragment">Myhal Centre (60 events)</li>
+                            <li class="fragment">Ontario Digital Service (22 events)</li>
+                            <li class="fragment">Toronto City Hall (19 events)</li>
+                            <li class="fragment">Orium/MyPlanet (15 events)</li>
+                            <li class="fragment">Metro Hall (14 events)</li>
+                        </ol>
+                    </div>
+                </section>
+
+                <section>
+                    <h3>Leaderboard: Top Topics</h3>
+                    <div class="leaderboard" style="margin: 60px auto; max-width: 700px;">
+                        <ol style="font-size: 1.2em;">
+                            <li class="fragment">Democracy (39 events)</li>
+                            <li class="fragment">Open Data (37 events)</li>
+                            <li class="fragment">Civic Tech Enablement (37 events)</li>
+                            <li class="fragment">Artificial Intelligence (23 events)</li>
+                            <li class="fragment">Maps (20 events)</li>
+                        </ol>
+                    </div>
+                </section>
+
+                <section>
+                    <h3>Venues by Category</h3>
+                    <p class="small-text">Distribution of events across venue types</p>
+                    <iframe src="figures/venue_categories.html" height="500"></iframe>
+                </section>
+
+                <section>
+                    <h3>Top Venues</h3>
+                    <p class="small-text">Color-coded by category</p>
+                    <iframe src="figures/venue_prevalence.html"></iframe>
+                </section>
+
+                <section>
+                    <h3>Topics Over Time</h3>
+                    <p class="small-text">Evolution of civic tech priorities</p>
+                    <iframe src="figures/topic_over_time.html"></iframe>
+                    <aside class="notes">
+                        Note the AI surge in 2023-2025, sustained interest in democracy and open data.
+                        Topics can be improved with community input.
+                    </aside>
+                </section>
+
+                <section>
+                    <h3>Topic Distribution</h3>
+                    <p class="small-text">Top 20 topics - categorization can be improved with your help!</p>
+                    <iframe src="figures/topic_distribution.html"></iframe>
+                </section>
+            </section>
+
+            <!-- Section: Reflections -->
+            <section>
+                <section>
+                    <h2>Reflections</h2>
+                    <p>What the archive captures and what it doesn't</p>
+                </section>
+
+                <section>
+                    <h3>The Uncaptured History</h3>
+                    <div style="text-align: left; margin: 40px auto; max-width: 800px;">
+                        <p class="fragment">From my personal experience with civic tech, I know something of the past...</p>
+                        <ul class="fragment" style="margin-top: 30px;">
+                            <li>The rumoured pizza</li>
+                            <li>The hidden volunteers who make things happen</li>
+                            <li>The engagement you see in video screens</li>
+                        </ul>
+                        <p class="fragment" style="margin-top: 40px;">
+                            We won't call them all out, but we recognize:<br>
+                            <strong>The community is so much more than what the archive captures.</strong>
+                        </p>
+                        <p class="fragment" style="margin-top: 30px;">
+                            The archive is a kind of memory though—to make accessible the learnings and experiences we've accumulated over the past decade.
+                        </p>
+                    </div>
+                </section>
+
+                <section>
+                    <h3>Historical Reflections</h3>
+                    <div style="text-align: left; margin: 40px auto; max-width: 800px;">
+                        <p class="fragment">Moments and projects that graduated from this little community:</p>
+                        <ul class="fragment" style="margin-top: 30px;">
+                            <li><strong>Democracy Kit</strong> → DemocracyXChange → opendemocracy.ca</li>
+                            <li class="fragment">And many others...</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section>
+                    <h3>Callback to Hacknight #25</h3>
+                    <div class="quote" style="margin: 60px auto; max-width: 800px;">
+                        <p>"You need to solve a lot of really boring problems so that people who come to hacknights can do something useful and productive"</p>
+                        <p style="margin-top: 20px;">— James McKinney<br>
+                        <span class="small-text">Open North API, January 19, 2016</span></p>
+                    </div>
+                    <p class="fragment" style="margin-top: 40px;">
+                        <a href="https://civictech.ca/hacknights/25/" target="_blank" class="small-text">civictech.ca/hacknights/25/</a>
+                    </p>
+                </section>
+
+                <section>
+                    <h3>Intended Impact</h3>
+                    <div style="margin: 60px auto; max-width: 800px;">
+                        <p class="fragment">From Donella Meadows'<br><em>Places to Intervene in a System</em></p>
+                        <div class="quote fragment" style="margin-top: 40px;">
+                            <p><strong>#6: The structure of information flows</strong></p>
+                            <p style="margin-top: 15px;">(who does and does not have access to information)</p>
+                        </div>
+                        <p class="fragment" style="margin-top: 40px;">
+                            By making our history accessible, we change who can learn from it.
+                        </p>
+                    </div>
+                </section>
+            </section>
+
+            <!-- Closing -->
+            <section>
+                <section>
+                    <h2>How to Find the Archive</h2>
+                    <div style="margin-top: 80px;">
+                        <p><strong>Website:</strong> <a href="https://civictech.ca" target="_blank">civictech.ca</a></p>
+                        <p style="margin-top: 30px;"><strong>GitHub:</strong> <a href="https://github.com/civictechto/archives" target="_blank">github.com/civictechto/archives</a></p>
+                        <p style="margin-top: 30px;"><strong>Analysis:</strong> <a href="https://github.com/civictechto/archives/tree/main/analysis" target="_blank">github.com/civictechto/archives/analysis</a></p>
+                    </div>
+                    <p style="margin-top: 100px; font-size: 0.8em; opacity: 0.7;">
+                        CC BY-NC-SA 4.0
+                    </p>
+                </section>
+
+                <section>
+                    <h1>Questions?</h1>
+                    <p style="margin-top: 80px;">Thank you!</p>
+                </section>
+            </section>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reveal.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/plugin/notes/notes.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            controls: true,
+            progress: true,
+            center: true,
+            transition: 'slide',
+            plugins: [ RevealNotes ],
+            width: 1280,
+            height: 720,
+            margin: 0.1
+        });
+    </script>
+</body>
+</html>

@@ -1,7 +1,8 @@
 ---
-organization:
-address:
+address: null
+category: venue-category/Industry
+organization: null
 tags:
-  - type/venue
+- type/venue
 title: Kindred.ai
 ---

@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10 Years of Civic Tech Toronto from the Archive</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reset.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/theme/black.css">
+    <style>
+        .reveal h1, .reveal h2, .reveal h3 {
+            text-transform: none;
+        }
+        .reveal section img {
+            border: none;
+            box-shadow: none;
+            background: none;
+        }
+        .reveal .stat-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 40px 0;
+        }
+        .reveal .stat-box {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .reveal .stat-number {
+            font-size: 3em;
+            font-weight: bold;
+            color: #42affa;
+        }
+        .reveal .stat-label {
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+        .reveal iframe {
+            width: 100%;
+            height: 600px;
+            border: none;
+            background: white;
+            border-radius: 5px;
+        }
+        .reveal .small-text {
+            font-size: 0.8em;
+        }
+        .reveal .fragment.highlight-current-blue.visible:not(.current-fragment) {
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+
+            <!-- Title Slide -->
+            <section>
+                <h1>10 Years of Civic Tech Toronto</h1>
+                <h3>Insights from the Archive</h3>
+                <p class="small-text" style="margin-top: 80px;">
+                    This year, Civic Tech Toronto established an open public archive.<br>
+                    Join me for a guided tour through the collection, a peek at the tech behind it,<br>
+                    insights from the data, and reflections celebrating ten years of community.
+                </p>
+            </section>
+
+            <!-- How It's Built -->
+            <section>
+                <h2>The Tech Behind the Archive</h2>
+                <div style="text-align: left; margin: 40px auto; max-width: 800px;">
+                    <h3 class="fragment">Markdown + YAML Frontmatter</h3>
+                    <ul class="fragment">
+                        <li>Human-readable, version-controlled</li>
+                        <li>Sustainable format for long-term preservation</li>
+                        <li>Machine-parseable for analysis</li>
+                    </ul>
+
+                    <h3 class="fragment" style="margin-top: 40px;">Obsidian Vault</h3>
+                    <ul class="fragment">
+                        <li>Wiki-style internal linking</li>
+                        <li>Graph view of relationships</li>
+                        <li>Easy editing and navigation</li>
+                    </ul>
+
+                    <h3 class="fragment" style="margin-top: 40px;">Git + GitHub</h3>
+                    <ul class="fragment">
+                        <li>Complete history (188 commits)</li>
+                        <li>Collaborative editing</li>
+                        <li>Public and transparent</li>
+                    </ul>
+                </div>
+            </section>
+
+
+            <!-- The Archive -->
+            <section>
+                <h2>The Archive</h2>
+                <p>A comprehensive documentation of Toronto's civic technology community</p>
+                <div class="stat-grid">
+                    <div class="stat-box fragment">
+                        <div class="stat-number">521</div>
+                        <div class="stat-label">Hacknights</div>
+                    </div>
+                    <div class="stat-box fragment">
+                        <div class="stat-number">565</div>
+                        <div class="stat-label">People</div>
+                    </div>
+                    <div class="stat-box fragment">
+                        <div class="stat-number">73</div>
+                        <div class="stat-label">Projects</div>
+                    </div>
+                    <div class="stat-box fragment">
+                        <div class="stat-number">63</div>
+                        <div class="stat-label">Venues</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Topics Overview -->
+            <section>
+                <h2>What We Talk About</h2>
+                <p>103 unique topics spanning the breadth of civic technology</p>
+                <div style="text-align: left; margin: 40px auto; max-width: 800px;">
+                    <div class="fragment">
+                        <strong>Top Topics:</strong>
+                        <ul style="column-count: 2; margin-top: 20px;">
+                            <li>Democracy (39 events)</li>
+                            <li>Open Data (37 events)</li>
+                            <li>Civic Tech Enablement (37 events)</li>
+                            <li>Artificial Intelligence (23 events)</li>
+                            <li>Maps (20 events)</li>
+                            <li>Public Engagement (19 events)</li>
+                            <li>Transportation (18 events)</li>
+                            <li>Elections (16 events)</li>
+                            <li>Service Delivery (15 events)</li>
+                            <li>Housing (15 events)</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Topic Distribution Over Time -->
+            <section>
+                <h2>Topics Over Time</h2>
+                <p class="small-text">Evolution of civic tech priorities from 2015-2025</p>
+                <iframe src="figures/topic_over_time.html"></iframe>
+                <aside class="notes">
+                    Notice the AI surge in 2023-2025, sustained interest in democracy and open data,
+                    and how topics respond to current events.
+                </aside>
+            </section>
+
+            <!-- Topic Distribution Bar Chart -->
+            <section>
+                <h2>Topic Breadth</h2>
+                <p class="small-text">Top 20 topics by event count</p>
+                <iframe src="figures/topic_distribution.html"></iframe>
+                <aside class="notes">
+                    Shows the diversity of issues we've tackled. Democracy, open data, and civic tech
+                    enablement are the most frequent topics.
+                </aside>
+            </section>
+
+            <!-- Venue Support -->
+            <section>
+                <h2>Community Support</h2>
+                <p>63 venues across Toronto have hosted our events</p>
+                <div class="stat-grid" style="margin-top: 60px;">
+                    <div class="stat-box fragment">
+                        <div class="stat-number">107</div>
+                        <div class="stat-label">Academic<br>Venues</div>
+                    </div>
+                    <div class="stat-box fragment">
+                        <div class="stat-number">207</div>
+                        <div class="stat-label">Industry<br>Venues</div>
+                    </div>
+                    <div class="stat-box fragment">
+                        <div class="stat-number">61</div>
+                        <div class="stat-label">Public<br>Venues</div>
+                    </div>
+                    <div class="stat-box fragment">
+                        <div class="stat-number">15</div>
+                        <div class="stat-label">Nonprofit<br>Venues</div>
+                    </div>
+                </div>
+                <p class="fragment small-text" style="margin-top: 40px;">
+                    A diverse ecosystem of institutional support
+                </p>
+            </section>
+
+            <!-- Venue Categories Pie -->
+            <section>
+                <h2>Venue Distribution</h2>
+                <p class="small-text">Events across venue categories</p>
+                <iframe src="figures/venue_categories.html"></iframe>
+                <aside class="notes">
+                    Industry venues have hosted the most events, but academic and public sector
+                    support has been crucial to our mission.
+                </aside>
+            </section>
+
+            <!-- Top Venues -->
+            <section>
+                <h2>Our Key Partners</h2>
+                <p class="small-text">Top 15 venues by event count</p>
+                <iframe src="figures/venue_prevalence.html"></iframe>
+                <aside class="notes">
+                    Myhal Centre (U of T) has been our most frequent home with 60 events.
+                    Strong partnership with Ontario Digital Service and Toronto City Hall shows
+                    government engagement with civic tech.
+                </aside>
+            </section>
+
+            <!-- All Venues Distribution -->
+            <section>
+                <h2>The Full Picture</h2>
+                <p class="small-text">All 63 venues that have supported us over 10 years</p>
+                <iframe src="figures/venue_distribution.html"></iframe>
+                <aside class="notes">
+                    This shows the breadth of community support - from single-event hosts to
+                    long-term partners. Every venue represents an organization that believed in
+                    civic tech and opened their doors to our community.
+                </aside>
+            </section>
+
+            <!-- Key Insights -->
+            <section>
+                <h2>Key Insights</h2>
+                <div style="text-align: left; margin: 40px auto; max-width: 800px;">
+                    <div class="fragment">
+                        <h3>📈 Consistent Growth</h3>
+                        <p>520+ events over 10 years - rare longevity in civic tech</p>
+                    </div>
+                    <div class="fragment" style="margin-top: 30px;">
+                        <h3>🔄 Adaptive Resilience</h3>
+                        <p>Successfully pivoted from in-person → online → hybrid during pandemic</p>
+                    </div>
+                    <div class="fragment" style="margin-top: 30px;">
+                        <h3>🤝 Broad Coalition</h3>
+                        <p>Support from universities, government, industry, and nonprofits</p>
+                    </div>
+                    <div class="fragment" style="margin-top: 30px;">
+                        <h3>🎯 Topic Evolution</h3>
+                        <p>AI emerging as major focus while maintaining core civic tech values</p>
+                    </div>
+                    <div class="fragment" style="margin-top: 30px;">
+                        <h3>👥 Inclusive Community</h3>
+                        <p>565+ people participated, showing openness and diversity</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- The Archive's Impact -->
+            <section>
+                <h2>Why Archive?</h2>
+                <div style="text-align: left; margin: 40px auto; max-width: 800px;">
+                    <div class="fragment">
+                        <h3>🔍 Institutional Memory</h3>
+                        <p>Preserve what we've learned and accomplished</p>
+                    </div>
+                    <div class="fragment" style="margin-top: 30px;">
+                        <h3>📊 Data-Driven Reflection</h3>
+                        <p>Analyze patterns, trends, and impacts over time</p>
+                    </div>
+                    <div class="fragment" style="margin-top: 30px;">
+                        <h3>🌱 Knowledge Transfer</h3>
+                        <p>Help new members understand community history and culture</p>
+                    </div>
+                    <div class="fragment" style="margin-top: 30px;">
+                        <h3>🔗 Network Mapping</h3>
+                        <p>See connections between people, projects, and organizations</p>
+                    </div>
+                    <div class="fragment" style="margin-top: 30px;">
+                        <h3>🎓 Research Resource</h3>
+                        <p>Open dataset for studying civic tech communities</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Looking Forward -->
+            <section>
+                <h2>Looking Forward</h2>
+                <div style="text-align: left; margin: 40px auto; max-width: 800px;">
+                    <p class="fragment">The archive is <strong>living and growing</strong></p>
+                    <ul style="margin-top: 30px;">
+                        <li class="fragment">New events added weekly</li>
+                        <li class="fragment">Community contributions welcome</li>
+                        <li class="fragment">Analysis tools available for exploration</li>
+                        <li class="fragment">Open source and CC-licensed</li>
+                    </ul>
+                    <p class="fragment" style="margin-top: 50px; font-size: 1.2em;">
+                        <strong>Join us in documenting the next 10 years!</strong>
+                    </p>
+                </div>
+            </section>
+
+            <!-- Thank You -->
+            <section>
+                <h1>Thank You</h1>
+                <p style="margin-top: 60px; font-size: 1.2em;">
+                    To everyone who has been part of this journey
+                </p>
+                <div style="margin-top: 80px;">
+                    <p><strong>Explore the Archive:</strong></p>
+                    <p class="small-text">
+                        GitHub: github.com/civictechto/archives<br>
+                        Interactive Dashboard: [link to dashboard]<br>
+                        Analysis Code: github.com/civictechto/archives/analysis
+                    </p>
+                </div>
+                <p style="margin-top: 80px; font-size: 0.8em; opacity: 0.7;">
+                    Generated with Plotly • Reveal.js • Python<br>
+                    CC BY-NC-SA 4.0
+                </p>
+            </section>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reveal.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/plugin/notes/notes.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            controls: true,
+            progress: true,
+            center: true,
+            transition: 'slide',
+            plugins: [ RevealNotes ],
+            width: 1280,
+            height: 720,
+            margin: 0.1
+        });
+    </script>
+</body>
+</html>
