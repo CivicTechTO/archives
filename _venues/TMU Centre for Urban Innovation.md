@@ -1,5 +1,4 @@
 ---
-address: null
 category: venue-category/Academic
 organization:
   - "[[Toronto Metropolitan University]]"
