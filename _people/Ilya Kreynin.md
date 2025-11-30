@@ -5,6 +5,7 @@ tags:
   - type/person
 organization:
   - "[[CivicTechTO]]"
+  - "[[Open Data Team, City of Toronto]]"
 categories:
   - role/organizer
   - role/speaker

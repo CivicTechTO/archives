@@ -1,9 +1,9 @@
 ---
 tags:
   - type/person
-  - topic/open-data
 organization:
   - "[[CivicTechTO]]"
+  - "[[Open Data Team, City of Toronto]]"
 title: Luke Simcoe
 description: |-
   From the City of Toronto's Open Data Team.
