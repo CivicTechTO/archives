@@ -11,6 +11,7 @@ date: 2025-04-29
 hacknight:
   - "[[445]]"
   - "[[491]]"
+  - "[[522]]"
 team:
   - "[[Ilya Kreynin]]"
   - "[[Jasper Ruban]]"
