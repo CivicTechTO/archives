@@ -9,6 +9,7 @@ venue:
 youtubeID:
 eventUrl:
 booker:
+image:
 tags:
   - type/hacknight
 ---
