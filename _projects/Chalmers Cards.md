@@ -9,10 +9,11 @@ tags:
   - type/breakout-project
 social:
   website: https://www.chalmerscards.com/
-  slack: https://civictechto.slack.com/archives/C8ZRFH7JShttps://civictechto.slack.com/archives/C8ZRFH7JS
+  slack: https://civictechto.slack.com/archives/C8ZRFH7JS
 categories:
   - status/inactive
-date: 2022-01-01
+dateActiveFirst:
+date: 2024-02-01
 hacknight:
   - "[[220]]"
   - "[[274]]"

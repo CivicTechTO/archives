@@ -1,9 +1,9 @@
 ---
-address: '901 King Street West, Suite 401, Toronto, ON '
-category: venue-category/Industry
+address: "901 King Street West, Suite 401, Toronto, ON "
+categories: venue-category/Industry
 organization:
-- '[[Twitter]]'
+  - "[[Twitter]]"
 tags:
-- type/venue
+  - type/venue
 title: Twitter Offices
 ---

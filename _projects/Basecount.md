@@ -11,8 +11,8 @@ social:
   github: https://github.com/civictechto/basecount
 categories:
   - status/inactive
-dateActiveFirst: 2018-01-01
-date: 2018-01-01
+dateActiveFirst: 2018-01-19
+date: 2019-05-13
 hacknight:
   - "[[251]]"
 team:

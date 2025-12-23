@@ -14,6 +14,7 @@ social:
   instagram: https://www.instagram.com/amplelabs_co/
 categories:
   - status/inactive
+dateActiveFirst: 2018-03-18
 date: 2019-01-01
 hacknight:
   - "[[172]]"

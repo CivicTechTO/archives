@@ -9,8 +9,8 @@ tags:
 social:
   slack: https://civictechto.slack.com/archives/C0JC4A5RS
   github: https://github.com/dougestey/adroit
-dateActiveFirst: 2015-01-01
-date: 2015-01-01
+dateActiveFirst: 2016-01-13
+date: 2017-05-24
 notes: https://github.com/CivicTechTO/tocityhall-app
 categories:
   - status/inactive

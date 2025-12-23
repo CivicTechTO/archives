@@ -1,6 +1,6 @@
 ---
 address: "20 Dundas St. West, Suite 921, Toronto, ON "
-category: venue-category/Academic
+categories: venue-category/Academic
 organization:
   - "[[Toronto Metropolitan University]]"
 tags:

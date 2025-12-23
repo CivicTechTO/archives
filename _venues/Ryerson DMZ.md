@@ -1,9 +1,9 @@
 ---
-address: '10 Dundas St E, 6th floor, Toronto, ON '
-category: venue-category/Academic
+address: "10 Dundas St E, 6th floor, Toronto, ON "
+categories: venue-category/Academic
 organization:
-- '[[Toronto Metropolitan University]]'
+  - "[[Toronto Metropolitan University]]"
 tags:
-- type/venue
+  - type/venue
 title: Ryerson DMZ
 ---

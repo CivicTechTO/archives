@@ -1,9 +1,9 @@
 ---
-address: '366 Adelaide St. W, Suite 500, Toronto, ON '
-category: venue-category/Industry
+address: "366 Adelaide St. W, Suite 500, Toronto, ON "
+categories: venue-category/Industry
 organization:
-- '[[Mozilla]]'
+  - "[[Mozilla]]"
 tags:
-- type/venue
+  - type/venue
 title: Mozilla Community Space
 ---

@@ -1,9 +1,9 @@
 ---
 address: 341 Yonge Street, Toronto, ON
-category: venue-category/Academic
+categories: venue-category/Academic
 organization:
-- '[[Toronto Metropolitan University]]'
+  - "[[Toronto Metropolitan University]]"
 tags:
-- type/venue
+  - type/venue
 title: Ryerson Launch Zone
 ---

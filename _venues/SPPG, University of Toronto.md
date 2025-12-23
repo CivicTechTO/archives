@@ -1,5 +1,5 @@
 ---
-category: venue-category/Academic
+categories: venue-category/Academic
 organization:
   - "[[School of Public Policy and Governance at the University of Toronto]]"
 tags:

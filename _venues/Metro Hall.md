@@ -1,9 +1,9 @@
 ---
-address: '55 John St, Toronto, ON '
-category: venue-category/Public
+address: "55 John St, Toronto, ON "
+categories: venue-category/Public
 organization:
-- '[[City of Toronto]]'
+  - "[[City of Toronto]]"
 tags:
-- type/venue
+  - type/venue
 title: Metro Hall
 ---

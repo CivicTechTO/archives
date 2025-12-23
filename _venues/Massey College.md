@@ -1,9 +1,9 @@
 ---
 address: 4 Devonshire Place, Toronto, ON M5S 2E1
-category: venue-category/Academic
+categories: venue-category/Academic
 organization:
-- '[[University of Toronto]]'
+  - "[[University of Toronto]]"
 tags:
-- type/venue
+  - type/venue
 title: Massey College
 ---

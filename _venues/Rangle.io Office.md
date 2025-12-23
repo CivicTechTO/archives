@@ -1,9 +1,9 @@
 ---
-address: '129 Spadina Avenue, Suite 500, Toronto, ON '
-category: venue-category/Industry
+address: "129 Spadina Avenue, Suite 500, Toronto, ON "
+categories: venue-category/Industry
 organization:
-- '[[Rangle.io]]'
+  - "[[Rangle.io]]"
 tags:
-- type/venue
+  - type/venue
 title: Rangle.io
 ---

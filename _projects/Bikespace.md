@@ -18,6 +18,7 @@ tags:
   - topic/transportation
   - type/breakout-project
 dateActiveFirst: 2017-06-27
+date: 2025-12-16
 social:
   website: https://bikespace.ca/
   email: bikespaceto@gmail.com

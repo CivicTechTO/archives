@@ -1,9 +1,9 @@
 ---
-address: '351 King Street East, Toronto, ON '
-category: venue-category/Industry
+address: "351 King Street East, Toronto, ON "
+categories: venue-category/Industry
 organization:
-- '[[LoyaltyOne]]'
+  - "[[LoyaltyOne]]"
 tags:
-- type/venue
+  - type/venue
 title: LoyaltyOne Offices King East
 ---

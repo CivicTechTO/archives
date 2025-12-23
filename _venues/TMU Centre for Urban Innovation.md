@@ -1,5 +1,5 @@
 ---
-category: venue-category/Academic
+categories: venue-category/Academic
 organization:
   - "[[Toronto Metropolitan University]]"
 tags:

@@ -1,5 +1,5 @@
 ---
-category: venue-category/Industry
+categories: venue-category/Industry
 tags:
   - type/venue
 title: Proof

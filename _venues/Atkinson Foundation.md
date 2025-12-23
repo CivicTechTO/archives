@@ -1,9 +1,9 @@
 ---
 title: Atkinson Foundation
-address: '1 Yonge St., Suite 702, Toronto, ON '
-category: venue-category/Nonprofit
+address: "1 Yonge St., Suite 702, Toronto, ON "
+categories: venue-category/Nonprofit
 organization:
-- '[[Atkinson]]'
+  - "[[Atkinson]]"
 tags:
-- type/venue
+  - type/venue
 ---

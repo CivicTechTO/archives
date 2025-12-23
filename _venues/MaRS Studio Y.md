@@ -1,9 +1,9 @@
 ---
-address: '101 College Toronto, Toronto, ON '
-category: venue-category/Industry
+address: "101 College Toronto, Toronto, ON "
+categories: venue-category/Industry
 organization:
-- '[[MaRS]]'
+  - "[[MaRS]]"
 tags:
-- type/venue
+  - type/venue
 title: MaRS Studio Y
 ---

@@ -1,9 +1,9 @@
 ---
 address: 101 College St., Suite 120, Toronto, ON M5G 1L7
-category: venue-category/Industry
+categories: venue-category/Industry
 organization:
-- '[[Microsoft]]'
+  - "[[Microsoft]]"
 tags:
-- type/venue
+  - type/venue
 title: Microsoft Reactor Toronto
 ---

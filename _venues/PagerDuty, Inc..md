@@ -1,9 +1,9 @@
 ---
 address: 905 King St W, Toronto, ON M6K 3G9
-category: venue-category/Industry
+categories: venue-category/Industry
 organization:
-- '[[PagerDuty]]'
+  - "[[PagerDuty]]"
 tags:
-- type/venue
+  - type/venue
 title: PagerDuty, Inc.
 ---

@@ -1,9 +1,9 @@
 ---
 address: 23 Sultan St, Toronto, ON M5S 2B8
-category: venue-category/Industry
+categories: venue-category/Industry
 organization:
-- '[[McKinsey]]'
+  - "[[McKinsey]]"
 tags:
-- type/venue
+  - type/venue
 title: McKinsey
 ---
