@@ -1,9 +1,9 @@
 ---
-description: A dataview supported wordpress description constructor. Inserted hacknight reference will populate the necessary structured text for wordpress page.
+description: A dataview supported wordpress description constructor. Inserted meetup reference will populate the necessary structured text for wordpress page.
 reference: "[[497]]"
 ---
 
-Hacknight #`=this.reference.number` with `=this.reference.speakers`: `=this.reference.topic`
+Meetup #`=this.reference.number` with `=this.reference.speakers`: `=this.reference.topic`
 
 ---
 
@@ -17,10 +17,8 @@ Hacknight #`=this.reference.number` with `=this.reference.speakers`: `=this.refe
 
 `=this.reference.link_mentions `
 
-
 **Speakers:**
 
 `= choice(length(this.reference.speakers) > 1, join(map(this.reference.speakers, (x) => x.title + " – " + x.description), "<br/><br/><br/>"), map(this.reference.speakers, (x) => x.title + " – " + x.description))`
-
 
 **Venue:** `=this.reference.venue`

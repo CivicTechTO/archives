@@ -1,6 +1,6 @@
 ---
 number:
-title: "Hacknight # –"
+title: "Meetup # –"
 date:
 topic:
 description:
@@ -11,5 +11,5 @@ eventUrl:
 booker:
 image:
 tags:
-  - type/hacknight
+  - type/meetup
 ---
