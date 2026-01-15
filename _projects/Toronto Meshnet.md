@@ -14,7 +14,7 @@ social:
 categories:
   - status/unknown
 date: 2016-11-14
-hacknight:
+meetups:
   - "[[50]]"
   - "[[187]]"
   - "[[261]]"

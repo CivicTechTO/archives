@@ -6,7 +6,7 @@ tags:
   - type/initiative
   - type/project
   - topic/civic-tech-enablement
-hacknight:
+meetups:
   - "[[136]]"
   - "[[162]]"
   - "[[243]]"
@@ -20,6 +20,7 @@ team:
 categories:
   - status/unknown
 ---
+
 Civic Hall Toronto connects government innovators with entrepreneurs, technologists and residents so they can collaboratively address civic challenges.
 
 Our programming and events **foster a culture of collaboration** across sectors and fields,  provide a supportive and collaborative space for **learning, creating, and testing new ideas**, and **encourage greater resident involvement** in the design of public services and policy.

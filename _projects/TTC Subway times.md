@@ -13,7 +13,7 @@ categories:
   - status/unknown
 dateActiveFirst: 2017-01-01
 date: 2020-01-01
-hacknight:
+meetups:
   - "[[122]]"
   - "[[175]]"
 team:

@@ -11,7 +11,7 @@ social:
 categories:
   - status/unknown
   - contributors/unknown
-hacknight:
+meetups:
   - "[[406]]"
 team:
   - "[[Mitch Bechtel]]"

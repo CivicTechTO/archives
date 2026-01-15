@@ -15,6 +15,6 @@ social:
 categories:
   - status/inactive
 date: 2023-03-05
-hacknight:
+meetups:
   - "[[383]]"
 ---

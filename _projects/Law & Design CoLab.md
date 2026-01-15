@@ -12,11 +12,12 @@ social:
 categories:
   - status/unknown
 date: 2021-11-02
-hacknight:
+meetups:
   - "[[258]]"
   - "[[151]]"
 team:
   - "[[Avery Au]]"
   - "[[Mari Zhou]]"
 ---
+
 The Law & Design CoLab is a volunteer-led nonprofit based in Toronto. It conceived, scoped, and built digital products by engaging with legal experts and community stakeholders.

@@ -6,7 +6,7 @@ tags:
   - topic/elections
 social:
   website: https://www.knowyourvote.to/
-hacknight:
+meetups:
   - "[[376]]"
 organization:
   - "[[Toronto Public Library]]"

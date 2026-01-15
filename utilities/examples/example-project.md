@@ -17,7 +17,7 @@ categories:
   - active
   - OpenToContributors
   - feature
-hacknight:
+meetups:
   - "[[Hacknight_390]]"
 team:
   - "[[Person_One]]"

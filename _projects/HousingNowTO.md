@@ -8,11 +8,12 @@ tags:
 social:
   website: http://housingnowto.com
   twitter: https://twitter.com/HousingNowTO
-hacknight:
+meetups:
   - "[[414]]"
 team:
   - "[[Mark Richardson]]"
 categories:
   - status/unknown
 ---
+
 Aanalyzing and advocating for affordable housing using civic tech and open data.

@@ -13,6 +13,6 @@ social:
 categories:
   - status/active
   - contributors/open
-hacknight:
+meetups:
   - "[[409]]"
 ---

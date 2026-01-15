@@ -3,7 +3,7 @@ title: Youth Employment Challenge
 tags:
   - type/initiative
   - type/project
-hacknight:
+meetups:
   - "[[64]]"
   - "[[72]]"
 categories:

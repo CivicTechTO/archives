@@ -9,7 +9,7 @@ tags:
   - topic/neighbourhoods
 social:
   github: https://github.com/EthanSansom/torontotreeinequities
-hacknight:
+meetups:
   - "[[375]]"
 categories:
   - status/unknown

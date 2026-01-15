@@ -14,10 +14,11 @@ categories:
   - contributors/unknown
 dateActiveFirst: 2016-01-01
 date: 2017-01-01
-hacknight:
+meetups:
   - "[[81]]"
 team:
   - "[[Dawn Walker]]"
   - "[[Matt Price]]"
 ---
+
 Awaiting further content from the community's oral historians.

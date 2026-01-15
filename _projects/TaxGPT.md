@@ -10,6 +10,6 @@ social:
   website: https://taxgpt.ca
 categories:
   - status/unknown
-hacknight:
+meetups:
   - "[[386]]"
 ---

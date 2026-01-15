@@ -12,6 +12,6 @@ social:
   website:
   slack:
   github:
-hacknight:
+meetups:
 team:
 ---

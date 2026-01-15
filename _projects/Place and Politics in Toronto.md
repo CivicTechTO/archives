@@ -10,6 +10,6 @@ social:
   website: https://schoolofcities.github.io/place-and-politics-toronto/
 categories:
   - status/unknown
-hacknight:
+meetups:
   - "[[381]]"
 ---

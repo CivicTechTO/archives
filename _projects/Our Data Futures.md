@@ -11,7 +11,7 @@ social:
 categories:
   - status/inactive
 date: 2020-07-19
-hacknight:
+meetups:
   - "[[258]]"
 team:
   - "[[David Cox]]"

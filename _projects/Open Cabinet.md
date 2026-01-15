@@ -13,7 +13,7 @@ categories:
   - status/inactive
 dateActiveFirst: 2015-01-01
 date: 2016-01-01
-hacknight:
+meetups:
   - "[[20]]"
 team:
   - "[[Alex Lougheed]]"

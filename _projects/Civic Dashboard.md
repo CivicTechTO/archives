@@ -8,7 +8,7 @@ social:
   github: https://github.com/civic-dashboard/
 dateActiveFirst: 2024-02-20
 date: 2025-04-29
-hacknight:
+meetups:
   - "[[445]]"
   - "[[491]]"
   - "[[522]]"

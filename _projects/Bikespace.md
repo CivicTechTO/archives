@@ -5,7 +5,7 @@ categories:
   - status/active
   - contributors/open
   - meta/feature
-hacknight:
+meetups:
   - "[[419]]"
   - "[[122]]"
   - "[[123]]"
@@ -31,6 +31,7 @@ team:
   - "[[Alexandra Portolos]]"
 image: https://bikespace.ca/opengraph-image.jpg
 ---
+
 ## Summary
 
 BikeSpace is a free web app run by volunteers from Civic Tech Toronto that allows users to report issues with bicycle parking in Toronto (e.g. broken post and rings, locked abandoned bikes, and areas where bicycle parking is not provided). Since it was originally launched in partnership with the City of Toronto in 2018, it has collected over 1,000 user reports of bicycle parking issues. The goal of the web app is to support data-driven solutions to bicycle parking needs by crowd-sourcing reports from people in Toronto.
@@ -41,7 +42,7 @@ The BikeSpace project also aims to provide information about bicycle parking in 
 
 ## Issue: Bicycle Parking
 
-We believe that cycling — and its benefits for convenience, health, and the climate — should be accessible to everyone. Unfortunately, a lack of secure, easy-to-access bicycle parking and the fear of bike theft are significant barriers for cyclists. 
+We believe that cycling — and its benefits for convenience, health, and the climate — should be accessible to everyone. Unfortunately, a lack of secure, easy-to-access bicycle parking and the fear of bike theft are significant barriers for cyclists.
 
 A 2019 City of Toronto survey found that improving regular and secure bicycle parking were top needs among cyclists [^1], and other research has found that a lack of bicycle parking is a particularly significant barrier for women who want to cycle [^2].
 
@@ -53,7 +54,7 @@ Bicycle parking at home is also a significant challenge for many people in Toron
 
 ## Project Approach
 
-Around 2017, the City of Toronto approached Civic Tech Toronto with the idea of making an app to crowdsource locations where bicycle parking needed to be installed, improved, or repaired. The City paid for app hosting and a part-time project manager, but otherwise the design and development was all volunteer-run. 
+Around 2017, the City of Toronto approached Civic Tech Toronto with the idea of making an app to crowdsource locations where bicycle parking needed to be installed, improved, or repaired. The City paid for app hosting and a part-time project manager, but otherwise the design and development was all volunteer-run.
 
 The BikeSpace project served as a notable and early example in Canada of how government could work hand in hand with the civic tech community. At its peak, there were about 20 regular volunteer contributors in various technical and non-technical roles, and some civic tech volunteers in Edmonton also got in touch to make their own version of the app.
 
@@ -76,7 +77,6 @@ The BikeSpace app still provides a quick and simple way to report issues not yet
 In the fall of 2018, the post-launch report to the City estimated that over 1,800 volunteer hours had been contributed to the BikeSpace project, with an estimated value of over $50,000. The number of hours contributed has only grown since then, with a significant public benefit arising from the contributions of skilled volunteers.
 
 The BikeSpace app has received media coverage from the CBC, CP24, UofT News, Daily Hive, and the Two Wheeled Politics blog, helping to increase awareness and public discussion around the issue of safe and convenient bicycle parking.
-
 
 [^1]: Nanos Research. (2019). City of Toronto Cycling Study. City of Toronto. Retrieved November 29, 2024, from https://www.toronto.ca/wp-content/uploads/2021/04/8f76-2019-Cycling-Public-Option-Survey-City-of-Toronto-Cycling.pdf.
 [^2]: Manaugh, K., Boisjoly, G., & El-Geneidy, A. (2017). Overcoming barriers to cycling: understanding frequency of cycling in a University setting and the factors preventing commuters from cycling on a regular basis. Transportation, 44, 871-884.
