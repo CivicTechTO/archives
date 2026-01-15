@@ -8,6 +8,7 @@ This repository contains historical data and resources related to past CivicTech
 
 ### Initiative Updates
 
+- 2026-01-15: "The Gang Tries to Rename Hacknights to Meetups"
 - 2025-10-18: Completed conservative generative tagging with human oversight on hacknights up to # 514
 - 2025-06-15: Considerable milestone rework to support launch of updated CivicTech Toronto website.
 - 2025-02-12: Release (Happy Valentines Day Toronto `(⸝⸝♥‿♥⸝⸝)`) – @jordyarms
@@ -49,7 +50,7 @@ To explore the archived events, projects and other information you can navigate 
 ```
 archive/
 ├── _announcements/   # Documentation of instances of announcements (predominantly historical content).
-├── _hacknights/      # Documentation of instances of hacknights.
+├── _meetups/      # Documentation of instances of meetups.
 ├── _organizations/   # Documentation of instances of organizations (& supporters).
 ├── _people/          # Documentation of instances of speakers & organizers.
 ├── _projects/        # Documentation of instances of projects.
