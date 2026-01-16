@@ -19,9 +19,10 @@ categories:
   - contributors/open
 team:
   - "[[Khasir Hean]]"
-hacknight:
+meetups:
   - "[[504]]"
 ---
+
 We want governments and tech companies to care about the people who use their products and the people they affect, beyond maximizing revenue and market share.
 
 We want to counter the prevailing voices in tech who care primarily about the latest trends and coolest new gadgets.

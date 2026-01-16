@@ -5,7 +5,7 @@ social:
   slack: https://civictechto.slack.com/archives/C5W9G5ELV
 tags:
   - type/project
-hacknight:
+meetups:
   - "[[122]]"
 team:
   - "[[Marc De Pape]]"

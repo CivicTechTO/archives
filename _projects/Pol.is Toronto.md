@@ -15,6 +15,6 @@ social:
   github: https://github.com/CivicTechTO/polis/
 dateActiveFirst: 2024-04-24
 date: 2025-04-29
-hacknight: 
+meetups:
 team:
 ---

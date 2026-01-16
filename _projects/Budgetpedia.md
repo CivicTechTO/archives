@@ -14,7 +14,7 @@ categories:
   - status/inactive
 dateActiveFirst: 2015-08-15
 date: 2018-06-30
-hacknight:
+meetups:
   - "[[20]]"
   - "[[70]]"
   - "[[122]]"
@@ -22,4 +22,5 @@ team:
   - "[[Henrik Bechmann]]"
   - "[[Jim Rootham]]"
 ---
+
 Awaiting content from the community's oral historians.

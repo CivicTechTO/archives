@@ -15,7 +15,7 @@ categories:
   - status/inactive
 dateActiveFirst: 2017-01-01
 date: 2018-01-01
-hacknight:
+meetups:
   - "[[226]]"
   - "[[122]]"
   - "[[138]]"

@@ -10,6 +10,6 @@ social:
   github: https://github.com/emily-sakaguchi/Connect_TO
 categories:
   - status/unknown
-hacknight:
+meetups:
   - "[[447]]"
 ---

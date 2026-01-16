@@ -9,7 +9,8 @@ social:
   website: https://danforthdad.com
 categories:
   - status/active
-hacknight:
+meetups:
   - "[[436]]"
 ---
+
 Awaiting further content from the community's archivist.

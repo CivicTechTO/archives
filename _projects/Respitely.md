@@ -9,7 +9,7 @@ social:
 categories:
   - status/active
   - contributors/unknown
-hacknight:
+meetups:
   - "[[450]]"
 team:
   - "[[Arjun Sahjpaul]]"

@@ -14,7 +14,7 @@ categories:
   - status/inactive
 dateActiveFirst: 2022-01-01
 date: 2023-10-03
-hacknight:
+meetups:
   - "[[412]]"
 team:
   - "[[Erik Derohanian]]"

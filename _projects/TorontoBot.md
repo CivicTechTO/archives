@@ -10,6 +10,6 @@ social:
   github: https://github.com/geomodulus/torontobot
 categories:
   - status/unknown
-hacknight:
+meetups:
   - "[[404]]"
 ---

@@ -9,6 +9,6 @@ social:
   website: https://ratethelandlord.org
 categories:
   - status/unknown
-hacknight:
+meetups:
   - "[[402]]"
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Toronto Bids Archive
-hacknight:
+meetups:
   - "[[397]]"
 social:
   slack: https://civictechto.slack.com/archives/C04C6FPJDD4

@@ -13,9 +13,10 @@ categories:
   - status/inactive
 dateActiveFirst: 2018-01-19
 date: 2019-05-13
-hacknight:
+meetups:
   - "[[251]]"
 team:
   - "[[Dilini Kurukulaarachchi]]"
 ---
+
 Awaiting content from the community's oral historians.

@@ -10,6 +10,6 @@ social:
   github: https://github.com/RamVasuthevan/TorontoLobbyistRegistry
 categories:
   - status/unknown
-hacknight:
+meetups:
   - "[[457]]"
 ---

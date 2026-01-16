@@ -25,11 +25,12 @@ categories:
   - contributors/open
 dateActiveFirst: 2023-08-08
 date: 2025-05-31
-hacknight:
+meetups:
   - "[[453]]"
 image: https://tracket.info/wp-content/uploads/2024/05/Frame-2915.png
 ---
-Our mission with tRacket is to put a number to this issue and make it easy and affordable to monitor urban noise, to empower individual, communities, advocates and government agencies to understand harmful noise in our cities and to eventually reduce it within our communities. 
+
+Our mission with tRacket is to put a number to this issue and make it easy and affordable to monitor urban noise, to empower individual, communities, advocates and government agencies to understand harmful noise in our cities and to eventually reduce it within our communities.
 
 Our project has been running since Fall 2023, and we have designed and deployed a number of devices across Ontario that are accessible through our online dashboard.
 

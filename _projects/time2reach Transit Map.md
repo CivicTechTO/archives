@@ -10,6 +10,6 @@ social:
   website: https://map.henryn.ca/
 categories:
   - status/unknown
-hacknight:
+meetups:
   - "[[411]]"
 ---

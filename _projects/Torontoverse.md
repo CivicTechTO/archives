@@ -9,6 +9,6 @@ social:
   website: https://torontoverse.com
 categories:
   - status/unknown
-hacknight:
+meetups:
   - "[[365]]"
 ---

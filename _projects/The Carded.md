@@ -12,7 +12,7 @@ social:
 categories:
   - status/unknown
 date: 2018-06-04
-hacknight:
+meetups:
   - "[[122]]"
 team:
   - "[[Sharmarke Noor]]"

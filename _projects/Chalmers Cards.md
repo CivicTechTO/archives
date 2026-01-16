@@ -14,13 +14,14 @@ categories:
   - status/inactive
 dateActiveFirst:
 date: 2024-02-01
-hacknight:
+meetups:
   - "[[220]]"
   - "[[274]]"
 team:
   - "[[Steven Xie]]"
   - "[[Zachary Donsky]]"
 ---
+
 Chalmers Cards are wooden information booklets that are designed to be given out at Toronto's emergency shelters and to folks sleeping on the streets of Toronto. They explain how to access social services!
 
 Awaiting further content from the community's oral historians.

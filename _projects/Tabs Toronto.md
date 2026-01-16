@@ -13,9 +13,9 @@ categories:
   - status/active
 dateActiveFirst: 2021-01-01
 date: 2022-01-01
-hacknight:
+meetups:
   - "[[341]]"
 team:
   - "[[Gabe Sawhney]]"
-image: /assets/images/hacknights/hacknight_341.jpg
+image: /assets/images/events/hacknight_341.jpg
 ---

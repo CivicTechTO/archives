@@ -4,7 +4,7 @@ tags:
   - type/initiative
   - type/project
   - topic/civic-tech-enablement
-hacknight:
+meetups:
   - "[[131]]"
   - "[[182]]"
 team:
@@ -13,4 +13,5 @@ team:
 categories:
   - status/inactive
 ---
+
 Awaiting further content from the community's oral historians.

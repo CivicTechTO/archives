@@ -18,17 +18,20 @@ social:
   website: https://votingrecords.climatefast.ca
   email: info@climatefast.ca
   instagram: https://www.instagram.com/climatefastaction
-hacknight:
+meetups:
   - "[[480]]"
 organization:
   - "[[ClimateFast]]"
 ---
+
 ### Get Involved
- If you’re interested in learning more about the project or want to get involved, please reach out to us at any time!
- 
+
+If you’re interested in learning more about the project or want to get involved, please reach out to us at any time!
+
 To get involved visit [https://votingrecords.climatefast.ca/get-involved/](https://votingrecords.climatefast.ca/get-involved/)
 
 If you would like to stay in touch and receive updates about the Voting Records website and other ClimateFast initiatives, you can join our mailing list by emailing [newsletter@climatefast.ca](mailto:newsletter%40climatefast.ca).
+
 ### About
 
 Climate action is urgent. The city has a target of reducing emissions by 65% below 1990 levels by 2030 - and we are struggling to even meet the 2025 target of 45% below 1990 levels. We need councillors to know that their constituents want to see meaningful climate action and that we want them to vote in favour of bold new measures to achieve net zero by 2050.

@@ -7,7 +7,7 @@ tags:
   - topic/food-security
 categories:
   - status/unknown
-hacknight:
+meetups:
   - "[[452]]"
 social:
   website: https://hosergrocerytracker.ca/

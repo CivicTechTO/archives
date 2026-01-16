@@ -12,7 +12,7 @@ social:
 categories:
   - status/active
 date: 2017-12-05
-hacknight:
+meetups:
   - "[[67]]"
   - "[[81]]"
   - "[[98]]"
@@ -23,4 +23,5 @@ team:
 organization:
   - "[[Open Democracy]]"
 ---
+
 Awaiting further content from the community's oral historians.

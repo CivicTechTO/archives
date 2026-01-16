@@ -16,11 +16,12 @@ categories:
   - status/inactive
 dateActiveFirst: 2018-03-18
 date: 2019-01-01
-hacknight:
+meetups:
   - "[[172]]"
 team:
   - "[[CG Chen]]"
   - "[[Matt Wong]]"
   - "[[Will Meneray]]"
 ---
+
 Awaiting content from the community's oral historians.
