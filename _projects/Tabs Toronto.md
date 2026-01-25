@@ -17,5 +17,5 @@ meetups:
   - "[[341]]"
 team:
   - "[[Gabe Sawhney]]"
-image: image: /assets/thumbs/events/hacknight_341-690-96ae99ad0.webp
+image: /assets/thumbs/events/hacknight_341-690-96ae99ad0.webp
 ---
