@@ -1,6 +1,7 @@
 ---
 title: Civic Tech Toolkit
 excerpt: Equiping contributors with patterns and mindsets to drive impact collaboratively.
+description: Equiping contributors with patterns and mindsets to drive impact collaboratively.
 tags:
   - type/project
   - topic/civic-tech-enablement
@@ -24,7 +25,7 @@ The Civic Tech Toolkit is an initiative out of Civic Tech Toronto to equip contr
 
 At first we made a website, but realizing that this was too long of a journey for those we meet in person we shifted the content into a tight physical form that we could put in people's hands: ⭐️ zines ⭐️.
 
-You can get the community edition of the Civic Tech Toolkit Zines for your own customization on Figma at: https://www.figma.com/community/file/1597316383636313466
+You can get the community edition of the Civic Tech Toolkit Zines for your own customization on Figma at: [figma community file: 1597316383636313466](https://www.figma.com/community/file/1597316383636313466)
 
 If you just want the PDFs you can get the latest by visiting our [slack channel](https://civictechto.slack.com/archives/C0739GZADL6).
 

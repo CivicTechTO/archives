@@ -1,6 +1,7 @@
 ---
 title: Civic Spark
 excerpt: A two-day gathering for organizers, innovators, and community builders working toward a better future of public life.
+description: A two-day gathering for organizers, innovators, and community builders working toward a better future of public life.
 dateActiveFirst: 2025-02-23
 tags:
   - type/project
@@ -20,6 +21,7 @@ team:
   - "[[Gabe Sawhney]]"
   - "[[Khasir Hean]]"
 ---
+
 Civic Spark ran on August 16 + 17th, 2025 in Toronto and was well attended. You can read the wrap-up page on the [Civic Spark website](https://civic-spark.com/wrapup).
 
 ---
