@@ -16,10 +16,13 @@ image: https://civic-spark.com/assets/images/social_card.jpg
 organization:
   - "[[CivicTechTO]]"
 team:
-  - "[[Jordan Armstrong]]"
-  - "[[Ilya Kreynin]]"
+  - "[[Ben Coleman]]"
   - "[[Gabe Sawhney]]"
+  - "[[Ilya Kreynin]]"
+  - "[[Jordan Armstrong]]"
   - "[[Khasir Hean]]"
+  - "[[Luke Andrews]]"
+  - "[[Sonal Ranjit]]"
 ---
 
 Civic Spark ran on August 16 + 17th, 2025 in Toronto and was well attended. You can read the wrap-up page on the [Civic Spark website](https://civic-spark.com/wrapup).
