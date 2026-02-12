@@ -1,6 +1,6 @@
 ---
 number:
-title: "Meetup # –"
+title: "Meetup #[number] [speaker name] – [topic]"
 date:
 topic:
 description:
