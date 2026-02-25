@@ -1,6 +1,6 @@
 ---
 title: Danforth Dad
-description: Toronto playground map and reviews
+excerpt: Toronto playground map and reviews
 tags:
   - type/project
   - topic/public-parks
@@ -13,4 +13,4 @@ meetups:
   - "[[436]]"
 ---
 
-Awaiting further content from the community's archivist.
+Toronto playground map and reviews

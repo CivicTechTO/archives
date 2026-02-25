@@ -24,4 +24,4 @@ organization:
   - "[[Open Democracy]]"
 ---
 
-Awaiting further content from the community's oral historians.
+A not-for-profit startup working to open the democratic process by publishing a shared campaign resource package for councillor and trustee races.

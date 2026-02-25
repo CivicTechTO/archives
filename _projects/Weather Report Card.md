@@ -1,7 +1,6 @@
 ---
 title: Weather Report Card
 excerpt: grading calculations based on how well the previous forecasts were
-description: Using open data from http://weather.gc.ca we are making grading calculations based on how well the previous forecasts were. We take the previous 5 day forecast, the current conditions and split the grading into categories.
 tags:
   - type/project
   - topic/open-data
@@ -12,3 +11,5 @@ date: 2027-02-29
 categories:
   - status/inactive
 ---
+
+Using open data from http://weather.gc.ca we are making grading calculations based on how well the previous forecasts were. We take the previous 5 day forecast, the current conditions and split the grading into categories.
