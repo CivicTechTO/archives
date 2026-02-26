@@ -1,6 +1,6 @@
 ---
 title: Know Your Vote T.O.
-description: Know Your Vote T.O. is a municipal election candidate civic learning website developed by the Toronto Public Library.
+excerpt: Know Your Vote T.O. is a municipal election candidate civic learning website developed by the Toronto Public Library.
 tags:
   - type/project
   - topic/elections
@@ -13,3 +13,5 @@ organization:
 categories:
   - status/unknown
 ---
+
+Know Your Vote T.O. is a municipal election candidate civic learning website developed by the Toronto Public Library.

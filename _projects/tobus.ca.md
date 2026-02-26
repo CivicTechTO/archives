@@ -1,8 +1,6 @@
 ---
 title: tobus.ca
 excerpt: A extremely fast and simple website, parsing TTC's ETA data.
-description: |
-  See your buses, streetcars & subway's arrival times without app downloads, ads nor limits. Also doubles as a data explorer.
 tags:
   - type/project
   - topic/transportation
@@ -16,3 +14,5 @@ categories:
 meetups:
   - "[[409]]"
 ---
+
+See your buses, streetcars & subway's arrival times without app downloads, ads nor limits. Also doubles as a data explorer.

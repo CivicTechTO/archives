@@ -1,7 +1,6 @@
 ---
 title: Missing Persons Project
 excerpt: facilitates the identification of missing persons by comparing physical characteristics and personal information with unidentified remains.
-description: This application facilitates the identification of missing persons by comparing physical characteristics and personal information with unidentified remains. This application streamlines the identification process, reducing manual cross-referencing and time-consuming searches.
 tags:
   - type/project
   - topic/public-safety
@@ -21,3 +20,5 @@ team:
   - "[[Isaac McAuley]]"
   - "[[Dyl Lavoie]]"
 ---
+
+This application facilitates the identification of missing persons by comparing physical characteristics and personal information with unidentified remains. This application streamlines the identification process, reducing manual cross-referencing and time-consuming searches.

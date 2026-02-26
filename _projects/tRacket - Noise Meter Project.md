@@ -1,7 +1,6 @@
 ---
 title: tRacket - Noise Meter Project
 excerpt: We’re making it easy and affordable to collect data about noise
-description: Urban noise isn’t just annoying - it has well-know negative effects on your physical and mental health.
 social:
   website: https://tracket.info
   slack: https://civictechto.slack.com/archives/C05LHL4L8MD
@@ -29,6 +28,8 @@ meetups:
   - "[[453]]"
 image: https://tracket.info/wp-content/uploads/2024/05/Frame-2915.png
 ---
+
+Urban noise isn’t just annoying - it has well-know negative effects on your physical and mental health.
 
 Our mission with tRacket is to put a number to this issue and make it easy and affordable to monitor urban noise, to empower individual, communities, advocates and government agencies to understand harmful noise in our cities and to eventually reduce it within our communities.
 

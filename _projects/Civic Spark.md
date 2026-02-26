@@ -1,7 +1,6 @@
 ---
 title: Civic Spark
 excerpt: A two-day gathering for organizers, innovators, and community builders working toward a better future of public life.
-description: A two-day gathering for organizers, innovators, and community builders working toward a better future of public life.
 dateActiveFirst: 2025-02-23
 tags:
   - type/project

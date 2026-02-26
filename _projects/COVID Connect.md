@@ -12,4 +12,5 @@ categories:
 dateActiveFirst: 2020-01-01
 date: 2020-01-01
 ---
-Awaiting further content from the community's oral historians.
+
+A lightweight process to match design and technology volunteers to existing COVID-19 initiatives and mutual aid projects that need digital support

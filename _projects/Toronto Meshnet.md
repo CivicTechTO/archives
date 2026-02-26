@@ -1,7 +1,6 @@
 ---
 title: Toronto Meshnet
 excerpt: We help communities create better networks with open source and peer-to-peer technologies that promote digital literacy and privacy.
-description: Meshnets are highly distributed, redundant intranet networks. A series of nodes, usually fashioned from cannibalized routers, emit signals that create a free self-contained and self-reliant network that’s accessible to any internet capable devices within range. We are dedicated to the growth of free-to-use wireless Internet access in Toronto’s public and publicly accessible spaces.
 tags:
   - type/project
   - topic/internet-access
@@ -24,3 +23,5 @@ team:
   - "[[Ethan Wilding]]"
   - "[[Henry Wilkinson]]"
 ---
+
+Meshnets are highly distributed, redundant intranet networks. A series of nodes, usually fashioned from cannibalized routers, emit signals that create a free self-contained and self-reliant network that’s accessible to any internet capable devices within range. We are dedicated to the growth of free-to-use wireless Internet access in Toronto’s public and publicly accessible spaces.
