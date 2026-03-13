@@ -1,6 +1,6 @@
 ---
 title: Planning Applications
-description: Project to collect City of Toronto planning development applications
+excerpt: Project to collect City of Toronto planning development applications
 tags:
   - type/project
   - topic/open-government
@@ -15,3 +15,5 @@ date: 2016-01-01
 meetups:
   - "[[20]]"
 ---
+
+Project to collect City of Toronto planning development applications

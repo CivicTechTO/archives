@@ -1,6 +1,5 @@
 ---
 title: Councilmatic Toronto
-description: 
 tags:
   - type/project
   - topic/democracy
@@ -10,7 +9,8 @@ social:
   github: https://github.com/tor-councilmatic
 categories:
   - status/inactive
-dateActiveFirst: 
+dateActiveFirst:
 date: 2018-07-17
 ---
+
 Awaiting further content from the community's oral historians.

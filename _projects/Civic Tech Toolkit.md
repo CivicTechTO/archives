@@ -1,7 +1,6 @@
 ---
 title: Civic Tech Toolkit
 excerpt: Equiping contributors with patterns and mindsets to drive impact collaboratively.
-description: Equiping contributors with patterns and mindsets to drive impact collaboratively.
 tags:
   - type/project
   - topic/civic-tech-enablement

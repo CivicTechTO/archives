@@ -1,7 +1,6 @@
 ---
 title: Democracy Distributed
 excerpt: We’re building an open platform where anyone can document and understand how organizations work — from a small community group to a city government.
-description: We’re building an open platform where anyone can document and understand how organizations work — from a small community group to a city government.
 tags:
   - type/project
   - topic/democracy
@@ -13,6 +12,7 @@ categories:
   - status/active
   - contributors/open
 ---
+
 We’re building an open platform where anyone can document and understand how organizations work — from a small community group to a city government.
 
 Our goal is to bring clarity and transparency to structure, finances, laws, and decision-making, so members can participate more effectively and the public can easily see how things are working.

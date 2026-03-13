@@ -1,7 +1,6 @@
 ---
 title: Climate Voting Records Toronto
 excerpt: To track and show how climate-related items are being voted on within Toronto City Council.
-description: The Climate Voting Records Toronto website is your go-to interactive tool for tracking how Toronto City Council votes on crucial climate and environmental policies. The website helps create more transparency on City Council decisions, enabling Torontonians to hold Council members accountable for their votes.
 tags:
   - type/project
   - topic/climate
@@ -23,6 +22,8 @@ meetups:
 organization:
   - "[[ClimateFast]]"
 ---
+
+The Climate Voting Records Toronto website is your go-to interactive tool for tracking how Toronto City Council votes on crucial climate and environmental policies. The website helps create more transparency on City Council decisions, enabling Torontonians to hold Council members accountable for their votes.
 
 ### Get Involved
 

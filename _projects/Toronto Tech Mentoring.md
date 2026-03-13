@@ -1,7 +1,6 @@
 ---
 title: Toronto Tech Mentoring
 excerpt: Aims to help homeless and at-risk youth escape the cycle of poverty by helping them to use tech skills.
-description: Formerly the Accelerator Project
 tags:
   - type/project
   - topic/homelessness
@@ -20,3 +19,5 @@ meetups:
 team:
   - "[[Dilini Kurukulaarachchi]]"
 ---
+
+Formerly the Accelerator Project
