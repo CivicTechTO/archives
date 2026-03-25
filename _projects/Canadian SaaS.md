@@ -1,7 +1,6 @@
 ---
 title: Canadian SaaS
 excerpt: Discover software built right here in Canada
-description: Canadian SaaS is an open-source project that enables Canadians to discover Canadian software while also increasing transparency around how data is stored, processed, and tracked.
 dateActiveFirst:
 tags:
   - type/project
@@ -16,9 +15,10 @@ meetups:
 team:
 date: 2026-02-12
 ---
-Canadian SaaS is an open-source project that enables Canadians to discover Canadian software while also increasing transparency around how data is stored, processed, and tracked. 
 
-Our mission: 
+Canadian SaaS is an open-source project that enables Canadians to discover Canadian software while also increasing transparency around how data is stored, processed, and tracked.
 
-- Support the Canadian software industry by listing homegrown companies Canadians can use and build careers with. 
+Our mission:
+
+- Support the Canadian software industry by listing homegrown companies Canadians can use and build careers with.
 - Map the dependencies behind Canadian digital services so Canadians can better understand sovereignty risks and data privacy implications.

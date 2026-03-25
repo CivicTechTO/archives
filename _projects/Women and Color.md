@@ -26,3 +26,5 @@ team:
   - "[[Sheau Lih Vong]]"
   - "[[Sharon Kennedy]]"
 ---
+
+An online community of talented women and people of color available for speaking opportunities at tech-related events.

@@ -1,7 +1,6 @@
 ---
 title: Book Club
 excerpt: Civic Tech Toronto reading and discussing books together.
-description: Civic Tech Toronto reading and discussing books together.
 dateActiveFirst: 2019-12-03
 date: 2025-12-16
 tags:

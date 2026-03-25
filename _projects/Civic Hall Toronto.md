@@ -1,7 +1,6 @@
 ---
 title: Civic Hall Toronto
 excerpt: Civic Hall Toronto aims to create a hub for civic innovation in the city.
-description: Civic Hall Toronto aims to create a hub for civic innovation in the city. Operated by Code for Canada and in partnership with the City of Toronto and the Centre for Social Innovation, Civic Hall Toronto will enable government innovators, entrepreneurs and civic technologists to share, learn and build solutions together.
 tags:
   - type/initiative
   - type/project
@@ -22,6 +21,8 @@ categories:
 ---
 
 Civic Hall Toronto connects government innovators with entrepreneurs, technologists and residents so they can collaboratively address civic challenges.
+
+Operated by Code for Canada and in partnership with the City of Toronto and the Centre for Social Innovation, Civic Hall Toronto will enable government innovators, entrepreneurs and civic technologists to share, learn and build solutions together.
 
 Our programming and events **foster a culture of collaboration** across sectors and fields,  provide a supportive and collaborative space for **learning, creating, and testing new ideas**, and **encourage greater resident involvement** in the design of public services and policy.
 

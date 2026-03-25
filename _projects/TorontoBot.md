@@ -1,6 +1,6 @@
 ---
 title: TorontoBot
-description: TorontoBot is a tool for querying Toronto Open Data. It answers questions either on the command line or as a Discord bot.
+excerpt: TorontoBot is a tool for querying Toronto Open Data. It answers questions either on the command line or as a Discord bot.
 tags:
   - type/project
   - topic/open-government
@@ -13,3 +13,5 @@ categories:
 meetups:
   - "[[404]]"
 ---
+
+TorontoBot is a tool for querying Toronto Open Data. It answers questions either on the command line or as a Discord bot.

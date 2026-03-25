@@ -21,4 +21,6 @@ team:
   - "[[Matt Price]]"
 ---
 
+Coordinating tech talk about the Guerilla Archiving Event to support Internet Archive's End of Term harvesting project.
+
 Awaiting further content from the community's oral historians.
