@@ -5,9 +5,13 @@ description: Cyd Harrell is a UX researcher and product manager who got hooked o
 social:
   website: https://cydharrell.com
   twitter: https://twitter.com/cydharrell
+  bluesky: https://bsky.app/profile/cydharrell.bsky.social
+  mastodon: https://hachyderm.io/@cydharrell
 title: Cyd Harrell
 categories:
   - role/speaker
   - meta/feature
+organization:
+  - "[[City and County of San Francisco]]"
 ---
 
