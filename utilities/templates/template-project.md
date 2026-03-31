@@ -8,9 +8,18 @@ categories:
   - status/active
   - contributors/open
 social:
-  website:
-  slack:
-  github:
+  bluesky: 
+  facebook: 
+  github: 
+  guild: 
+  instagram: 
+  linkedin: 
+  mastodon: 
+  slack: 
+  twitter: 
+  website: 
+  wikipedia: 
+  youtube: 
 meetups:
 team:
 ---

@@ -1,4 +1,21 @@
 ---
+title: 
 tags:
   - type/organization
+categories: 
+  - 
+parent_organization: 
+social:
+  bluesky: 
+  facebook: 
+  github: 
+  guild: 
+  instagram: 
+  linkedin: 
+  mastodon: 
+  slack: 
+  twitter: 
+  website: 
+  wikipedia: 
+  youtube: 
 ---
