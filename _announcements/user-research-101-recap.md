@@ -22,7 +22,7 @@ With that in mind, in February Civic Tech Toronto piloted its first ever work
 
 We had a terrific response to the announcement of the workshop, thirty-five participants took part and another 70 showed their interest by joining the waiting list.Attendees included people from not-for-profit, government and education, among a wide variety of other sectors. The introductory workshop was a pilot to gauge community interest in learning about user-centred design, and we heard loud and clear – there is definitely interest and enthusiasm towards the subject.
 
-![“Human user design can be seen as a bridge between planning and creating. The tools provided in the workshop enable a clearer dialogue between collaborators establishing a level playing field of understanding and ensuring that the user perspective is not forgotten. Increases likelihood of project success.” -- Workshop Participant](/assets/images/announcements/user-research-101-recap/quote1.png)
+![“Human user design can be seen as a bridge between planning and creating. The tools provided in the workshop enable a clearer dialogue between collaborators establishing a level playing field of understanding and ensuring that the user perspective is not forgotten. Increases likelihood of project success.” -- Workshop Participant](/assets/images/announcements/user-research-101-recap/quote1.jpg)
 
 Structured in two parts, the first half of the workshop offered an introduction to HCD as well as its benefits. The second half of the workshop featured interactive activities that gave attendees an opportunity to work through a mock scenario of user interviews, including how to derive insights that could help in designing more user-centric solutions.
 
@@ -30,8 +30,8 @@ Participant feedback to the workshop was terrific with many indicating that they
 
 ![Three people go through activity 1. The interviewing users.](/assets/images/announcements/user-research-101-recap/Interview-activity-in-groups.jpg)
 
-![quote2 - Participant liked the opportunity to experience the user interview session](/assets/images/announcements/user-research-101-recap/quote2.png)
+![quote2 - Participant liked the opportunity to experience the user interview session](/assets/images/announcements/user-research-101-recap/quote2.jpg)
 
 ![UR101 Group review of observations from interview sessions](/assets/images/announcements/user-research-101-recap/Group-reviews-observations.jpg)
 
-![“The event has been incredibly well organized and thought-through, and I feel I learned a lot from it.”](/assets/images/announcements/user-research-101-recap/quote3.png)
+![“The event has been incredibly well organized and thought-through, and I feel I learned a lot from it.”](/assets/images/announcements/user-research-101-recap/quote3.jpg)
