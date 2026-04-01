@@ -15,7 +15,9 @@ image: https://civic-spark.com/assets/images/social_card.jpg
 organization:
   - "[[CivicTechTO]]"
 team:
+  - "[[Alexander Chen]]"
   - "[[Ben Coleman]]"
+  - "[[Brian Cheung]]"
   - "[[Gabe Sawhney]]"
   - "[[Ilya Kreynin]]"
   - "[[Jordan Armstrong]]"
