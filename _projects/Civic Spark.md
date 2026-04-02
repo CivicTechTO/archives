@@ -23,6 +23,7 @@ team:
   - "[[Jordan Armstrong]]"
   - "[[Khasir Hean]]"
   - "[[Luke Andrews]]"
+  - "[[Sam McGarva]]"
   - "[[Sonal Ranjit]]"
 ---
 
