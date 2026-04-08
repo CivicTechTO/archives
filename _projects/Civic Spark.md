@@ -20,6 +20,7 @@ team:
   - "[[Brian Cheung]]"
   - "[[Gabe Sawhney]]"
   - "[[Ilya Kreynin]]"
+  - "[[Jeff Maher]]"
   - "[[Jordan Armstrong]]"
   - "[[Khasir Hean]]"
   - "[[Luke Andrews]]"
