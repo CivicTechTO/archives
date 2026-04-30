@@ -15,6 +15,7 @@ social:
   linkedin: 
   mastodon: 
   slack: 
+  tiktok: 
   twitter: 
   website: 
   wikipedia: 
