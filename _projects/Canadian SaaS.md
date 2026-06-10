@@ -1,7 +1,7 @@
 ---
 title: Canadian SaaS
 excerpt: Discover software built right here in Canada
-dateActiveFirst:
+dateActiveFirst: 2026-02-12
 tags:
   - type/project
 categories:
@@ -9,11 +9,11 @@ categories:
   - contributors/open
 social:
   website: https://canadian-software.github.io/web/#/
-  slack:
+  slack: https://civictechto.slack.com/archives/C0AG774KL9W
   github: https://github.com/canadian-software/web
 meetups:
 team:
-date: 2026-02-12
+date: 2026-06-10
 ---
 
 Canadian SaaS is an open-source project that enables Canadians to discover Canadian software while also increasing transparency around how data is stored, processed, and tracked.
