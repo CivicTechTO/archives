@@ -4,6 +4,7 @@ excerpt: Helping people understand the Landlord and Tenant Board.
 dateActiveFirst: 2026-06-01
 tags:
   - type/project
+  - type/breakout-project
 categories:
   - status/active
   - contributors/open

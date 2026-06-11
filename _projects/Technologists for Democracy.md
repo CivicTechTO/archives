@@ -6,6 +6,7 @@ tags:
   - topic/public-empowerment
   - topic/public-transparency
   - topic/volunteerism
+  - type/breakout-project
 title: Technologists for Democracy
 excerpt: Keeping tech in check.
 social:
