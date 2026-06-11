@@ -5,6 +5,7 @@ dateActiveFirst: 2026-06-01
 tags:
   - type/project
   - type/breakout-project
+  - topic/housing
 categories:
   - status/active
   - contributors/open
