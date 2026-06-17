@@ -2,7 +2,7 @@
 title: Book Club
 excerpt: Civic Tech Toronto reading and discussing books together.
 dateActiveFirst: 2019-12-03
-date: 2025-12-16
+date: 2026-06-17
 tags:
   - type/project
   - type/breakout-project
@@ -15,6 +15,7 @@ social:
 
 Book Club has read:
 
+- 2026 April: *Invention and Innovation* by Vaclav Smil
 - 2026 January: *Competing Against Luck* by Clayton Christensen
 - 2025 October: *Values: Building a Better World for All* by Mark Carney
 - 2025 August: *The Master Plan* by Michael Healey
@@ -30,4 +31,4 @@ Book Club has read:
 - 2020 February: *The Sustainable City* by Steven Cohen
 - 2019 December: *Smart Enough City* by Ben Green
 
-Join in on slack!
+Join in on slack at #bookclub!
