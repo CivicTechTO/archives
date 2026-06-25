@@ -1,6 +1,6 @@
 ---
 title: Police Tech Audit
-excerpt: Technology Audits of Law Enforcement Agencies such as the Toronto Police Services.
+summary: Technology Audits of Law Enforcement Agencies such as the Toronto Police Services.
 tags:
   - type/project
   - topic/public-transparency

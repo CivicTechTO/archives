@@ -1,6 +1,6 @@
 ---
 title: Toronto Tech Mentoring
-excerpt: Aims to help homeless and at-risk youth escape the cycle of poverty by helping them to use tech skills.
+summary: Aims to help homeless and at-risk youth escape the cycle of poverty by helping them to use tech skills.
 tags:
   - type/project
   - topic/homelessness

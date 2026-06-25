@@ -1,6 +1,6 @@
 ---
 title: Civic Dashboard
-excerpt: Figuring out how to make city council's activity accessible!
+summary: Figuring out how to make city council's activity accessible!
 social:
   website: https://www.civicdashboard.ca
   slack: https://civictechto.slack.com/archives/C06KU3DHEKV

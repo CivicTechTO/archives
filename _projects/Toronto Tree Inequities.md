@@ -1,6 +1,6 @@
 ---
 title: Toronto Tree Inequities
-excerpt: relationship between Toronto neighbourhoods' street tree density, income, and visible minority population, utilizing spatial autoregression methods
+summary: relationship between Toronto neighbourhoods' street tree density, income, and visible minority population, utilizing spatial autoregression methods
 tags:
   - type/project
   - topic/environment

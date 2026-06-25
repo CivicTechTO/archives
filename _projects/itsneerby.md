@@ -1,6 +1,6 @@
 ---
 title: itsneerby
-excerpt: Discover things you didn’t know about the city’s past with a photo web map.
+summary: Discover things you didn’t know about the city’s past with a photo web map.
 tags:
   - type/project
   - topic/arts-and-culture

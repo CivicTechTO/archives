@@ -1,6 +1,6 @@
 ---
 title: COVID Connect
-excerpt: a lightweight process to match design and technology volunteers to existing COVID-19 initiatives and mutual aid projects that need digital support
+summary: a lightweight process to match design and technology volunteers to existing COVID-19 initiatives and mutual aid projects that need digital support
 tags:
   - type/project
   - topic/mutual-aid

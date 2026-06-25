@@ -1,6 +1,6 @@
 ---
 title: Example Project Title
-excerpt: A short one-line summary that appears near the project title.
+summary: A short one-line summary that appears near the project title.
 description: |
   A full paragraph or two describing what the project is, who it's for, and what impact it aims to have. Include things like: "we’re looking for help with..."
 project_pitch: |

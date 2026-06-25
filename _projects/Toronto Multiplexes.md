@@ -1,6 +1,6 @@
 ---
 title: Toronto Multiplexes
-excerpt: TBD
+summary: TBD
 tags:
   - type/project
   - topic/housing

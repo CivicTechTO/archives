@@ -1,6 +1,6 @@
 ---
 title: Tracking Gentle Density in Toronto
-excerpt: Visualizing 10 years (2012 to 2022) of Secondary Suite and Laneway / Garden Suite building permits in Toronto
+summary: Visualizing 10 years (2012 to 2022) of Secondary Suite and Laneway / Garden Suite building permits in Toronto
 tags:
   - type/project
   - topic/housing

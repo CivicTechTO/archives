@@ -1,6 +1,6 @@
 ---
 title: Vaccine Hunters Canada
-excerpt: An independent, non-partisan, volunteer-run organization dedicated to helping connect eligible Canadians with COVID-19 vaccine appointments and getting more shots in arms.
+summary: An independent, non-partisan, volunteer-run organization dedicated to helping connect eligible Canadians with COVID-19 vaccine appointments and getting more shots in arms.
 categories:
   - status/inactive
 meetups:

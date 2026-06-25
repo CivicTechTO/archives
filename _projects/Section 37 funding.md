@@ -1,6 +1,6 @@
 ---
 title: Section 37 funding
-excerpt: For discussion of a potential project related to Section 37 funding.
+summary: For discussion of a potential project related to Section 37 funding.
 tags:
   - type/project
   - topic/budgets

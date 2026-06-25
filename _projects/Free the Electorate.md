@@ -1,6 +1,6 @@
 ---
 title: Free the Electorate
-excerpt: Make elections results more accessible outside of media cycles.
+summary: Make elections results more accessible outside of media cycles.
 tags:
   - type/project
   - topic/open-government

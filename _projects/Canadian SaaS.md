@@ -1,6 +1,6 @@
 ---
 title: Canadian SaaS
-excerpt: Discover software built right here in Canada
+summary: Discover software built right here in Canada
 dateActiveFirst: 2026-02-12
 tags:
   - type/project

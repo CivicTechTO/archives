@@ -1,6 +1,6 @@
 ---
 title: tRacket - Noise Meter Project
-excerpt: We’re making it easy and affordable to collect data about noise
+summary: We’re making it easy and affordable to collect data about noise
 social:
   website: https://tracket.info
   slack: https://civictechto.slack.com/archives/C05LHL4L8MD

@@ -1,6 +1,6 @@
 ---
 title: tobus.ca
-excerpt: A extremely fast and simple website, parsing TTC's ETA data.
+summary: A extremely fast and simple website, parsing TTC's ETA data.
 tags:
   - type/project
   - topic/transportation

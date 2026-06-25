@@ -1,6 +1,6 @@
 ---
 title: TTC Subway times
-excerpt: A scraper to grab and publish TTC subway arrival times.
+summary: A scraper to grab and publish TTC subway arrival times.
 tags:
   - type/project
   - topic/transit

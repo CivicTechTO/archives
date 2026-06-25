@@ -1,6 +1,6 @@
 ---
 title: TaxGPT
-excerpt: TaxGPT generates answers based on publicly information from the Canada Revenue Agency website.
+summary: TaxGPT generates answers based on publicly information from the Canada Revenue Agency website.
 tags:
   - type/project
   - topic/tax

@@ -1,6 +1,6 @@
 ---
 title: Place and Politics in Toronto
-excerpt: Mapping the 2022 Toronto Election
+summary: Mapping the 2022 Toronto Election
 tags:
   - type/project
   - topic/elections

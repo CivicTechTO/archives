@@ -1,6 +1,6 @@
 ---
 title: Weather Report Card
-excerpt: grading calculations based on how well the previous forecasts were
+summary: grading calculations based on how well the previous forecasts were
 tags:
   - type/project
   - topic/open-data

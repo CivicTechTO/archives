@@ -1,6 +1,6 @@
 ---
 title: Library Passport
-excerpt: Explore libraries, check in, and track your journey with your kids.
+summary: Explore libraries, check in, and track your journey with your kids.
 tags:
   - type/project
   - topic/library

@@ -1,6 +1,6 @@
 ---
 title: LTB Project
-excerpt: Helping people understand the Landlord and Tenant Board.
+summary: Helping people understand the Landlord and Tenant Board.
 dateActiveFirst: 2026-06-01
 tags:
   - type/project

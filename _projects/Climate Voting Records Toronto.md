@@ -1,6 +1,6 @@
 ---
 title: Climate Voting Records Toronto
-excerpt: To track and show how climate-related items are being voted on within Toronto City Council.
+summary: To track and show how climate-related items are being voted on within Toronto City Council.
 tags:
   - type/project
   - topic/climate

@@ -1,6 +1,6 @@
 ---
 title: Toronto Meshnet
-excerpt: We help communities create better networks with open source and peer-to-peer technologies that promote digital literacy and privacy.
+summary: We help communities create better networks with open source and peer-to-peer technologies that promote digital literacy and privacy.
 tags:
   - type/project
   - topic/internet-access

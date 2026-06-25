@@ -1,6 +1,6 @@
 ---
 title: Chalmers Cards
-excerpt: Chalmers Cards are wooden information booklets that are designed to be given out at Toronto's emergency shelters and to folks sleeping on the streets of Toronto. They explain how to access social services!
+summary: Chalmers Cards are wooden information booklets that are designed to be given out at Toronto's emergency shelters and to folks sleeping on the streets of Toronto. They explain how to access social services!
 tags:
   - type/project
   - topic/housing

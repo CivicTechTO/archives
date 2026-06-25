@@ -1,6 +1,6 @@
 ---
 title: Adroit - Toronto City Hall app
-excerpt: A mobile app for providing input on upcoming votes in city hall. An interface to the Toronto City Hall API.
+summary: A mobile app for providing input on upcoming votes in city hall. An interface to the Toronto City Hall API.
 tags:
   - type/project
   - topic/open-government

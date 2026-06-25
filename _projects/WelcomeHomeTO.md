@@ -1,6 +1,6 @@
 ---
 title: WelcomeHomeTO
-excerpt: Collecting all the amazing resources Torontonians have been providing our refugee community. Covering Peel, Toronto and York regions.
+summary: Collecting all the amazing resources Torontonians have been providing our refugee community. Covering Peel, Toronto and York regions.
 tags:
   - type/project
   - topic/immigration-and-citizenship

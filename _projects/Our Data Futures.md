@@ -1,6 +1,6 @@
 ---
 title: Our Data Futures
-excerpt: Collaboration to develop a community perspective on "data trusts" and create education materials around the topic of "data trusts".
+summary: Collaboration to develop a community perspective on "data trusts" and create education materials around the topic of "data trusts".
 tags:
   - type/project
   - topic/data

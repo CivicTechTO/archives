@@ -1,6 +1,6 @@
 ---
 title: Guerilla Archiving - Environmental Data Gathering Initiative (EDGI)
-excerpt: Coordinating tech talk about the Guerilla Archiving Event to support Internet Archive's End of Term harvesting project.
+summary: Coordinating tech talk about the Guerilla Archiving Event to support Internet Archive's End of Term harvesting project.
 tags:
   - type/project
   - topic/climate

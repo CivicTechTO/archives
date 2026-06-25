@@ -1,6 +1,6 @@
 ---
 title: Planning Applications
-excerpt: Project to collect City of Toronto planning development applications
+summary: Project to collect City of Toronto planning development applications
 tags:
   - type/project
   - topic/open-government

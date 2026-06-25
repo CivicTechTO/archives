@@ -1,6 +1,6 @@
 ---
 title: Parks and Rec Bot
-excerpt: a bot for Toronto Parks and Rec
+summary: a bot for Toronto Parks and Rec
 tags:
   - type/project
   - topic/public-parks

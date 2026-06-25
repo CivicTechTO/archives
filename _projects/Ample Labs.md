@@ -1,6 +1,6 @@
 ---
 title: Ample Labs
-excerpt: Ample Labs is a social start-up using AI & data to help cities prevent homelessness.
+summary: Ample Labs is a social start-up using AI & data to help cities prevent homelessness.
 tags:
   - type/project
   - topic/homelessness

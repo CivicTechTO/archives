@@ -1,6 +1,6 @@
 ---
 title: TTC Subway Rider Efficiency Guide
-excerpt: PDF, iPhone and Android apps, and other stuff
+summary: PDF, iPhone and Android apps, and other stuff
 tags:
   - type/project
   - topic/transit

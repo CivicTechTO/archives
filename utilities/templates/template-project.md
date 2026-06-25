@@ -1,6 +1,6 @@
 ---
 title:
-excerpt:
+summary:
 dateActiveFirst:
 tags:
   - type/project

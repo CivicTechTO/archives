@@ -1,6 +1,6 @@
 ---
 title: Tabs Toronto
-excerpt: Tabs sends email alerts for new Toronto city council/committee agenda items.
+summary: Tabs sends email alerts for new Toronto city council/committee agenda items.
 tags:
   - type/project
   - topic/open-government

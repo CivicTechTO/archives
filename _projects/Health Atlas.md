@@ -1,6 +1,6 @@
 ---
 title: Health Atlas
-excerpt: Mapping project for Mississauga Halton Health Integration Network
+summary: Mapping project for Mississauga Halton Health Integration Network
 tags:
   - type/project
   - topic/public-health

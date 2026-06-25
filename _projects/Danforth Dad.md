@@ -1,6 +1,6 @@
 ---
 title: Danforth Dad
-excerpt: Toronto playground map and reviews
+summary: Toronto playground map and reviews
 tags:
   - type/project
   - topic/public-parks

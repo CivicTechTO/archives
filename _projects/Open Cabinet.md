@@ -1,6 +1,6 @@
 ---
 title: Open Cabinet
-excerpt: Info on what cabinet is doing in Ottawa can be hard to find and use. We’re trying to make it easy.
+summary: Info on what cabinet is doing in Ottawa can be hard to find and use. We’re trying to make it easy.
 tags:
   - type/project
   - topic/open-government

@@ -1,6 +1,6 @@
 ---
 title: Toronto Lobbying Report
-excerpt: database about lobbyist activities in Toronto
+summary: database about lobbyist activities in Toronto
 tags:
   - type/project
   - topic/lobbying

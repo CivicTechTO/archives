@@ -1,6 +1,6 @@
 ---
 title: Techfugees Toronto
-excerpt: Techfugees Toronto related work stream - specific focus on refugee housing challenges in GTA
+summary: Techfugees Toronto related work stream - specific focus on refugee housing challenges in GTA
 tags:
   - type/project
   - topic/immigration-and-citizenship

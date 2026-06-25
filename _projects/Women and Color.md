@@ -1,6 +1,6 @@
 ---
 title: Women and Color
-excerpt: An online community of talented women and people of color available for speaking opportunities at tech-related events.
+summary: An online community of talented women and people of color available for speaking opportunities at tech-related events.
 tags:
   - type/project
   - topic/employment

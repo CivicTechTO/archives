@@ -1,6 +1,6 @@
 ---
 title: Basecount
-excerpt: Mapping the capacity and current occupancy of City of Toronto emergency shelters
+summary: Mapping the capacity and current occupancy of City of Toronto emergency shelters
 tags:
   - type/project
   - topic/housing

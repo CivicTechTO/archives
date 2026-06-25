@@ -1,6 +1,6 @@
 ---
 title: HousingNowTO
-excerpt: "Monitoring Progress & Activity on Twenty-One (21) sites proposed under the Mayor's #HousingNow plan for creating new Affordable-Rental units"
+summary: "Monitoring Progress & Activity on Twenty-One (21) sites proposed under the Mayor's #HousingNow plan for creating new Affordable-Rental units"
 tags:
   - type/project
   - topic/housing

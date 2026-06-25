@@ -1,6 +1,6 @@
 ---
 title: TheCarded.ca
-excerpt: provide user-friendly resources for youth and people affected by racial profiling.
+summary: provide user-friendly resources for youth and people affected by racial profiling.
 tags:
   - type/project
   - topic/police

@@ -1,6 +1,6 @@
 ---
 title: Civic Hall Toronto
-excerpt: Civic Hall Toronto aims to create a hub for civic innovation in the city.
+summary: Civic Hall Toronto aims to create a hub for civic innovation in the city.
 tags:
   - type/initiative
   - type/project

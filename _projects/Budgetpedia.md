@@ -1,6 +1,6 @@
 ---
 title: Budgetpedia
-excerpt: Making the City of Toronto budget more accessible to promote informed debate; advocate for better budgeting
+summary: Making the City of Toronto budget more accessible to promote informed debate; advocate for better budgeting
 tags:
   - type/project
   - topic/open-government

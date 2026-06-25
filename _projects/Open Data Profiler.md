@@ -1,6 +1,6 @@
 ---
 title: Open Data Profiler
-excerpt: Building a profiler for city of toronto open datasets
+summary: Building a profiler for city of toronto open datasets
 tags:
   - type/project
   - topic/open-government

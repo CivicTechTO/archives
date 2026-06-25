@@ -1,6 +1,6 @@
 ---
 title: Law & Design CoLab
-excerpt: The Law & Design CoLab is a volunteer-led nonprofit based in Toronto. It conceived, scoped, and built digital products by engaging with legal experts and community stakeholders.
+summary: The Law & Design CoLab is a volunteer-led nonprofit based in Toronto. It conceived, scoped, and built digital products by engaging with legal experts and community stakeholders.
 tags:
   - type/project
   - type/breakout-project

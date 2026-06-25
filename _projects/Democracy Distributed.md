@@ -1,6 +1,6 @@
 ---
 title: Democracy Distributed
-excerpt: We’re building an open platform where anyone can document and understand how organizations work — from a small community group to a city government.
+summary: We’re building an open platform where anyone can document and understand how organizations work — from a small community group to a city government.
 tags:
   - type/project
   - topic/democracy

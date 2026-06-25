@@ -1,6 +1,6 @@
 ---
 title: Connect TO
-excerpt: Potential locations for public wi-fi
+summary: Potential locations for public wi-fi
 tags:
   - type/project
   - topic/internet-access

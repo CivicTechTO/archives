@@ -1,6 +1,6 @@
 ---
 title: Missing Persons Project
-excerpt: facilitates the identification of missing persons by comparing physical characteristics and personal information with unidentified remains.
+summary: facilitates the identification of missing persons by comparing physical characteristics and personal information with unidentified remains.
 tags:
   - type/project
   - topic/public-safety

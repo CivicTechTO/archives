@@ -1,6 +1,6 @@
 ---
 title: Open Water Data
-excerpt: "For open water swimmers, paddleboarders, surfers and other beach-goers to check beach conditions. "
+summary: "For open water swimmers, paddleboarders, surfers and other beach-goers to check beach conditions. "
 tags:
   - type/project
   - topic/public-parks

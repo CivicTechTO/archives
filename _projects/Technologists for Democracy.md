@@ -8,7 +8,7 @@ tags:
   - topic/volunteerism
   - type/breakout-project
 title: Technologists for Democracy
-excerpt: Keeping tech in check.
+summary: Keeping tech in check.
 social:
   website: https://techfordemocracy.ca
   slack: https://civictechto.slack.com/archives/C0913G0SHS6
